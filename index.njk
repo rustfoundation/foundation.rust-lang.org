@@ -5,11 +5,24 @@ eleventyNavigation:
   order: 1
 ---
 
-{% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+<section class="container">
+    {% set maxPosts = collections.posts.length | min(3) %}
+    <h1>New on the Blog</h1>
 
-{% set postslist = collections.posts | head(-3) %}
-{% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
+    {% set postslist = collections.posts | head(-3) %}
+    {% set postslistCounter = collections.posts | length %}
+    {% include "postslist.njk" %}
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+    <p>See all posts on <a href="/posts">the blog</a>.</p>
+</section>
+
+<section class="container">
+    {% set maxEvents = collections.events.length | min(3) %}
+    <h1>Upcoming Events</h1>
+
+    {% set eventslist = collections.events | head(-3) %}
+    {% set eventslistCounter = collections.events | length %}
+    {% include "eventslist.njk" %}
+
+    <p>More events can be found in <a href="{{ '/events/' | url }}">the archive</a>.</p>
+</section>

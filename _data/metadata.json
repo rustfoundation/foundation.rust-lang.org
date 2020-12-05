@@ -1,9 +1,9 @@
 {
-  "title": "Your Blog Name",
+  "title": "Rust Foundation",
   "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Official blog of the Rust Foundation",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Official blog of the Rust Foundation",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -13,8 +13,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "The Rust Foundation Project Group",
+    "email": "foundation@rust-lang.org",
     "url": "https://example.com/about-me/"
   }
 }
