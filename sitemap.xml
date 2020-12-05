@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://example.com/posts/firstpost/</loc>
+    <lastmod>2018-05-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/secondpost/</loc>
+    <lastmod>2018-07-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/thirdpost/</loc>
+    <lastmod>2018-08-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/fourthpost/</loc>
+    <lastmod>2018-09-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2020-12-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2020-12-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-12-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/page-list/</loc>
+    <lastmod>2020-12-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2020-12-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/another-tag/</loc>
+    <lastmod>2020-12-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/second-tag/</loc>
+    <lastmod>2020-12-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/number-2/</loc>
+    <lastmod>2020-12-05</lastmod>
+  </url>
+</urlset>
