@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-event
+---
+<section class="container">
+    <h1>{{ title }}</h1>
+
+    {{ content | safe }}
+
+    <hr>
+    <ul>
+        {%- set nextEvent = collections.events | getNextCollectionItem(page) %}
+        {%- if nextEvent %}<li>Next: <a href="{{ nextEvent.url | url }}">{{ nextEvent.data.title }}</a></li>{% endif %}
+        {%- set previousEvent = collections.events | getPreviousCollectionItem(page) %}
+        {%- if previousEvent %}<li>Previous: <a href="{{ previousEvent.url | url }}">{{ previousEvent.data.title }}</a></li>{% endif %}
+    </ul>
+</section>

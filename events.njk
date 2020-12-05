@@ -1,0 +1,13 @@
+---
+layout: layouts/home.njk
+permalink: /events/
+eleventyNavigation:
+  key: Events
+  order: 2
+---
+<section class="container">
+    <h1>Events</h1>
+
+    {% set eventslist = collections.events %}
+    {% include "eventslist.njk" %}
+</section>
