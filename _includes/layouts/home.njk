@@ -1,5 +1,43 @@
----
-layout: layouts/base.njk
-templateClass: tmpl-home
----
-{{ content | safe }}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rust Foundation - {{ title or metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+  </head>
+  <body>
+    <header>
+        <ul class="nav">
+            <li class="nav-item home"><a href="{{ '/' | url }}"><img alt="rust logo" src="/img/rustfoundation-transparent2.svg"/></a></li>
+            {%- for entry in collections.all | eleventyNavigation %}
+                <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
+            {%- endfor %}
+        </ul>
+        <section id="splash">
+            <div class="container">
+                <h1>Rust Foundation</h1>
+                <h2>A new approach to sustaining and growing a large, participatory, open source ecosystem<h2>
+            </div>
+        </section>
+    </header>
+
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+        {{ content | safe }}
+    </main>
+
+    <footer>
+        <div class="container">
+            <img src="/img/rustfoundation-transparent2.svg" alt="rust foundation logo"/>
+            <br/>
+            <p>Maintained by the <a href="https://www.rust-lang.org/governance/teams/core#project-foundation">Rust Foundation Project Group</a>. See a problem? <a href="https://github.com/rust-lang/foundation.rust-lang.org/issues/new">File an issue!</a></p>
+        </div>
+    </footer>
+
+    <!-- Current page: {{ page.url | url }} -->
+  </body>
+</html>
