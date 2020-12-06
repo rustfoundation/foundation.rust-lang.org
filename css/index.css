@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;900&family=Raleway:wght@200;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;900&family=Raleway:wght@200;400&display=swap');
 
 :root {
   --lightgray: #e0e0e0;
   --gray: #C0C0C0;
   --darkgray: #555;
+  --black: #000;
   --orange: #F46623;
   --lightorange: #FFA83D;
   --white: #fff;
@@ -40,9 +41,6 @@ a[href]:hover {
 a[href]:visited {
   color: var(--darkgray);
 }
-main {
-  padding: 1rem;
-}
 main :first-child {
   margin-top: 0;
 }
@@ -63,20 +61,9 @@ h1,h2,h3 {
     font-family: "Lato", sans-serif;
 }
 
-/* grid */
-.row {
-    width: 100%;
-}
-
-.col3 {
-    width: 30%;
-    padding: 1rem;
-    float: left;
-}
-
 .container {
   width: 90%;
-  margin: 0 auto 2rem auto;
+  margin: 2em auto;
 }
 
 /* Header */
@@ -88,50 +75,51 @@ header {
   background: linear-gradient(0deg, rgba(244,102,35,1) 0%, rgba(255,168,61,1) 100%);
   color: var(--white);
   font-family: 'Lato', sans-serif;
-  margin-top: -1rem;
 }
 header a[href]:visited {
   color: var(--lightgrey);
-}
-.home {
-  float: left;
-  padding: 0 1rem;
-  margin: 1rem 0; /* 16px /16 */
-}
-.home :link:not(:hover) {
-  text-decoration: none;
 }
 
 /* Nav */
 .nav {
   font-family: "Raleway", sans-serif;
-  width: 100%;
-  padding: 0;
   list-style: none;
+  display:table-row;
 }
-.nav-item, .member {
-  display: inline-block;
-  margin-top: 1.55rem;
-  margin-right: 1em;
+.nav-item {
+  padding: 1em 1.5em 0 1em;
+  display: table-cell;
+  vertical-align: middle;
 }
-.member {
+.home {
+    padding-right: 2em;
+}
+
+/* Buttons */
+.cta-white {
     background: var(--white);
+    border: var(--orange) 1px solid;
+}
+.cta-white a[href], .cta-white a[href]:visited {
     color: var(--orange);
-    float: right;
-    margin-right: 3em;
+    text-decoration: none;
+}
+.cta-orange {
+    border: var(--white) 1px solid;
+    background: var(--orange);
+}
+.cta-orange a[href], .cta-orange a[href]:visited, .cta-gradient a[href], .cta-gradient a[href]:visited {
+    color: var(--white);
+    text-decoration: none;
+}
+.cta-gradient {
+  background: rgb(244,102,35);
+  background: linear-gradient(0deg, rgba(244,102,35,1) 0%, rgba(255,168,61,1) 100%);
 }
 .button {
     padding: 1em;
     border-radius: 10px;
     display: inline-block;
-}
-.cta {
-  background: rgb(244,102,35);
-  background: linear-gradient(0deg, rgba(244,102,35,1) 0%, rgba(255,168,61,1) 100%);
-}
-
-.cta a[href] {
-  color: var(--white);
 }
 
 .member a[href]:not(:hover),.nav-item a[href]:not(:hover) {
@@ -146,19 +134,30 @@ header a[href]:visited {
 #splash h1 {
     font-size: 5em;
     font-weight: 900;
-    margin-bottom: 0;
+    margin: 0;
 }
-
 #splash h2 {
     font-family: "Raleway", sans-serif;
     font-weight: 300;
     margin-bottom: 3rem;
 }
 
-/* Stats */
-#stats {
-  padding: 2rem;
-  margin: -1rem;
+/* Mission */
+#mission {
+    text-align: center;
+    border-bottom: 1px var(--lightorange) dotted;
+    padding-bottom: 4em;
+}
+#mission h1 {
+    margin: 2em 0 1em 0;
+    font-size: 2em;
+}
+#mission h2 {
+    margin: 1em auto 2em auto;
+    width: 90%;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+    line-height: 2em;
 }
 
 /* Posts list */
@@ -232,4 +231,25 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+
+/* Footer */
+footer {
+    padding: 1em 0;
+    background-color: var(--darkgray);
+    color: var(--white);
+    text-align: center;
+}
+footer p {
+    display: inline;
+}
+footer img {
+    width: 15%;
+    margin-bottom: 1em;
+}
+footer a[href], footer a[href]:visited {
+    color: var(--white);
+}
+footer .container {
+    margin-bottom: 0;
 }

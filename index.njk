@@ -4,8 +4,14 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+<section class="container" id="mission">
+    <h1>Good software is built by happy, well-supported people</h1>
+    <h2>The Rust Foundation is an independent foundation focused on <a href="https://www.rust-lang.org">the Rust programming language</a> and its ecosystem. We represent a coalition of individuals and organizations that are ready and eager to take responsibility for the privilege of using and participating in open source technology. We support and serve the community of maintainers as they empower a new generation of systems programmers.</h2>
+    <div class="cta-gradient button"><a href="/posts/">Learn more about how we're different</a></div>
+    <div class="cta-white button"><a href="/info/contact">Get in touch</a></div>
+</section>
 
-<section class="container">
+<section class="container" id="posts">
     {% set maxPosts = collections.posts.length | min(3) %}
     <h1>New on the Blog</h1>
 
@@ -13,10 +19,10 @@ eleventyNavigation:
     {% set postslistCounter = collections.posts | length %}
     {% include "postslist.njk" %}
 
-    <p>See all posts on <a href="/posts">the blog</a>.</p>
+     <p>See all posts on <a href="{{ '/posts/' | url }}">the blog</a>.</p>
 </section>
 
-<section class="container">
+<section class="container" id="events">
     {% set maxEvents = collections.events.length | min(3) %}
     <h1>Upcoming Events</h1>
 
