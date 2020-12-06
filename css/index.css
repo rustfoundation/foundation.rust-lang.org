@@ -61,9 +61,14 @@ h1,h2,h3 {
     font-family: "Lato", sans-serif;
 }
 
+h1 {
+    font-size: 2em;
+}
+
 .container {
   width: 90%;
   margin: 2em auto;
+  padding: 1em 0;
 }
 
 /* Header */
@@ -139,7 +144,6 @@ header a[href]:visited {
 #splash h2 {
     font-family: "Raleway", sans-serif;
     font-weight: 300;
-    margin-bottom: 3rem;
 }
 
 /* Mission */
@@ -158,6 +162,19 @@ header a[href]:visited {
     font-family: "Raleway", sans-serif;
     font-weight: 300;
     line-height: 2em;
+}
+
+/* 404 */
+#notfound {
+    text-align: center;
+}
+#notfound img {
+    padding: 2em;
+    width: 40%;
+}
+#notfound p {
+    margin: 1em auto;
+    text-align: left;
 }
 
 /* Posts list */
@@ -235,8 +252,7 @@ a[href].direct-link:focus:visited,
 
 /* Footer */
 footer {
-    padding: 1em 0;
-    background-color: var(--darkgray);
+    background-color: var(--orange);
     color: var(--white);
     text-align: center;
 }

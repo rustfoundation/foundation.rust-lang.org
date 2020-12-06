@@ -18,12 +18,6 @@
                 <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
             {%- endfor %}
         </ul>
-        <section id="splash">
-            <div class="container">
-                <h1>Rust Foundation</h1>
-                <h2>A new approach to sustaining and growing a large, participatory, open source ecosystem<h2>
-            </div>
-        </section>
     </header>
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
