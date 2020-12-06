@@ -22,11 +22,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/info/about/</loc>
-    <lastmod>2020-12-06</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/info/member/</loc>
     <lastmod>2020-12-06</lastmod>
   </url>

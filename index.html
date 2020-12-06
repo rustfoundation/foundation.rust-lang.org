@@ -12,15 +12,12 @@
   </head>
   <body>
     <header>
-            <div class="home"><div><a href="/"><img alt="rust logo" src="/img/rustfoundation-transparent.svg"/></a></div></div>
-
-            <ul class="nav">
-                    <li class="nav-item nav-item-active"><a href="/">Home</a></li>
-                    <li class="nav-item"><a href="/events/">Events</a></li>
-                    <li class="nav-item"><a href="/info/about/">About</a></li>
-                    <li class="nav-item"><a href="/posts/">Blog</a></li>
-                <li class="member button"><a href="/info/member">Become a member</a></li>
-            </ul>
+        <ul class="nav">
+            <li class="nav-item home"><a href="/"><img alt="rust logo" src="/img/rustfoundation-transparent2.svg"/></a></li>
+                <li class="nav-item nav-item-active"><a href="/">Home</a></li>
+                <li class="nav-item"><a href="/events/">Events</a></li>
+                <li class="nav-item"><a href="/posts/">Blog</a></li>
+        </ul>
         <section id="splash">
             <div class="container">
                 <h1>Rust Foundation</h1>
@@ -30,8 +27,14 @@
     </header>
 
     <main class="tmpl-home">
-        
-<section class="container">
+        <section class="container" id="mission">
+    <h1>Good software is built by happy, well-supported people</h1>
+    <h2>The Rust Foundation is an independent foundation focused on <a href="https://www.rust-lang.org">the Rust programming language</a> and its ecosystem. We represent a coalition of individuals and organizations that are ready and eager to take responsibility for the privilege of using and participating in open source technology. We support and serve the community of maintainers as they empower a new generation of systems programmers.</h2>
+    <div class="cta-gradient button"><a href="/posts/">Learn more about how we're different</a></div>
+    <div class="cta-white button"><a href="/info/contact">Get in touch</a></div>
+</section>
+
+<section class="container" id="posts">
     
     <h1>New on the Blog</h1>
 
@@ -56,10 +59,10 @@
 </ol>
 
 
-    <p>See all posts on <a href="/posts">the blog</a>.</p>
+     <p>See all posts on <a href="/posts/">the blog</a>.</p>
 </section>
 
-<section class="container">
+<section class="container" id="events">
     
     <h1>Upcoming Events</h1>
 
@@ -84,7 +87,13 @@
 
     </main>
 
-    <footer></footer>
+    <footer>
+        <div class="container">
+            <img src="/img/rustfoundation-transparent2.svg" alt="rust foundation logo"/>
+            <br/>
+            <p>Maintained by the <a href="https://www.rust-lang.org/governance/teams/core#project-foundation">Rust Foundation Project Group</a>. See a problem? <a href="https://github.com/rust-lang/foundation.rust-lang.org/issues/new">File an issue!</a></p>
+        </div>
+    </footer>
 
     <!-- Current page: / -->
   </body>
