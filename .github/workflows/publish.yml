@@ -28,7 +28,7 @@ jobs:
 
       - run: npm ci
       - run: npm run build
-      - run: echo foundation.rust-lang.org > _site/CNAME
+      # - run: echo foundation.rust-lang.org > _site/CNAME
 
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
