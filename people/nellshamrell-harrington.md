@@ -1,6 +1,6 @@
 ---
 name: Nell Shamrell-Harrington
 title: Member Director, Microsoft
-ferris: nell.jpg
+ferris: nell.png
 headshot: nell.jpg
 ---

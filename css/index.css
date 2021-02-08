@@ -100,6 +100,9 @@ header a[href]:visited {
 .home {
     padding-right: 2em;
 }
+.nav-item a {
+  color: white;
+}
 
 /* Buttons */
 .cta-white {
@@ -136,7 +139,6 @@ header a[href]:visited {
   text-decoration: underline;
 }
 
-/* Splash */
 #splash h1 {
     font-size: 5em;
     font-weight: 900;
@@ -149,7 +151,12 @@ header a[href]:visited {
 
 /* Mission */
 #mission {
+    width: 80%;
     text-align: center;
+    border-bottom: 1px var(--lightorange) dotted;
+    padding-bottom: 4em;
+}
+#events {
     border-bottom: 1px var(--lightorange) dotted;
     padding-bottom: 4em;
 }
@@ -272,8 +279,24 @@ footer .container {
 }
 
 /* Board */
-.peoplelist {
+.peoplelist, .memberslist {
   list-style-type: none;
+}
+
+.peoplelist li:hover .ferris {
+  display: inline-block;
+}
+
+.peoplelist .ferris {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  background: white;
+  background-size: cover;
+  background-position: center;
+  height: 15em;
+  width: 15em;
 }
 
 .person {
@@ -303,12 +326,24 @@ footer .container {
   position: relative;
   background-size: cover;
   background-position: center;
-  border: 1px dotted var(--gray);
   padding: 1em;
   height: 15em;
   width: 15em;
   display: inline-block;
   margin: 0.5em;
+}
+
+.memberslist {
+  text-align: center;
+}
+
+.memberslist li {
+  padding: 2em;
+  display: inline-block;
+}
+
+.memberslist-small li img {
+  width: 7em;
 }
 
 /* Post */
@@ -320,16 +355,29 @@ footer .container {
   }
 }
 
-.post h1 {
+.post h1, .event h1, .posts h1, .events h1, .board h1, .contact h1, .members h1 {
   font-size: 5em;
   font-weight: 900;
   margin: 1em 0; 
 }
 
-.post h2 {
+.post h2, .event h2 {
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
   margin: 1em 0; 
+}
+
+.post-tags, .event-tags {
+  margin-top: 5em;
+  font-size: 1em;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+}
+
+h2.date {
+  font-size: 1em;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
 }
 
 .content p {

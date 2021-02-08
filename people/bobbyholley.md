@@ -1,6 +1,6 @@
 ---
 name: Bobby Holley
 title: Member Director, Mozilla
-ferris: bobby.jpeg
+ferris: bobby.png
 headshot: bobby.jpg
 ---

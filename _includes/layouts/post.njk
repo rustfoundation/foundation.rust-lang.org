@@ -4,11 +4,21 @@ templateClass: tmpl-post
 ---
 <section class="container post">
   <h1>{{ title }}</h1>
-  <h2>{{ date }} | by {{ byline }}</h2>
+  <h2>by {{ byline }}</h2>
 
   <div class="content">
     {{ content | safe }}
   </div>
+  <div class="post-tags">
+    Tagged: 
+    {% for tag in tags %}
+      {%- if collections.tagList.indexOf(tag) != -1 -%}
+      {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+      <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+      {%- endif -%}
+    {% endfor %}
+  </div>
+  <h2 class="date">{{ date }}</h2>
 
   <hr>
   <ul>

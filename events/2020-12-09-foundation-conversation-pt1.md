@@ -1,6 +1,6 @@
 ---
-title: Foundation Conversation: Live AMA, pt 1
-description: You've got questions. We have answers. Maybe.
+title: "Foundation Conversation - Live AMA, pt 1"
+description: Members of the Rust Core team will be discussing the upcoming Rust Foundation and questions we've been fielding from the community during the Foundation Conversation Q&A sessions.
 date: 2020-12-09
 tags:
   - video
