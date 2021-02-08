@@ -90,18 +90,28 @@ header a[href]:visited {
 .nav {
   font-family: "Raleway", sans-serif;
   list-style: none;
-  display:table-row;
+  display: flex;
+  padding-left: 0;
+  align-items: center;
+  justify-content: start;
+  flex-wrap: wrap;
+  margin-top: 0;
 }
 .nav-item {
   padding: 1em 1.5em 0 1em;
-  display: table-cell;
-  vertical-align: middle;
+  display: block;
 }
 .home {
     padding-right: 2em;
 }
 .nav-item a {
   color: white;
+}
+
+/* Main */
+
+main {
+  min-height: 75vh;
 }
 
 /* Buttons */
