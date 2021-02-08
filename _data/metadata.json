@@ -1,20 +1,20 @@
 {
   "title": "Rust Foundation",
-  "url": "https://example.com/",
-  "description": "Official blog of the Rust Foundation",
+  "url": "https://foundation.rust-lang.org",
+  "description": "Official website of the Rust Foundation",
   "feed": {
-    "subtitle": "Official blog of the Rust Foundation",
+    "subtitle": "Official website of the Rust Foundation",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://foundation.rust-lang.org/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://foundation.rust-lang.org/feed/feed.json"
   },
   "author": {
-    "name": "The Rust Foundation Project Group",
+    "name": "The Rust Foundation",
     "email": "foundation@rust-lang.org",
-    "url": "https://example.com/about-me/"
+    "url": "https://foundation.rust-lang.org"
   }
 }
