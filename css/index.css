@@ -159,6 +159,12 @@ main {
     font-weight: 300;
 }
 
+@media screen and (max-width: 640px) {
+  #splash h1 {
+    font-size: calc(9vw + 8px);
+  }
+}
+
 /* Mission */
 #mission {
     width: 80%;
