@@ -2,67 +2,182 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.com/posts/firstpost/</loc>
-    <lastmod>2018-05-01</lastmod>
+    <loc>https://example.com/events/2020-12-09-foundation-conversation-pt1/</loc>
+    <lastmod>2020-12-09</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/secondpost/</loc>
-    <lastmod>2018-07-04</lastmod>
+    <loc>https://example.com/events/2020-12-12-foundation-conversation-pt2/</loc>
+    <lastmod>2020-12-12</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/events/firstevent/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <loc>https://example.com/posts/2021-02-08-hello-world/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/board/</loc>
+    <lastmod>2021-02-08</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/events/</loc>
-    <lastmod>2021-02-03</lastmod>
+    <lastmod>2021-02-08</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2021-02-03</lastmod>
+    <lastmod>2021-02-08</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/info/contact/</loc>
-    <lastmod>2021-02-03</lastmod>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/members/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/members/aws/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/members/google/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/members/huawei/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/members/microsoft/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/members/mozilla/</loc>
+    <lastmod>2021-02-08</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/page-list/</loc>
-    <lastmod>2021-02-03</lastmod>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/people/ashleywilliams/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/people/bobbyholley/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/people/floriangilcher/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/people/janelusby/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/people/joshstone/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/people/larsbergstrom/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/people/markrousskov/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/people/nellshamrell-harrington/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/people/peixinhou/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/people/shanemiller/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/people/tylermandry/</loc>
+    <lastmod>2021-02-08</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/posts/</loc>
-    <lastmod>2021-02-03</lastmod>
+    <lastmod>2021-02-08</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2021-02-03</lastmod>
+    <lastmod>2021-02-08</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/Video/</loc>
-    <lastmod>2021-02-03</lastmod>
+    <loc>https://example.com/tags/members/</loc>
+    <lastmod>2021-02-08</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/Live/</loc>
-    <lastmod>2021-02-03</lastmod>
+    <loc>https://example.com/tags/people/</loc>
+    <lastmod>2021-02-08</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/another-tag/</loc>
-    <lastmod>2021-02-03</lastmod>
+    <loc>https://example.com/tags/video/</loc>
+    <lastmod>2021-02-08</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/number-2/</loc>
-    <lastmod>2021-02-03</lastmod>
+    <loc>https://example.com/tags/live/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/core%20team/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/board%20meeting/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/announcement/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/philosophy/</loc>
+    <lastmod>2021-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/events/2021-02-09-board-meeting/</loc>
+    <lastmod>2021-02-09</lastmod>
   </url>
 </urlset>
