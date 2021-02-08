@@ -80,6 +80,7 @@ header {
   background: linear-gradient(0deg, rgba(244,102,35,1) 0%, rgba(255,168,61,1) 100%);
   color: var(--white);
   font-family: 'Lato', sans-serif;
+  padding-bottom: 0.75em;
 }
 header a[href]:visited {
   color: var(--lightgrey);
@@ -268,4 +269,69 @@ footer a[href], footer a[href]:visited {
 }
 footer .container {
     margin-bottom: 0;
+}
+
+/* Board */
+.peoplelist {
+  list-style-type: none;
+}
+
+.person {
+  display:table-cell;
+  position: absolute;
+  bottom: 0.5em;
+  left: 0.5em;
+}
+
+.person h2 {
+  padding: 0.25em;
+  background: rgba(255,255,255,0.9);
+  margin: 0;
+  font-size: 1em;
+}
+
+.person h3 {
+  padding: 0.25em;
+  background: white;
+  font-size: 0.75em;
+  color: var(--orange);
+  margin: 0;
+}
+
+.peoplelist li {
+  background: var(--lightgray);
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  border: 1px dotted var(--gray);
+  padding: 1em;
+  height: 15em;
+  width: 15em;
+  display: inline-block;
+  margin: 0.5em;
+}
+
+/* Post */
+
+@media only screen and (min-width: 768px) {
+  .post {
+    width: 60%;
+    margin: 0 auto;
+  }
+}
+
+.post h1 {
+  font-size: 5em;
+  font-weight: 900;
+  margin: 1em 0; 
+}
+
+.post h2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  margin: 1em 0; 
+}
+
+.content p {
+  line-height: 1.75em;
 }

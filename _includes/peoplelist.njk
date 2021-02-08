@@ -1,0 +1,10 @@
+<ul class="peoplelist">
+{% for person in peoplelist  %}
+  <li {% if person.data.headshot %}style="background-image: url('/img/headshot/{{ person.data.headshot }}'" {% endif %}>
+    <div class="person">
+    	<h2>{{ person.data.name }}</h2>
+    	<h3>{{ person.data.title }}</h3>
+    </div>
+  </li>
+{% endfor %}
+</ul>
