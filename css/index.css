@@ -80,6 +80,7 @@ header {
   background: linear-gradient(0deg, rgba(244,102,35,1) 0%, rgba(255,168,61,1) 100%);
   color: var(--white);
   font-family: 'Lato', sans-serif;
+  padding-bottom: 0.75em;
 }
 header a[href]:visited {
   color: var(--lightgrey);
@@ -98,6 +99,9 @@ header a[href]:visited {
 }
 .home {
     padding-right: 2em;
+}
+.nav-item a {
+  color: white;
 }
 
 /* Buttons */
@@ -135,7 +139,6 @@ header a[href]:visited {
   text-decoration: underline;
 }
 
-/* Splash */
 #splash h1 {
     font-size: 5em;
     font-weight: 900;
@@ -148,7 +151,12 @@ header a[href]:visited {
 
 /* Mission */
 #mission {
+    width: 80%;
     text-align: center;
+    border-bottom: 1px var(--lightorange) dotted;
+    padding-bottom: 4em;
+}
+#events {
     border-bottom: 1px var(--lightorange) dotted;
     padding-bottom: 4em;
 }
@@ -268,4 +276,110 @@ footer a[href], footer a[href]:visited {
 }
 footer .container {
     margin-bottom: 0;
+}
+
+/* Board */
+.peoplelist, .memberslist {
+  list-style-type: none;
+}
+
+.peoplelist li:hover .ferris {
+  display: inline-block;
+}
+
+.peoplelist .ferris {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  background: white;
+  background-size: cover;
+  background-position: center;
+  height: 15em;
+  width: 15em;
+}
+
+.person {
+  display:table-cell;
+  position: absolute;
+  bottom: 0.5em;
+  left: 0.5em;
+}
+
+.person h2 {
+  padding: 0.25em;
+  background: rgba(255,255,255,0.9);
+  margin: 0;
+  font-size: 1em;
+}
+
+.person h3 {
+  padding: 0.25em;
+  background: white;
+  font-size: 0.75em;
+  color: var(--orange);
+  margin: 0;
+}
+
+.peoplelist li {
+  background: var(--lightgray);
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  padding: 1em;
+  height: 15em;
+  width: 15em;
+  display: inline-block;
+  margin: 0.5em;
+}
+
+.memberslist {
+  text-align: center;
+}
+
+.memberslist li {
+  padding: 2em;
+  display: inline-block;
+}
+
+.memberslist-small li img {
+  width: 7em;
+}
+
+/* Post */
+
+@media only screen and (min-width: 768px) {
+  .post {
+    width: 60%;
+    margin: 0 auto;
+  }
+}
+
+.post h1, .event h1, .posts h1, .events h1, .board h1, .contact h1, .members h1 {
+  font-size: 5em;
+  font-weight: 900;
+  margin: 1em 0; 
+}
+
+.post h2, .event h2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  margin: 1em 0; 
+}
+
+.post-tags, .event-tags {
+  margin-top: 5em;
+  font-size: 1em;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+}
+
+h2.date {
+  font-size: 1em;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+}
+
+.content p {
+  line-height: 1.75em;
 }

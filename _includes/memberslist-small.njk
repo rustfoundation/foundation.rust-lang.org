@@ -1,0 +1,11 @@
+<ul class="memberslist memberslist-small">
+{% for member in memberslist  %}
+  <li>
+    <div class="member">
+      {% if member.data.logo %}
+        <img src="/img/member/{{ member.data.logo }}" alt="{{member.data.name}}"/>
+      {% endif %}
+    </div>
+  </li>
+{% endfor %}
+</ul>

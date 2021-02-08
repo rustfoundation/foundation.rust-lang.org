@@ -6,8 +6,8 @@ eleventyNavigation:
 ---
 <section class="container" id="mission">
     <h1>Good software is built by happy, well-supported people</h1>
-    <h2>The Rust Foundation is an independent foundation focused on <a href="https://www.rust-lang.org">the Rust programming language</a> and its ecosystem. We represent a coalition of individuals and organizations that are ready and eager to take responsibility for the privilege of using and participating in open source technology. We support and serve the community of maintainers as they empower a new generation of systems programmers.</h2>
-    <div class="cta-gradient button"><a href="/posts/">Learn more about how we're different</a></div>
+    <h2>The Rust Foundation is an independent non-profit organization to steward the <a href="https://www.rust-lang.org">Rust programming language</a> and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.</h2>
+    <div class="cta-gradient button"><a href="/posts/2021-02-08-hello-world/">Learn more about how we're different</a></div>
     <div class="cta-white button"><a href="/info/contact">Get in touch</a></div>
 </section>
 
@@ -24,11 +24,16 @@ eleventyNavigation:
 
 <section class="container" id="events">
     {% set maxEvents = collections.events.length | min(3) %}
-    <h1>Upcoming Events</h1>
+    <h1>Events</h1>
 
     {% set eventslist = collections.events | head(-3) %}
     {% set eventslistCounter = collections.events | length %}
     {% include "eventslist.njk" %}
 
     <p>More events can be found in <a href="{{ '/events/' | url }}">the archive</a>.</p>
+</section>
+
+<section class="container" id="members">
+    {% set memberslist = collections.members %}
+    {% include "memberslist-small.njk" %}
 </section>

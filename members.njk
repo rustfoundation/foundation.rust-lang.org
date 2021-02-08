@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+permalink: /members/
+eleventyNavigation:
+  key: Members
+  order: 2
+---
+<section class="container members">
+    <h1>Members</h1>
+    {% set memberslist = collections.members %}
+    {% include "memberslist.njk" %}
+</section>
