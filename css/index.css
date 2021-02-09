@@ -107,6 +107,9 @@ header a[href]:visited {
 .nav-item a {
   color: white;
 }
+.nav-item a:hover {
+  color: var(--white)
+}
 
 /* Main */
 
