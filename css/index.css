@@ -152,7 +152,8 @@ main {
 #splash h1 {
     font-size: 5em;
     font-weight: 900;
-    margin: 0;
+    margin: 0 -5% 0 0;
+    overflow-x: hidden;
 }
 #splash h2 {
     font-family: "Raleway", sans-serif;
@@ -180,6 +181,12 @@ main {
     font-family: "Raleway", sans-serif;
     font-weight: 300;
     line-height: 2em;
+}
+#mission .flex {
+  display: flex;
+}
+#mission .flex > *:not(:first-child) {
+  margin-left: 1em;
 }
 
 /* 404 */
@@ -278,6 +285,7 @@ footer p {
     display: inline;
 }
 footer img {
+    min-width: 160px;
     width: 15%;
     margin-bottom: 1em;
 }
@@ -344,6 +352,7 @@ footer .container {
 }
 
 .memberslist {
+  padding: 0;
   text-align: center;
 }
 
@@ -368,13 +377,13 @@ footer .container {
 .post h1, .event h1, .posts h1, .events h1, .board h1, .contact h1, .members h1 {
   font-size: 5em;
   font-weight: 900;
-  margin: 1em 0; 
+  margin: 1em 0;
 }
 
 .post h2, .event h2 {
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
-  margin: 1em 0; 
+  margin: 1em 0;
 }
 
 .post-tags, .event-tags {
