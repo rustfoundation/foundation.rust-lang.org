@@ -23,7 +23,7 @@ body {
 p:last-child {
   margin-bottom: 0;
 }
-p,
+p, .content ul,
 .tmpl-post li,
 img {
   max-width: 37.5em; /* 600px /16 */
@@ -393,6 +393,6 @@ h2.date {
   font-weight: 500;
 }
 
-.content p {
+.content p, .content ul {
   line-height: 1.75em;
 }
