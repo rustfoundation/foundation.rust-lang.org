@@ -7,9 +7,9 @@ templateClass: tmpl-post
   <h1>{{ title }}</h1>
   <h2>by {{ byline }}</h2>
 
-  <div class="content">
+  <article>
     {{ content | safe }}
-  </div>
+  </article>
   <div class="post-tags">
     Tagged: 
     {% for tag in tags %}

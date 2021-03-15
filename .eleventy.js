@@ -2,12 +2,14 @@ const { DateTime } = require("luxon");
 const fs = require("fs");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginNavigation = require("@11ty/eleventy-navigation");
+const pluginTOC = require("eleventy-plugin-nesting-toc");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginNavigation);
+  eleventyConfig.addPlugin(pluginTOC);
 
   eleventyConfig.setDataDeepMerge(true);
 
@@ -47,10 +49,11 @@ module.exports = function(eleventyConfig) {
             // this list should match the `filter` list in tags.njk
             case "all":
             case "nav":
-            case "post":
+            case "people":
             case "posts":
+            case "members":
+            case "policies":
             case "events":
-            case "event":
               return false;
           }
 
