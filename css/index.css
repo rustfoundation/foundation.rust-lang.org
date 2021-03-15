@@ -23,7 +23,7 @@ body {
 p:last-child {
   margin-bottom: 0;
 }
-p, .content ul,
+p, article ul, article ol,
 .tmpl-post li,
 img {
   max-width: 37.5em; /* 600px /16 */
@@ -71,6 +71,22 @@ h1 {
   padding: 1em 0;
 }
 
+.policy aside {
+  width: 33%;
+  float: right;
+}
+
+aside ol {
+  list-style: disc;
+}
+
+.policy article {
+  width: 60%;
+}
+
+table {
+  border: 1px black solid;
+}
 /* Header */
 header img {
     width: 10em;
@@ -368,7 +384,7 @@ footer .container {
   }
 }
 
-.post h1, .event h1, .posts h1, .events h1, .board h1, .contact h1, .members h1 {
+.policy h1, .post h1, .event h1, .posts h1, .events h1, .board h1, .contact h1, .members h1 {
   font-size: 5em;
   font-weight: 900;
   margin: 1em 0; 
@@ -393,6 +409,14 @@ h2.date {
   font-weight: 500;
 }
 
-.content p, .content ul {
+article p, article ul, article ol {
   line-height: 1.75em;
+}
+
+p.list-item {
+    margin-left: 2em;
+}
+
+span.list-item {
+    margin-left: -2em;
 }
