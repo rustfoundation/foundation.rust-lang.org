@@ -1,0 +1,13 @@
+<footer>
+    <div class="container">
+      <img src="/img/rf-logo-transparent.png" alt="rust foundation logo"/>
+      <div>
+      {% for policy in collections.policies %}
+        <a href="/policies/{{ policy.data.title | replace(" ", "-") }}">{{ policy.data.title }}</a>
+        {% if collections.policies.indexOf(policy) < collections.policies.length - 1 %}
+         |
+        {% endif %}
+      {% endfor %}
+      </div>
+    </div>
+</footer>
