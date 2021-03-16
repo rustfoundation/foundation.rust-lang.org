@@ -300,7 +300,7 @@ footer img {
     width: 15%;
     margin-bottom: 1em;
 }
-footer a[href], footer a[href]:visited {
+footer a[href], footer a[href]:visited, footer a[href]:visited {
     color: var(--white);
 }
 footer .container {
