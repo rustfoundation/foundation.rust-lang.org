@@ -399,6 +399,6 @@ h2.date {
   font-weight: 500;
 }
 
-.content p {
+.content p, .content li {
   line-height: 1.75em;
 }
