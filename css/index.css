@@ -380,6 +380,12 @@ footer .container {
   margin: 1em 0; 
 }
 
+.post h2.series {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  margin-bottom: -3em;
+}
+
 .post-tags, .event-tags {
   margin-top: 5em;
   font-size: 1em;
@@ -393,6 +399,6 @@ h2.date {
   font-weight: 500;
 }
 
-.content p {
+.content p, .content li {
   line-height: 1.75em;
 }

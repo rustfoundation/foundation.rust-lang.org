@@ -5,12 +5,99 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2021-02-08T00:00:00Z</updated>
+	<updated>2021-03-18T00:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>foundation@rust-lang.org</email>
 	</author>
+	
+	<entry>
+		<title>Introducing Tyler Mandry</title>
+		<link href="https://foundation.rust-lang.org/posts/2021-03-18-introducing-tyler-mandry/"/>
+		<updated>2021-03-18T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/posts/2021-03-18-introducing-tyler-mandry/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;Over the next five weeks, we&#39;ll be running a series called &amp;quot;Getting to know the board&amp;quot;, publishing blog posts from each member of the Rust Foundation &lt;a href=&quot;https://foundation.rust-lang.org/board&quot;&gt;Board of Directors&lt;/a&gt;, introducing them to the community. You can view the posts in this series &lt;a href=&quot;https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hello, Rust community! My name is &lt;a href=&quot;https://tmandry.gitlab.io/blog/&quot;&gt;Tyler Mandry&lt;/a&gt;, and I’m excited to serve as&lt;br /&gt;
+the project director for quality on the board of the Rust Foundation.&lt;/p&gt;
+&lt;p&gt;My journey with Rust started about five years ago. I was what you might call&lt;br /&gt;
+a reluctant enthusiast. I love learning new ways of doing things, but I’m&lt;br /&gt;
+also somewhat skeptical of “new tech hype.” At the time, I worked in&lt;br /&gt;
+high-performance computing. Eventually I realized a huge portion of our time&lt;br /&gt;
+was spent chasing down bugs, like segfaults and data races, that were&lt;br /&gt;
+difficult to reproduce and could never have existed in a language like&lt;br /&gt;
+Rust.[1]&lt;/p&gt;
+&lt;p&gt;Feeling the pain on a daily basis that Rust promised to prevent was what&lt;br /&gt;
+finally got me interested. But what got me hooked – and inspired me to&lt;br /&gt;
+contribute – was the thoughtfulness and openness of the project itself. The&lt;br /&gt;
+technical decisions were all made in the open, and it was plain that everyone&lt;br /&gt;
+cared deeply about making Rust the best it could be. No one knew me in the&lt;br /&gt;
+Rust community, but I was able to join a working group and contribute changes&lt;br /&gt;
+right away.&lt;/p&gt;
+&lt;p&gt;In 2019 I joined Google to work on the Fuchsia operating system, supporting&lt;br /&gt;
+Rust development, and I began leading the Rust on Fuchsia team in early 2020.&lt;br /&gt;
+I’ve contributed a number of things in my time here like async/await compiler&lt;br /&gt;
+optimizations, mentored work like source-based code coverage, and lead the&lt;br /&gt;
+async foundations working group.&lt;/p&gt;
+&lt;p&gt;What else should you know about me? Well, when I’m not in front of a computer&lt;br /&gt;
+I’m often on my bike, most likely listening to a podcast. I just began&lt;br /&gt;
+learning to play piano – ask me how that’s going in six months.[2]&lt;/p&gt;
+&lt;h2 id=&quot;the-road-ahead&quot;&gt;The road ahead &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/posts/2021-03-18-introducing-tyler-mandry/#the-road-ahead&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Looking around, it’s becoming clear that Rust will play a big role in&lt;br /&gt;
+how we write software over the next 5-10 years – or more. Reliability,&lt;br /&gt;
+efficiency, and productivity is a combination that will be in demand for a&lt;br /&gt;
+long time to come. I’m extremely excited to see more and more developers&lt;br /&gt;
+learning Rust every day.&lt;/p&gt;
+&lt;p&gt;I see the establishment of a Rust foundation as a major step forward in the&lt;br /&gt;
+maturity of the project, not unlike what releasing Rust 1.0 meant for the&lt;br /&gt;
+language itself. Starting a foundation makes the project more sustainable&lt;br /&gt;
+&lt;em&gt;and&lt;/em&gt; unlocks a lot of new possibilities. I think the next two years will&lt;br /&gt;
+involve “unlearning” all the things we thought we couldn’t do, but now can&lt;br /&gt;
+thanks to dedicated funding.&lt;/p&gt;
+&lt;p&gt;So, what can the foundation do to improve quality? I have specific ideas, but&lt;br /&gt;
+I think it’s most important that the project first has an &lt;em&gt;accurate,&lt;br /&gt;
+comprehensive, detailed, and up-to-date&lt;/em&gt; view of how it’s doing. So this year,&lt;br /&gt;
+I’d like to begin by helping Rust contributors &lt;em&gt;fix blind spots&lt;/em&gt; like where&lt;br /&gt;
+there are gaps in documentation and compiler errors, with the ability to&lt;br /&gt;
+measure changes over time. Another thing we don’t monitor is how compiled&lt;br /&gt;
+code actually performs; the compiler team &lt;a href=&quot;https://internals.rust-lang.org/t/help-needed-corpus-for-measuring-runtime-performance-of-generated-code/6794&quot;&gt;has wanted this&lt;/a&gt; for a long&lt;br /&gt;
+time, and the Foundation could help make it happen. Finally, it’d be nice to&lt;br /&gt;
+have more visibility into changes in dependencies, like LLVM and system&lt;br /&gt;
+runtime libraries, and how that could affect our pace of development.&lt;/p&gt;
+&lt;p&gt;This is certainly ambitious, and I don’t expect it all to happen overnight.&lt;br /&gt;
+But I think the project will benefit greatly from making more informed&lt;br /&gt;
+decisions, and I hope this will allow Rust to continue the impressive&lt;br /&gt;
+trajectory it’s had so far.&lt;/p&gt;
+&lt;p&gt;It’s been a joy to work on Rust, and I get the sense that we’re all just&lt;br /&gt;
+getting started. I’m looking forward to what the Rust project, including the&lt;br /&gt;
+foundation, will do in 2021 and beyond. I hope you are too.&lt;/p&gt;
+&lt;p&gt;[1]: That’s not to say that the language we were using at the time &lt;em&gt;caused&lt;/em&gt;&lt;br /&gt;
+the problems, just that it failed to prevent them!&lt;br /&gt;
+[2]: And in a year, but that seems too distant to motivate me today. This is&lt;br /&gt;
+the biggest accountability stunt I’ve pulled by far.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Introducing Bobby Holley</title>
+		<link href="https://foundation.rust-lang.org/posts/2021-03-18-introducing-bobby-holley/"/>
+		<updated>2021-03-18T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/posts/2021-03-18-introducing-bobby-holley/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;Over the next five weeks, we&#39;ll be running a series called &amp;quot;Getting to know the board&amp;quot;, publishing blog posts from each member of the Rust Foundation &lt;a href=&quot;https://foundation.rust-lang.org/board&quot;&gt;Board of Directors&lt;/a&gt;, introducing them to the community. You can view the posts in this series &lt;a href=&quot;https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hi! I&#39;m &lt;a href=&quot;https://bholley.net/about/&quot;&gt;Bobby Holley&lt;/a&gt;. I&#39;ve been a Mozillian since 2008, and currently work in the office of the &lt;a href=&quot;https://www.mozilla.org/en-US/about/leadership/#eric-rescorla&quot;&gt;Firefox CTO&lt;/a&gt; on technical strategy and coordination. Last month I joined the Rust Foundation’s inaugural &lt;a href=&quot;https://foundation.rust-lang.org/board/&quot;&gt;Board of Directors&lt;/a&gt;, and today I thought I’d share a bit about why I’m here, what I like about Rust, and why I’m excited for its future.&lt;/p&gt;
+&lt;p&gt;Since the &lt;a href=&quot;http://venge.net/graydon/talks/intro-talk-2.pdf&quot;&gt;announcement&lt;/a&gt; of Rust in 2010, I&#39;ve had the privilege of watching it grow from a skunkworks side-project into the force of nature it is today. I wasn&#39;t involved much during the early years, but in 2015 I began working with the Servo team to figure out how to bring Rust’s unique capabilities to Firefox. We focused on the CSS engine because it was both performance-critical and extremely complex: in principle we wanted to parallelize it, but in practice couldn’t see a realistic path with C++ concurrency. Rust’s &lt;a href=&quot;https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html&quot;&gt;mutability control&lt;/a&gt; and package ecosystem were &lt;a href=&quot;https://www.youtube.com/watch?t=220&amp;amp;v=UN_iIExdB9Q&quot;&gt;exactly what we needed&lt;/a&gt;, and allowed us to ship &lt;a href=&quot;https://bholley.net/blog/2017/stylo.html&quot;&gt;Stylo&lt;/a&gt; with better performance, fewer bugs, and in less time than anyone thought possible. Since then I’ve worked on several other Rust-based initiatives in Firefox such as &lt;a href=&quot;https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/&quot;&gt;WebRender&lt;/a&gt; and &lt;a href=&quot;https://github.com/mozilla/neqo/&quot;&gt;Neqo&lt;/a&gt;, all of which have continued to deepen my appreciation for both the language and the community around it.&lt;/p&gt;
+&lt;p&gt;In the early (pre-1.0) days, I had the mistaken impression that Rust was just for building browsers at Mozilla. So when I first joined #rust on IRC, I was surprised to find it teeming with smart and friendly people — often with no other connection to Mozilla — working together to use the language and move it forward. It’s clear to me now that this broad coalition was crucial. &lt;a href=&quot;http://venge.net/graydon/talks/intro-talk-2.pdf#page=6&quot;&gt;From the start&lt;/a&gt;, Rust did not aim to distinguish itself with novel technical ideas, but rather sought to bring together a number of well-understood concepts from the research community into something coherent, learnable, and broadly useful. This is hard work that takes a village, particularly the feedback loop around feature design, wide experimentation, and iteration.&lt;/p&gt;
+&lt;p&gt;In some sense, the most important insight behind Rust’s success was not about technology but rather about people. Early on the Rust team &lt;a href=&quot;https://www.reddit.com/r/rust/comments/6ewjt5/question_about_rusts_odd_code_of_conduct/didrult/&quot;&gt;made it a priority&lt;/a&gt; to build a healthy and welcoming community around the project. This attracted talented contributors, helped them collaborate productively, and made it fun to stick around. This resulted in excellent software, which in turn attracted even more talent. This approach seems simple and obvious in retrospect, which is a reaction I frequently have to things that Rust gets right.&lt;/p&gt;
+&lt;p&gt;Mozilla incubated Rust to build a better Firefox and contribute to a better Internet, but today it&#39;s clear that Rust has outgrown its roots. In its new home with the Rust Foundation, Rust will have the room to grow into its own success, while continuing to amplify some of the core values that Mozilla shares with the Rust community:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Safety&lt;/strong&gt; in a connected world requires securing the browser, but also securing other client software along with the servers that handle people&#39;s data. Rust’s memory safety properties eliminate entire classes of exploits, and bringing those guarantees to more programs can protect people from harm.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Empowering&lt;/strong&gt; people to create things themselves involves building tools that are safe, performant, and approachable. Web technologies like HTML and JavaScript have dramatically lowered the barrier to publishing information and interactive experiences, but some disciplines — like high-performance or embedded development — have traditionally required experts-only languages like C. Rust’s type checking, tooling, and documentation offer a much more accessible path for these use-cases, allowing more people to build more things.&lt;/li&gt;
+&lt;li&gt;Foundational technologies should be developed in a truly &lt;strong&gt;open&lt;/strong&gt;, &lt;strong&gt;collaborative&lt;/strong&gt;, and &lt;strong&gt;inclusive&lt;/strong&gt; way. Since its inception, the Rust project has set a very high standard for constructive dialog and positive collaboration, and serves as a model for how to build a healthy community around open-source technology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mozilla and the Rust project are well-aligned on these values today, and you can expect us to champion them in our engagement with the Rust Foundation going forward.&lt;/p&gt;
+&lt;p&gt;Rust exists because of the efforts of countless people working together to make software better, and the Foundation exists to empower and support those people to do their best work. This is an important chapter in Rust&#39;s history, and I&#39;m excited to be a part of it.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Hello World!</title>
