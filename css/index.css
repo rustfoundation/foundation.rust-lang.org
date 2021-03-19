@@ -368,6 +368,18 @@ footer .container {
   }
 }
 
+@media only screen and (max-width: 768px) {
+  /* prevent horizontal overflow of headings on mobile */
+  .post h2 {
+    font-size: 1.2em !important;
+  }
+
+  .post h1, .event h1, .posts h1, .events h1, .board h1, .contact h1, .members h1 {
+    font-size: 2em !important;
+    margin-top: 3em !important;
+  }
+}
+
 .post h1, .event h1, .posts h1, .events h1, .board h1, .contact h1, .members h1 {
   font-size: 5em;
   font-weight: 900;
