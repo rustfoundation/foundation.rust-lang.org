@@ -5,12 +5,29 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2021-03-18T00:00:00Z</updated>
+	<updated>2021-03-25T00:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>foundation@rust-lang.org</email>
 	</author>
+	
+	<entry>
+		<title>Introducing Nell Shamrell-Harrington</title>
+		<link href="https://foundation.rust-lang.org/posts/2021-03-25-introducing-nell-shamrell-harrington/"/>
+		<updated>2021-03-25T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/posts/2021-03-25-introducing-nell-shamrell-harrington/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;Over the next five weeks, we&#39;ll be running a series called &amp;quot;Getting to know the board&amp;quot;, publishing blog posts from each member of the Rust Foundation &lt;a href=&quot;https://foundation.rust-lang.org/board&quot;&gt;Board of Directors&lt;/a&gt;, introducing them to the community. You can view the posts in this series &lt;a href=&quot;https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Greetings fellow Rustaceans!&lt;/p&gt;
+&lt;p&gt;It is an honor to serve you as lead editor of &lt;a href=&quot;https://this-week-in-rust.org/&quot;&gt;This Week in Rust&lt;/a&gt;, as a member of the &lt;a href=&quot;https://github.com/rust-lang/wg-async-foundations&quot;&gt;Async Foundations working group&lt;/a&gt;, and now as a &lt;a href=&quot;https://foundation.rust-lang.org/board/&quot;&gt;Rust Foundation board member&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I found success with Rust, and was able to lift others to their own success, through the global Rustacean community and, especially, the actions of Rust’s maintainers. We are a group of people where empathy and personal maturity are as important as (if not more important than) technical excellence. We are a shining example of how an open source community can achieve great advancements - advancements with the potential to affect an entire industry - and still treat each other with dignity, respect, and support. We are not successful in spite of our higher standard of conduct, we are successful because of it.&lt;/p&gt;
+&lt;p&gt;Many of you knew me as a member of the Rust team at Mozilla. After the August 2020 layoffs, I had the opportunity to join Microsoft as a Principal Software Engineer in the Open Source Programs Office. While it’s no secret Microsoft was at odds with open source in the past, I can assure you from my own personal experience that a true transformation has taken place. Microsoft understands that open source software is critical for its success as a business and for the success of our customers. Moreover, Microsoft also understands that, in order for the projects we depend on to be successful, we must behave as exemplary open source citizens, and engage meaningfully with the open source community. This includes donating money as a sponsor of the Rust Foundation. It also includes dedicating engineering effort to the Rust project to make it not only work better for Microsoft but also for all Rustaceans across the world. Microsoft is excited about the opportunities to engage with and give back to the community, and expects to be working closely with Rust’s maintainers on the compiler, core tooling, documentation, and more.&lt;/p&gt;
+&lt;p&gt;Prior to joining the Rust Foundation, my primary non-profit experience was as a board director of &lt;a href=&quot;https://operationcode.org/&quot;&gt;Operation Code&lt;/a&gt;. Operation Code is an organization dedicated to teaching software engineering skills to the military community and their families. Through my experience there, I learned that the highest duty of any board member is always to those we serve. Sponsors and donors certainly are vital to a foundation’s success, but addressing their needs must never come at the expense of the community that is the reason for our existence.&lt;/p&gt;
+&lt;p&gt;Part of my role as Microsoft’s representative on the Rust Foundation board is to represent the interests of Microsoft to the Rust community, but it is even more important for me to represent and advocate for the interests of the Rust’s maintainers and community to Microsoft. Understanding and balancing these needs and finding common ground will not always be easy, but it is something we Rustaceans do every day through our RFC process. There is so much opportunity for us to learn from each other, to build with each other, to design solutions we never would have considered previously.&lt;/p&gt;
+&lt;p&gt;My success as a board member will be measured by the success of Rust’s maintainers and the entire Rustacean community. And I need your help. One of the best ways to help me is to continue commenting on &lt;a href=&quot;https://github.com/rust-lang/rfcs&quot;&gt;RFCs&lt;/a&gt;. This helps me understand your needs and how I can best support them both as a board member and as a fellow Rustacean. Additionally, since most Rust meetups are still online, I will be attending as many of them as I can over the next few months. Please don’t hesitate to approach me and introduce yourself!&lt;/p&gt;
+&lt;p&gt;I cannot wait to see what we build together.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Introducing Tyler Mandry</title>
