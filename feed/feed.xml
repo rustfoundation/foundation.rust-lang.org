@@ -30,6 +30,19 @@
 	</entry>
 	
 	<entry>
+		<title>Introducing Mark Rousskov</title>
+		<link href="https://foundation.rust-lang.org/posts/2021-03-25-introducing-mark-rousskov/"/>
+		<updated>2021-03-25T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/posts/2021-03-25-introducing-mark-rousskov/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;Over the next five weeks, we&#39;ll be running a series called &amp;quot;Getting to know the board&amp;quot;, publishing blog posts from each member of the Rust Foundation &lt;a href=&quot;https://foundation.rust-lang.org/board&quot;&gt;Board of Directors&lt;/a&gt;, introducing them to the community. You can view the posts in this series &lt;a href=&quot;https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hey, I’m Mark Rousskov (often going by simulacrum online), and I’m excited to serve as one of the project directors representing the Core team! I’ve been around in the Rust project since 2016, and currently lead the release team, and am a member of the core, infrastructure, and compiler contributors teams.&lt;/p&gt;
+&lt;p&gt;What excites me about Rust is our strong commitment to solving problems through working together, both with people already around us today, but also always looking to include more people to learn from their experiences. I believe this emphasis on connections is the core reason for Rust&#39;s success.&lt;/p&gt;
+&lt;p&gt;One example where this collaboration with other communities has had a memorable experience for me was during work on enabling fine-grained parallelism in the Rust compiler. The way that rustc and cargo manage parallelism today is via the &lt;a href=&quot;http://make.mad-scientist.net/papers/jobserver-implementation/&quot;&gt;make jobserver&lt;/a&gt; protocol. The current stable compiler isn&#39;t parallelized beyond the tail end - code generation - and increasing opportunities for parallelism stressed the jobserver. This led to a performance problem, where all readers on a pipe (used within the jobserver as a semaphore) were being woken when a single byte is written in. This led to a thundering herd of threads attempting to read from the pipe (all but one of which would fail). Normally, the next step would likely be to start trying to identify whether this was a known bug and working to report or fix it. However, we happened to have someone already active in the Linux kernel community - Josh Triplett - around helping us benchmark the results, and he informed us that this bug was already being fixed upstream. He also helped us understand the delay before most of our users could expect to see the change in the kernel on their systems. Growing and establishing these connections enhances everyone’s experience, and I look forward to finding opportunities to foster this growth.&lt;/p&gt;
+&lt;p&gt;One of the reasons I&#39;m so excited for the Foundation is it will help us define Rust&#39;s values and goals not just around software or programming language design, but around what I believe to be a more fundamental exploration: developing a model for sustainable, effective open collaboration on a global scale, bridging numerous communities. We already go far beyond ‘just’ a programming language in the project’s scope; I’m excited to see where our exploration goes, and what we can achieve together.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Introducing Tyler Mandry</title>
 		<link href="https://foundation.rust-lang.org/posts/2021-03-18-introducing-tyler-mandry/"/>
 		<updated>2021-03-18T00:00:00Z</updated>
