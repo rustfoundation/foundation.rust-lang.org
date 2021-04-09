@@ -24,6 +24,6 @@ Interactions like the one between Manish and I are the kind of collaboration I w
 
 PS: When I'm not writing Rust, I spend most of my time relaxing with my beautiful partner and our three cats. As a hobby I like to experiment with making espresso, though ironically I only ever make decaf for myself because caffeine makes me ill.
 
-![A seemingly Rust branded espresso machine that is infact a Rocket Appartamento](/img/posts/2021-04-08-introducing-peixin-hou/espresso_machine.jpg)
+![A seemingly Rust branded espresso machine that is infact a Rocket Appartamento](/img/posts/2021-04-15-introducing-jane-lusby/espresso_machine.jpg)
 
 [1]: https://www.youtube.com/watch?v=HI8Gzg11LBo
