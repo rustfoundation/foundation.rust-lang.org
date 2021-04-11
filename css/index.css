@@ -303,6 +303,9 @@ footer img {
 footer a[href], footer a[href]:visited, footer a[href]:visited {
     color: var(--white);
 }
+footer a[href]:hover {
+    color: var(--darkgray);
+}
 footer .container {
     margin-bottom: 0;
 }
