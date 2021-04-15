@@ -5,12 +5,29 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2021-04-08T00:00:00Z</updated>
+	<updated>2021-04-15T00:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>foundation@rust-lang.org</email>
 	</author>
+	
+	<entry>
+		<title>Introducing Jane Lusby</title>
+		<link href="https://foundation.rust-lang.org/posts/2021-04-15-introducing-jane-lusby/"/>
+		<updated>2021-04-15T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/posts/2021-04-15-introducing-jane-lusby/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;Over the next five weeks, we&#39;ll be running a series called &amp;quot;Getting to know the board&amp;quot;, publishing blog posts from each member of the Rust Foundation &lt;a href=&quot;https://foundation.rust-lang.org/board&quot;&gt;Board of Directors&lt;/a&gt;, introducing them to the community. You can view the posts in this series &lt;a href=&quot;https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hi everyone! My name is Jane Lusby aka &lt;code&gt;@yaahc&lt;/code&gt;. My pronouns are she/her. You might know me as the maintainer of &lt;a href=&quot;https://rustbeginners.github.io/awesome-rust-mentors/&quot;&gt;awesome-rust-mentors&lt;/a&gt; or as the lead of the error handling project group. Today I&#39;m excited to announce that I&#39;m going to be the new project director of collaboration on the board of The Rust Foundation.&lt;/p&gt;
+&lt;p&gt;Now, some background, the collaboration project director is one of the three area project directors, the other two being Reliability and Quality. The Rust project is emphasising collaboration because we believe that software engineering is primarily a social process rather than a technical one making establishing and nurturing relationships essential.&lt;/p&gt;
+&lt;p&gt;Now, my personal involvement in Rust started back in early 2018 as part of a maker night project at my last job. We decided to make a physical button to launch our &amp;quot;cannon test suite&amp;quot; and picked Rust as the language to build it with. I quickly grew enamoured and started using Rust every chance I got, though initially it mostly ended up being used to rewrite bash scripts but with better error handling.&lt;/p&gt;
+&lt;p&gt;Meanwhile, I further supplemented my learning by looking for random open source projects I could contribute to in order to learn Rust from experts. I started with clippy and rustfmt, which I found with the help of &lt;a href=&quot;https://this-week-in-rust.org/&quot;&gt;this-week-in-rust&lt;/a&gt;&#39;s CFP section, doing what small contributions I could. I also started going to meetups, which is where I met Manish when he randomly walked up to me, said hi, thanked me for my clippy contributions, and offered to mentor me if I want to contribute more &lt;sup&gt;[&lt;a href=&quot;https://www.youtube.com/watch?v=HI8Gzg11LBo&quot;&gt;1&lt;/a&gt;]&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;This to me is the moment where I felt like I&#39;d truly joined the rust community. Through Manish&#39;s mentorship I met my first Rust friends. Manish encouraged me to do my &lt;a href=&quot;https://www.youtube.com/watch?v=HI8Gzg11LBo&quot;&gt;first talk at COGoldRust&lt;/a&gt; and to blog more as a way to practice technical speaking. Thanks to the further contributions Manish encouraged, I ended up joining the clippy team, and later wg-traits as well. I probably wouldn&#39;t be where I am today without Manish&#39;s support and encouragement.&lt;/p&gt;
+&lt;p&gt;Interactions like the one between Manish and I are the kind of collaboration I want to encourage and help grow through the Rust Foundation. I also want to tackle problems that affect active contributors, such as burnout, unconscious bias, and effective moderation tools, to name a few. I don’t have solutions to these problems yet, but I’ll be working together with the team at the foundation and the rest of the Rust community to address them. So please, if you have any feedback, ideas, or problems related to collaboration that you think I should know, &lt;a href=&quot;https://twitter.com/yaahc_/&quot;&gt;please reach out&lt;/a&gt; to me and let me know. Rust has already done a great job building up a healthy community. My hope is to take what I&#39;ve learned through my involvement and from other members in the community and to apply that going forward to make the Rust Foundation as powerful and positive a tool for the rest of the community as it can be.&lt;/p&gt;
+&lt;p&gt;PS: When I&#39;m not writing Rust, I spend most of my time relaxing with my beautiful partner and our three cats. As a hobby I like to experiment with making espresso, though ironically I only ever make decaf for myself because caffeine makes me ill.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://foundation.rust-lang.org/img/posts/2021-04-15-introducing-jane-lusby/espresso_machine.jpg&quot; alt=&quot;A seemingly Rust branded espresso machine that is infact a Rocket Appartamento&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Introducing Peixin Hou</title>
