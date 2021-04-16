@@ -1,0 +1,143 @@
+---
+title: Privacy Policy
+layout: layouts/policy.njk
+---
+
+Version 1.2, dated 2021-04-16
+
+The Rust Foundation maintains several services related to the Rust Project, including the [rust-lang.org](https://www.rust-lang.org/), [crates.io](https://crates.io), and [docs.rs](https://docs.rs) (the “Services”). This privacy notice explains what we do with personal information.
+
+
+## **rust-lang.org**
+
+[rust-lang.org](https://www.rust-lang.org/) is managed by members of the [Core team](https://www.rust-lang.org/governance/teams/core) and the [Community team](https://www.rust-lang.org/governance/teams/community).
+
+### Visitor logs:
+
+When you visit rust-lang.org, we receive your IP address as part of our standard server logs. We store these logs for 1 year.
+
+
+## **crates.io**
+
+[Crates.io](https://crates.io) is managed by members of the[ Core team](https://www.rust-lang.org/governance/teams/crates-io) and the [Crates.io team](https://www.rust-lang.org/governance/teams/crates-io).
+
+### Logging in with GitHub:
+
+Crates.io requires users to have a [GitHub account](https://github.com) in order to log in and use the service. When you log in to Crates.io using a GitHub account, we receive your GitHub username and avatar. If you share a display name or public email address in your GitHub public profile, we also receive that information.
+
+### Email addresses:
+
+You must have a verified email address to publish a crate. We receive any public email address associated with your GitHub account. You can also choose to submit a different address to associate with your Crates.io activity. We will only use your email address to contact you about your account.
+
+### Visitor logs:
+
+When you visit Crates.io, we receive your IP address and user-agent header as part of our standard server logs. We store these logs for 1 year.
+
+### Information uploaded to crates:
+
+All crates on Crates.io are public, including the list of crate owners’ user names and the crate upload date. Anyone may view or download a crate’s contents. Because of the public nature of Crates.io, any personal data you might include in a Cargo.toml file uploaded to a crate will be publicly available. For example, if an email address is in the `authors` field in the Cargo.toml file, that email address will also be public.
+
+Due to its public nature, be aware if you include any private information in a crate, that information may be indexed by search engines or used by third parties. Sensitive information should not be included in a crate file.
+
+### Publication of site-related data:
+
+Crates.io uses the Google Visualization API to create graphs for each crate showing downloads over the last 90 days. Those graphs can be seen at the bottom of each crate’s page.
+
+### Error monitoring:
+
+Crates.io uses Sentry, an error monitoring service, to help the Rust team discover and fix the performance of the code. When there is an error, Sentry receives basic information about how you interacted with the website and the actions that led to the error. Additionally, your IP address may be disclosed to Sentry as part of the error reporting process but we’ve configured Sentry to delete it as soon as it’s received. Read [Sentry’s Privacy Policy here](https://sentry.io/privacy/).
+
+
+## **docs.rs**
+
+[Docs.rs](https://docs.rs) is managed by the members of the [Core team](https://www.rust-lang.org/governance/teams/dev-tools#docs-rs) and the [Dev Tools docs.rs sub-team](https://www.rust-lang.org/governance/teams/dev-tools).
+
+### Visitor logs:
+
+When you visit docs.rs, we receive your IP address and user-agent header as part of our standard server logs. We store these logs for 1 year.
+
+
+## **Forums**
+
+[The Community team](https://www.rust-lang.org/governance/teams/community) administers the [Users Forum](https://users.rust-lang.org) and the [Internals Forum](https://internals.rust-lang.org). Posts on these forums are public. If you sign up to participate in these forums, we collect your email address and name. As administrators of the forum, we have access to usage information regarding your interactions with it, such as posts published and read, and time spent on the site.
+
+
+## **Source of Data**
+
+The Services were originally hosted by Mozilla Corporation. The Services and all corresponding data (including personal data of users) were transferred to the Rust Foundation upon its formation.
+
+
+## **Third-party Services**
+
+We use Heroku and AWS to host the Services, on servers located in the US. AWS’s privacy notice is [here](https://aws.amazon.com/privacy/). Heroku is part of Salesforce, whose privacy policy is [here](https://www.salesforce.com/company/privacy/).
+
+The Users Forum and Internals Forum on rust-lang.org are hosted by [Discourse](https://www.discourse.org/) and use its open source discussion platform. Discourse’s privacy policy is available [here](https://www.discourse.org/privacy).
+
+We use Mailgun to send email. Mailgun’s privacy policy is available [here](https://www.mailgun.com/privacy-policy).
+
+GitHub login is used for authentication in Crates.io and (optionally) in the forums. GitHub’s Privacy Statement can be found [here](https://help.github.com/en/articles/github-privacy-statement).
+
+Some Rust team members use the Zulip and Discord platforms for community collaboration. Zulip’s privacy notice is available [here](https://zulipchat.com/privacy/). Discord’s privacy notice is available [here](https://discordapp.com/privacy).
+
+
+## **Legal Basis for Processing**
+
+For personal data under the Rust Foundation’s control, we rely on the following legal bases to obtain and process personal information:
+
+
+
+*   Where users have given us valid consent to use their data in certain ways, we rely on that consent.
+*   Where users provide information in order to access our services, we rely on contractual necessity to process that information as necessary to perform those services.
+*   In certain cases we may process information where this is necessary to meet legal obligations, such as compliance with law enforcement subpoenas or warrants.
+*   In limited cases, for example to ensure the security of our services and the reliability of our data, we may process your information to further our legitimate interests, so long as any such legitimate interests are not overridden by your rights or interests.
+
+
+## **Cookies**
+
+Like many websites, the Services may use cookies to obtain certain types of information when your web browser accesses our site. Cookies are used most commonly to do things like tracking page views, identifying repeat users and utilizing login tokens for a session.
+
+The Services use session cookies to anonymously track a user’s session on the Services to deliver a better experience. You can block or delete these cookies through your browser’s settings.
+
+You can set or amend your web browser controls to accept or refuse cookies. If you choose to reject cookies, you may still use our Services though your access to some functionality may be restricted. As the means by which you can refuse cookies through your web browser controls vary from browser-to-browser, you should visit your browser's help menu for more information.
+
+
+## **Data Transfers**
+
+Rust Foundation is based in the United States, processes and stores data in the United States, and makes its services available around the world. The United States, Member States of the European Economic Area, and other countries are governed by different laws. When your data is moved from its home country to another country, the laws and rules that protect your personal information in the country to which your information is transferred may be different from those in the country where you reside. For example, the legal requirements for law enforcement to gain access to personal information may vary between countries. If your personal data is in the United States, it may be accessed by government authorities in accordance with United States law.
+
+Use of the Services is voluntary and users may choose whether or not they wish to use them. Because we offer our services to people in different countries and use technical infrastructure based in the United States, we may need to transfer your personal information across borders in order to deliver our services.
+
+
+## **Information Security**
+
+We maintain administrative, technical, and physical safeguards designed to protect the privacy and security of the information we maintain about you. The connection between your computer and our servers is encrypted using Secure Sockets Layer (SSL) software that encrypts that information. We use a digital certificate and secure pages will be identified by a padlock sign and “https://” in the address bar.
+
+However, no method of transmission or storage is 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) security, integrity, and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed.
+
+
+## **Your Rights**
+
+Upon request, Rust Foundation will provide users with information about whether we hold any of their personal information. In certain cases, subject to relevant legal rights, users have the right to object to the processing of their personal information, to request changes, corrections, or the deletion of their personal information, and to obtain a copy of their personal information in an easily accessible format. In order to do this, users can contact us using the contact information set out at the bottom of this policy. We will respond to every request within a reasonable timeframe and may need to take reasonable steps to confirm identity before proceeding.
+
+You can also withdraw your consent to our processing of your information and the use of our services, and/or delete your user account at any time, by using the contact information below to request that your personal information be deleted. If you are an EU resident and believe that our processing of your personal data is contrary to the EU General Data Protection Regulation, you have the right to lodge a complaint with the appropriate supervisory authority.
+
+If you withdraw your consent to the use or sharing of your personal information for the purposes set out in this policy, we may not be able to provide you with our services. Please note that in certain cases we may continue to process your information after you have withdrawn consent and requested that we delete your information if we have a legal basis/need to do so. 
+
+
+## **Data Retention**
+
+For personal data under its control, Rust Foundation will retain such data only for as long as is necessary for the purposes set out in this policy, or as needed to provide users with our services. 
+
+If a user no longer wishes to use our services then it may request deletion of its data at any time. 
+
+Notwithstanding the above, Rust Foundation will retain and use user information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your information to comply with applicable tax/revenue laws), resolve disputes, and enforce our agreements. We may also retain log files for the purpose of internal analysis, for site safety, security and fraud prevention, to improve site functionality, or where we are legally required to retain them for longer time periods.
+
+
+## **Children’s Privacy**
+
+The Services are not directed to children and we do not knowingly collect personal information from anyone under the age of sixteen. If you are under the age of sixteen, your parent or guardian must provide their consent for you to use the services.
+
+
+## **Contact**
+
+For data subject access requests, or any questions about this privacy notice, please email support at privacy@rust-lang.org.
