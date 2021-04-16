@@ -39,10 +39,6 @@ All crates on Crates.io are public, including the list of crate owners’ user n
 
 Due to its public nature, be aware if you include any private information in a crate, that information may be indexed by search engines or used by third parties. Sensitive information should not be included in a crate file.
 
-### Publication of site-related data:
-
-Crates.io uses the Google Visualization API to create graphs for each crate showing downloads over the last 90 days. Those graphs can be seen at the bottom of each crate’s page.
-
 ### Error monitoring:
 
 Crates.io uses Sentry, an error monitoring service, to help the Rust team discover and fix the performance of the code. When there is an error, Sentry receives basic information about how you interacted with the website and the actions that led to the error. Additionally, your IP address may be disclosed to Sentry as part of the error reporting process but we’ve configured Sentry to delete it as soon as it’s received. Read [Sentry’s Privacy Policy here](https://sentry.io/privacy/).
