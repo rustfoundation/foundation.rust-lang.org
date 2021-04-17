@@ -46,7 +46,7 @@ Crates.io uses Sentry, an error monitoring service, to help the Rust team discov
 
 ## **docs.rs**
 
-[Docs.rs](https://docs.rs) is managed by the members of the [Core team](https://www.rust-lang.org/governance/teams/dev-tools#docs-rs) and the [Dev Tools docs.rs sub-team](https://www.rust-lang.org/governance/teams/dev-tools).
+[Docs.rs](https://docs.rs) is managed by the members of the [Core team](https://www.rust-lang.org/governance/teams/core) and the [Dev Tools docs.rs sub-team](https://www.rust-lang.org/governance/teams/dev-tools#docs-rs).
 
 ### Visitor logs:
 
