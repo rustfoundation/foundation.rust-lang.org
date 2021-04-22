@@ -76,6 +76,13 @@ h1 {
   float: right;
 }
 
+pre {
+  margin: 1em;
+  padding: 1em;
+  background-color: var(--lightgray);
+  overflow: scroll;
+}
+
 aside ol {
   list-style: disc;
 }
