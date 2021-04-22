@@ -16,11 +16,11 @@ My favorite way to tinker with a new programming language has been to solve [Pro
 
 
 ```
-    def solve(U=1000):
-        def sum_multiples(n):
-            m = (U - 1) // n
-            return n * m * (m + 1) // 2
-        return sum_multiples(3) + sum_multiples(5) - sum_multiples(15)
+def solve(U=1000):
+    def sum_multiples(n):
+        m = (U - 1) // n
+        return n * m * (m + 1) // 2
+    return sum_multiples(3) + sum_multiples(5) - sum_multiples(15)
 ```
 
 
@@ -28,13 +28,13 @@ Rust had been on my radar for a while, but I was only reading about it here and 
 
 
 ```
-    fn solve(u: uint) -> uint {
-        let sum_multiples = |n| {
-            let m = (u - 1) / n;
-            n * m * (m + 1) / 2
-        };
-        sum_multiples(3) + sum_multiples(5) - sum_multiples(15)
-    }
+fn solve(u: uint) -> uint {
+    let sum_multiples = |n| {
+        let m = (u - 1) / n;
+        n * m * (m + 1) / 2
+    };
+    sum_multiples(3) + sum_multiples(5) - sum_multiples(15)
+}
 ```
 
 
