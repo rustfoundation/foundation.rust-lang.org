@@ -1,4 +1,5 @@
 ---
 name: Huawei
-logo: huawei.jpg
+level: founding
+logo: huawei.png
 ---
