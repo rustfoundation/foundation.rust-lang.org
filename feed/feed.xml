@@ -5,12 +5,55 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2021-04-22T00:00:00Z</updated>
+	<updated>2021-04-29T00:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>foundation@rust-lang.org</email>
 	</author>
+	
+	<entry>
+		<title>Q12021 Membership Update</title>
+		<link href="https://foundation.rust-lang.org/posts/2021-04-29-membership-update/"/>
+		<updated>2021-04-29T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/posts/2021-04-29-membership-update/</id>
+		<content type="html">&lt;p&gt;It&#39;s been a busy time for the Rust Foundation as the new board of directors gets to know each other and establish its values and goals. I&#39;m excited to announce we have several new Foundation members, including a new Platinum member and our first set of Silver Tier members.&lt;/p&gt;
+&lt;p&gt;If you are interested in becoming a member- please reach out at &lt;a href=&quot;mailto:foundation@rust-lang.org&quot;&gt;foundation@rust-lang.org&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;new-platinum-member&quot;&gt;New Platinum Member &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/posts/2021-04-29-membership-update/#new-platinum-member&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/&quot;&gt;Facebook&lt;/a&gt; was an early adopter of Rust and uses it in many aspects of development, from source control to compilers. Joel Marcey will be joining the Board of Directors as Facebook&#39;s Member Director. Read more about Joel &lt;a href=&quot;https://foundation.rust-lang.org/posts/2021-04-29-introducing-joel-marcey&quot;&gt;in his own words&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;new-silver-members&quot;&gt;New Silver Members &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/posts/2021-04-29-membership-update/#new-silver-members&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://zama.ai/&quot;&gt;Zama&lt;/a&gt; builds &lt;a href=&quot;https://zama.ai/technology/&quot;&gt;open-source homomorphic encryption solutions&lt;/a&gt; for data science and AI. They use Rust throughout, from their cryptographic library to their machine learning frameworks.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ferrous-systems.com/&quot;&gt;Ferrous Systems&lt;/a&gt; improves the Rust ecosystem by providing training and services, and employs maintainers of the Rust compiler. It also enables Rust on embedded, by providing important ecosystem tooling for the embedded space like &lt;a href=&quot;https://knurling.ferrous-systems.com/&quot;&gt;knurling&lt;/a&gt; and co-maintaining libraries like &lt;a href=&quot;https://github.com/nrf-rs/nrf-hal&quot;&gt;nrf-hal&lt;/a&gt;. Their current hallmark project is &lt;a href=&quot;https://ferrous-systems.com/ferrocene/&quot;&gt;Ferrocene&lt;/a&gt; to enable Rust in safety-critical spaces.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tag1consulting.com/&quot;&gt;Tag1Consulting&lt;/a&gt; is a global technology consulting firm, with deep open sourceexperience and connection. They rely on Rust for some of their projects, such as &lt;a href=&quot;https://goose.rs/&quot;&gt;goose.rs&lt;/a&gt;, which is a loadtesting tool inspired by the Python based Locust Framework.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.clever-cloud.com/&quot;&gt;CleverCloud&lt;/a&gt; is an IT Automation platform that has been present in the Rust community since early in Rust&#39;s history. They proudly contribute to many Rust open source projects, such as &lt;a href=&quot;https://crates.io/crates/nom&quot;&gt;nom&lt;/a&gt;, [sozu](&lt;a href=&quot;https://github.com/sozu-proxy/sozu0&quot;&gt;https://github.com/sozu-proxy/sozu0&lt;/a&gt;, and many others.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Introducing Joel Marcey</title>
+		<link href="https://foundation.rust-lang.org/posts/2021-04-29-introducing-joel-marcey/"/>
+		<updated>2021-04-29T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/posts/2021-04-29-introducing-joel-marcey/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;Over the next five weeks, we&#39;ll be running a series called &amp;quot;Getting to know the board&amp;quot;, publishing blog posts from each member of the Rust Foundation &lt;a href=&quot;https://foundation.rust-lang.org/board&quot;&gt;Board of Directors&lt;/a&gt;, introducing them to the community. You can view the posts in this series &lt;a href=&quot;https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ever since my late father gave me access to his &lt;a href=&quot;https://en.wikipedia.org/wiki/IBM_Personal_Computer_XT&quot;&gt;IBM PC XT&lt;/a&gt; back in the early-md 1980s, and I decided that &lt;a href=&quot;https://en.wikipedia.org/wiki/Fdisk&quot;&gt;FDISK&lt;/a&gt; was the most interesting command in the IBM instruction reference manual, it was pretty clear where my career path was heading, even if my father was not so keen on my use of the command on his computer.&lt;/p&gt;
+&lt;p&gt;The first programming language I was ever exposed to was BASIC (or maybe it was Logo - anyway, I digress) .&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;10 PRINT &amp;quot;HELLO&amp;quot;
+20 GOTO 10
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Look familiar? For many of us, these two lines were our first exposure to the power of what programming could do. Look at all those “Hello”s just printing ad nauseum until we stopped it with a Ctrl-C.&lt;/p&gt;
+&lt;p&gt;From BASIC, the list of languages I used grew to Pascal in high school to C, C++, Smalltalk and Java in college. I was actually a Java support engineer in the IT department of Intel as part of my first full time job back in 1997.&lt;/p&gt;
+&lt;p&gt;It was around 2000 where I believe my interest in programming languages went to the next level. Intel, along with Microsoft and HP, was one of the co-sponsors for the standardization of C# and the CLI (a.k.a. CLR) in &lt;a href=&quot;https://www.ecma-international.org/&quot;&gt;Ecma&lt;/a&gt;. And I was Intel’s main representative in that effort. For much of that &lt;a href=&quot;https://www.joelmarcey.com/resume&quot;&gt;decade&lt;/a&gt;, I did my small part to shape what would become those two standards - I wrote documentation tools (XML to Word using XSLT and COM Interop - remember COM Interop?), wrote pieces of both specifications, was convenor of the CLI standard technical group, and chair of the committee responsible for those standards and other programming-based standards as well.&lt;/p&gt;
+&lt;p&gt;My work in Ecma and the relationships I made there led me to Facebook in 2013 as a contractor where I was hired to help document and release a new programming language called Hack. And I have been at Facebook ever since, now a full-time employee. In that time, I have been involved with even more programming languages - PHP, Hack, JavaScript (where we used it and React to build one of my favorite projects ever, &lt;a href=&quot;https://docusaurus.io/&quot;&gt;Docusaurus&lt;/a&gt;), Flow, and, of course, Rust.&lt;/p&gt;
+&lt;p&gt;I have known about Rust since its early days back in 2010-2011, and, of course, later heard of the “canonical” &lt;a href=&quot;https://doc.rust-lang.org/book/&quot;&gt;book&lt;/a&gt;, The Rust Programming Language. But I really hadn’t started getting directly involved with the language until towards the end of 2019 when I began to work with the team responsible for Facebook’s digital wallet &lt;a href=&quot;https://www.novi.com/&quot;&gt;Novi&lt;/a&gt;. Facebook, through Novi, is a member of the &lt;a href=&quot;https://diem.com/&quot;&gt;Diem Association&lt;/a&gt;. The &lt;a href=&quot;https://github.com/diem/diem&quot;&gt;Diem blockchain&lt;/a&gt; is primarily written in Rust, covering 94 percent of the open source&lt;a href=&quot;https://github.com/diem/diem&quot;&gt; codebase&lt;/a&gt;. In addition,&lt;a href=&quot;https://developers.diem.com/main/docs/move-introduction&quot;&gt; Move&lt;/a&gt;, a new, secure programming language to be used for the blockchain, was developed with Rust. It was with this work , and then seeing how Facebook was really investing in the Rust language throughout the company, that I knew Rust’s rise and popularity wasn’t just fleeting. Rust is here to stay as a language to be used for big things.&lt;/p&gt;
+&lt;p&gt;One thing always stuck in my mind as I learned and utilized all of these languages -- can they evolve to continue making the lives of developers easier? Some people see a productivity progression from C to C++ to C#, for example. I saw a productivity progression from PHP to Hack. I believe Rust falls into that increased productivity category. Working with the language, how it is able to easily, yet with such precision and detail, let you know where you have gone wrong at compile time, you just feel more efficient. Rust stands on its own merits, but I have to imagine coming from a language like C++ to Rust, is where that productivity progression really shines.&lt;/p&gt;
+&lt;p&gt;And, seriously, if the Linux kernel is actually starting to even &lt;a href=&quot;https://arstechnica.com/gadgets/2021/03/linus-torvalds-weighs-in-on-rust-language-in-the-linux-kernel/&quot;&gt;consider&lt;/a&gt; Rust as a language to be used for that codebase, well, that’s when you know you have made it.&lt;/p&gt;
+&lt;p&gt;I can’t wait to work with everyone to help drive the language forward. I am really excited to be part of the Rust Foundation.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Introducing Lars Bergstrom</title>

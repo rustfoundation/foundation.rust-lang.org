@@ -30,7 +30,7 @@ img {
 }
 p,
 .tmpl-post li {
-  line-height: 1.45;
+  line-height: 1.75;
 }
 a[href] {
   color: var(--orange);
@@ -374,12 +374,20 @@ footer .container {
 }
 
 .memberslist li {
-  padding: 2em;
+  padding: 1em;
   display: inline-block;
 }
 
 .memberslist-small li img {
   width: 7em;
+}
+
+.silvermember img {
+    width: 10em;
+}
+
+.platinummember img {
+    width: 20em;
 }
 
 /* Post */
