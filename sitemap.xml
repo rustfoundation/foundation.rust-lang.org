@@ -282,17 +282,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
-    <lastmod>2021-04-29</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/announcement/</loc>
     <lastmod>2021-04-29</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/philosophy/</loc>
+    <lastmod>2021-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
     <lastmod>2021-04-29</lastmod>
   </url>
   
