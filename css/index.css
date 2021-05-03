@@ -161,7 +161,8 @@ main {
   background: rgb(244,102,35);
   background: linear-gradient(0deg, rgba(244,102,35,1) 0%, rgba(255,168,61,1) 100%);
 }
-button {
+.button {
+    font-family: "Raleway", sans-serif;
     padding: 1em;
     border-radius: 10px;
     display: inline-block;
