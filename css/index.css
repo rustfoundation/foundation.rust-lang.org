@@ -50,7 +50,7 @@ header:after {
   clear: both;
 }
 table {
-  margin: 1em 0;
+  margin: 1em;
 }
 table td,
 table th {
@@ -161,7 +161,7 @@ main {
   background: rgb(244,102,35);
   background: linear-gradient(0deg, rgba(244,102,35,1) 0%, rgba(255,168,61,1) 100%);
 }
-.button {
+button {
     padding: 1em;
     border-radius: 10px;
     display: inline-block;
@@ -399,7 +399,7 @@ footer .container {
   }
 }
 
-.policy h1, .post h1, .event h1, .posts h1, .events h1, .board h1, .contact h1, .members h1 {
+.policy h1, .post h1, .event h1, .posts h1, .events h1, .board h1, .contact h1, .members h1, .become h1 {
   font-size: 5em;
   font-weight: 900;
   margin: 1em 0; 
@@ -440,4 +440,39 @@ p.list-item {
 
 span.list-item {
     margin-left: -2em;
+}
+
+/* Membership Tables */
+table {
+    vertical-align: top;
+    border: none;
+    border-collapse: collapse;
+    color: black;
+    display: inline-block;
+}
+td {
+    margin: 0;
+    padding: 1em;
+    min-width: 10em;
+}
+#member-platinum {
+    background-color: #F46524;
+}
+#member-gold {
+    background-color: #FB8B01;
+}
+#silver-scale td, #member-silver {
+    background-color: #FFD866;
+}
+#member-associate {
+    background-color: #FFEBB3;
+}
+#discount-team {
+    background-color: #B4A6D5;
+}
+#discount-infra {
+    background-color: #C27B9F;
+}
+#discount-commit {
+    background-color: #E06666;
 }
