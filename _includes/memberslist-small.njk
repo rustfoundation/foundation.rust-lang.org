@@ -1,6 +1,6 @@
 <ul class="memberslist memberslist-small">
 {% for member in memberslist  %}
-    {% if member.data.level == "founding" %}
+    {% if member.data.level == "founding" or member.data.level ==  "platinum" %}
     <li>
         <div class="member">
         {% if member.data.logo %}
