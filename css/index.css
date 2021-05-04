@@ -141,6 +141,13 @@ main {
 }
 
 /* Buttons */
+.cta-box {
+    text-align: center;
+    padding: 2em;
+    margin: 2em 0;
+    border: var(--orange) 1px dotted;
+    width: 80%;
+}
 .cta-white {
     background: var(--white);
     border: var(--orange) 1px solid;
