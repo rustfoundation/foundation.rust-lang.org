@@ -8,6 +8,19 @@ templateClass: tmpl-event
     <div class="content">
         {{ content | safe }}
     </div>
+    <div class="attachments">
+        {%- if attachments != undefined -%}
+            Artifacts:
+            <ul>
+            {% for name, aUrl in attachments %}
+                <li><a href="{{ aUrl | url }}">{{ name | safe }}</a></li>
+            {% endfor %}
+            </ul>
+
+            Please note that any policies or documents approved here may not be
+            the latest versions approved by the Board.
+        {%- endif -%}
+    </div>
   <div class="event-tags">
     Tagged:
     {% for tag in tags %}
