@@ -1,5 +1,5 @@
 ---
-title: "Board Meeting"
+title: "February 2021 Board Meeting"
 description: The members of the Foundation Board of Directors will convene for the first time.
 date: 2021-02-09
 tags:
