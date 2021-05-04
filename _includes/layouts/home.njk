@@ -28,12 +28,7 @@
   </head>
   <body>
     <header>
-        <ul class="nav">
-            <li class="nav-item home"><a href="{{ '/' | url }}"><img alt="rust logo" src="/img/rf-logo-transparent.png"/></a></li>
-            {%- for entry in collections.all | eleventyNavigation %}
-                <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
-            {%- endfor %}
-        </ul>
+    {% include "nav.njk" %}
         <section id="splash">
             <div class="container">
                 <h1>Rust Foundation</h1>
