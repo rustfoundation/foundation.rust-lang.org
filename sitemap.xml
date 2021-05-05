@@ -22,6 +22,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/events/2021-03-09-board-meeting/</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/posts/2021-03-18-introducing-bobby-holley/</loc>
     <lastmod>2021-03-18</lastmod>
   </url>
@@ -49,6 +54,11 @@
   <url>
     <loc>https://foundation.rust-lang.org/posts/2021-04-08-introducing-peixin-hou/</loc>
     <lastmod>2021-04-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/events/2021-04-13-board-meeting/</loc>
+    <lastmod>2021-04-13</lastmod>
   </url>
   
   <url>
@@ -83,231 +93,236 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/board/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/events/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/info/become-a-member/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/info/contact/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/members/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/members/aws/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/members/clevercloud/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/members/facebook/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/members/ferroussystems/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/members/google/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/members/huawei/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/members/microsoft/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/members/mozilla/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/members/tag1consulting/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/members/zama/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/page-list/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/people/ashleywilliams/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/people/bobbyholley/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/people/floriangilcher/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/people/janelusby/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/people/joelmarcey/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/people/joshstone/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/people/larsbergstrom/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/people/markrousskov/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/people/nellshamrell-harrington/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/people/peixinhou/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/people/shanemiller/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/people/tylermandry/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/policies/anti-trust-policy/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/policies/bylaws/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/policies/code-of-conduct/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/policies/privacy-policy/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/posts/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/members/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/people/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/video/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/live/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/core%20team/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/board%20meeting/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/announcement/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/philosophy/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/membership%20update/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/policies/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/events/2021-05-11-board-meeting/</loc>
+    <lastmod>2021-05-11</lastmod>
   </url>
 </urlset>
