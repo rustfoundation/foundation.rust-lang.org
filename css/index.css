@@ -408,21 +408,21 @@ footer .container {
 }
 
 .policy h1, .post h1, .event h1, .posts h1, .events h1, .board h1, .contact h1, .members h1, .become h1 {
-  font-size: 5em;
+  font-size: 3.25em;
   font-weight: 900;
-  margin: 1em 0; 
+  margin: 1em 0;
 }
 
 .post h2, .event h2 {
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
-  margin: 1em 0; 
+  margin: 1em 0;
 }
 
 .post h2.series {
   font-family: 'Lato', sans-serif;
   font-weight: 900;
-  margin-bottom: -3em;
+  margin-bottom: -2em;
 }
 
 .post-tags, .event-tags {
