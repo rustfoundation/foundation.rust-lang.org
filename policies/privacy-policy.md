@@ -3,7 +3,7 @@ title: Privacy Policy
 layout: layouts/policy.njk
 ---
 
-Version 1.2, dated 2021-04-16
+Version 1.3, dated 2021-08-03
 
 The Rust Foundation maintains several services related to the Rust Project, including the [rust-lang.org](https://www.rust-lang.org/), [crates.io](https://crates.io), and [docs.rs](https://docs.rs) (the “Services”). This privacy notice explains what we do with personal information.
 
@@ -71,6 +71,8 @@ The Users Forum and Internals Forum on rust-lang.org are hosted by [Discourse](h
 
 We use Mailgun to send email. Mailgun’s privacy policy is available [here](https://www.mailgun.com/privacy-policy).
 
+We use ZenDesk to manage, track, and respond to support requests, including for the Crates.io mailing list. ZenDesk’s privacy policy is available [here](https://www.zendesk.com/company/agreements-and-terms/privacy-policy/).
+
 GitHub login is used for authentication in Crates.io and (optionally) in the forums. GitHub’s Privacy Statement can be found [here](https://help.github.com/en/articles/github-privacy-statement).
 
 Some Rust team members use the Zulip and Discord platforms for community collaboration. Zulip’s privacy notice is available [here](https://zulipchat.com/privacy/). Discord’s privacy notice is available [here](https://discordapp.com/privacy).
@@ -117,14 +119,14 @@ Upon request, Rust Foundation will provide users with information about whether 
 
 You can also withdraw your consent to our processing of your information and the use of our services, and/or delete your user account at any time, by using the contact information below to request that your personal information be deleted. If you are an EU resident and believe that our processing of your personal data is contrary to the EU General Data Protection Regulation, you have the right to lodge a complaint with the appropriate supervisory authority.
 
-If you withdraw your consent to the use or sharing of your personal information for the purposes set out in this policy, we may not be able to provide you with our services. Please note that in certain cases we may continue to process your information after you have withdrawn consent and requested that we delete your information if we have a legal basis/need to do so. 
+If you withdraw your consent to the use or sharing of your personal information for the purposes set out in this policy, we may not be able to provide you with our services. Please note that in certain cases we may continue to process your information after you have withdrawn consent and requested that we delete your information if we have a legal basis/need to do so.
 
 
 ## **Data Retention**
 
-For personal data under its control, Rust Foundation will retain such data only for as long as is necessary for the purposes set out in this policy, or as needed to provide users with our services. 
+For personal data under its control, Rust Foundation will retain such data only for as long as is necessary for the purposes set out in this policy, or as needed to provide users with our services.
 
-If a user no longer wishes to use our services then it may request deletion of its data at any time. 
+If a user no longer wishes to use our services then it may request deletion of its data at any time.
 
 Notwithstanding the above, Rust Foundation will retain and use user information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your information to comply with applicable tax/revenue laws), resolve disputes, and enforce our agreements. We may also retain log files for the purpose of internal analysis, for site safety, security and fraud prevention, to improve site functionality, or where we are legally required to retain them for longer time periods.
 
