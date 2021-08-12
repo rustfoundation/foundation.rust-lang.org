@@ -1,6 +1,6 @@
 ---
 name: Mark Rousskov
-title: Project Director, Core
+title: Secretary, Project Director, Core
 ferris: mark.png
 headshot: mark.png
 ---
