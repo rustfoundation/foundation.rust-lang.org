@@ -27,7 +27,7 @@ eleventyNavigation:
     <h1>Events</h1>
 
     {% set eventslist = collections.events | head(-3) %}
-    {% set eventslistCounter = collections.events | length %}
+    {% set eventslistCounter = collections.events | length + 1 %}
     {% include "eventslist.njk" %}
 
     <p>More events can be found in <a href="{{ '/events/' | url }}">the archive</a>.</p>

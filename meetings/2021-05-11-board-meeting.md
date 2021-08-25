@@ -8,5 +8,5 @@ attachments:
     'Presentation': '/static/2021-05-11-package/Public Session Presentation.pdf'
     'Minutes': '/static/2021-05-11-package/2021-05-11 Meeting Minutes.pdf'
     'Exhibit B - Statement on Global Regulations': '/static/2021-05-11-package/Exhibit B - Statement on Global Regulations.pdf'
-layout: layouts/event.njk
+layout: layouts/meeting.njk
 ---
