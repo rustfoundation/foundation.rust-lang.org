@@ -1,0 +1,42 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-meeting
+---
+<section class="container meeting">
+    <h1>{{ title }}</h1>
+    <h2>{{ description }}</h2>
+    <div class="content">
+        {{ content | safe }}
+    </div>
+    <div class="attachments">
+        {%- if attachments != undefined -%}
+            Artifacts:
+            <ul>
+            {% for name, aUrl in attachments %}
+                <li><a href="{{ aUrl | url }}">{{ name | safe }}</a></li>
+            {% endfor %}
+            </ul>
+
+            Please note that any policies or documents approved here may not be
+            the latest versions approved by the Board.
+        {%- endif -%}
+    </div>
+  <div class="meeting-tags">
+    Tagged:
+    {% for tag in tags %}
+      {%- if collections.tagList.indexOf(tag) != -1 -%}
+      {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+      <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+      {%- endif -%}
+    {% endfor %}
+  </div>
+    <h2 class="date">{{ date }}</h2>
+
+    <hr>
+    <ul>
+        {%- set nextMeeting = collections.meetings | getNextCollectionItem(page) %}
+        {%- if nextMeeting %}<li>Next: <a href="{{ nextMeeting.url | url }}">{{ nextMeeting.data.title }}</a></li>{% endif %}
+        {%- set previousMeeting = collections.meetings | getPreviousCollectionItem(page) %}
+        {%- if previousMeeting %}<li>Previous: <a href="{{ previousMeeting.url | url }}">{{ previousMeeting.data.title }}</a></li>{% endif %}
+    </ul>
+</section>

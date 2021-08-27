@@ -11,5 +11,5 @@ attachments:
     'Exhibit B - Conflict of Interest Policy': '/static/2021-02-09-package/Exhibit B - Conflict of Interest Policy.pdf'
     'Exhibit C - Intellectual Property Policy': '/static/2021-02-09-package/Exhibit C - Intellectual Property Policy.pdf'
     'Exhibit D - Code of Conduct': '/static/2021-02-09-package/Exhibit D - Code of Conduct.pdf'
-layout: layouts/event.njk
+layout: layouts/meeting.njk
 ---
