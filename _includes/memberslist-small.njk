@@ -4,7 +4,7 @@
     <li>
         <div class="member">
         {% if member.data.logo %}
-            <img src="/img/member/{{ member.data.logo }}" alt="{{member.data.name}}"/>
+            <a href="{{member.data.url}}"><img src="/img/member/{{ member.data.logo }}" alt="{{member.data.name}}"/></a>
         {% endif %}
         </div>
     </li>
