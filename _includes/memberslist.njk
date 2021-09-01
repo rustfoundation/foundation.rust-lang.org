@@ -4,7 +4,7 @@
         {% if member.data.level == "founding" %}
             <li class="platinummember">
                 {% if member.data.logo %}
-                    <img src="/img/member/{{ member.data.logo }}" alt="{{member.data.name}}"/>
+                     <a href="{{ member.data.url }}" rel="nofollow"><img src="/img/member/{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
                 {% endif %}
             </li>
         {% endif %}
@@ -16,7 +16,7 @@
         {% if member.data.level == "platinum" %}
             <li class="platinummember">
                 {% if member.data.logo %}
-                    <img src="/img/member/{{ member.data.logo }}" alt="{{member.data.name}}"/>
+                     <a href="{{ member.data.url }}" rel="nofollow"><img src="/img/member/{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
                 {% endif %}
             </li>
         {% endif %}
@@ -28,7 +28,7 @@
         {% if member.data.level == "silver" %}
             <li class="silvermember">
                 {% if member.data.logo %}
-                    <img src="/img/member/{{ member.data.logo }}" alt="{{member.data.name}}"/>
+                     <a href="{{ member.data.url }}" rel="nofollow"><img src="/img/member/{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
                 {% endif %}
             </li>
         {% endif %}
