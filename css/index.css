@@ -493,3 +493,30 @@ td {
 #discount-commit {
     background-color: #E06666;
 }
+
+#video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16x9 */
+  padding-top: 25px;
+  height: 0;
+}
+
+iframe {
+  position: absolute;
+  top: 0;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  max-width: 960px;
+  max-height: 640px;
+}
+
+.video-holder{
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  max-width: 960px;
+  max-height: 640px;
+}
