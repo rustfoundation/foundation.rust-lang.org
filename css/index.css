@@ -208,6 +208,11 @@ main {
   border-bottom: 1px var(--lightorange) dotted;
   padding-bottom: 4em;
 }
+#special-content {
+  text-align: center;
+  border-bottom: 1px var(--lightorange) dotted;
+  padding-bottom: 4em;
+}
 #mission h1 {
     margin: 2em 0 1em 0;
     font-size: 2em;
