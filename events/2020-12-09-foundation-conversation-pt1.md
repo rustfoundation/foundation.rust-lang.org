@@ -9,6 +9,8 @@ tags:
 layout: layouts/event.njk
 ---
 
-<div class="video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/OmEcRWyT6Ak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-holder">
+  <div id="video-container">
+    <iframe src="https://www.youtube.com/embed/OmEcRWyT6Ak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>
