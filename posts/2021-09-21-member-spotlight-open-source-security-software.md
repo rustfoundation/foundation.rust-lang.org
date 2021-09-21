@@ -12,7 +12,7 @@ tags:
 
 The Rust Foundation has been building some great momentum since our launch earlier this year, and we’re excited to share that our member roster is growing. Over the coming few months, we’ll be doing some deep dives with our new member companies so you can get to know our community a bit better. We’ll share some background on what they do, why they chose to join the Rust Foundation and what they hope to accomplish going forward.
 
-To kick things off, [I](https://twitter.com/JoelMarcey) sat down with Brad Spengler, president at [Open Source Security](https://opensrcsec.com/). Here’s what he had to say:
+To kick things off, [Brad Spengler](https://twitter.com/spendergrsec), president at [Open Source Security](https://opensrcsec.com/), answered some of [my](https://twitter.com/JoelMarcey) questions. Here’s what he had to say:
 
 ### Marcey: For those who don’t know, tell us a little about Open Source Security.
 
@@ -39,5 +39,3 @@ The work, being headed by Philip Herron with help from two Google Summer of Code
 **Spengler**: I've followed Rust with interest for some time now.  For the past 20 years of grsecurity development, our strategy has always been closing down entire classes of vulnerabilities and avenues of attack, so a language that can accomplish the same for new code is closely aligned with our vision. While I've been critical in the past of mass-rewriting of existing codebases in memory-safe languages as a viable security strategy, I absolutely believe the greatest good can be achieved when the barriers to entry for Rust are broken down and the "mixed-binary" problem mentioned above is resolved. That would provide Rust the equal footing and ease of adoption that will allow it to thrive on its substantial merits. I'm eager to see what's in store for Rust in the future, and I’m happy to play a tiny part in enabling others to pursue work on Rust that will benefit everyone.
 
 To learn more about the Rust Foundation, check out our [recent blog posts](https://foundation.rust-lang.org/posts/), and follow us on [Twitter](https://twitter.com/rust_foundation?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6838821610569502720/) to stay up to date.  
-
-
