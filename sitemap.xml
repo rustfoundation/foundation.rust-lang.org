@@ -102,6 +102,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/posts/2021-09-21-member-spotlight-open-source-security-software/</loc>
+    <lastmod>2021-09-21</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/board/</loc>
     <lastmod>2021-09-21</lastmod>
   </url>
@@ -363,6 +368,11 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/jobs/</loc>
+    <lastmod>2021-09-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/member%20spotlight/</loc>
     <lastmod>2021-09-21</lastmod>
   </url>
   
