@@ -5,12 +5,32 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2021-09-21T00:00:00Z</updated>
+	<updated>2021-10-01T00:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>foundation@rust-lang.org</email>
 	</author>
+	
+	<entry>
+		<title>ParaState</title>
+		<link href="https://foundation.rust-lang.org/posts/2021-10-01-member-spotlight-parastate/"/>
+		<updated>2021-10-01T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/posts/2021-10-01-member-spotlight-parastate/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://foundation.rust-lang.org/img/posts/2021-10-01-member-spotlight-parastate/member_spotlight_marco_chen.png&quot; alt=&quot;Brad Spengler Open Source Security&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The Rust Foundation is proud to work with a growing roster of exciting and innovative companies around the world. As we continue to grow, we’re working to shine the spotlight on each of our members and introduce them to the community. To that end, &lt;a href=&quot;https://www.linkedin.com/in/marco-chen-239028a/&quot;&gt;Marco Chen&lt;/a&gt;, co-founder of &lt;a href=&quot;https://www.parastate.io/&quot;&gt;ParaState&lt;/a&gt;, was kind enough to answer some of &lt;a href=&quot;http://github.com/Mark-Simulacrum&quot;&gt;my&lt;/a&gt; questions. Here’s what Marco had to say:&lt;/p&gt;
+&lt;h3 id=&quot;rousskov%3A-to-kick-things-off%2C-let%E2%80%99s-start-with-an-overview-of-parastate-and-what-you-do.&quot;&gt;Rousskov: To kick things off, let’s start with an overview of ParaState and what you do. &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/posts/2021-10-01-member-spotlight-parastate/#rousskov%3A-to-kick-things-off%2C-let%E2%80%99s-start-with-an-overview-of-parastate-and-what-you-do.&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Chen&lt;/strong&gt;: ParaState is a multi-chain, smart contract platform that bridges the application and developer ecosystem between Polkadot, Substrate and Ethereum, as well as other networks wanting to provide high-performance Ethereum compatibility. Parastate supports the Ethereum Virtual Machine (EVM) pallet, which provides seamless compatibility with all existing Ethereum applications. It also provides developers with a next-generation smart contract implementation environment, Ewasm.&lt;/p&gt;
+&lt;p&gt;ParaState is proud to support more than 20 different programming languages to create Ethereum-compatible smart contracts, which we feel helps unite a larger community of developers to boost cross-chain interoperability. Earlier this year, ParaState officially launched its public testnet, Plato, which is currently running as a standalone Substrate blockchain. Plato is the first production-ready public testnet featuring both EVM and Ewasm.&lt;/p&gt;
+&lt;h3 id=&quot;rousskov%3A-tell-us-about-parastate%E2%80%99s-use-of-rust.-where-are-you-utilizing-it-and-how-do-you-expect-that-to-evolve%3F&quot;&gt;Rousskov: Tell us about ParaState’s use of Rust. Where are you utilizing it and how do you expect that to evolve? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/posts/2021-10-01-member-spotlight-parastate/#rousskov%3A-tell-us-about-parastate%E2%80%99s-use-of-rust.-where-are-you-utilizing-it-and-how-do-you-expect-that-to-evolve%3F&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Chen&lt;/strong&gt;:  Rust is a very promising programming language in cloud and serverless computing sectors. All the latest new public chain projects like Polkadot, Near and Solana use Rust to write their infrastructure. ParaState aims to bring Rust into Ethereum compatible networks. We are working on launching a Rust software development kit (SDK) to enable developers to build applications with Rust on top of our infrastructure. It will be the first Rust SDK among all Ethereum compatible ecosystems. Right now, Solidity is the top programming language on Ethereum and has roughly 300K developers all over the world, but we expect to attract twice as many Rust developers to build with us in the blockchain industry.&lt;/p&gt;
+&lt;h3 id=&quot;rousskov%3A-what-was-parastate%E2%80%99s-motivation-to-join-the-rust-foundation%3F&quot;&gt;Rousskov: What was ParaState’s motivation to join the Rust Foundation? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/posts/2021-10-01-member-spotlight-parastate/#rousskov%3A-what-was-parastate%E2%80%99s-motivation-to-join-the-rust-foundation%3F&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Chen&lt;/strong&gt;: The Rust Foundation is the official community for Rust developers around the world. As we expand our use of Rust we want to ensure we are a part of this leading organization and have the opportunity to help further the Foundation’s work and the use of Rust worldwide.&lt;/p&gt;
+&lt;h3 id=&quot;rousskov%3A-what-do-you-hope-the-rust-foundation-will-accomplish-in-the-months-and-years-ahead%3F&quot;&gt;Rousskov: What do you hope the Rust Foundation will accomplish in the months and years ahead? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/posts/2021-10-01-member-spotlight-parastate/#rousskov%3A-what-do-you-hope-the-rust-foundation-will-accomplish-in-the-months-and-years-ahead%3F&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Chen&lt;/strong&gt;: Above all else, we’re hoping the Rust Foundation will help promote and further the growing Rust developer community all over the world and help shine a spotlight of some of the exciting work being done.&lt;/p&gt;
+&lt;p&gt;To learn more about the Rust Foundation, and how we plan to fulfill some of the goals mentioned here, check out our &lt;a href=&quot;https://foundation.rust-lang.org/&quot;&gt;website&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=AI4lPN0BqGc&quot;&gt;introductory video&lt;/a&gt; and &lt;a href=&quot;https://foundation.rust-lang.org/posts/&quot;&gt;recent blog posts&lt;/a&gt;, and follow us on &lt;a href=&quot;https://twitter.com/rust_foundation&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/company/rust-foundation/&quot;&gt;LinkedIn&lt;/a&gt; to stay up to date.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Open Source Security</title>
