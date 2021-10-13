@@ -320,6 +320,13 @@ footer {
 footer p {
     display: inline;
 }
+
+footer .social_icon {
+  width: 50px;
+  margin-bottom: 2em;
+  margin-right: 2em;
+}
+
 footer img {
     width: 15%;
     margin-bottom: 1em;
@@ -329,6 +336,13 @@ footer a[href], footer a[href]:visited, footer a[href]:visited {
 }
 footer .container {
     margin-bottom: 0;
+}
+
+/* Contact */
+.contact .social_icon {
+  width: 100px;
+  margin-top: 3em;
+  margin-right: 2em;
 }
 
 /* Board */
