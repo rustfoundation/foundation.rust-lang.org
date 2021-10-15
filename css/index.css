@@ -200,13 +200,10 @@ main {
     border-bottom: 1px var(--lightorange) dotted;
     padding-bottom: 4em;
 }
+/* The last of the lists on the front page before the sponsors has orange separator */
 #events {
     border-bottom: 1px var(--lightorange) dotted;
     padding-bottom: 4em;
-}
-#meetings {
-  border-bottom: 1px var(--lightorange) dotted;
-  padding-bottom: 4em;
 }
 #special-content {
   text-align: center;
@@ -430,7 +427,7 @@ footer .container {
   }
 }
 
-.policy h1, .post h1, .event h1, .posts h1, .events h1, .meetings h1, .board h1, .contact h1, .members h1, .become h1 {
+.policy h1, .post h1, .event h1, .posts h1, .events h1, .meetings h1, .news h1, .board h1, .contact h1, .members h1, .become h1 {
   font-size: 3.25em;
   font-weight: 900;
   margin: 1em 0;
