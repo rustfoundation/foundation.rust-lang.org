@@ -1,0 +1,44 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-news
+---
+{%- if externalurl == undefined -%}
+  <section class="container news">
+      <h1>{{ title }}</h1>
+      <h2>{{ description }}</h2>
+      <div class="content">
+          {{ content | safe }}
+      </div>
+      <div class="attachments">
+          {%- if attachments != undefined -%}
+              Artifacts:
+              <ul>
+              {% for name, aUrl in attachments %}
+                  <li><a href="{{ aUrl | url }}">{{ name | safe }}</a></li>
+              {% endfor %}
+              </ul>
+
+              Please note that any policies or documents approved here may not be
+              the latest versions approved by the Board.
+          {%- endif -%}
+      </div>
+    <div class="news-tags">
+      Tagged:
+      {% for tag in tags %}
+        {%- if collections.tagList.indexOf(tag) != -1 -%}
+        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+        <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+        {%- endif -%}
+      {% endfor %}
+    </div>
+      <h2 class="date">{{ date }}</h2>
+
+      <hr>
+      <ul>
+          {%- set nextNews = collections.news | getNextCollectionItem(page) %}
+          {%- if nextNews %}<li>Next: <a href="{{ nextNews.url | url }}">{{ nextNews.data.title }}</a></li>{% endif %}
+          {%- set previousNews = collections.news | getPreviousCollectionItem(page) %}
+          {%- if previousNews %}<li>Previous: <a href="{{ previousNews.url | url }}">{{ previousNews.data.title }}</a></li>{% endif %}
+      </ul>
+  </section>
+{%- endif -%}

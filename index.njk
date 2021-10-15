@@ -23,6 +23,17 @@ eleventyNavigation:
     <h3>Working alongside Rust project leadership to support the maintainers that govern and develop the language.</h3>
 </section>
 
+<section class="container" id="news">
+    {% set maxNews = collections.news.length | min(3) %}
+    <h1>News</h1>
+
+    {% set newslist = collections.news | head(-3) %}
+    {% set newslistCounter = collections.news | length + 1 %}
+    {% include "newslist.njk" %}
+
+    <p>More news can be found in <a href="{{ '/news/' | url }}">the newsroom</a>.</p>
+</section>
+
 <section class="container" id="posts">
     {% set maxPosts = collections.posts.length | min(3) %}
     <h1>New on the Blog</h1>
