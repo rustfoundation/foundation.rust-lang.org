@@ -27,6 +27,4 @@ Removing this added stress from the volunteers in this group is so important, bo
 
 Obviously, the importance of Crates.io to Rust and the Rust community cannot be overstated. It’s the foundation for so much great Rust development and is depended on by developers across the globe. As the Rust community continues to grow, we’re happy to see Crates.io evolve and mature to better deliver on Rust’s promise of empowering everyone to build reliable and efficient software.
 
-To learn more about the Rust Foundation, check out our introductory video and recent blog posts, and follow us on Twitter and LinkedIn to stay up to date. 
-
 To learn more about the Rust Foundation, check out our [introductory video](https://www.youtube.com/watch?v=AI4lPN0BqGc) and [recent blog posts](https://foundation.rust-lang.org/posts/), and follow us on [Twitter](https://twitter.com/rust_foundation) and [LinkedIn](https://www.linkedin.com/company/rust-foundation/) to stay up to date.
