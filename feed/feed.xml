@@ -5,12 +5,34 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2021-10-07T00:00:00Z</updated>
+	<updated>2021-10-18T00:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>foundation@rust-lang.org</email>
 	</author>
+	
+	<entry>
+		<title>Adios Pagers: New Developments on Crates.io</title>
+		<link href="https://foundation.rust-lang.org/posts/2021-10-18-crates-io-oncall-ferrous-systems/"/>
+		<updated>2021-10-18T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/posts/2021-10-18-crates-io-oncall-ferrous-systems/</id>
+		<content type="html">&lt;h2&gt;by &lt;a href=&quot;https://github.com/tmandry&quot;&gt;Tyler Mandry&lt;/a&gt;, Quality Director, Rust Foundation and &lt;a href=&quot;https://github.com/yaahc/&quot;&gt;Jane Lusby&lt;/a&gt;, Project Director, Collaboration&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://foundation.rust-lang.org/img/posts/2021-10-18-crates-io-oncall-ferrous-systems/crates-io.png&quot; alt=&quot;Crates.io&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;If you’re reading this post, you’re probably familiar with &lt;a href=&quot;https://crates.io/&quot;&gt;Crates.io&lt;/a&gt; and its significance in the Rust ecosystem. If you write Rust code using Cargo, you’ve certainly downloaded a crate from &lt;a href=&quot;http://crates.io/&quot;&gt;crates.io&lt;/a&gt; to use in your project, and hopefully your experience has been positive. A LOT of stuff runs on top of &lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt;, and Rust developers around the world depend on it to support their projects. In fact, as of this publication, &lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt; has seen over &lt;strong&gt;ten billion downloads&lt;/strong&gt; and now hosts &lt;strong&gt;69,000+ crates&lt;/strong&gt;! Pretty impressive numbers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt; is maintained by a &lt;a href=&quot;https://www.rust-lang.org/governance/teams/crates-io&quot;&gt;talented and dedicated group of volunteers&lt;/a&gt; who are responsible for improving the service. Until recently, this team was also responsible for troubleshooting issues and ensuring it always ran as needed. This was a 24/7 responsibility, which meant rotating pager duty among the volunteers to be sure issues were addressed quickly and Rust developers didn’t experience downtime. On behalf of the roughly &lt;a href=&quot;https://www.zdnet.com/article/programming-languages-javascript-has-most-developers-but-rust-is-the-fastest-growing/&quot;&gt;1.3MM members&lt;/a&gt; of the Rust community, we want to take a moment to say thank you to the &lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt; team for your amazing support. ❤️&lt;/p&gt;
+&lt;p&gt;When we talked to the team, however, it became clear that they could use some assistance, particularly with the on-call element. So, we reached out to a number of individuals and contractors who had the skills to provide it and asked if they could help.&lt;/p&gt;
+&lt;p&gt;And now, we’re delighted to share that &lt;a href=&quot;https://ferrous-systems.com/&quot;&gt;Ferrous Systems&lt;/a&gt;, a team of Rust programming consultants, has taken over responsibility for the on-call rotation necessary to ensure that &lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt; is always accessible. The Rust Foundation is financing a team of four programmers from Ferrous Systems that will act as a “first line of defense” for keeping the server up and running. They’ll be on rotation at all times to ensure continual coverage and quick, seamless issue resolution, so that programmers around the globe will be unaware of – and uninterrupted by – any service hiccups. The improvements have already been well received. Justin Geibel, a lead of the &lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt; team, recently shared the following:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This weekend I attended a wedding (and then took a recovery day) without having to worry that my laptop was nearby in case there was a page. Thank you for getting this secured. It has been a huge reduction in stress knowing that a capable team is available and ready to respond to any incidents.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It’s important to note that the &lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt; team will continue to own the &lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt; project and will remain focused on improving the service and responding to the community. Ferrous Systems isn’t replacing the team by any stretch, nor is it joining the team. The addition of Ferrous Systems is to support the &lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt; volunteers, free them up to focus on other projects that will advance the service, and ensure they’re not tethered to their laptops by the on-call pager. While these volunteers once had to be on call 24/7, they can now have more autonomy.&lt;/p&gt;
+&lt;p&gt;Removing this added stress from the volunteers in this group is so important, both for their well-being and for their longevity as active users and contributors in the Rust community. The broader Rust community benefits here as well, from improved &lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt; reliability and faster resolution of any issues that do arise. The Ferrous Systems team has also been tasked with some development work to enhance the reliability of the &lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt; service, which will benefit all users.&lt;/p&gt;
+&lt;p&gt;Obviously, the importance of &lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt; to Rust and the Rust community cannot be overstated. It’s the foundation for so much great Rust development and is depended on by developers across the globe. As the Rust community continues to grow, we’re happy to see &lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt; evolve and mature to better deliver on Rust’s promise of empowering everyone to build reliable and efficient software.&lt;/p&gt;
+&lt;p&gt;To learn more about the Rust Foundation, check out our introductory video and recent blog posts, and follow us on Twitter and LinkedIn to stay up to date.&lt;/p&gt;
+&lt;p&gt;To learn more about the Rust Foundation, check out our &lt;a href=&quot;https://www.youtube.com/watch?v=AI4lPN0BqGc&quot;&gt;introductory video&lt;/a&gt; and &lt;a href=&quot;https://foundation.rust-lang.org/posts/&quot;&gt;recent blog posts&lt;/a&gt;, and follow us on &lt;a href=&quot;https://twitter.com/rust_foundation&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/company/rust-foundation/&quot;&gt;LinkedIn&lt;/a&gt; to stay up to date.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Knoldus</title>
