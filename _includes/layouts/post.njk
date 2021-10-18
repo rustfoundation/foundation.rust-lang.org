@@ -5,7 +5,7 @@ templateClass: tmpl-post
 <section class="container post">
   {% if series %}<h2 class="series">{{ series }}</h2>{% endif %}
   <h1>{{ title }}</h1>
-  <h2>by {{ byline }}</h2>
+  {% if byline %}<h2>by {{ byline }}</h2>{% endif %}
 
   <article>
     {{ content | safe }}
