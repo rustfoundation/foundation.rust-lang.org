@@ -36,9 +36,9 @@ templateClass: tmpl-news
       <hr>
       <ul>
           {%- set nextNews = collections.news | getNextCollectionItem(page) %}
-          {%- if nextNews %}<li>Next: <a href="{{ nextNews.url | url }}">{{ nextNews.data.title }}</a></li>{% endif %}
+          {%- if nextNews %}<li>Next: <a href="{% if (nextNews.data.externalurl != undefined) %}{{ nextNews.data.externalurl | url }}{% else %}{{ nextNews.url | url }}{% endif %}">{{ nextNews.data.title }}</a></li>{% endif %}
           {%- set previousNews = collections.news | getPreviousCollectionItem(page) %}
-          {%- if previousNews %}<li>Previous: <a href="{{ previousNews.url | url }}">{{ previousNews.data.title }}</a></li>{% endif %}
+          {%- if previousNews %}<li>Previous: <a href="{% if (previousNews.data.externalurl != undefined) %}{{ previousNews.data.externalurl | url }}{% else %}{{ previousNews.url | url }}{% endif %}">{{ previousNews.data.title }}</a></li>{% endif %}
       </ul>
   </section>
 {%- endif -%}
