@@ -1,7 +1,7 @@
 <ol class="postlist" style="counter-reset: start-from {{ (newslistCounter or newslist.length + 1) }}">
 {% for news in newslist | reverse %}
   <li class="postlist-item{% if (news.data.externalurl != undefined) or (news.url == url) %} postlist-item-active{% endif %}">
-    <a href="{{ news.data.externalurl | url }}" class="postlist-link">{% if news.data.title %}{{ news.data.title }}{% else %}<code>{{ news.url }}</code>{% endif %}</a>
+    <a href="{% if (news.data.externalurl != undefined) %}{{ news.data.externalurl | url }}{% else %}{{ news.url | url }}{% endif %}" class="postlist-link">{% if news.data.title %}{{ news.data.title }}{% else %}<code>{{ news.url }}</code>{% endif %}</a>
     <time class="postlist-date" datetime="{{ news.date | htmlDateString }}">{{ news.date | readableDate }}</time>
     {% for tag in news.data.tags %}
       {%- if collections.tagList.indexOf(tag) != -1 -%}

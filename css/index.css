@@ -23,13 +23,16 @@ body {
 p:last-child {
   margin-bottom: 0;
 }
+.tmpl-news p {
+  max-width: 50em;
+}
 p, article ul, article ol,
-.tmpl-post li,
+.tmpl-post li, .tmpl-news li,
 img {
   max-width: 37.5em; /* 600px /16 */
 }
 p,
-.tmpl-post li {
+.tmpl-post li, .tmpl-news li {
   line-height: 1.75;
 }
 a[href] {

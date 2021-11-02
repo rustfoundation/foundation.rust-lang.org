@@ -1,8 +1,8 @@
 ---
 layout: layouts/base.njk
-templateClass: tmpl-meeting
+templateClass: tmpl-post
 ---
-<section class="container meeting">
+<section class="container post">
     <h1>{{ title }}</h1>
     <h2>{{ description }}</h2>
     <div class="content">
@@ -21,7 +21,7 @@ templateClass: tmpl-meeting
             the latest versions approved by the Board.
         {%- endif -%}
     </div>
-  <div class="meeting-tags">
+  <div class="post-tags">
     Tagged:
     {% for tag in tags %}
       {%- if collections.tagList.indexOf(tag) != -1 -%}
