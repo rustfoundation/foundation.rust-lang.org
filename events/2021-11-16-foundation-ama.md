@@ -9,4 +9,5 @@ tags:
 layout: layouts/event.njk
 ---
 
-<a href="https://zoom.us/webinar/register/WN_BNOwcv_TS7aMpGNGEaTgEQ">Register Here</a>
+- [Learn More](/posts/2021-11-04-rust-foundation-ama-launch/)
+- [Register Here](https://zoom.us/webinar/register/WN_BNOwcv_TS7aMpGNGEaTgEQ)
