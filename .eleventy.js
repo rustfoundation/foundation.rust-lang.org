@@ -39,6 +39,16 @@ module.exports = function(eleventyConfig) {
     return Math.min.apply(null, numbers);
   });
 
+  eleventyConfig.addFilter('toDate', function(date) {
+    return new Date(date);
+  });
+
+  // Ignore the passed in date of the filter and just return the current date
+  eleventyConfig.addFilter('toDateNow', function(date) {
+    return new Date();
+  });
+
+
   eleventyConfig.addCollection("tagList", function(collection) {
     let tagSet = new Set();
     collection.getAll().forEach(function(item) {
