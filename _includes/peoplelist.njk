@@ -1,5 +1,5 @@
 <ul class="peoplelist">
-{% for person in peoplelist  %}
+{% for person in peoplelist | reverse %}
   <li {% if person.data.headshot %}style="background-image: url('/img/headshot/{{ person.data.headshot }}'" {% endif %}>
     <div {% if person.data.ferris %}style="background-image: url('/img/ferris/{{ person.data.ferris }}'" {% endif %} alt="a drawing of ferris" class="ferris"></div>
     <div class="person">
