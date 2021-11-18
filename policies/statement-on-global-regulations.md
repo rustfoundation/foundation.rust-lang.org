@@ -20,7 +20,7 @@ While open source encryption software is also exempt from the EAR,[^2] open sour
 
 ## Security Vulnerability Pre-Disclosure Lists
 
-To mitigate the impact of security vulnerabilities on the Rust community, the Rust Project maintains a<span style="text-decoration:underline;"> security policy</span> that encourages the private disclosure of vulnerability information to the Rust security team, and provides for the pre-disclosure of security fixes via the Rust security mailing shortly before their public disclosure. Materials submitted privately, with the intention that they will be made publicly available if accepted for publication, are deemed “published” and therefore not controlled under the EAR.[^4]
+To mitigate the impact of security vulnerabilities on the Rust community, the Rust Project maintains a [security policy] that encourages the private disclosure of vulnerability information to the Rust security team, and provides for the pre-disclosure of security fixes via the Rust security mailing shortly before their public disclosure. Materials submitted privately, with the intention that they will be made publicly available if accepted for publication, are deemed “published” and therefore not controlled under the EAR.[^4]
 
 ## Other Activities
 
@@ -30,3 +30,5 @@ In addition to supporting the collaborative development of open source software,
 [^2]: 81 Fed. Reg. 64656, 64668 (September 20, 2016). See also, https://www.bis.doc.gov/index.php/policy-guidance/encryption/223-new-encryption.
 [^3]: 15 CFR § 742.15(b).
 [^4]: 15 CFR § 734.7(a)(5).
+
+[security policy]: https://www.rust-lang.org/policies/security
