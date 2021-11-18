@@ -3,9 +3,10 @@ title: Statement on Global Regulations
 layout: layouts/policy.njk
 ---
 Rust’s greatest strength is its community of maintainers, contributors, and users. Our community is a global one, with participants from dozens of countries worldwide. The Rust Foundation’s mission is to support this international effort and we welcome and rely on contributors from all over.
+
 ## US Export Controls
 
-The Rust Foundation is also a US-based organization and we recognize that in the United States, the export of certain software products and technical information is regulated by the Export Administration Regulations (EAR), which are administered by the Bureau of Industry and Security (BIS), a division of the US Department of Commerce. This statement reflects our understanding of how these regulations relate to the Rust Foundation’s activities. We are grateful to the Linux Foundation for their <span style="text-decoration:underline;">guidance to open source communities</span> on this issue, which we draw on here.
+The Rust Foundation is also a US-based organization and we recognize that in the United States, the export of certain software products and technical information is regulated by the Export Administration Regulations (EAR), which are administered by the Bureau of Industry and Security (BIS), a division of the US Department of Commerce. This statement reflects our understanding of how these regulations relate to the Rust Foundation’s activities. We are grateful to the Linux Foundation for their [guidance to open source communities][lf-guidance] on this issue, which we draw on here.
 
 ## Open Source Development
 
@@ -32,3 +33,4 @@ In addition to supporting the collaborative development of open source software,
 [^4]: 15 CFR § 734.7(a)(5).
 
 [security policy]: https://www.rust-lang.org/policies/security
+[lf-guidance]: https://www.linuxfoundation.org/tools/understanding-us-export-controls-with-open-source-projects/
