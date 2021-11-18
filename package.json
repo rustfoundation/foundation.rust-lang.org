@@ -30,7 +30,8 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.0",
     "luxon": "^1.26.0",
     "markdown-it": "^8.4.2",
-    "markdown-it-anchor": "^5.2.5"
+    "markdown-it-anchor": "^5.2.5",
+    "markdown-it-footnote": "^3.0.3"
   },
   "dependencies": {
     "eleventy-plugin-nesting-toc": "^1.2.0"
