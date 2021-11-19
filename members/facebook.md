@@ -1,6 +1,6 @@
 ---
-name: Facebook
+name: Meta
 level: platinum
-logo: facebook.png
+logo: meta.png
 url: https://opensource.fb.com
 ---

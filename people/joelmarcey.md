@@ -1,6 +1,6 @@
 ---
 name: Joel Marcey
-title: Member Director, Facebook
+title: Member Director, Meta
 layout: layouts/home.njk
 ferris: joel.png
 headshot: joel.jpeg
