@@ -5,6 +5,7 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const pluginTOC = require("eleventy-plugin-nesting-toc");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const markdownItFootnote = require("markdown-it-footnote");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -99,7 +100,7 @@ module.exports = function(eleventyConfig) {
     permalink: true,
     permalinkClass: "direct-link",
     permalinkSymbol: "#"
-  });
+  }).use(markdownItFootnote);
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Browsersync Overrides
