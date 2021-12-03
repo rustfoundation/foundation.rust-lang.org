@@ -177,8 +177,23 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/news/2021-11-17-news-rust-foundation-appoints-Rebecca-Rumbul-executive-director/</loc>
+    <lastmod>2021-11-17</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/posts/2021-11-17-introducing-rebecca-rumbul/</loc>
     <lastmod>2021-11-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/news/2021-11-19-news-rust-foundation-gets-ready-to-rumbul/</loc>
+    <lastmod>2021-11-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/news/2021-11-30-news-can-rust-save-the-planet/</loc>
+    <lastmod>2021-11-30</lastmod>
   </url>
   
   <url>
@@ -503,6 +518,21 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/staff/</loc>
+    <lastmod>2021-12-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/Foundation/</loc>
+    <lastmod>2021-12-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/Rust/</loc>
+    <lastmod>2021-12-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/environment/</loc>
     <lastmod>2021-12-03</lastmod>
   </url>
   
