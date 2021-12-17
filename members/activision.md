@@ -1,6 +1,6 @@
 ---
 name: Activision
-level: silver
+level: donor
 logo: activision.png
 url: https://www.activision.com/
 ---
