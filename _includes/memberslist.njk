@@ -34,3 +34,19 @@
         {% endif %}
     {% endfor %}
 </ul>
+<h2>Donors</h2>
+Membership is just one of the ways you can support the Rust Foundation. We are grateful to our non-member 
+corporate donors, whose generosity ensures we are able to provide even more support to the Rust Project 
+and Community. If your business would like to become a non-member donor, please get in touch with us at 
+<a href = "mailto:foundation@rust-lang.org">foundation@rust-lang.org</a>.
+<ul class="memberslist">
+    {% for member in memberslist %}
+        {% if member.data.level == "donor" %}
+            <li class="donor">
+                {% if member.data.logo %}
+                     <a href="{{ member.data.url }}" rel="nofollow"><img src="/img/donor/{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
+                {% endif %}
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
