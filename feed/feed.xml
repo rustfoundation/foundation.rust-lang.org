@@ -5,12 +5,33 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2021-12-15T00:00:00Z</updated>
+	<updated>2021-12-20T00:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>foundation@rust-lang.org</email>
 	</author>
+	
+	<entry>
+		<title>Spectral</title>
+		<link href="https://foundation.rust-lang.org/posts/2021-12-20-member-spotlight-spectral/"/>
+		<updated>2021-12-20T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/posts/2021-12-20-member-spotlight-spectral/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://foundation.rust-lang.org/img/posts/2021-12-20-member-spotlight-spectral/member_spotlight_dotan_nahum.png&quot; alt=&quot;Dotan Nahum&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;It’s time for another Rust Foundation &lt;a href=&quot;https://foundation.rust-lang.org/tags/member%20spotlight/&quot;&gt;member spotlight&lt;/a&gt;, our blog series in which we’ve been introducing all our great Silver &lt;a href=&quot;https://foundation.rust-lang.org/members/&quot;&gt;Member companies&lt;/a&gt; to the Rust community. Today we received input from &lt;a href=&quot;https://mobile.twitter.com/jondot&quot;&gt;Dotan Nahum&lt;/a&gt;, Founder and CEO of &lt;a href=&quot;https://spectralops.io/&quot;&gt;Spectral&lt;/a&gt;. Read on to learn about Spectral, how the company is using Rust and why it has joined the Rust Foundation.&lt;/p&gt;
+&lt;h2 id=&quot;tell-us-a-bit-about-spectral.-what-do-you-do-and-who-do-you-serve%3F&quot;&gt;Tell us a bit about Spectral. What do you do and who do you serve? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/posts/2021-12-20-member-spotlight-spectral/#tell-us-a-bit-about-spectral.-what-do-you-do-and-who-do-you-serve%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;We&#39;re a DevSecOps startup, building security products for developers that aim to help with security mistakes in codebases, data and apps. With Spectral you can cover full SDLC hardening from code to cloud, infrastructure, apps and CI/CD hardening, as well as best practices in code - all from a single CLI and a single one-pass scan.&lt;/p&gt;
+&lt;h2 id=&quot;how-is-spectral-using-rust%3F-how-do-you-expect-to-use-it-in-the-future%3F&quot;&gt;How is Spectral using Rust? How do you expect to use it in the future? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/posts/2021-12-20-member-spotlight-spectral/#how-is-spectral-using-rust%3F-how-do-you-expect-to-use-it-in-the-future%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Our core technology is Spectral Scan, which is fully built in Rust. It&#39;s a security scanner that can find security mistakes from secrets, PII in source code, documents, compiled files, binaries to security misconfiguration - a misconfigured infrastructure platform such as Kubernetes or a database such as Elastic or Postgres, and app frameworks such as Django and more. We also have &lt;a href=&quot;https://github.com/SpectralOps/keyscope&quot;&gt;Keyscope&lt;/a&gt; and &lt;a href=&quot;https://github.com/SpectralOps/service-policy-kit&quot;&gt;service-policy-kit&lt;/a&gt; which are both written in Rust and are open source. Technologically, we do optimized I/O, machine learning, parsing, and execution optimization in Rust.&lt;/p&gt;
+&lt;h2 id=&quot;what-was-spectral&#39;s-motivation-to-join-the-rust-foundation%3F&quot;&gt;What was Spectral&#39;s motivation to join the Rust Foundation? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/posts/2021-12-20-member-spotlight-spectral/#what-was-spectral&#39;s-motivation-to-join-the-rust-foundation%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Rust and the Rust community have been key players in realizing our technology, and we wanted to be a part of that community. Rust has been the perfect fit for the ambitious goal that we&#39;ve set for ourselves: one tool to rule them all, and the Foundation serves as a motivating and accepting community for us at Spectral. We feel obligated to give back as we move deeper into building security for developers at scale and seek out opportunities to contribute.&lt;/p&gt;
+&lt;h2 id=&quot;what-do-you-hope-the-rust-foundation-will-accomplish-in-the-months-and-years-ahead%3F&quot;&gt;What do you hope the Rust Foundation will accomplish in the months and years ahead? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/posts/2021-12-20-member-spotlight-spectral/#what-do-you-hope-the-rust-foundation-will-accomplish-in-the-months-and-years-ahead%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I hope the Rust Foundation is able to give a home to all of those who&#39;ve been working around Rust voluntarily, keep the motivation, and keep steering Rust in the right direction for serving as a mission critical programming language.&lt;/p&gt;
+&lt;h2 id=&quot;when-and-how-did-you-personally-get-involved-with-rust-itself-and-how-has-your-involvement-evolved%3F&quot;&gt;When and how did you personally get involved with Rust itself and how has your involvement evolved? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/posts/2021-12-20-member-spotlight-spectral/#when-and-how-did-you-personally-get-involved-with-rust-itself-and-how-has-your-involvement-evolved%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;As a programming language junky, I first got to use Rust around 2014. However, at the time I bumped into stability issues so I&#39;ve parked that experiment. I later picked it up again at around 2017-2018, when the 2018 edition was starting to make headlines. There were nice docs and it felt like a successful choice for a generalist programming language that has a learning curve charted out. It soon became the language to power the core technology at my new startup, Spectral.&lt;/p&gt;
+&lt;p&gt;For more about the Rust Foundation, visit our &lt;a href=&quot;https://foundation.rust-lang.org/&quot;&gt;website&lt;/a&gt; and &lt;a href=&quot;https://foundation.rust-lang.org/info/become-a-member/&quot;&gt;learn about becoming a member&lt;/a&gt;. Follow us on &lt;a href=&quot;https://twitter.com/rust_foundation&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/company/rust-foundation/&quot;&gt;LinkedIn&lt;/a&gt; to stay up to date.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Make Your Voice Heard: Take the State of Rust Survey</title>
