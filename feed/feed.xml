@@ -5,12 +5,29 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2021-12-20T00:00:00Z</updated>
+	<updated>2022-01-06T00:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>foundation@rust-lang.org</email>
 	</author>
+	
+	<entry>
+		<title>Happy New Year, Rustaceans</title>
+		<link href="https://foundation.rust-lang.org/posts/2022-01-06-happy-new-year-rustaceans-from-bec/"/>
+		<updated>2022-01-06T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/posts/2022-01-06-happy-new-year-rustaceans-from-bec/</id>
+		<content type="html">&lt;p&gt;HNY Rustaceans!&lt;/p&gt;
+&lt;p&gt;I hope that you all had the opportunity to take some time over the festive period to relax and spend time with family/friends/pets/yourself (dependent upon your preferences).&lt;/p&gt;
+&lt;p&gt;The new year is now upon us, and I wanted to highlight a few things that will be happening at the Rust Foundation in the coming weeks.&lt;/p&gt;
+&lt;p&gt;First up, I will be doing our Second Rust Foundation AMA with &lt;a href=&quot;https://twitter.com/nellshamrell&quot;&gt;Nell Shamrell-Harrington&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/sgrif&quot;&gt;Sage Griffin&lt;/a&gt; on Tuesday January 11th at 12pm PT / 3pm ET / 9PM CET. This is a chance for us to answer some of your questions, talk about some of the work we are doing at the Foundation, and generally for you to get to know me a bit better. Registration for this is now open, and &lt;a href=&quot;https://us06web.zoom.us/webinar/register/WN_Ivbo08H4QpaY6vbpkECp7A&quot;&gt;all the details can be found here&lt;/a&gt;. If you can&#39;t make the live session, then not to worry, it will be recorded and uploaded onto our &lt;a href=&quot;https://www.youtube.com/channel/UC0jzvznwtnsdXYIp415oC9g&quot;&gt;YouTube channel&lt;/a&gt; for you to access at your leisure.&lt;/p&gt;
+&lt;p&gt;Following this, our consultation exercise to inform our &lt;a href=&quot;https://foundation.rust-lang.org/news/2021-12-09-news-rust-foundation-to-launch-community-grants-program/&quot;&gt;Community Grants Program&lt;/a&gt; will open on 31st January and run for three weeks, until 20th February. We have a few short questions for you which are focused on how we can support you, and how we can sustain and grow the language and ecosystem. This is an important process that will directly shape how we structure our awards, and I hope that you will share your thoughts and expertise to enable us to create a fair and impactful program.&lt;/p&gt;
+&lt;p&gt;Our Silver &lt;a href=&quot;https://foundation.rust-lang.org/members/&quot;&gt;Membership&lt;/a&gt; continues to grow, and we are now at 19 members! This growth demonstrates the commitment that increasing numbers of tech companies are placing in the continued growth of the Rust Project. In line with our &lt;a href=&quot;https://foundation.rust-lang.org/policies/bylaws/&quot;&gt;bylaws&lt;/a&gt;, Silver Members are able to elect one person to the Board of Directors of the Rust Foundation from among their number. This election will be held during the first week of February 2022, with the new board member taking a seat for the February board meeting.&lt;/p&gt;
+&lt;p&gt;In the background, I am continuing to build up the Foundation’s internal processes and organization and meeting more members of the community and membership.&lt;/p&gt;
+&lt;p&gt;I wish you all a happy and healthy 2022!&lt;/p&gt;
+&lt;p&gt;Bec&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Spectral</title>
