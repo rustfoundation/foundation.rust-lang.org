@@ -9,6 +9,11 @@ tags:
 layout: layouts/event.njk
 ---
 
-- [Register Here](https://us06web.zoom.us/webinar/register/WN_Ivbo08H4QpaY6vbpkECp7A)
+<div class="video-holder">
+    <div id="video-container">
+        <iframe src="https://www.youtube.com/embed/C5JyXahfHw0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+
 - [Happy New Year Post](/posts/2022-01-06-happy-new-year-rustaceans-from-bec/)
 - [Learn More about our AMAs](/posts/2021-11-04-rust-foundation-ama-launch/)
