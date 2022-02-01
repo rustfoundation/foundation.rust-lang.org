@@ -26,7 +26,7 @@ You can provide your response to the survey here:
 - [French](https://survey.alchemer.eu/s3/90424842/Programme-2022-de-subventions-communautaires-de-la-Rust-Foundation)
 - [German](https://survey.alchemer.eu/s3/90424851/Pr-mienprogramm-der-Rust-Foundation-f-r-Communitys-2022)
 - [Chinese (Simplified)](https://survey.alchemer.eu/s3/90424845/Rust-2022-CHIS)
-- [Chinese (Traditional](https://survey.alchemer.eu/s3/90424846/Rust-2022-CHIT)
+- [Chinese (Traditional)](https://survey.alchemer.eu/s3/90424846/Rust-2022-CHIT)
 - [Portuguese](https://survey.alchemer.eu/s3/90424850/Funda-o-Rust-Programa-de-Bolsas-Comunit-rias-2022)
 - [Japanese](https://survey.alchemer.eu/s3/90424853/Rust-Foundation-2022-JP)
 - [Korean](https://survey.alchemer.eu/s3/90424854/2022-Rust-Foundation)
