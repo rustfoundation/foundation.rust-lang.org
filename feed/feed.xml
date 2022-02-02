@@ -5,12 +5,23 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2022-01-31T00:00:00Z</updated>
+	<updated>2022-02-02T00:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>foundation@rust-lang.org</email>
 	</author>
+	
+	<entry>
+		<title>Board Announcement: Farewell and Thanks to Florian</title>
+		<link href="https://foundation.rust-lang.org/posts/2022-02-02-farewell-florian/"/>
+		<updated>2022-02-02T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/posts/2022-02-02-farewell-florian/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://foundation.rust-lang.org/img/posts/2022-02-02-farewell-florian/florian.jpg&quot; alt=&quot;Florian Gilcher&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As many of you know, our colleague, &lt;a href=&quot;https://twitter.com/Argorak&quot;&gt;Florian Gilcher&lt;/a&gt;, has taken the decision to step down from the Rust Core Team. As Florian is a Project Director and representative of the Core Team on the Rust Foundation Board of Directors, this means he will also be stepping down from that role with us. Florian has been a prominent leader in the Rust Project for many years, and was key in driving the creation of the Foundation. He has been a committed and passionate advocate for the Rust Project and its communities around the world, and instrumental in organising Rust meet-ups and events in Europe. We are sad to be losing Florian as a board member, but delighted that he will remain in the Rust Foundation family as a Silver Member through his company, &lt;a href=&quot;https://ferrous-systems.com/&quot;&gt;Ferrous Systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We would like to express our thanks to Florian for all of his work with the Foundation, and wish him the very best in his new adventures.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Share your views - Rust Foundation Community Grants Program 2022</title>
