@@ -232,11 +232,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/posts/2022-01-27-member-spotlight-zama/</loc>
-    <lastmod>2022-01-27</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/posts/2022-01-31-survey-rust-foundation-community-grants-program/</loc>
     <lastmod>2022-01-31</lastmod>
   </url>
@@ -244,6 +239,11 @@
   <url>
     <loc>https://foundation.rust-lang.org/posts/2022-02-02-farewell-florian/</loc>
     <lastmod>2022-02-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/posts/2022-02-08-member-spotlight-zama/</loc>
+    <lastmod>2022-02-08</lastmod>
   </url>
   
   <url>
@@ -567,6 +567,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/external%20blog/</loc>
+    <lastmod>2022-02-08</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/membership/</loc>
     <lastmod>2022-02-08</lastmod>
   </url>
@@ -578,11 +583,6 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
-    <lastmod>2022-02-08</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/external%20blog/</loc>
     <lastmod>2022-02-08</lastmod>
   </url>
   
@@ -622,11 +622,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
-    <lastmod>2022-02-08</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/announcement/</loc>
     <lastmod>2022-02-08</lastmod>
   </url>
@@ -637,12 +632,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/membership%20update/</loc>
+    <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
     <lastmod>2022-02-08</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/jobs/</loc>
+    <lastmod>2022-02-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/membership%20update/</loc>
     <lastmod>2022-02-08</lastmod>
   </url>
   
@@ -667,12 +667,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/plans/</loc>
+    <loc>https://foundation.rust-lang.org/tags/board/</loc>
     <lastmod>2022-02-08</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/board/</loc>
+    <loc>https://foundation.rust-lang.org/tags/plans/</loc>
     <lastmod>2022-02-08</lastmod>
   </url>
   
