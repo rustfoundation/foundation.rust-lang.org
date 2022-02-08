@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rust Foundation - Member Spotlight: Zama</title>
+    <meta name="description" content="Introducing Zama, Rust Foundation Silver Member.">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Rust Foundation">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Rust Foundation">
+    <meta name="title" content="Rust Foundation">
+<meta name="description" content="The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://foundation.rust-lang.org">
+<meta property="og:title" content="Rust Foundation">
+<meta property="og:description" content="The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.">
+<meta property="og:image" content="http://foundation.rust-lang.org/img/thumbnail.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://foundation.rust-lang.org/">
+<meta property="twitter:title" content="Rust Foundation">
+<meta property="twitter:description" content="The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.">
+<meta property="twitter:image" content="http://foundation.rust-lang.org/img/thumbnail.png">
+
+    <script defer data-domain="foundation.rust-lang.org" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+    <header>
+        <ul class="nav">
+    <li class="nav-item home"><a href="/"><img alt="rust logo" src="/img/rf-logo-transparent.png"/></a></li>
+            <li class="nav-item"><a href="/">Home</a></li>
+            <li class="nav-item"><a href="/board/">Board</a></li>
+            <li class="nav-item"><a href="/events/">Events</a></li>
+            <li class="nav-item"><a href="/meetings/">Meetings</a></li>
+            <li class="nav-item"><a href="/members/">Members</a></li>
+            <li class="nav-item"><a href="/news/">News</a></li>
+            <li class="nav-item"><a href="/posts/">Blog</a></li>
+            <li class="nav-item"><a href="/info/contact/">Contact</a></li>
+<li class="nav-item"><div class="cta-white button"><a href="/info/become-a-member">Become a Member</a></div></li>
+</ul>
+
+    </header>
+
+    <main class="tmpl-post">
+        <section class="container post">
+  <h2 class="series">Member Spotlight</h2>
+  <h1>Member Spotlight: Zama</h1>
+  
+
+  <article>
+    <p><img src="/img/posts/2022-01-27-member-spotlight-zama/member_spotlight_rand_hindi.png" alt="Rand Hindi"></p>
+<p>As we settle into 2022, we’re excited to share the first member spotlight of the new year. Launched in September, the member spotlight series serves as a way of introducing our growing roster of silver member companies to the wider Rust community. We’re thrilled to welcome such an interesting and diverse group of companies to the Rust Foundation family, and we look forward to seeing the Silver Member ranks grow. In today’s post we hear from <a href="https://twitter.com/randhindi">Rand Hindi</a>, Co-founder and CEO of <a href="https://zama.ai/">Zama</a>. Read on to learn more.</p>
+<h2 id="tell-us-a-bit-about-zama.">Tell us a bit about Zama. <a class="direct-link" href="#tell-us-a-bit-about-zama.">#</a></h2>
+<p>At Zama, we are building an open source framework for homomorphic encryption, a new data encryption approach that enables users to compute on encrypted data. It allows for the blind manipulation of data, without allowing the user to see the actual data. Our framework, <a href="https://zama.ai/concrete/">Concrete</a>, is completely open source, built in Rust and is arguably the most advanced toolset in the space. We designed it specifically for non-cryptographers. Developers who want to use homomorphic encryption to secure the data in their applications can do that using the Concrete framework, even if they know nothing about cryptography or homomorphic encryption.</p>
+<p>The Concrete technology is designed for building applications where sensitive data needs to be manipulated in the cloud. Think of medical products, facial recognition, blockchain, financial services, and so on. Imagine you are a company and want to use facial recognition to authenticate your users. The company that authorizes the facial recognition service would need your passport (or another official document) in a database to provide a visual match. With homomorphic encryption, you’d send an encrypted version of your passport to the facial recognition provider, they would not have the ability to decrypt it, but they could run their facial recognition algorithms on it and do a match between an encrypted photo and the encrypted passport. The user experience isn’t impacted at all, but the provider of the service no longer has access to your sensitive information – everything is truly encrypted end-to-end. To learn more and stay up to date with everything we do at Zama: <a href="https://zamafhe.substack.com/">subscribe to our newsletter</a>.</p>
+<h2 id="how-does-rust-fit-into-your-work%3F">How does Rust fit into your work? <a class="direct-link" href="#how-does-rust-fit-into-your-work%3F">#</a></h2>
+<p>I’ve been personally involved with Rust since 2015, when my previous company was using it in embedded machine learning. Rust was very young at the time and not as widely supported as it is today, but it was still a no-brainer for us. In fact, when I first discovered Rust, it was love at first sight because it fit our needs perfectly. When we started Zama, Rust was a natural choice, and we use it for almost everything – the cryptographic library, the backend, and the web services we’re working on.</p>
+<h2 id="what-about-rust-made-you-fall-in-love%3F-what-are-your-favorite-features%3F">What about Rust made you fall in love? What are your favorite features? <a class="direct-link" href="#what-about-rust-made-you-fall-in-love%3F-what-are-your-favorite-features%3F">#</a></h2>
+<p>As a cryptography company, we’re all about providing privacy and security and we don’t want to worry about things like bugs in the code or memory leaks. Rust is the safest language you can use for high performance, sensitive code. For me, the safety piece was a crucial part of why Rust was such a perfect fit. Rust also provides the system level performance needed for high-performance computing and mathematical computing, which is also necessary for our business.</p>
+<h2 id="what-made-you-interested-in-joining-the-rust-foundation%3F">What made you interested in joining the Rust Foundation? <a class="direct-link" href="#what-made-you-interested-in-joining-the-rust-foundation%3F">#</a></h2>
+<p>We just wanted to get more involved in the community in general. For us, using Rust has been great for many reasons and we want to contribute whatever we can. We’re also interested in open source in general, and I feel the Rust and open source communities are closely linked. I could say the same for the privacy community – the Rust community is very privacy-centric, which is obviously important. The Foundation ticked a lot of boxes, and I enjoy having the opportunity to be a part of a community where I can have good conversations and think productively with other members.</p>
+<h2 id="where-would-you-like-to-see-the-foundation-go-in-the-coming-years%3F">Where would you like to see the Foundation go in the coming years? <a class="direct-link" href="#where-would-you-like-to-see-the-foundation-go-in-the-coming-years%3F">#</a></h2>
+<p>I’d like to see Rust replace C++. I think the Rust Foundation has an important role to play in helping Rust graduate from advanced engineering to mainstream engineering. Five or six years ago when I started with Rust, it was sort of “hipster,” something the cool people were using. Then it became a productive language, as the tooling started catching up and people started using it and online courses started catching up. Now it’s becoming approachable. The next step is making it ubiquitous and the number one language everyone uses. Why would you want to use something that is clearly inferior in terms of developer experience? A lot of contemporary thinking has gone into building Rust, and it’s time to get the language out there even more.</p>
+<h2 id="has-rust-helped-with-any-specific-challenges%3F">Has Rust helped with any specific challenges? <a class="direct-link" href="#has-rust-helped-with-any-specific-challenges%3F">#</a></h2>
+<p>In my experience, you can make things work in any language, but sometimes it’s much more painful than it needs to be. Rust gives us a lot of peace of mind on the security side, which was a challenge with some other languages. It’s also fun to use, and it works in a very elegant way. One collateral benefit of being a Rust shop was that it has helped us recruit good talent – we were able to attract a lot of great engineers because we offered the opportunity to work in Rust. In my experience, the engineers who want to work in Rust are better than the average engineer, so it’s been a great tool for hiring talented employees. The best engineers want to use the best technologies, and Rust certainly falls into that category.</p>
+<h2 id="if-you-had-to-describe-rust-in-just-three-words%2C-what-would-they-be%3F">If you had to describe Rust in just three words, what would they be? <a class="direct-link" href="#if-you-had-to-describe-rust-in-just-three-words%2C-what-would-they-be%3F">#</a></h2>
+<p>Secure, fast, and fun.</p>
+<p>To learn more about the Rust Foundation, check out our <a href="https://foundation.rust-lang.org/">website</a>, <a href="https://foundation.rust-lang.org/info/become-a-member/">learn about becoming a member</a> and follow us on <a href="https://twitter.com/rust_foundation">Twitter</a> and <a href="https://www.linkedin.com/company/rust-foundation/">LinkedIn</a> to stay up to date.</p>
+
+  </article>
+  <div class="post-tags">
+    Tagged: 
+    
+      <a href="/tags/member spotlight/" class="post-tag">member spotlight</a>
+  </div>
+  <h2 class="date"></h2>
+
+  <hr>
+  <ul><li>Next: <a href="/posts/2022-01-31-survey-rust-foundation-community-grants-program/">Share your views - Rust Foundation Community Grants Program 2022</a></li><li>Previous: <a href="/posts/2022-01-06-happy-new-year-rustaceans-from-bec/">Happy New Year, Rustaceans</a></li>
+  </ul>
+</section>
+
+    </main>
+
+    <footer>
+    <div class="container">
+      <img src="/img/rf-logo-transparent.png" alt="rust foundation logo"/>
+      <div>
+        <a href="https://twitter.com/rust_foundation"><img class="social_icon" src="/img/social/twitter.png" alt="Twitter icon"/></a>
+        <a href="https://www.linkedin.com/company/rust-foundation/"><img class="social_icon" src="/img/social/linkedin.png" alt="LinkedIn icon" /></a>
+      </div>
+      <div>
+      
+        <a href="/policies/anti-trust-policy">Anti-Trust Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/bylaws">Bylaws</a>
+        
+         |
+        
+      
+        <a href="/policies/code-of-conduct">Code of Conduct</a>
+        
+         |
+        
+      
+        <a href="/policies/privacy-policy">Privacy Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/statement-on-global-regulations">Statement on Global Regulations</a>
+        
+      
+      </div>
+    </div>
+</footer>
+
+
+    <!-- Current page: /posts/2022-01-27-member-spotlight-zama/ -->
+  </body>
+</html>
