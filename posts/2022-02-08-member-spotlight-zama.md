@@ -7,7 +7,7 @@ tags:
    - member spotlight
 ---
 
-![Rand Hindi](/img/posts/2022-01-27-member-spotlight-zama/member_spotlight_rand_hindi.png)
+![Rand Hindi](/img/posts/2022-02-08-member-spotlight-zama/member_spotlight_rand_hindi.png)
 
 As we settle into 2022, we’re excited to share the first member spotlight of the new year. Launched in September, the member spotlight series serves as a way of introducing our growing roster of silver member companies to the wider Rust community. We’re thrilled to welcome such an interesting and diverse group of companies to the Rust Foundation family, and we look forward to seeing the Silver Member ranks grow. In today’s post we hear from [Rand Hindi](https://twitter.com/randhindi), Co-founder and CEO of [Zama](https://zama.ai/). Read on to learn more.
 
