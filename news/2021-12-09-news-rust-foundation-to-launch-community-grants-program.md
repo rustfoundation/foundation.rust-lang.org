@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Rust Foundation to Launch Community Grants Program
-description: Rust developer community expanding rapidly; access to resources from Rust Foundation will drive strategic and purposeful Rust growth and sustainability   
+description: Rust developer community expanding rapidly; access to resources from Rust Foundation will drive strategic and purposeful Rust growth and sustainability
 tags:
   - foundation
   - program
