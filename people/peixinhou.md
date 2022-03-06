@@ -1,6 +1,6 @@
 ---
 name: Peixin Hou
 title: Member Director, Huawei
-ferris: peixin.png
-headshot: peixin.png
+ferris: /img/ferris/peixin.png
+headshot: /img/headshot/peixin.png
 ---

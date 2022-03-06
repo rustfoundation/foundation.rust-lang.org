@@ -2,6 +2,6 @@
 name: Joel Marcey
 title: Member Director, Meta
 layout: layouts/home.njk
-ferris: joel.png
-headshot: joel.jpeg
+ferris: /img/ferris/joel.png
+headshot: /img/headshot/joel.jpeg
 ---

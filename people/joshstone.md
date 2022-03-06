@@ -1,6 +1,6 @@
 ---
 name: Josh Stone
 title: Project Director, Reliability
-ferris: josh.png
-headshot: josh.jpg
+ferris: /img/ferris/josh.png
+headshot: /img/headshot/josh.jpg
 ---
