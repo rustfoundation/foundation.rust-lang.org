@@ -2,11 +2,11 @@ _inputs:
   ferris:
     type: image
     options:
-      uploads_dir: img
+      uploads_dir: img/ferris
   headshot:
     type: image
     options:
-      uploads_dir: img
+      uploads_dir: img/headshot
 
 collections_config:
   people:

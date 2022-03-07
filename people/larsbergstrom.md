@@ -1,6 +1,6 @@
 ---
 name: Lars Bergstrom
 title: Member Director, Google
-ferris: lars.png
-headshot: lars.jpg
+ferris: /img/ferris/lars.png
+headshot: /img/headshot/lars.jpg
 ---
