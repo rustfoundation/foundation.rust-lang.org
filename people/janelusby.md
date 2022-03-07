@@ -1,6 +1,6 @@
 ---
 name: Jane Lusby
 title: Project Director, Collaboration
-ferris: jane.png
-headshot: jane.jpg
+ferris: /img/ferris/jane.png
+headshot: /img/headshot/jane.jpg
 ---
