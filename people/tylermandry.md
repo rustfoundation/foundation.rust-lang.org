@@ -1,6 +1,6 @@
 ---
 name: Tyler Mandry
 title: Project Director, Quality
-ferris: tyler.png
-headshot: tyler.jpg
+ferris: /img/ferris/tyler.png
+headshot: /img/headshot/tyler.jpg
 ---
