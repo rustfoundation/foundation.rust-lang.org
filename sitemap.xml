@@ -577,12 +577,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/membership/</loc>
+    <loc>https://foundation.rust-lang.org/tags/external%20blog/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/external%20blog/</loc>
+    <loc>https://foundation.rust-lang.org/tags/membership/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
   
@@ -677,17 +677,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
-    <lastmod>2022-03-08</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/plans/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/board/</loc>
+    <lastmod>2022-03-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
 </urlset>
