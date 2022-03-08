@@ -577,6 +577,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/external%20blog/</loc>
+    <lastmod>2022-03-08</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/membership/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
@@ -592,11 +597,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/Foundation/</loc>
-    <lastmod>2022-03-08</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/foundation/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
@@ -607,7 +607,7 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/external%20blog/</loc>
+    <loc>https://foundation.rust-lang.org/tags/Foundation/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
   
@@ -632,17 +632,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
-    <lastmod>2022-03-08</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/announcement/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/philosophy/</loc>
+    <lastmod>2022-03-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
   
@@ -677,17 +677,17 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
+    <lastmod>2022-03-08</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/plans/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/board/</loc>
-    <lastmod>2022-03-08</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
 </urlset>
