@@ -577,11 +577,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/external%20blog/</loc>
-    <lastmod>2022-03-08</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/membership/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
@@ -597,6 +592,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/Foundation/</loc>
+    <lastmod>2022-03-08</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/foundation/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
@@ -607,7 +607,7 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/Foundation/</loc>
+    <loc>https://foundation.rust-lang.org/tags/external%20blog/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
   
@@ -632,6 +632,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
+    <lastmod>2022-03-08</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/announcement/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
@@ -642,22 +647,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
-    <lastmod>2022-03-08</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/membership%20update/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/member%20spotlight/</loc>
+    <loc>https://foundation.rust-lang.org/tags/jobs/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/jobs/</loc>
+    <loc>https://foundation.rust-lang.org/tags/member%20spotlight/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
   
@@ -677,17 +677,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
-    <lastmod>2022-03-08</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/plans/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/board/</loc>
+    <lastmod>2022-03-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
 </urlset>
