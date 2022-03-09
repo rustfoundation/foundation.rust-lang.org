@@ -1,6 +1,6 @@
 ---
 name: Arm
 level: silver
-logo: arm.png
+logo: /img/member/arm.png
 url: https://www.arm.com/
 ---

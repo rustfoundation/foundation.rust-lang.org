@@ -7,12 +7,21 @@ _inputs:
     type: image
     options:
       uploads_dir: img/headshot
+  member:
+    type: image
+    options:
+      uploads_dir: img/member
 
 collections_config:
   people:
     _enabled_editors:
       - data
     image_key: headshot
+    image_size: contain
+  members:
+    _enabled_editors:
+      - data
+    image_key: member
     image_size: contain
 
 _editables:

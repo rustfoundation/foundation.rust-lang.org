@@ -1,6 +1,6 @@
 ---
 name: simplabs
 level: silver
-logo: simplabs.png
+logo: /img/member/simplabs.png
 url: https://simplabs.com
 ---

@@ -1,6 +1,6 @@
 ---
 name: ZAMA
 level: silver
-logo: zama.png
+logo: /img/member/zama.png
 url: https://zama.ai/
 ---

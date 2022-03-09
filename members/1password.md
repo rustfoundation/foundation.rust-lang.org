@@ -1,6 +1,6 @@
 ---
 name: 1Password
 level: silver
-logo: 1password.png
+logo: /img/member/1password.png
 url: https://1password.com
 ---

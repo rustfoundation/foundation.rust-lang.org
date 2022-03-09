@@ -1,6 +1,6 @@
 ---
 name: Knoldus
 level: silver
-logo: knoldus.png
+logo: /img/member/knoldus.png
 url: https://www.knoldus.com/
 ---

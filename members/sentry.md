@@ -1,6 +1,6 @@
 ---
 name: Sentry
 level: silver
-logo: sentry.png
+logo: /img/member/sentry.png
 url: https://sentry.io/
 ---

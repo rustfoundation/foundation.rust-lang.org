@@ -1,6 +1,6 @@
 ---
 name: Activision
 level: donor
-logo: activision.png
+logo: /img/member/activision.png
 url: https://www.activision.com/
 ---

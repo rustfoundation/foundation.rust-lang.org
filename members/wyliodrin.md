@@ -1,6 +1,6 @@
 ---
 name: Wyliodrin
 level: silver
-logo: wyliodrin.png
+logo: /img/member/wyliodrin.png
 url: https://wyliodrin.com/
 ---

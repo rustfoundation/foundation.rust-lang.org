@@ -1,6 +1,6 @@
 ---
 name: Dropbox
 level: silver
-logo: dropbox.png
+logo: /img/member/dropbox.png
 url: https://dropbox.com/
 ---

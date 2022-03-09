@@ -1,6 +1,6 @@
 ---
 name: Threema
 level: silver
-logo: threema.png
+logo: /img/member/threema.png
 url: https://threema.ch/
 ---
