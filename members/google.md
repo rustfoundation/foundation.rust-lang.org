@@ -1,6 +1,6 @@
 ---
 name: Google
 level: founding
-logo: google.png
+logo: /img/member/google.png
 url: https://google.com
 ---

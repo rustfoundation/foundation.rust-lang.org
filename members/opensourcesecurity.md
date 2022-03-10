@@ -1,6 +1,6 @@
 ---
 name: Open Source Security
 level: silver
-logo: opensourcesecurity.png
+logo: /img/member/opensourcesecurity.png
 url: https://opensrcsec.com/
 ---

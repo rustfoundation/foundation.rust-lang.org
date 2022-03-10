@@ -1,6 +1,6 @@
 ---
 name: Toyota Connected
 level: silver
-logo: toyota.png
+logo: /img/member/toyota.png
 url: https://www.toyotaconnected.com/
 ---

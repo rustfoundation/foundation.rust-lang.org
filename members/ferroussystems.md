@@ -1,6 +1,6 @@
 ---
 name: Ferrous Systems
 level: silver
-logo: ferroussystems.png
+logo: /img/member/ferroussystems.png
 url: https://ferrous-systems.com/
 ---

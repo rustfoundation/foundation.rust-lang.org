@@ -1,6 +1,6 @@
 ---
 name: Mozilla
 level: founding
-logo: mozilla.png
+logo: /img/member/mozilla.png
 url: https://mozilla.org
 ---

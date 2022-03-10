@@ -1,6 +1,6 @@
 ---
 name: Microsoft
 level: founding
-logo: microsoft.png
+logo: /img/member/microsoft.png
 url: https://microsoft.com
 ---

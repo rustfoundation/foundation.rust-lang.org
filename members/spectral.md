@@ -1,6 +1,6 @@
 ---
 name: Spectral
 level: silver
-logo: spectral.png
+logo: /img/member/spectral.png
 url: https://spectralops.io/
 ---

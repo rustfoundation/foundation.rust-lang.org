@@ -1,6 +1,6 @@
 ---
 name: CleverCloud
 level: silver
-logo: clevercloud.png
+logo: /img/member/clevercloud.png
 url: https://www.clever-cloud.com/
 ---

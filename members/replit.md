@@ -1,6 +1,6 @@
 ---
 name: Replit
 level: donor
-logo: replit.png
+logo: /img/member/replit.png
 url: https://replit.com/
 ---

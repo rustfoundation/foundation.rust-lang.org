@@ -1,6 +1,6 @@
 ---
 name: KDAB
 level: silver
-logo: kdab.png
+logo: /img/member/kdab.png
 url: https://www.kdab.com/
 ---
