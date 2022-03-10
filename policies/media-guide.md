@@ -5,7 +5,7 @@ layout: layouts/policy.njk
 
 ## **Art license**
 
-The Rust and Cargo logos (bitmap and vector) are owned by the Rust Foundation and distributed under the terms of the <u>Creative Commons Attribution license (CC-BY)</u>. This is the most permissive Creative Commons license, and allows reuse and modifications for any purpose. The restrictions are that distributors must “give appropriate credit, provide a link to the license, and indicate if changes were made.” **Note that use of these logos, and the Rust and Cargo names, is also governed by trademark; our trademark policy is described below**.
+The Rust and Cargo logos (bitmap and vector) are owned by the Rust Foundation and distributed under the terms of the [Creative Commons Attribution license (CC-BY)](https://creativecommons.org/licenses/by/4.0/). This is the most permissive Creative Commons license, and allows reuse and modifications for any purpose. The restrictions are that distributors must “give appropriate credit, provide a link to the license, and indicate if changes were made.” **Note that use of these logos, and the Rust and Cargo names, is also governed by trademark; our trademark policy is described below**.
 
 ## **Trademark policy**
 
@@ -15,7 +15,7 @@ The Rust and Cargo names and brands make it possible to say what is officially p
 
 If you have any doubts about whether your intended use of a Rust Trademark requires permission, please contact us.
 
-This document was derived in part from the <u>Python Software Foundation Trademark Usage Policy</u>.&nbsp;
+This document was derived in part from the [Python Software Foundation Trademark Usage Policy](https://www.python.org/psf/trademarks/).
 
 ## **The Rust trademarks**
 
