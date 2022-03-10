@@ -3,8 +3,6 @@ title: Code of Conduct
 layout: layouts/policy.njk
 ---
 
-# Code of Conduct
-
 The Rust Foundation (“Foundation”) has adopted the following code of conduct.
 
 We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic. Consequently, we will not tolerate bullying or harassment of anyone, in any form, anywhere within the Foundation’s activities. This Code of Conduct sets out our policy and tells you where you can report violations.
