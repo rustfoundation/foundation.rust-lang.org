@@ -61,6 +61,6 @@ We will keep a written record of all donations, hospitality or gifts accepted or
 
 Participants who refuse to engage in bribery, or who raise concerns, are sometimes worried about possible repercussions. We want to assure our participants that we encourage openness and will support anyone who raises genuine concerns in good faith, and ensure they do not suffer any detrimental treatment as a result.
 
-If you suspect that there is an instance of bribery or corrupt activities occurring in relation to the Rust Foundation, you should raise your concerns with the Executive Director at as early a stage as possible. If you’re unwilling to speak to the Executive Director then you should approach the chair of the board.
+To contact the Foundation regarding matters addressed by this Policy, please send an email to contact@rustfoundation.org, and reference “Foundation Anti-Bribery and Anti-Corruption Policy” in the subject line.
 
 To the fullest extent possible, your report will be treated as confidential and we will let you know the outcome of the enquiry into your suspicions.
