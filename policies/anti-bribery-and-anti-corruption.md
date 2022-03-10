@@ -1,7 +1,8 @@
 ---
-title: Anti-bribery and anti-corruption
+title: Anti-Bribery and Anti-Corruption Policy
 layout: layouts/policy.njk
 ---
+
 ## Policy statement
 
 The mission of Rust Foundation (the “Foundation”) is to support the maintenance and development of the open source Rust programming language and related projects. The Foundation is committed to conducting its business in an honest and ethical manner. We commit to:
