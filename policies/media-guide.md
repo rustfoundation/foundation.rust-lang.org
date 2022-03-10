@@ -1,5 +1,5 @@
 ---
-title: Media guide
+title: Logo Policy and Media Guide
 layout: layouts/policy.njk
 ---
 
@@ -25,8 +25,8 @@ The Rust Trademarks include two word marks and two logos:
 
 * Rust
 * Cargo
-* <img src="/img/rust-logo-blk.svg" width="144" height="144" />
-* <img src="/img/cargo.png" width="306" height="275" />
+* <img width="144" height="144" src="/img/rust-logo-blk.svg" />
+* <img width="306" height="275" src="/img/cargo.png" />
 
 Trademarks are names and designs that tell the world the source of a good or service. Protecting trademarks for an open source project is particularly important. Anyone can change the source code and produce a product from that code, so it’s important that only the original product, or variations that have been approved by the project, use the project’s trademarks. By limiting use of the Rust Trademarks, Rust Foundation and the Rust project can help users and developers know they’re getting the product produced by the Rust project and not someone else’s modified version. The trademark assures users and developers of the quality and safety of the product they’re using.
 
