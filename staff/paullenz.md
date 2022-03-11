@@ -1,7 +1,7 @@
 ---
-name: Joel Marcey
-title: Director of Operations and Advocacy
+name: Paul Lenz
+title: Director of Finance and Funding
 layout: layouts/home.njk
-ferris: /img/ferris/joel.png
-headshot: /img/headshot/joel.jpeg
+ferris: /img/ferris/paul.png
+headshot: /img/headshot/paul.jpeg
 ---
