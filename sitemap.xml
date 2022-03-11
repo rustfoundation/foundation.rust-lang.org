@@ -262,7 +262,52 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/board/</loc>
+    <loc>https://foundation.rust-lang.org/about/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/board/bobbyholley/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/board/janelusby/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/board/joshstone/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/board/larsbergstrom/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/board/markrousskov/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/board/nellshamrell-harrington/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/board/peixinhou/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/board/shanemiller/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/board/tylermandry/</loc>
     <lastmod>2022-03-11</lastmod>
   </url>
   
@@ -457,61 +502,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/people/bobbyholley/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/people/janelusby/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/people/joelmarcey/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/people/joshstone/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/people/larsbergstrom/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/people/markrousskov/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/people/nellshamrell-harrington/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/people/peixinhou/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/people/rebeccarumbul/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/people/shanemiller/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/people/tylermandry/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/policies/anti-bribery-and-anti-corruption-policy/</loc>
     <lastmod>2022-03-11</lastmod>
   </url>
@@ -552,12 +542,42 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/staff/abibroom/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/staff/joelmarcey/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/staff/paullenz/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/staff/rebeccarumbul/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/</loc>
     <lastmod>2022-03-11</lastmod>
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/board/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/members/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/staff/</loc>
     <lastmod>2022-03-11</lastmod>
   </url>
   
@@ -602,11 +622,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/membership/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/programs/</loc>
     <lastmod>2022-03-11</lastmod>
   </url>
@@ -617,27 +632,17 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/membership/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/foundation/</loc>
     <lastmod>2022-03-11</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/staff/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/Foundation/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/program/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
     <lastmod>2022-03-11</lastmod>
   </url>
   
@@ -648,6 +653,16 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/environment/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/program/</loc>
+    <lastmod>2022-03-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
     <lastmod>2022-03-11</lastmod>
   </url>
   
@@ -703,11 +718,6 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/plans/</loc>
-    <lastmod>2022-03-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/board/</loc>
     <lastmod>2022-03-11</lastmod>
   </url>
 </urlset>
