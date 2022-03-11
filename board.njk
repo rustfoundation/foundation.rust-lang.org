@@ -6,6 +6,14 @@ eleventyNavigation:
   order: 2
 ---
 
+insert pithy text about the RF here
+
+<section class="container staff">
+    <h1>Staff</h1>
+    {% set peoplelist = collections.people %}
+    {% include "peoplelist.njk" %}
+</section>
+
 <section class="container board">
     <h1>Board of Directors</h1>
     {% set peoplelist = collections.people %}
