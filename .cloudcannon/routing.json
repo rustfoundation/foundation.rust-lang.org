@@ -1,0 +1,10 @@
+{
+  "routes": [
+    {
+      "from": "/board",
+      "to": "/about",
+      "status": 301
+    }
+  ]
+}
+
