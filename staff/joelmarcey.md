@@ -1,6 +1,6 @@
 ---
 name: Joel Marcey
-title: Member Director, Meta
+title: Director of Operations and Advocacy
 layout: layouts/home.njk
 ferris: /img/ferris/joel.png
 headshot: /img/headshot/joel.jpeg
