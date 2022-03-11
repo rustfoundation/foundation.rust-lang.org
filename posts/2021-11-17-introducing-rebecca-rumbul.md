@@ -5,7 +5,6 @@ byline: Rebecca Rumbul, Executive Director and CEO, Rust Foundation
 description: Rebecca Rumbul (Just call me ‘Bec’)
 tags:
    - foundation
-   - staff
 ---
 
 Hello, all. [I am delighted to join the Rust Foundation as Executive Director and CEO](/news/2021-11-17-news-announcing-rebecca-rumbul-executive-director-ceo/). This is a huge and exciting role for me and for the Rust Foundation, and I feel privileged to have the opportunity to support such a broad, innovative and collaborative community. I am eager to get started, and hope to meet as many of you as possible in the coming months.

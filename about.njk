@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+permalink: /about/
+eleventyNavigation:
+  key: About
+  order: 2
+---
+
+<section class="container">
+    <h1>We are the Rust Foundation</h1>
+<div>The Rust Foundation is run by a small team of full time staff, and governed by a Board of Directors who represent the Rust project and our member companies.</div>
+</section>
+
+<section class="container staff">
+    <h1>Staff</h1>
+    {% set peoplelist = collections.staff %}
+    {% include "peoplelist.njk" %}
+</section>
+
+<section class="container board">
+    <h1>Board of Directors</h1>
+    {% set peoplelist = collections.board %}
+    {% include "peoplelist.njk" %}
+</section>

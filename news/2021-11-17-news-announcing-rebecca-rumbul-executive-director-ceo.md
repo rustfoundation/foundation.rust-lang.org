@@ -4,7 +4,6 @@ title: Rust Foundation Taps Rebecca Rumbul as Executive Director & CEO
 description: Digital democracy advocate to lead non-profit focused on advancing the Rust Project, a significant step forward in its effort to build an organization to support the rapid innovation and adoption of the Rust programming language
 tags:
   - foundation
-  - staff
 ---
 
 Nov. 17, 2021 WAKEFIELD, Mass – The [Rust Foundation](https://foundation.rust-lang.org/), an independent non-profit dedicated to supporting the [Rust Project](https://www.rust-lang.org/), today announced the appointment of [Rebecca Rumbul](/posts/2021-11-17-introducing-rebecca-rumbul/) as the organization’s Executive Director and CEO. Rumbul will lead the new non-profit as it pushes forward with an ambitious agenda to support the work of Rust language maintainers, a global community that governs and develops the Rust programming language.
