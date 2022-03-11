@@ -2,7 +2,6 @@
 layout: post
 title: "Board Announcement: Farewell and Thanks to Florian"
 tags:
-   - board
    - foundation
 ---
 
