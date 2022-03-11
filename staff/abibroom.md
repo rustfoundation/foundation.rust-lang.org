@@ -1,7 +1,7 @@
 ---
-name: Joel Marcey
-title: Director of Operations and Advocacy
+name: Abi Broom
+title: Operations Manager
 layout: layouts/home.njk
-ferris: /img/ferris/joel.png
-headshot: /img/headshot/joel.jpeg
+ferris: /img/ferris/abi.png
+headshot: /img/headshot/abi.jpeg
 ---
