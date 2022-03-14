@@ -434,11 +434,11 @@ footer .container {
   }
 }
 
-.policy h1, .post h1, .event h1, .posts h1, .events h1, .meetings h1, .news h1, .contact h1, .members h1, .become h1 { /* noted for probable later elimination */
+/* .policy h1, .post h1, .event h1, .posts h1, .events h1, .meetings h1, .news h1, .contact h1, .members h1, .become h1 { noted for probable later elimination
   font-size: 3.25em;
   font-weight: 900;
   margin: 1em 0;
-}
+} */
 
 .post h2, .event h2 {
   font-family: 'Raleway', sans-serif;
