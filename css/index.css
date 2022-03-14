@@ -44,9 +44,7 @@ a[href]:hover {
 a[href]:visited {
   color: var(--darkgray);
 }
-main :first-child {
-  margin-top: 0;
-}
+
 header:after {
   content: "";
   display: table;
