@@ -65,7 +65,7 @@ h1,h2,h3 {
 h1 {
   font-size: 3.25em;
   font-weight: 900;
-  margin: 1em 0;
+  margin: auto auto 1em auto;
 }
 
 .container {
