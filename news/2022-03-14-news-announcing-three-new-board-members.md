@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Announcing three new Rust Foundation Board Members
-description: The Rust Foundation is delighted to announce that three new individuals have joined the Board of Directors.  
+description: New appointments further strengthen Foundation's expert roster
 tags:
   - foundation
   - press
