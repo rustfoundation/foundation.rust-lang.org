@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Member Spotlight"
 title: Spectral
 description: Introducing Automata, Rust Foundation Silver Member.
