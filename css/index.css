@@ -44,9 +44,7 @@ a[href]:hover {
 a[href]:visited {
   color: var(--darkgray);
 }
-main :first-child {
-  margin-top: 0;
-}
+
 header:after {
   content: "";
   display: table;
@@ -65,7 +63,9 @@ h1,h2,h3 {
 }
 
 h1 {
-    font-size: 2em;
+  font-size: 3.25em;
+  font-weight: 900;
+  margin: auto auto 1em auto;
 }
 
 .container {
@@ -213,7 +213,7 @@ main {
   border-bottom: 1px var(--lightorange) dotted;
   padding-bottom: 4em;
 }
-#mission h1 {
+#mission h1, #special-content h1, #news h1, #posts h1, #events h1 { /* FIXME why are we even using more than one h1 on a page */
     margin: 2em 0 1em 0;
     font-size: 2em;
 }
@@ -432,12 +432,6 @@ footer .container {
     width: 60%;
     margin: 0 auto;
   }
-}
-
-.policy h1, .post h1, .event h1, .posts h1, .events h1, .meetings h1, .news h1, .contact h1, .members h1, .become h1 { /* noted for probable later elimination */
-  font-size: 3.25em;
-  font-weight: 900;
-  margin: 1em 0;
 }
 
 .post h2, .event h2 {
