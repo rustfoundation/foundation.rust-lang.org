@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Getting to know the board"
 title: Introducing Josh Stone
 byline: Josh Stone, Project Director, Reliability
