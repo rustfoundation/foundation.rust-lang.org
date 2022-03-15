@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Getting to know the board"
 title: Introducing Bobby Holley
 byline: Bobby Holley, Member Director, Mozilla
