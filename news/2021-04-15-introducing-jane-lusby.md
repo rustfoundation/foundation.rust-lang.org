@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Getting to know the board"
 title: Introducing Jane Lusby
 byline: Jane Lusby, Project Director, Collaboration
