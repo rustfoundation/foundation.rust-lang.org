@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 title: "Adios Pagers: New Developments on Crates.io"
 description: Ferrous Systems takes over crates.io oncall rotation
 tags:
