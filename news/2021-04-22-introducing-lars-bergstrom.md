@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Getting to know the board"
 title: Introducing Lars Bergstrom
 byline: Lars Bergstrom, Member Director, Google
