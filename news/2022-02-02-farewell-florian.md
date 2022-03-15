@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 title: "Board Announcement: Farewell and Thanks to Florian"
 tags:
    - foundation
