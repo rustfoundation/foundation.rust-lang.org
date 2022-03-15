@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Member Spotlight"
 title: "Member Spotlight: 1Password"
 description: Introducing 1Password, Rust Foundation Silver Member.
