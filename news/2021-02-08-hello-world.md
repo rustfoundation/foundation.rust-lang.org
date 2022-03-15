@@ -7,9 +7,9 @@ tags:
   - announcement
   - philosophy
 index: false
-layout: layouts/post.njk
+layout: layouts/news.njk
 ---
-Today, on behalf of the Rust Core team, I’m excited to announce the Rust Foundation, a new independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project. The Rust Foundation will hold its first board meeting tomorrow, February 9th, at 4pm CT. [The board of directors is composed of 5 directors from our Founding member companies, AWS, Huawei, Google, Microsoft, and Mozilla, as well as 5 directors from project leadership, 2 representing the Core Team, as well as 3 project areas: Reliability, Quality, and Collaboration. ](/board/)
+Today, on behalf of the Rust Core team, I’m excited to announce the Rust Foundation, a new independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project. The Rust Foundation will hold its first board meeting tomorrow, February 9th, at 4pm CT. [The board of directors is composed of 5 directors from our Founding member companies, AWS, Huawei, Google, Microsoft, and Mozilla, as well as 5 directors from project leadership, 2 representing the Core Team, as well as 3 project areas: Reliability, Quality, and Collaboration. ](/about/)
 
 This marks a huge step in the growth of Rust on several axes; not the least of which, a formal, financial commitment from a set of global industry leading companies, heralding Rust’s arrival as an enterprise production-ready technology. I am personally moved, and motivated, by the sense of responsibility that comes from this commitment. Our founding sponsors’ eager and enthusiastic participation is not only a promise to maintain and sustain Rust as what it is today, but an endorsement of Rust’s values and a dedication to share the responsibility of cultivating the future that Rust aspires to.
 
