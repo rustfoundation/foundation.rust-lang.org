@@ -7,7 +7,7 @@ layout: layouts/policy.njk
 
 This Rust Maintainer Cloud Compute Access Agreement (together with the other policies below, the “Agreement”) is a legal contract between (1) the Rust Foundation (“Foundation,” “we,” or “us”); and (2) you, the individual using the Services provided under this agreement. The Agreement governs your access to and use of the cloud compute services (the “Services”) made available by the Foundation to Rust Maintainers for the purpose of developing, testing, researching, and debugging the Rust compiler and related tools (together, “Rust”).
 
-By using the Services, you agree to be bound by this Agreement. You also agree to be bound by the Rust Foundation <u>Privacy Policy</u> (the “Privacy Policy”), and <u>Code of Conduct</u> (the “Code of Conduct”), each of which are incorporated into this Agreement. We may change the terms of this Agreement from time to time and will notify you of changes by posting new terms on the Foundation website. If you continue to use the Services following notice of any modifications, you acknowledge and agree to be bound by the modifications.
+By using the Services, you agree to be bound by this Agreement. You also agree to be bound by the Rust Foundation [Privacy Policy](/policies/privacy-policy/) (the “Privacy Policy”), and [Code of Conduct](/policies/code-of-conduct/) (the “Code of Conduct”), each of which are incorporated into this Agreement. We may change the terms of this Agreement from time to time and will notify you of changes by posting new terms on the Foundation website. If you continue to use the Services following notice of any modifications, you acknowledge and agree to be bound by the modifications.
 
 ### 1\. Services.
 
