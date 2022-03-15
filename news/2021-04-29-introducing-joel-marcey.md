@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Getting to know the board"
 title: Introducing Joel Marcey
 byline: Joel Marcey, Member Director, Facebook
