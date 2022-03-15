@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Member Spotlight"
 title: Knoldus
 byline: Shane Miller, Rust Foundation Chairwoman and Member Director (AWS)
