@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Member Spotlight"
 title: ParaState
 byline: Mark Rousskov, Rust Foundation Secretary and Project Director (Core team)
