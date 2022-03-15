@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Member Spotlight"
 title: "Member Spotlight: Zama"
 description: Introducing Zama, Rust Foundation Silver Member.
