@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Member Spotlight"
 title: Open Source Security
 byline: Joel Marcey, Rust Foundation Member Director, Facebook
