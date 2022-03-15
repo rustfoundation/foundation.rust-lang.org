@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Getting to know the board"
 title: Introducing Peixin Hou
 byline: Peixin Hou, Member Director, Huawei
