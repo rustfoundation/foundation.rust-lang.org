@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Membership Update"
 title: Q12021 Membership Update
 byline: Ashley Williams, Interim Executive Director
