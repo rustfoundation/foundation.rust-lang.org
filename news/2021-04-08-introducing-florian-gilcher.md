@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Getting to know the board"
 title: Introducing Florian Gilcher
 byline: Florian Gilcher, Project Director, Core
