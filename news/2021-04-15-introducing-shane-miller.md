@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Getting to know the board"
 title: Introducing Shane Miller
 byline: Shane Miller, Member Director, AWS
