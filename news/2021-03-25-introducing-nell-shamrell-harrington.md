@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Getting to know the board"
 title: Introducing Nell Shamrell-Harrington
 byline: Nell Shamrell-Harrington, Member Director, Microsoft
