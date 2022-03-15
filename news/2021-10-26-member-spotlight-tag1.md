@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Member Spotlight"
 title: Tag1
 description: Introducing Tag1, Rust Foundation Silver Member.
