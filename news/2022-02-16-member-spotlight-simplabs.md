@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 series: "Member Spotlight"
 title: "Member Spotlight: simplabs"
 description: Introducing simplabs, Rust Foundation Silver Member.
