@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 title: Happy New Year, Rustaceans
 byline: Rebecca Rumbul, Executive Director and CEO, Rust Foundation
 tags:
