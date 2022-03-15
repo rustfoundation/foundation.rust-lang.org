@@ -13,7 +13,12 @@ _inputs:
       uploads_dir: img/member
 
 collections_config:
-  people:
+  board:
+    _enabled_editors:
+      - data
+    image_key: headshot
+    image_size: contain
+  staff:
     _enabled_editors:
       - data
     image_key: headshot
