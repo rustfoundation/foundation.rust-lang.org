@@ -12,7 +12,7 @@ The [Rust Foundation](https://foundation.rust-lang.org) is delighted to announce
 
 ## Ryan Levick (Project Director - Core Team)
 
-![Ryan Levick](/img/headshot/ryan.jpg)
+<img src="/img/headshot/ryan.jpg" alt="Ryan Levick" width="200" height="200"/>
 
 Ryan Levick has been a proud Rustacean since 2015 and has been involved in the Rust project since 2019. His involvement in the project has been very varied, with his current focus being on Core Team responsibilities. While Ryan enjoys ‘bit twiddling’ as much as any system programmer, he finds himself most comfortable at the intersection of software and people. Ryan works at Microsoft as a developer advocate focusing on Rust. He lives with his partner in Berlin, though he's originally from the United States. 
 
