@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rust Foundation - Introducing Bobby Holley</title>
+    <meta name="description" content="Introducing Bobby Holley as the Member Director for Mozilla. Part of the &quot;Getting to know the board&quot; series.">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Rust Foundation">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Rust Foundation">
+    <meta name="title" content="Rust Foundation">
+<meta name="description" content="The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://foundation.rust-lang.org">
+<meta property="og:title" content="Rust Foundation">
+<meta property="og:description" content="The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.">
+<meta property="og:image" content="http://foundation.rust-lang.org/img/thumbnail.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://foundation.rust-lang.org/">
+<meta property="twitter:title" content="Rust Foundation">
+<meta property="twitter:description" content="The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.">
+<meta property="twitter:image" content="http://foundation.rust-lang.org/img/thumbnail.png">
+
+    <script defer data-domain="foundation.rust-lang.org" src="https://plausible.io/js/plausible.js"></script>
+
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+
+    
+  </head>
+  <body>
+    <header>
+        <ul class="nav">
+    <li class="nav-item home"><a href="/"><img alt="rust logo" src="/img/rf-logo-transparent.png"/></a></li>
+            <li class="nav-item"><a href="/">Home</a></li>
+            <li class="nav-item"><a href="/about/">About</a></li>
+            <li class="nav-item"><a href="/news/">News</a></li>
+            <li class="nav-item"><a href="/members/">Membership</a></li>
+            <li class="nav-item"><a href="/grants/">Grants program</a></li>
+            <li class="nav-item"><a href="/info/contact/">Contact</a></li>
+</ul>
+
+    </header>
+
+    <main class="tmpl-news">
+        <section class="container post">
+      <h1>Introducing Bobby Holley</h1>
+      <h2>Introducing Bobby Holley as the Member Director for Mozilla. Part of the &quot;Getting to know the board&quot; series.</h2>
+      <div class="content">
+          <p><em>Over the next five weeks, we'll be running a series called &quot;Getting to know the board&quot;, publishing blog posts from each member of the Rust Foundation <a href="/board">Board of Directors</a>, introducing them to the community. You can view the posts in this series <a href="/tags/getting%20to%20know%20the%20board%20series/">here</a>.</em></p>
+<p>Hi! I'm <a href="https://bholley.net/about/">Bobby Holley</a>. I've been a Mozillian since 2008, and currently work in the office of the <a href="https://www.mozilla.org/en-US/about/leadership/#eric-rescorla">Firefox CTO</a> on technical strategy and coordination. Last month I joined the Rust Foundation’s inaugural <a href="https://foundation.rust-lang.org/board/">Board of Directors</a>, and today I thought I’d share a bit about why I’m here, what I like about Rust, and why I’m excited for its future.</p>
+<p>Since the <a href="http://venge.net/graydon/talks/intro-talk-2.pdf">announcement</a> of Rust in 2010, I've had the privilege of watching it grow from a skunkworks side-project into the force of nature it is today. I wasn't involved much during the early years, but in 2015 I began working with the Servo team to figure out how to bring Rust’s unique capabilities to Firefox. We focused on the CSS engine because it was both performance-critical and extremely complex: in principle we wanted to parallelize it, but in practice couldn’t see a realistic path with C++ concurrency. Rust’s <a href="https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html">mutability control</a> and package ecosystem were <a href="https://www.youtube.com/watch?t=220&amp;v=UN_iIExdB9Q">exactly what we needed</a>, and allowed us to ship <a href="https://bholley.net/blog/2017/stylo.html">Stylo</a> with better performance, fewer bugs, and in less time than anyone thought possible. Since then I’ve worked on several other Rust-based initiatives in Firefox such as <a href="https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/">WebRender</a> and <a href="https://github.com/mozilla/neqo/">Neqo</a>, all of which have continued to deepen my appreciation for both the language and the community around it.</p>
+<p>In the early (pre-1.0) days, I had the mistaken impression that Rust was just for building browsers at Mozilla. So when I first joined #rust on IRC, I was surprised to find it teeming with smart and friendly people — often with no other connection to Mozilla — working together to use the language and move it forward. It’s clear to me now that this broad coalition was crucial. <a href="http://venge.net/graydon/talks/intro-talk-2.pdf#page=6">From the start</a>, Rust did not aim to distinguish itself with novel technical ideas, but rather sought to bring together a number of well-understood concepts from the research community into something coherent, learnable, and broadly useful. This is hard work that takes a village, particularly the feedback loop around feature design, wide experimentation, and iteration.</p>
+<p>In some sense, the most important insight behind Rust’s success was not about technology but rather about people. Early on the Rust team <a href="https://www.reddit.com/r/rust/comments/6ewjt5/question_about_rusts_odd_code_of_conduct/didrult/">made it a priority</a> to build a healthy and welcoming community around the project. This attracted talented contributors, helped them collaborate productively, and made it fun to stick around. This resulted in excellent software, which in turn attracted even more talent. This approach seems simple and obvious in retrospect, which is a reaction I frequently have to things that Rust gets right.</p>
+<p>Mozilla incubated Rust to build a better Firefox and contribute to a better Internet, but today it's clear that Rust has outgrown its roots. In its new home with the Rust Foundation, Rust will have the room to grow into its own success, while continuing to amplify some of the core values that Mozilla shares with the Rust community:</p>
+<ul>
+<li><strong>Safety</strong> in a connected world requires securing the browser, but also securing other client software along with the servers that handle people's data. Rust’s memory safety properties eliminate entire classes of exploits, and bringing those guarantees to more programs can protect people from harm.</li>
+<li><strong>Empowering</strong> people to create things themselves involves building tools that are safe, performant, and approachable. Web technologies like HTML and JavaScript have dramatically lowered the barrier to publishing information and interactive experiences, but some disciplines — like high-performance or embedded development — have traditionally required experts-only languages like C. Rust’s type checking, tooling, and documentation offer a much more accessible path for these use-cases, allowing more people to build more things.</li>
+<li>Foundational technologies should be developed in a truly <strong>open</strong>, <strong>collaborative</strong>, and <strong>inclusive</strong> way. Since its inception, the Rust project has set a very high standard for constructive dialog and positive collaboration, and serves as a model for how to build a healthy community around open-source technology.</li>
+</ul>
+<p>Mozilla and the Rust project are well-aligned on these values today, and you can expect us to champion them in our engagement with the Rust Foundation going forward.</p>
+<p>Rust exists because of the efforts of countless people working together to make software better, and the Foundation exists to empower and support those people to do their best work. This is an important chapter in Rust's history, and I'm excited to be a part of it.</p>
+
+      </div>
+      <div class="attachments"></div>
+    <div class="post-tags">
+      Tagged:
+      
+        <a href="/tags/getting to know the board series/" class="post-tag">getting to know the board series</a>
+    </div>
+      <h2 class="date"></h2>
+
+      <hr>
+      <ul><li>Next: <a href="/news/2021-03-18-introducing-tyler-mandry/">Introducing Tyler Mandry</a></li><li>Previous: <a href="/news/2021-02-08-hello-world/">Hello World!</a></li>
+      </ul>
+  </section>
+    </main>
+
+    <footer>
+    <div class="container">
+      <img src="/img/rf-logo-transparent.png" alt="rust foundation logo"/>
+      <div>
+        <a href="https://twitter.com/rust_foundation"><img class="social_icon" src="/img/social/twitter.png" alt="Twitter icon"/></a>
+        <a href="https://www.linkedin.com/company/rust-foundation/"><img class="social_icon" src="/img/social/linkedin.png" alt="LinkedIn icon" /></a>
+      </div>
+      <div>
+      
+        <a href="/policies/anti-bribery-and-anti-corruption-policy">Anti-Bribery and Anti-Corruption Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/anti-trust-policy">Anti-Trust Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/bylaws">Bylaws</a>
+        
+         |
+        
+      
+        <a href="/policies/cloud-compute-program">Cloud Compute Program</a>
+        
+         |
+        
+      
+        <a href="/policies/code-of-conduct">Code of Conduct</a>
+        
+         |
+        
+      
+        <a href="/policies/logo-policy-and-media-guide">Logo Policy and Media Guide</a>
+        
+         |
+        
+      
+        <a href="/policies/privacy-policy">Privacy Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/statement-on-global-regulations">Statement on Global Regulations</a>
+        
+      
+      </div>
+    </div>
+</footer>
+
+
+    <!-- Current page: /news/2021-03-18-introducing-bobby-holley/ -->
+  </body>
+</html>
