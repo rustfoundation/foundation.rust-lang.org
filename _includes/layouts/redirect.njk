@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="refresh" content="0; URL='{{ destination }}'" />
-  <title>Redirecting to: {{ destination }}</title>
+	<meta http-equiv="refresh" content="0; url='{{ redirect.to }}'" />
 </head>
 <body>
-  <!-- Redirect page -->
+	A redirect to <a href="{{ redirect.to }}">{{ redirect.to }}</a>
 </body>
 </html>

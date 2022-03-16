@@ -4,8 +4,7 @@ title: Announcing three new Rust Foundation Board Members
 description: New appointments further strengthen Foundation's expert roster
 tags:
   - foundation
-  - press
-  - membership
+  - board
 ---
 
 The [Rust Foundation](https://foundation.rust-lang.org) is delighted to announce that three new individuals have joined the Board of Directors.
