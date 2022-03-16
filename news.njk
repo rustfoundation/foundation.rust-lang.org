@@ -1,10 +1,20 @@
 ---
 layout: layouts/base.njk
 permalink: /news/
+eleventyNavigation:
+  key: News
+  order: 3
 ---
 <section class="container news">
     <h1>News</h1>
 
     {% set newslist = collections.news %}
     {% include "newslist.njk" %}
+</section>
+
+<section class="container news">
+    <h2>Press mentions</h2>
+
+    {% set presslist = collections.press %}
+    {% include "presslist.njk" %}
 </section>

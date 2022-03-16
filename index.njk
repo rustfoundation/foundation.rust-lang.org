@@ -45,17 +45,6 @@ eleventyNavigation:
     <p>More news can be found in <a href="{{ '/news/' | url }}">the newsroom</a>.</p>
 </section>
 
-<section class="container" id="posts">
-    {% set maxPosts = collections.posts.length | min(3) %}
-    <h1>New on the Blog</h1>
-
-    {% set postslist = collections.posts | head(-3) %}
-    {% set postslistCounter = collections.posts | length %}
-    {% include "postslist.njk" %}
-
-     <p>See all posts on <a href="{{ '/posts/' | url }}">the blog</a>.</p>
-</section>
-
 <section class="container" id="events">
     {% set maxEvents = collections.events.length | min(3) %}
     <h1>Events</h1>
