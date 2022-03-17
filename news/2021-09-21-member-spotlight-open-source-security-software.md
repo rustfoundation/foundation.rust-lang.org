@@ -8,7 +8,7 @@ tags:
    - member spotlight
 ---
 
-![Brad Spengler Open Source Security](/img/posts/2021-09-21-member-spotlight-open-source-security-software/member_spotlight_brad_spengler.png)
+![Brad Spengler Open Source Security](/img/news/2021-09-21-member-spotlight-open-source-security-software/member_spotlight_brad_spengler.png)
 
 The Rust Foundation has been building some great momentum since our launch earlier this year, and we’re excited to share that our member roster is growing. Over the coming few months, we’ll be doing some deep dives with our new member companies so you can get to know our community a bit better. We’ll share some background on what they do, why they chose to join the Rust Foundation and what they hope to accomplish going forward.
 
