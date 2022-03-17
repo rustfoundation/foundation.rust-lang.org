@@ -5,10 +5,10 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2022-03-17T16:01:46Z</updated>
+	<updated>2022-03-17T16:05:13Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
-		<email>foundation@rust-lang.org</email>
+		<email>contact@rustfoundation.org</email>
 	</author>
 </feed>
