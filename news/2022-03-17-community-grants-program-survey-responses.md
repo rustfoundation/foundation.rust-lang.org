@@ -124,4 +124,4 @@ The results of the survey have been incredibly useful in shaping our thinking, a
 
 Over the next couple of weeks we will be finalising our plans, so that we will be ready to launch at the start of April. 
 
-Watch this space for more updates, and be sure to follow us on [Twitter](https://twitter.com/rust_foundation) and [LinkedIn](https://www.linkedin.com/company/rust-foundation/) for all the latest.
+Watch this space for more updates, and be sure to follow us on [Twitter](https://twitter.com/rust_foundation) and [LinkedIn](https://www.linkedin.com/company/rust-foundation/) for all the latest news and information.
