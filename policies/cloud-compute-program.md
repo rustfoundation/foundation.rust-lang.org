@@ -107,4 +107,4 @@ You agree to indemnify, defend and hold harmless Foundation and its directors, o
 
 10\.6. Force Majeure. Foundation shall not be liable for any delay, breach or failure to perform for reasons that are beyond its reasonable control.
 
-10\.7. Notices. Foundation may deliver legal notices required or permitted under the Agreement by sending written notice to you by electronic mail to the email address associated with your account, or by other notification to you within the Services. You may deliver legal notices to Foundation by email to legal@rustfoundation.org.
+10\.7. Notices. Foundation may deliver legal notices required or permitted under the Agreement by sending written notice to you by electronic mail to the email address associated with your account, or by other notification to you within the Services. You may deliver legal notices to Foundation by email to contact@rustfoundation.org.
