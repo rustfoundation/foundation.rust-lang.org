@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Rust Community Grant Program - Survey Responses
+title: Rust Community Grants Program - Survey Responses
 description: 
 tags:
   - community grants
