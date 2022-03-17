@@ -7,30 +7,35 @@ tags:
   - plans
 ---
 
-The [Rust Foundation](https://foundation.rust-lang.org) is delighted to announce that three new individuals have joined the Board of Directors.
+Thank you to everyone who responded to our survey about the Community Grants Program. We are very grateful that you took the time to provide us with your thoughts and ideas. We are now busy working on the final details of the Program in order to open for applications next month, and we wanted to share the results of the survey with you to demonstrate how your input has influenced our thinking.
 
-## Ryan Levick (Project Director - Core Team)
+## Background
 
-<img src="/img/headshot/ryan.jpg" alt="Ryan Levick" width="200" height="200"/>
+In January 2022 the Rust Foundation opened a survey with the objective of gathering the views of the Rust maintainer community about the issues that concerned them and the areas that they felt were most in need of financial support. The aim of this exercise is to help inform the Community Grants Program and to ensure that, as far as is possible within our operational constraints, the funding streams that we launch will go some way to meeting the needs of the community.
 
-Ryan Levick has been a proud Rustacean since 2015 and has been involved in the Rust project since 2019. His involvement in the project has been very varied, with his current focus being on Core Team responsibilities. While Ryan enjoys ‘bit twiddling’ as much as any system programmer, he finds himself most comfortable at the intersection of software and people. Ryan works at Microsoft as a developer advocate focusing on Rust. He lives with his partner in Berlin, though he's originally from the United States. 
+## Who Responded
 
-Ryan replaces Florian Gilcher as a Core Team representative on the Rust Foundation Board of Directors. 
+In total 122 completed responses to the survey were received, breaking down by language as follows:
 
-## Andrew Wafaa (Member Director - Silver Membership Representative)
+- English: **102**
+- Chinese (including simplified): **4**
+- Russian: **8**
+- German: **3**
+- French: **6**
+- Portuguese: **1**
 
-![Andrew Wafaa](/img/headshot/andrew.jpg)
+The high proportion of responses to the English language version of the survey somewhat belies the geographic diversity of those who responded.  Of those 102 only 44 came from the USA/UK, the remainder were spread across 27 different countries.
 
-Andrew Wafaa is a Distinguished Engineer and Senior Director of Software Communities at Arm, the leading Semiconductor IP design company. He leads Arm’s Open Source Office, where he is responsible for Arm’s adoption, use and participation in open source; as well as building and maintaining relationships with various open source projects and communities. He has been heavily engaged in open source projects for over 20 years and has served on – and continues to serve on – various community and industry bodies, including the FreeBSD Foundation Board, the Xen Project Board and the Yocto Project, where he currently serves as Chair.
+In terms of the level of engagement with the Rust Project, a third of respondents described themselves as active contributors. It is interesting to note, however, that breaking out the results into those who completed the English version of the survey, and those who completed the non-English version reveals significant differences, with fewer than one in seven in the latter group considering themselves to be active contributors.  
 
-Andrew was elected by our Silver Members and is our first Silver Membership Representative on the Board.
+This trend was continued with memberships of Rust teams, with markedly higher levels of engagement from those who responded in English compared to those who did not.  This is perhaps unsurprising, given that English is the default technical language of these teams. What is significant is that almost two thirds of the non-English respondents expressed a desire to be a member of a team, project group, or working group. 
 
-## Eric Garcia (Member Director - Meta)
+![Breakdown of respondents by self-description](/img/news/2022-03-17-community-grants-program-survey-responses/respondents.png)
 
-![Eric Garcia](/img/headshot/eric.jpg)
+![What funding priorities the respondents selected](/img/news/2022-03-17-community-grants-program-survey-responses/funding-priorities.png)
 
-Eric is a Software Engineering Manager at Meta, a Rust Foundation Platinum Member, supporting Rust developers across Meta’s portfolio of products. Before working on Rust, Eric has spent over a decade in the industry working on programming languages, compilers, and runtimes for x86.  Most notably are his contributions in automatic vectorization for C, C++, Fortran, DPC++, and OpenCL. His passions are improving developer experiences with state-of-the-art, and high performant tool chains.  Outside of Rust, you can find Eric flying above the San Francisco Bay Area as a student pilot.
+![How respondents said things should be funded](/img/news/2022-03-17-community-grants-program-survey-responses/funding-methods.png)
 
-Eric replaces Joel Marcey ([who has taken a full time role at the Foundation](https://foundation.rust-lang.org/news/2022-02-22-news-rust-foundation-attracts-top-talent-to-senior-leadership-roles/)) as Member Director for Meta. 
 
-Learn more about [Rust Foundation membership](https://foundation.rust-lang.org/info/become-a-member/), and stay up to date by following us on [Twitter](https://twitter.com/rust_foundation) and [LinkedIn](https://www.linkedin.com/company/rust-foundation/).
+
+Watch this space for more updates, and be sure to follow us on [Twitter](https://twitter.com/rust_foundation) and [LinkedIn](https://www.linkedin.com/company/rust-foundation/) for all the latest.
