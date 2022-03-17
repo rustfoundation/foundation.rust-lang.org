@@ -7,7 +7,7 @@ tags:
    - member spotlight
 ---
 
-![Nathan West](/img/posts/2022-03-08-member-spotlight-1password/member_spotlight_nathan_west.png)
+![Nathan West](/img/news/2022-03-08-member-spotlight-1password/member_spotlight_nathan_west.png)
 
 It’s time for another installment of our member spotlight blog series, designed to introduce you to our diverse community of silver member companies. Having recently passed our one-year anniversary, we at the Rust Foundation are thrilled at the growth we’ve seen to date in our silver member roster. We’re honored and privileged to have the support of such an interesting and dynamic group, and we look forward to all the great work we can achieve together. Today, we hear from Nathan West, Senior Developer, Client Apps (and Senior Rustacean) at [1Password](https://1password.com/). Read on to learn more. 
 
