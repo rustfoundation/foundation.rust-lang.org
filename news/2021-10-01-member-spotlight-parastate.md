@@ -8,7 +8,7 @@ tags:
    - member spotlight
 ---
 
-![Brad Spengler Open Source Security](/img/posts/2021-10-01-member-spotlight-parastate/member_spotlight_marco_chen.png)
+![Marco Chen of ParaState](/img/news/2021-10-01-member-spotlight-parastate/member_spotlight_marco_chen.png)
 
 The Rust Foundation is proud to work with a growing roster of exciting and innovative companies around the world. As we continue to grow, we’re working to shine the spotlight on each of our members and introduce them to the community. To that end, [Marco Chen](https://www.linkedin.com/in/marco-chen-239028a/), co-founder of [ParaState](https://www.parastate.io/), was kind enough to answer some of [my](http://github.com/Mark-Simulacrum) questions. Here’s what Marco had to say:
 
