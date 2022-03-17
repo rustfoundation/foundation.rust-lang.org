@@ -9,7 +9,7 @@ tags:
 
 <h2>by <a href="https://github.com/tmandry">Tyler Mandry</a>, Quality Director, Rust Foundation </h2>
 
-![Jeremy Andrews](/img/posts/2021-10-26-member-spotlight-tag1/member_spotlight_jeremy_andrews.png)
+![Jeremy Andrews](/img/news/2021-10-26-member-spotlight-tag1/member_spotlight_jeremy_andrews.png)
 
 Another week, another new member spotlight! The Rust Foundation continues to grow, and we’re so excited to introduce our new members to the greater Rust community. This blog series has been shining a light on each company, its use of Rust, and its involvement in the Foundation. In this installment I heard from [Jeremy Andrews](https://www.linkedin.com/in/jeremyandrews/), CEO and Founding Partner at [Tag1 Consulting](https://www.tag1consulting.com/). Read on for his thoughts.
 
