@@ -30,13 +30,13 @@ In terms of the level of engagement with the Rust Project, a third of respondent
 
 This trend was continued with memberships of Rust teams, with markedly higher levels of engagement from those who responded in English compared to those who did not. This is perhaps unsurprising, given that English is the default technical language of these teams. What is significant is that almost two thirds of the non-English respondents expressed a desire to be a member of a team, project group, or working group.
 
-![Breakdown of respondents by self-description](/img/news/2022-03-17-community-grants-program-survey-responses/respondents.png)
+![Breakdown of respondents by self-description](/img/news/2022-03-17-community-grants-program-survey-responses/cgp-respondents.png)
 
 ## What do people want us to fund?
 
 Each respondent was asked to select five options from a list of potential funding priorities, with the additional option to add in free-text responses to encompass anything missed out. Again we thought that it would be useful to show both the total results and the English/non-English splits:
 
-![What funding priorities the respondents selected](/img/news/2022-03-17-community-grants-program-survey-responses/funding-priorities.png)
+![What funding priorities the respondents selected](/img/news/2022-03-17-community-grants-program-survey-responses/cgp-funding-priorities.png)
 
 Documentation was top across the board. The English responses largely mirrored the overall totals, due to their share of the sample size, and the non-English responses broadly aligned as well. It was interesting to see, however, that Educational Materials indexed significantly higher for the non-English group, and Performance Enhancements were also somewhat higher, with New Features being less significant.
 
@@ -44,7 +44,7 @@ Documentation was top across the board. The English responses largely mirrored t
 
 Respondents were asked to rate on a scale of 1-9 a number of different funding options, with the scores summed to enable ranking. Again, this is shown as both a total and split by response languages.
 
-![How respondents said things should be funded](/img/news/2022-03-17-community-grants-program-survey-responses/funding-methods.png)
+![How respondents said things should be funded](/img/news/2022-03-17-community-grants-program-survey-responses/cgp-funding-methods.png)
 
 The most popular options clustered fairly tightly together in terms of scoring, with the funding of projects and individuals (in the latter case either through direct sponsorship or a Fellowship) scoring highly. There was fairly close alignment again in the language splits, though for the non-English respondents there was higher indexing both for the support of infrastructure and the funding of organisations, than was the case for those who completed the survey in English.
 
@@ -122,6 +122,6 @@ The results of the survey have been incredibly useful in shaping our thinking, a
 
 ## What happens next?
 
-Over the next couple of weeks we will be finalising our plans, so that we will be ready to launch at the start of April. 
+Over the next couple of weeks, we will be finalising our plans, so that we will be ready to launch at the start of April. 
 
 Watch this space for more updates, and be sure to follow us on [Twitter](https://twitter.com/rust_foundation) and [LinkedIn](https://www.linkedin.com/company/rust-foundation/) for all the latest news and information.
