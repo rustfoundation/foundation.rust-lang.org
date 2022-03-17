@@ -7,7 +7,7 @@ tags:
   - plans
 ---
 
-Thank you to everyone who responded to our survey about the Community Grants Program. We are very grateful that you took the time to provide us with your thoughts and ideas. We are now busy working on the final details of the Program in order to open for applications next month, and we wanted to share the results of the survey with you to demonstrate how your input has influenced our thinking.
+Thank you to everyone who responded to our survey about the <a href="/grants/">Community Grants Program</a>. We are very grateful that you took the time to provide us with your thoughts and ideas. We are now busy working on the final details of the Program in order to open for applications next month, and we wanted to share the results of the survey with you to demonstrate how your input has influenced our thinking.
 
 ## Background
 
