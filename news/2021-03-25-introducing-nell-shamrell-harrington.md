@@ -12,7 +12,7 @@ _Over the next five weeks, we'll be running a series called "Getting to know the
 
 Greetings fellow Rustaceans!  
  
-It is an honor to serve you as lead editor of [This Week in Rust](https://this-week-in-rust.org/), as a member of the [Async Foundations working group](https://github.com/rust-lang/wg-async-foundations), and now as a [Rust Foundation board member](https://foundation.rust-lang.org/board/).
+It is an honor to serve you as lead editor of [This Week in Rust](https://this-week-in-rust.org/), as a member of the [Async Foundations working group](https://github.com/rust-lang/wg-async-foundations), and now as a [Rust Foundation board member](https://foundation.rust-lang.org/about/).
  
 I found success with Rust, and was able to lift others to their own success, through the global Rustacean community and, especially, the actions of Rust’s maintainers. We are a group of people where empathy and personal maturity are as important as (if not more important than) technical excellence. We are a shining example of how an open source community can achieve great advancements - advancements with the potential to affect an entire industry - and still treat each other with dignity, respect, and support. We are not successful in spite of our higher standard of conduct, we are successful because of it.   
  

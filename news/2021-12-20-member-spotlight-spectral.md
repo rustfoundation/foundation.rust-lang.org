@@ -7,7 +7,7 @@ tags:
    - member spotlight
 ---
 
-![Dotan Nahum](/img/posts/2021-12-20-member-spotlight-spectral/member_spotlight_dotan_nahum.png)
+![Dotan Nahum](/img/news/2021-12-20-member-spotlight-spectral/member_spotlight_dotan_nahum.png)
 
 It’s time for another Rust Foundation [member spotlight](https://foundation.rust-lang.org/tags/member%20spotlight/), our blog series in which we’ve been introducing all our great Silver [Member companies](https://foundation.rust-lang.org/members/) to the Rust community. Today we received input from [Dotan Nahum](https://mobile.twitter.com/jondot), Founder and CEO of [Spectral](https://spectralops.io/). Read on to learn about Spectral, how the company is using Rust and why it has joined the Rust Foundation.
 

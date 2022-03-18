@@ -8,7 +8,7 @@ tags:
    - member spotlight
 ---
 
-![Bhavya Aggarwal](/img/posts/2021-10-07-member-spotlight-knoldus/member_spotlight_bhavya_aggarwal.png)
+![Bhavya Aggarwal](/img/news/2021-10-07-member-spotlight-knoldus/member_spotlight_bhavya_aggarwal.png)
 
 The Rust Foundation is growing fast! And as we expand our membership base, we are also expanding our member spotlight series. Designed to help our audience get better acquainted with member companies, this series dives into the details of each member, its use of Rust, its interest in the Foundation, and what they hope we’ll accomplish going forward. [I](https://twitter.com/SkippersWif) recently shared some questions with [Bhavya Aggarwal](https://www.linkedin.com/in/bhavya-aggarwal-680929a/), CTO at [Knoldus, Inc.](https://www.knoldus.com/home) Check out his thoughts below. 
 

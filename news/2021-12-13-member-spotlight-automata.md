@@ -7,7 +7,7 @@ tags:
    - member spotlight
 ---
 
-![Deli Gong](/img/posts/2021-12-13-member-spotlight-automata/member_spotlight_deli_gong.png)
+![Deli Gong](/img/news/2021-12-13-member-spotlight-automata/member_spotlight_deli_gong.png)
 
 After a brief hiatus, we’re excited to be back with another entry in our member spotlight blog series and another introduction to one of our great Rust Foundation members. Each post in this series is designed to introduce the community to a new member company, sharing details on its work, its use of Rust and its hope for the language going forward. In today’s installment, we received input from [Deli Gong](https://www.linkedin.com/in/gongdeli/), Co-Founder at [Automata Network](https://ata.network/). Here’s what he had to say:
 

@@ -7,7 +7,7 @@ tags:
    - member spotlight
 ---
 
-![Marco Otte-Witte](/img/posts/2022-02-16-member-spotlight-simplabs/member_spotlight_marco_otte-witte.png)
+![Marco Otte-Witte](/img/news/2022-02-16-member-spotlight-simplabs/member_spotlight_marco_otte-witte.png)
 
 Welcome to another installment of our Member Spotlight series, the blog series in which we introduce our family of Rust Foundation Silver Members to the greater community. We’re thrilled to have such an interesting and diverse set of companies on board and even more excited to see our community continue to grow. Today we hear from [Marco Otte-Witte](https://twitter.com/marcoow), Founder and Managing Director of simplabs. Read on to learn more about [simplabs](https://simplabs.com/), how the company uses Rust and future plans.
 

@@ -9,7 +9,7 @@ tags:
 
 <h2>by <a href="https://github.com/tmandry">Tyler Mandry</a>, Quality Director, Rust Foundation and <a href="https://github.com/yaahc/">Jane Lusby</a>, Project Director, Collaboration</h2>
 
-![Crates.io](/img/posts/2021-10-18-crates-io-oncall-ferrous-systems/crates-io.png)
+![Crates.io](/img/news/2021-10-18-crates-io-oncall-ferrous-systems/crates-io.png)
 
 If you’re reading this post, you’re probably familiar with [Crates.io](https://crates.io/) and its significance in the Rust ecosystem. If you write Rust code using Cargo, you’ve certainly downloaded a crate from crates.io to use in your project, and hopefully your experience has been positive. A LOT of stuff runs on top of Crates.io, and Rust developers around the world depend on it to support their projects. In fact, as of this publication, Crates.io has seen over **ten billion downloads** and now hosts **69,000+ crates**! Pretty impressive numbers.
 
