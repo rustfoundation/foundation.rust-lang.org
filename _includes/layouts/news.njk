@@ -6,7 +6,7 @@ templateClass: tmpl-news
   <section class="container post">
       <h1>{{ title }}</h1>
       <h2>{{ description }}</h2>
-      <time class="postlist-date" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+      <time class="post-date" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
       <div class="content">
           {{ content | safe }}
       </div>
