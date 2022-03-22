@@ -4,6 +4,7 @@ series: "Getting to know the board"
 title: Introducing Mark Rousskov
 byline: Mark Rousskov, Project Director, Core
 description: Introducing Mark Rousskov as a Project Director for Core. Part of the "Getting to know the board" series.
+date: 2021-03-25
 tags:
    - getting to know the board series
 ---
