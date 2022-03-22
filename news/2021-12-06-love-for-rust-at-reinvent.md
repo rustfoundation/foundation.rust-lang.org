@@ -2,6 +2,7 @@
 layout: news
 title: Love for Rust at re:Invent
 byline: Rebecca Rumbul, Executive Director and CEO, Rust Foundation
+date: 2021-12-06
 tags:
    - community
 ---
