@@ -3,6 +3,7 @@ layout: news
 title: Hello Everyone! How Can I Help?
 byline: Rebecca Rumbul, Executive Director and CEO, Rust Foundation
 description: Rebecca Rumbul (Just call me ‘Bec’)
+date: 2021-11-17
 tags:
    - foundation
 ---

@@ -4,6 +4,7 @@ series: "Member Spotlight"
 title: Knoldus
 byline: Shane Miller, Rust Foundation Chairwoman and Member Director (AWS)
 description: Introducing Knoldus, Rust Foundation Silver Member.
+date: 2021-10-07
 tags:
    - member spotlight
 ---

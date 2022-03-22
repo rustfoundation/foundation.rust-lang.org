@@ -4,6 +4,7 @@ series: "Getting to know the board"
 title: Introducing Jane Lusby
 byline: Jane Lusby, Project Director, Collaboration
 description: Introducing Jane Lusby as the Project Director for Collaboration. Part of the "Getting to know the board" series.
+date: 2021-04-15
 tags:
    - getting to know the board series
 ---

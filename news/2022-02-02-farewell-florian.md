@@ -1,6 +1,7 @@
 ---
 layout: news
 title: "Board Announcement: Farewell and Thanks to Florian"
+date: 2022-02-02
 tags:
    - foundation
 ---

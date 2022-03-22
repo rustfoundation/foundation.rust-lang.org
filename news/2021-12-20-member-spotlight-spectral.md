@@ -3,6 +3,7 @@ layout: news
 series: "Member Spotlight"
 title: Spectral
 description: Introducing Automata, Rust Foundation Silver Member.
+date: 2021-12-20
 tags:
    - member spotlight
 ---

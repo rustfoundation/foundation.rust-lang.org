@@ -2,6 +2,7 @@
 layout: news
 title: Rust Foundation Attracts Top Talent to Senior Leadership Roles
 description: Foundation expansion reflects the continued maturation of the Rust programming language and growth of the global Rust community  
+date: 2022-02-22
 tags:
   - foundation
 ---

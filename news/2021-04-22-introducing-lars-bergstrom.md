@@ -4,6 +4,7 @@ series: "Getting to know the board"
 title: Introducing Lars Bergstrom
 byline: Lars Bergstrom, Member Director, Google
 description: Introducing Lars Bergstrom as the Member Director for Google. Part of the "Getting to know the board" series.
+date: 2021-04-22
 tags:
    - getting to know the board series
 ---

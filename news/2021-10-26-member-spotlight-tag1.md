@@ -3,6 +3,7 @@ layout: news
 series: "Member Spotlight"
 title: Tag1
 description: Introducing Tag1, Rust Foundation Silver Member.
+date: 2021-10-26
 tags:
    - member spotlight
 ---

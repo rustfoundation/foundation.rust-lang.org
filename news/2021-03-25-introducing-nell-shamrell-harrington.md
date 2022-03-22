@@ -4,6 +4,7 @@ series: "Getting to know the board"
 title: Introducing Nell Shamrell-Harrington
 byline: Nell Shamrell-Harrington, Member Director, Microsoft
 description: Introducing Nell Shamrell-Harrington as the Member Director for Microsoft. Part of the "Getting to know the board" series.
+date: 2021-03-25
 tags:
    - getting to know the board series
 ---

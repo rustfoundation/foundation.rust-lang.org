@@ -3,6 +3,7 @@ layout: news
 title: Announcing our Executive Search
 byline: Rust Foundation Board of Directors
 description: Announcing the search for our first permanent Executive Director.
+date: 2021-06-25
 tags:
    - announcement
    - jobs

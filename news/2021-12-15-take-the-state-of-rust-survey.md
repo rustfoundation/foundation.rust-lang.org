@@ -2,6 +2,7 @@
 layout: news
 title: "Make Your Voice Heard: Take the State of Rust Survey"
 byline: Mark Rousskov, Rust Foundation Secretary and Project Director (Core team) 
+date: 2021-12-15
 tags:
    - community
    - rust project

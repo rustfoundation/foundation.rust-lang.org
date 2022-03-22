@@ -4,6 +4,7 @@ series: "Getting to know the board"
 title: Introducing Joel Marcey
 byline: Joel Marcey, Member Director, Facebook
 description: Introducing Joel Marcey as the Member Director for Facebook. Part of the "Getting to know the board" series.
+date: 2021-04-29
 tags:
    - getting to know the board series
 ---

@@ -2,6 +2,7 @@
 layout: news
 title: Announcing three new Rust Foundation Board Members
 description: New appointments further strengthen Foundation's expert roster
+date: 2022-03-16
 tags:
   - foundation
 ---

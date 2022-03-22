@@ -2,6 +2,7 @@
 layout: news
 title: "Adios Pagers: New Developments on Crates.io"
 description: Ferrous Systems takes over crates.io oncall rotation
+date: 2021-10-18
 tags:
    - update
    - crates.io

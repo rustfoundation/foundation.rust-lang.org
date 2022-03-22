@@ -3,6 +3,7 @@ layout: news
 series: "Member Spotlight"
 title: Automata
 description: Introducing Automata, Rust Foundation Silver Member.
+date: 2021-12-13
 tags:
    - member spotlight
 ---

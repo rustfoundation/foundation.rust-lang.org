@@ -2,6 +2,7 @@
 layout: news
 title: Share your views - Rust Foundation Community Grants Program 2022
 byline: Rebecca Rumbul, Executive Director and CEO, Rust Foundation
+date: 2022-01-31
 tags:
    - foundation
    - community grants

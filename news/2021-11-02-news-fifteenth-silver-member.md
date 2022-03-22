@@ -2,6 +2,7 @@
 layout: news
 title: Rust Foundation Achieves Significant Milestone with 15th Silver Member Organization
 description: First year membership growth points to increasing adoption of the Rust programming language and rapidly increasing investments in the Rust Project
+date: 2021-11-02
 tags:
   - membership
 ---

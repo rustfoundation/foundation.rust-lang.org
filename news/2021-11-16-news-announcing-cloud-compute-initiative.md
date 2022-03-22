@@ -2,6 +2,7 @@
 layout: news
 title: Rust Foundation Announces Cloud Compute Program
 description: Infrastructure contributions from AWS, Microsoft Azure, and Google Cloud will give Rust maintainers free access to cloud compute to reduce development time and personal expenses
+date: 2021-11-16
 tags:
   - programs
   - cloud compute

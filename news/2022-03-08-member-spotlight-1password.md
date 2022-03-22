@@ -3,6 +3,7 @@ layout: news
 series: "Member Spotlight"
 title: "Member Spotlight: 1Password"
 description: Introducing 1Password, Rust Foundation Silver Member.
+date: 2022-03-08
 tags:
    - member spotlight
 ---

@@ -4,6 +4,7 @@ series: "Membership Update"
 title: Q12021 Membership Update
 byline: Ashley Williams, Interim Executive Director
 description: Introducing the new members who joined in Q12021.
+date: 2021-04-29
 tags:
    - membership update
 ---

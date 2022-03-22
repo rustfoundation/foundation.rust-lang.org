@@ -4,6 +4,7 @@ series: "Member Spotlight"
 title: Open Source Security
 byline: Joel Marcey, Rust Foundation Member Director, Facebook
 description: Introducing Open Source Security, Rust Foundation Silver Member.
+date: 2021-09-21
 tags:
    - member spotlight
 ---

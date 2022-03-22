@@ -4,6 +4,7 @@ series: "Getting to know the board"
 title: Introducing Tyler Mandry
 byline: Tyler Mandry, Project Director, Quality
 description: Introducing Tyler Mandry as the Project Director for Quality. Part of the "Getting to know the board" series.
+date: 2021-03-18
 tags:
    - getting to know the board series
 ---

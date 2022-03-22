@@ -4,6 +4,7 @@ series: "Getting to know the board"
 title: Introducing Josh Stone
 byline: Josh Stone, Project Director, Reliability
 description: Introducing Josh Stone as the Project Director for Reliability. Part of the "Getting to know the board" series.
+date: 2021-04-22
 tags:
    - getting to know the board series
 ---

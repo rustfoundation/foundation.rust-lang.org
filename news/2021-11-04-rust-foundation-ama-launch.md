@@ -2,6 +2,7 @@
 layout: news
 title: "Launching the Rust Foundation Quarterly AMAs: Join the Conversation"
 description: The first Rust Foundation Ask Me Anything (AMA) program is on 16 November 2021
+date: 2021-11-04
 tags:
    - announcement
    - ama

@@ -4,6 +4,7 @@ series: "Getting to know the board"
 title: Introducing Shane Miller
 byline: Shane Miller, Member Director, AWS
 description: Introducing Shane Miller as the Member Director for AWS. Part of the "Getting to know the board" series.
+date: 2021-04-15
 tags:
    - getting to know the board series
 ---
