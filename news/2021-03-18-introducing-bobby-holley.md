@@ -4,6 +4,7 @@ series: "Getting to know the board"
 title: Introducing Bobby Holley
 byline: Bobby Holley, Member Director, Mozilla
 description: Introducing Bobby Holley as the Member Director for Mozilla. Part of the "Getting to know the board" series.
+date: 2021-03-18
 tags:
    - getting to know the board series
 ---
