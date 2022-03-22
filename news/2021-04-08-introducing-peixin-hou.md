@@ -4,6 +4,7 @@ series: "Getting to know the board"
 title: Introducing Peixin Hou
 byline: Peixin Hou, Member Director, Huawei
 description: Introducing Peixin Hou as the Member Director for Huawei. Part of the "Getting to know the board" series.
+date: 2021-04-08
 tags:
    - getting to know the board series
 ---
