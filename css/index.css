@@ -272,7 +272,10 @@ main {
   font-size: 1.1875em; /* 19px /16 */
   font-weight: 700;
 }
-
+.post-date {
+  font-size: 1.1875em; /* 19px /16 */
+  color: var(--darkgray);
+}
 
 /* Tags */
 .post-tag {
