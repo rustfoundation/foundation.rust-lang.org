@@ -4,6 +4,7 @@ series: "Member Spotlight"
 title: ParaState
 byline: Mark Rousskov, Rust Foundation Secretary and Project Director (Core team)
 description: Introducing ParaState, Rust Foundation Silver Member.
+date: 2021-10-01
 tags:
    - member spotlight
 ---
