@@ -3,6 +3,7 @@ layout: news
 series: "Member Spotlight"
 title: "Member Spotlight: simplabs"
 description: Introducing simplabs, Rust Foundation Silver Member.
+date: 2022-02-16
 tags:
    - member spotlight
 ---
