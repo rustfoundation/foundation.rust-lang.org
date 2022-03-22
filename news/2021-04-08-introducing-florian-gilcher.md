@@ -4,6 +4,7 @@ series: "Getting to know the board"
 title: Introducing Florian Gilcher
 byline: Florian Gilcher, Project Director, Core
 description: Introducing Florian Gilcher as the Project Director for Core. Part of the "Getting to know the board" series.
+date: 2021-04-08
 tags:
    - getting to know the board series
 ---
