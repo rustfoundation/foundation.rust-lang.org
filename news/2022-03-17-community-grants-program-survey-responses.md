@@ -2,6 +2,7 @@
 layout: news
 title: Rust Community Grants Program - Survey Responses
 description: 
+date: 2022-03-17
 tags:
   - community grants
   - plans
