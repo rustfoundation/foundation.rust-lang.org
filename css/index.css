@@ -275,6 +275,7 @@ main {
 .post-date {
   font-size: 1.1875em; /* 19px /16 */
   color: var(--darkgray);
+  margin-bottom: 1em;
 }
 
 /* Tags */
