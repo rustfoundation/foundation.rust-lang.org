@@ -1,6 +1,6 @@
 ---
 layout: layouts/grants.njk
-title: Test Grant
+title: Community Grants Program Test Grants
 applicationLink: https://www.google.co.uk/
 date: 2022-04-01
 tags:
