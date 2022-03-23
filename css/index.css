@@ -275,7 +275,6 @@ main {
 .post-date {
   font-size: 1.1875em; /* 19px /16 */
   color: var(--darkgray);
-  margin-bottom: 1em;
 }
 
 /* Tags */
@@ -535,4 +534,5 @@ iframe {
   height: 100%;
   max-width: 960px;
   max-height: 640px;
+  margin-top: 1em;
 }
