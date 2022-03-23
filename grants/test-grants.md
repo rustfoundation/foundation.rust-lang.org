@@ -8,8 +8,6 @@ tags:
    - community grants program
 ---
 
-Big APPLY HERE button
-
 ## What is a XXX Grant?
 
 It's a financial award for...
