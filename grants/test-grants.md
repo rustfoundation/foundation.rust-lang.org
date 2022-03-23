@@ -21,7 +21,7 @@ Eligibility criteria
 
 ## How will the selection process work?
 
-Link to the Test Grants section of the selection process page
+Link to the [Test Grants section of the selection process page](/grants/eligibility-and-selection#test-grants)
 
 ## Applications timeline
 
