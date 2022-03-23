@@ -1,4 +1,5 @@
 ---
+layout: layouts/base.njk
 title: Type of Grant
 description: Description of the type of grant
 date: 2021-04-01
