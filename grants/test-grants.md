@@ -1,14 +1,13 @@
 ---
 layout: layouts/grants.njk
-title: Type of Grant
-description: Description of the type of grant
+title: Test Grant
 applicationLink: https://www.google.co.uk/
 date: 2022-04-01
 tags:
    - community grants program
 ---
 
-## What is a XXX Grant?
+## What is a Test Grant?
 
 It's a financial award for...
 
@@ -16,13 +15,13 @@ It's a financial award for...
 
 Details of what type of work will be funded
 
-## Who is eligible to apply for a XXX Grant?
+## Who is eligible to apply for a Test Grant?
 
 Eligibility criteria
 
 ## How will the selection process work?
 
-Link to the XXX Grants section of the selection process page
+Link to the Test Grants section of the selection process page
 
 ## Applications timeline
 
@@ -34,4 +33,4 @@ Explanation of what we're going to ask when you apply, help text for answering t
 
 ## FAQs
 
-Link to the XXX Grants section of the main FAQ page
+Link to the Test Grants section of the main FAQ page
