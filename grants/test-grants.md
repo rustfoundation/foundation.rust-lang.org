@@ -2,6 +2,7 @@
 layout: layouts/grants.njk
 title: Type of Grant
 description: Description of the type of grant
+application-link: https://www.google.co.uk/
 date: 2022-04-01
 tags:
    - community grants program
