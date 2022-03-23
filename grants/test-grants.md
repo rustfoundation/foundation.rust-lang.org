@@ -33,4 +33,4 @@ Explanation of what we're going to ask when you apply, help text for answering t
 
 ## FAQs
 
-Link to the Test Grants section of the main FAQ page
+Link to the [Test Grants section of the main FAQ page](/grants/faqs#test-grants)
