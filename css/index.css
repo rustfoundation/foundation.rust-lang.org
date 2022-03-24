@@ -412,7 +412,7 @@ footer .container {
   display: inline-block;
 }
 
-.memberslist div:hover .founding {
+.memberslist li:hover .founding {
   display: inline-block;
 }
 
