@@ -1,6 +1,6 @@
 ---
 name: Huawei
-level: founding
+level: platinum
 logo: /img/member/huawei.png
 url: https://www.huawei.com/
 ---
