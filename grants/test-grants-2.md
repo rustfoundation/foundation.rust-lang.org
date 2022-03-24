@@ -1,8 +1,8 @@
 ---
 layout: layouts/grants.njk
 title: Community Grants Program Test Grants
-name: Test Grants
-description: A short piece of text explaining what a Test Grant is
+name: Test Grants 2
+description: The same as the other one, but to test the include is working correctly
 applicationLink: https://www.google.co.uk/
 date: 2022-04-01
 tags:
