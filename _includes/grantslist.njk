@@ -1,0 +1,11 @@
+<ul>
+{% for grant in grantslist}
+  <li>
+    <div class="grant">
+    	<h2>{{ grants.data.name }}</h2>
+    	<p>{{ grants.data.description }}</p>
+        <p><a href="{{ grants.url }}">Find out more.</a></p>
+    </div>
+  </li>
+{% endfor %}
+</ul>
