@@ -412,6 +412,22 @@ footer .container {
   display: inline-block;
 }
 
+.memberslist li:hover .founding {
+  display: inline-block;
+}
+
+.memberslist .founding {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  background: white;
+  background-size: cover;
+  background-position: center;
+  height: 15em;
+  width: 15em;
+}
+
 .memberslist-small li img {
   width: 7em;
 }
