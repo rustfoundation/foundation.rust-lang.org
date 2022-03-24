@@ -2,9 +2,9 @@
 {% for grant in grantslist %}
   <li>
     <div class="grant">
-    	<h2>{{ name }}</h2>
-    	<p>{{ description }}</p>
-        <p><a href="{{ grant.url }}">Find out more.</a></p>
+    	<h2>{{ grants.name }}</h2>
+    	<p>{{ grants.description }}</p>
+        <p><a href="{{ grants.url }}">Find out more.</a></p>
     </div>
   </li>
 {% endfor %}
