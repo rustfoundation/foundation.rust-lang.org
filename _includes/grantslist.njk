@@ -1,11 +1,9 @@
-<ul>
 {% for grant in grantslist %}
-  <li>
+<section>
     <div class="grant">
-    	<h2>Print something here. Anything.{{ grant.data.name }}</h2>
+    	<h2>{{ grant.data.name }}</h2>
     	<p>{{ grant.data.description }}</p>
         <p><a href="{{ grants.url }}">Find out more.</a></p>
     </div>
-  </li>
+</section>
 {% endfor %}
-</ul>
