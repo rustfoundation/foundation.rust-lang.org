@@ -2,9 +2,9 @@
 <ul class="memberslist">
     {% for member in memberslist %}
         {% if member.data.level == "platinum" %}
-            <li class="platinummember">
+            <li {% if member.data.founding %}style="background-image: url('{{ member.data.founding }}'" {% endif %} class="platinummember">
                 {% if member.data.logo %}
-                     <a {% if member.data.founding %}style="background-image: url('{{ member.data.founding }}'" {% endif %} alt="Founding Member" class="founding" href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
+                     <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
                 {% endif %}
             </li>
         {% endif %}
