@@ -1,7 +1,7 @@
 ---
 layout: layouts/grants.njk
 title: Community Grants Program Test Grants
-name:  Test Grants
+name: Test Grants
 description: A short piece of text explaining what a Test Grant is
 applicationLink: https://www.google.co.uk/
 date: 2022-04-01
@@ -23,7 +23,7 @@ Eligibility criteria
 
 ## How will the selection process work?
 
-Link to the [Test Grants section of the selection process page](/grants/eligibility-and-selection#test-grants)
+Link to the [Test Grants section of the selection process page](/grants-eligibility-and-selection#test-grants)
 
 ## Applications timeline
 
@@ -35,4 +35,4 @@ Explanation of what we're going to ask when you apply, help text for answering t
 
 ## FAQs
 
-Link to the [Test Grants section of the main FAQ page](/grants/faqs#test-grants)
+Link to the [Test Grants section of the main FAQ page](/grants-faqs#test-grants)
