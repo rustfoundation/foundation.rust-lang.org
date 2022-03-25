@@ -2,6 +2,6 @@
 name: Microsoft
 level: platinum
 logo: /img/member/microsoft.png
-founding: /img/founding-member.png
+founder: yes
 url: https://microsoft.com
 ---
