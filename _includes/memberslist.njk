@@ -1,27 +1,25 @@
-<h2>Founding Platinum</h2>
-<ul class="memberslist">
-    {% for member in memberslist %}
-        {% if member.data.level == "founding" %}
-            <li class="platinummember">
-                {% if member.data.logo %}
-                     <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
-                {% endif %}
-            </li>
-        {% endif %}
-    {% endfor %}
-</ul>
 <h2>Platinum</h2>
 <ul class="memberslist">
     {% for member in memberslist %}
         {% if member.data.level == "platinum" %}
-            <li class="platinummember">
-                {% if member.data.logo %}
-                     <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
-                {% endif %}
-            </li>
+            {% if member.data.founder == "yes" %}
+                <li class="platinummember">
+                    {% if member.data.logo %}
+                        <img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/>
+                        <a href="{{ member.data.url }}" rel="nofollow"><div style="background-image: url('/img/founding-member.png'" alt="Founding Member" class="founding"></div></a>
+                    {% endif %}
+                </li>
+           {% else %}
+                <li class="platinummember">
+                    {% if member.data.logo %}
+                        <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
+                    {% endif %}
+                </li>
+           {% endif %}
         {% endif %}
     {% endfor %}
 </ul>
+
 <h2>Silver</h2>
 <ul class="memberslist">
     {% for member in memberslist %}
