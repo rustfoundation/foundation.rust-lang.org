@@ -5,7 +5,7 @@
             <li class="platinummember">
                 {% if member.data.logo %}
                      <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
-    <div {% if member.data.founding %}style="background-image: url('{{ member.data.founding }}'"{% endif %} alt="Founding Member" class="founding"></div>
+        <a href="{{ member.data.url }}" rel="nofollow"><div {% if member.data.founding %}style="background-image: url('{{ member.data.founding }}'"{% endif %} alt="Founding Member" class="founding"></div></a>
                 {% endif %}
             </li>
         {% endif %}
