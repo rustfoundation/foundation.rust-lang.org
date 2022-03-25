@@ -2,6 +2,6 @@
 name: AWS
 level: platinum
 logo: /img/member/aws.png
-founding: /img/founding-member.png
+founder: yes
 url: https://aws.amazon.com/
 ---
