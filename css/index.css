@@ -408,6 +408,11 @@ footer .container {
 }
 
 .memberslist li {
+  padding: 1em;
+  display: inline-block;
+}
+
+.memberslist li.platinummember {
   position: relative;
   background-size: cover;
   background-position: center;
