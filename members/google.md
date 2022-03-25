@@ -2,6 +2,6 @@
 name: Google
 level: platinum
 logo: /img/member/google.png
-founding: /img/founding-member.png
+founder: yes
 url: https://google.com
 ---
