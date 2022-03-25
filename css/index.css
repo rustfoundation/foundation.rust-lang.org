@@ -412,6 +412,33 @@ footer .container {
   display: inline-block;
 }
 
+.memberslist li.platinummember {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  padding: 1em;
+  height: 15em;
+  width: 20em;
+  display: inline-block;
+  margin: 0.5em;
+}
+
+.memberslist li:hover .founding {
+  display: inline-block;
+}
+
+.memberslist .founding {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  background: white;
+  background-size: cover;
+  background-position: center;
+  height: 15em;
+  width: 20em;
+}
+
 .memberslist-small li img {
   width: 7em;
 }
@@ -528,7 +555,7 @@ iframe {
   max-height: 640px;
 }
 
-.video-holder{
+.video-holder {
   display: inline-block;
   width: 100%;
   height: 100%;
