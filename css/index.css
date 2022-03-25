@@ -408,8 +408,14 @@ footer .container {
 }
 
 .memberslist li {
+  position: relative;
+  background-size: cover;
+  background-position: center;
   padding: 1em;
+  height: 15em;
+  width: 20em;
   display: inline-block;
+  margin: 0.5em;
 }
 
 .memberslist li:hover .founding {
@@ -424,7 +430,7 @@ footer .container {
   background: white;
   background-size: cover;
   background-position: center;
-  height: auto;
+  height: 15em;
   width: 20em;
 }
 
@@ -550,4 +556,5 @@ iframe {
   height: 100%;
   max-width: 960px;
   max-height: 640px;
+  margin-top: 1em;
 }
