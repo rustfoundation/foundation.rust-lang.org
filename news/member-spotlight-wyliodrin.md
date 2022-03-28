@@ -8,15 +8,16 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
+
 Welcome to our latest Member Spotlight blog. We’re pleased to report that our silver member roster continues to grow, and we’re excited to introduce you to all our great member companies and the work they do across a variety of sectors. Today we heard from \[Alexandru Radovici\](https://www.linkedin.com/in/alexandruradovici/), Founder and CEO of \[Wyliodrin\](https://wyliodrin.com/). Read on to learn more about the company and how it’s putting Rust to work.
 
 ## **Tell us about Wyliodrin. What do you do and who do you serve?**
 
-We started Wyliodrin in 2014 with the goal of making IoT development available to everyone. When we launched, the company was primarily focused on education providers, but we have since shifted largely toward the industrial space. Today we build custom software for clients in industrial and automotive systems. Our product is called <u><strong>IoTWay</strong></u>and is a cloud platform for IoT development that enables remote deployment and updates of software on edge devices on a large scale.
+We started Wyliodrin in 2014 with the goal of making IoT development available to everyone. When we launched, the company was primarily focused on education providers, but we have since shifted largely toward the industrial space. Today we build custom software for clients in industrial and automotive systems. Our product is called \[IoTWay\](https://wyliodrin.com/iot-industry) and is a cloud platform for IoT development that enables remote deployment and updates of software on edge devices on a large scale.
 
 ## **How is Wyliodrin using Rust?**
 
-We started using Rust as a contributor to an open source project called <u>TockOS</u> and found it to be a great fit for our needs. We were looking for an alternative to Node.js, which was very resource intensive, and Rust fit the bill. Today we have a number of active client deployments in which industrial equipment is using Rust as a software. Around 30% of our client base currently uses the language, and we hope to see adoption grow, especially now that we have the Foundation and its member companies lending it some additional exposure and credibility. Those who are using Rust have been pleased with the results and development time – we delivered results faster than the .net team could deliver the UI\! There also haven’t been any support issues reported, which is a very positive sign.
+We started using Rust as a contributor to an open source project called \[TockOS\](https://www.tockos.org/) and found it to be a great fit for our needs. We were looking for an alternative to Node.js, which was very resource intensive, and Rust fit the bill. Today we have a number of active client deployments in which industrial equipment is using Rust as a software. Around 30% of our client base currently uses the language, and we hope to see adoption grow, especially now that we have the Foundation and its member companies lending it some additional exposure and credibility. Those who are using Rust have been pleased with the results and development time – we delivered results faster than the .net team could deliver the UI\! There also haven’t been any support issues reported, which is a very positive sign.
 
 ## **Why did you join the Rust Foundation?**
 
@@ -32,6 +33,6 @@ I love that it is productive and efficient and enables fast deployments. And I�
 
 ## **When you think of Rust, what three things come to mind:**
 
-Safety, efficiency and embedded systems
+Safety, efficiency and embedded systems.
 
-To learn more about the Rust Foundation, check out our&nbsp;<u>website</u>,&nbsp;<u>learn about becoming a member</u>&nbsp;and follow us on&nbsp;<u>Twitter</u>&nbsp;and&nbsp;<u>LinkedIn</u>&nbsp;to stay up to date.
+To learn more about the Rust Foundation, check out our \[website\](https://foundation.rust-lang.org/), \[learn about becoming a member\](https://foundation.rust-lang.org/info/become-a-member/) and follow us on \[Twitter\](https://twitter.com/rust\_foundation) and \[LinkedIn\](https://www.linkedin.com/company/rust-foundation/) to stay up to date.
