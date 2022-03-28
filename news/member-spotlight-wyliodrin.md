@@ -9,7 +9,7 @@ index: true
 layout: layouts/news.njk
 ---
 
-![Alexandru Radovici](/img/news/2022-03-29-member-spotlight-wyliodrin/member_spotlight_alexandru_radovici.png)
+![Alexandru Radovici](/img/news/2022-03-29-member-spotlight-wyliodrin/member-spotlight-alexandru-radovici.png)
 
 Welcome to our latest Member Spotlight blog. We’re pleased to report that our silver member roster continues to grow, and we’re excited to introduce you to all our great member companies and the work they do across a variety of sectors. Today we heard from [Alexandru Radovici](https://www.linkedin.com/in/alexandruradovici/), Founder and CEO of [Wyliodrin](https://wyliodrin.com/). Read on to learn more about the company and how it’s putting Rust to work.
 
