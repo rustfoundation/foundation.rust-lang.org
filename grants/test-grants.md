@@ -3,7 +3,8 @@ layout: layouts/grants.njk
 title: Community Grants Program Test Grants
 name: Test Grants
 description: A short piece of text explaining what a Test Grant is
-applicationLink: https://www.google.co.uk/
+applicationLink1: https://www.google.co.uk/
+applicationLink1desc: Apply
 date: 2022-04-01
 tags:
    - community grants program
