@@ -2,7 +2,7 @@
 title: 'Member Spotlight: Wyliodrin'
 byline: Introducing Wyliodrin, Rust Foundation Silver Member
 description:
-date: 2021-03-29T16:00:00Z
+date: 2022-03-29T16:00:00Z
 tags:
   - member spotlight
 index: true
