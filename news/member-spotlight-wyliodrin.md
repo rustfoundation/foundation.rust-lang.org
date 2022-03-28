@@ -5,11 +5,11 @@ description:
 date: 2021-03-29T16:00:00Z
 tags:
   - member spotlight
-index: false
+index: true
 layout: layouts/news.njk
 ---
 
-Welcome to our latest Member Spotlight blog. We’re pleased to report that our silver member roster continues to grow, and we’re excited to introduce you to all our great member companies and the work they do across a variety of sectors. Today we heard from \[Alexandru Radovici\](https://www.linkedin.com/in/alexandruradovici/), Founder and CEO of \[Wyliodrin\](https://wyliodrin.com/). Read on to learn more about the company and how it’s putting Rust to work.
+<img src="/uploads/rust-foundation-member-spotlight-wyliodrin.png" width="2560" height="1440" />Welcome to our latest Member Spotlight blog. We’re pleased to report that our silver member roster continues to grow, and we’re excited to introduce you to all our great member companies and the work they do across a variety of sectors. Today we heard from \[Alexandru Radovici\](https://www.linkedin.com/in/alexandruradovici/), Founder and CEO of \[Wyliodrin\](https://wyliodrin.com/). Read on to learn more about the company and how it’s putting Rust to work.
 
 ## **Tell us about Wyliodrin. What do you do and who do you serve?**
 
