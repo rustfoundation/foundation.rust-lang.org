@@ -5,12 +5,17 @@ templateClass: tmpl-info
 <div class="container">
   <h1>{{ title }}</h1>
   <article>
-   {% if applicationLink|length %}
-      <div class="cta-white button"><a href="{{ applicationLink }}">Apply</a></div>
-    {% else %}
+    {% if applicationLink1|length %}
       <div class="cta-white button"><a href="{{ applicationLink1 }}">{{ applicationLink1desc }}</a></div>
+    {% endif %}
+    {% if applicationLink2|length %}
       <div class="cta-white button"><a href="{{ applicationLink2 }}">{{ applicationLink2desc }}</a></div>
+    {% endif %}
+    {% if applicationLink3|length %}
       <div class="cta-white button"><a href="{{ applicationLink3 }}">{{ applicationLink3desc }}</a></div>
+    {% endif %}
+    {% if applicationLink4|length %}
+      <div class="cta-white button"><a href="{{ applicationLink4 }}">{{ applicationLink4desc }}</a></div>
     {% endif %}
     {{ content | safe }}
   </article>
