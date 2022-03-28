@@ -3,7 +3,8 @@ layout: layouts/grants.njk
 title: Community Grants Program Test Grants
 name: Test Grants 2
 description: The same as the other one, but to test the include is working correctly
-applicationLink: https://www.google.co.uk/
+applicationLink1: https://www.google.co.uk/
+applicationLink1desc: Apply
 date: 2022-04-01
 tags:
    - community grants program
