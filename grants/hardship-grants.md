@@ -3,6 +3,8 @@ layout: layouts/grants.njk
 title: Community Grants Program Hardship Grants
 name: Hardship Grants
 description: Awards ranging from $500 to $1,500 made to community members facing financial hardship. The budget for Hardship Grants is $15,000 in 2022. Applications are continually open until the allocated budget is exhausted.
+applicationLink1: mailto:grants@rustfoundation.org
+applicationLink1desc: Apply
 date: 2022-04-01
 tags:
    - community grants program
