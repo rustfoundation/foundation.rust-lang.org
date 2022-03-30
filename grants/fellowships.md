@@ -54,6 +54,16 @@ Applicants will be asked to describe in their application how they intend to sup
 
 RFFs _will not_ be required to set and meet specific milestones. They will be asked to prepare a brief update each quarter and have a catch-up call with the Foundation staff. At the end of the fellowship year RFFs will be asked to write a blog post detailing their experiences of the program and reviewing their achievements for publication on the Foundation’s website.
 
+All RFFs will be required to adhere to the [Rust Foundation’s Code of Conduct](https://foundation.rust-lang.org/policies/code-of-conduct/), which is an extension of the [Rust Project Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct). Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.
+
+## Who can apply?
+
+The Fellowships are open to applications from anyone who will be over the age of 18 at the time of the grant award. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. People who are currently paid to work on the Rust Project full-time will also not be eligible for Fellowships (part-time is fine).
+
+You don’t have to speak English to be a Fellow, but you do need a reasonable understanding of written English in order to be able to interact with members of the Project Teams and Working Groups.
+
+All Fellowship applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
+
 [Full Eligibility and Selection Criteria](https://placid-guanaco.cloudvent.net/grants-eligibility-and-selection/#fellowships-and-project-grants)
 
 [FAQs](https://placid-guanaco.cloudvent.net/grants-faqs/#fellowship)
