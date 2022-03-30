@@ -58,7 +58,7 @@ All RFFs will be required to adhere to the [Rust Foundation’s Code of Conduct]
 
 ## Who can apply?
 
-The Fellowships are open to applications from anyone who will be over the age of 18 at the time of the grant award. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. People who are currently paid to work on the Rust Project full-time will also not be eligible for Fellowships (part-time is fine).
+The Fellowships are open to applications from anyone who will be over the age of 18 at the time of the grant award. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. Employees of organizations that are Members of the Rust Foundation should contact us at grants@rustfoundation.org prior to completing an application, in order for us to assess whether a Fellowship award to them might represent a conflict of interest for the Foundation. People who are currently paid to work on the Rust Project full-time will not be eligible for Fellowships (part-time is fine).
 
 You don’t have to speak English to be a Fellow, but you do need a reasonable understanding of written English in order to be able to interact with members of the Project Teams and Working Groups.
 
