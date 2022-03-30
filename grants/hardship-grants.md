@@ -8,7 +8,7 @@ tags:
    - community grants program
 ---
 
-## Rust Foundation Hardship Grants
+## Hardship Grants
 
 ### Summary
 
