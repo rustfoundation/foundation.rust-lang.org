@@ -76,21 +76,21 @@ To help you better understand if the Fellowship program might be suitable for yo
 
 Essential information for us to stay in touch with you.
 
+#### Please provide a link to your GitHub account
+
+This will enable us to better understand your technical expertise and experience, and contributions to Rust.
+
+#### Please link to personal website/public social media handles/LinkedIn (as appropriate)
+
+This will enable us to learn a little bit more about you and any public posting you may have made relating to Rust. We understand that some people choose not to have publicly available social media profiles (or social media accounts at all) nor other public sites. If this is true for you, don’t worry, it won’t count against you in the assessment process.
+
 #### Location and languages spoken
 
 We are keen to reflect the global diversity of the Rust community in our grant awards and this information will help us achieve that.
 
-#### Are you part of a group that is affected by systemic bias, particularly in technology? [Yes/No]
+#### Are you part of a group that is affected by systemic bias, particularly in technology?
 
 We are keen for our grants program, at the very least, to not increase systemic bias, and hopefully go some way to reducing it. We will not ask you for details of how you are affected by systemic bias (if you are), we will take your response on trust.
-
-#### GitHub Account
-
-This will enable us to better understand your technical expertise and experience, and contributions to Rust.
-
-#### Links to personal website/public social media handles/LinkedIn (as appropriate)
-
-This will enable us to learn a little bit more about you and any public posting you may have made relating to Rust. We understand that some people choose not to have publicly available social media profiles (or social media accounts at all) nor other public sites. If this is true for you, don’t worry, it won’t count against you in the assessment process.
 
 #### Are you currently paid (either by an organization, or through personal sponsorship) to work on the Rust Project? If so can you please provide details 
 
@@ -107,7 +107,7 @@ As indicated in the full question, we're looking for things like:
 * Details of any Rust-related events you have been involved with (where applicable)
 * Details of how you participate in the Rust community (virtually or in person)
 
-We are expecting prospective Rust Fellows to already be active members of the Rust community. The responses to this question should help explain to someone who has never heard of you before what your involvement in the community has been. We expect you to be able to demonstrate considerable understanding of, and working within, the Rust community.
+The responses to this question should help explain to someone who has never heard of you before what your involvement in the community has been. For Rust Fellows we expect you to be able to demonstrate considerable understanding of, and working within, the Rust Community.
 
 We are not expecting the same level of past engagement from prospective Associate Fellows. If you apply to be an Associate Fellow your response should demonstrate that you have some understanding of and experience with Rust, and the potential to increase your skills and engagement over the course of the year.
 
