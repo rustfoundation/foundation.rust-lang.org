@@ -40,7 +40,7 @@ We will aim to make a decision regarding a Hardship Grant within 5 working days 
 
 All Hardship Grant applicants must ensure that they are able to receive financial transfers from the USA.  Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
 
-[Full Eligibility and Selection Criteria](https://placid-guanaco.cloudvent.net/grants-eligibility-and-selection/#hardship-grants)
+[Full Eligibility and Selection Criteria](/grants-eligibility-and-selection/#hardship-grants)
 
-[FAQs](https://placid-guanaco.cloudvent.net/grants-faqs/#hardship-grants)
+[FAQs](/grants-faqs/#hardship-grants)
 
