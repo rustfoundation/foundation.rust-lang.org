@@ -72,9 +72,9 @@ Organizations that are Members of the Rust Foundation are not eligible to apply 
 
 All Project Grant applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
 
-[Full Eligibility and Selection Criteria](grants-eligibility-and-selection/#projects)
+[Full Eligibility and Selection Criteria](/grants-eligibility-and-selection/#projects)
 
-[FAQs](grants-faqs/#project-grants)
+[FAQs](/grants-faqs/#project-grants)
 
 ### Application questions and context
 
