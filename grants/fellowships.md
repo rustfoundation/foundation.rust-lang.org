@@ -43,7 +43,7 @@ Being awarded a Fellowship will not confer any special privileges on the Fellows
 
 Prospective Fellows are free to choose what they want to work on during the course of their Fellowship year. The focus of their work must, however, be on one or more parts of the Rust Project, in the range of activities carried out by the [Rust Teams and Working Groups](https://www.rust-lang.org/governance). Fellowships won’t be limited to people who want to spend their Fellowship year writing code. Applications are also welcome from people who want to:
 
-* Provide organisational support 
+* Provide organizational support 
 * Carry out moderation 
 * Write documentation 
 * Support the expansion of the Rust community 
@@ -92,7 +92,7 @@ This will enable us to better understand your technical expertise and experience
 
 This will enable us to learn a little bit more about you and any public posting you may have made relating to Rust. We understand that some people choose not to have publicly available social media profiles (or social media accounts at all) nor other public sites. If this is true for you, don’t worry, it won’t count against you in the assessment process.
 
-#### Are you currently paid (either by an organisation, or through personal sponsorship) to work on the Rust Project? If so can you please provide details 
+#### Are you currently paid (either by an organization, or through personal sponsorship) to work on the Rust Project? If so can you please provide details 
 
 We are keen to ensure that our financial support goes to those members of the community who are most in need of it. For that reason we won’t make an award to someone who is already paid on a full time basis to work on the Rust Project. People who are only paid on a part-time basis to work on the Rust Project or who currently receive no financial support to do so can apply.
 
