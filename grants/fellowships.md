@@ -64,9 +64,9 @@ You don’t have to speak English to be a Fellow, but you do need a reasonable u
 
 All Fellowship applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
 
-[Full Eligibility and Selection Criteria](https://placid-guanaco.cloudvent.net/grants-eligibility-and-selection/#fellowships)
+[Full Eligibility and Selection Criteria](/grants-eligibility-and-selection/#fellowships)
 
-[FAQs](https://placid-guanaco.cloudvent.net/grants-faqs/#fellowship)
+[FAQs](/grants-faqs/#fellowship)
 
 ### Application questions and context
 
