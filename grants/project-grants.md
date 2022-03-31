@@ -2,7 +2,7 @@
 layout: layouts/grants.njk
 title: Community Grants Program Project Grants
 name: Project Grants
-description: Awards made to individuals, groups, and organisations for discrete pieces of work in the range of $1,000 to $20,000. The budget for Project Grants is $350,000 in 2022. There will be two application windows – one in April and one in October – awarding $175,000 in each.
+description: Awards made to individuals, groups, and organizations for discrete pieces of work in the range of $1,000 to $20,000. The budget for Project Grants is $350,000 in 2022. There will be two application windows – one in April and one in October – awarding $175,000 in each.
 applicationLink1: https://app.smarterselect.com/programs/80957-Rust-Foundation
 applicationLink1desc: Apply as an individual
 applicationLink2: https://app.smarterselect.com/programs/80959-Rust-Foundation
@@ -59,7 +59,7 @@ Any work that benefits the Rust ecosystem as a whole is eligible for a Project G
 * Producing education materials
 * Providing educational support
 * Supporting/mentoring/guiding other contributors
-* Organising Events / Meetups
+* Organizing Events / Meetups
 * Coordination and management activities
 
 All grantees will be required to adhere to the [Rust Foundation’s Code of Conduct](https://foundation.rust-lang.org/policies/code-of-conduct/), which is an extension of the [Rust Project Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct). Failure to adhere to the Code of Conduct may result in the grant being terminated.
@@ -102,7 +102,7 @@ This will enable us to better understand your technical expertise and experience
 
 This will enable us to learn a little bit more about you/your team and any public postings you may have made relating to Rust. We understand that some people choose not to have publicly available social media profiles (or social media accounts at all) nor other public sites. If this is true for you, don’t worry, it won’t count against you in the assessment process.
 
-#### Are you currently paid (either by an organisation, or through personal sponsorship) to work on the Rust Project? If so can you please provide details 
+#### Are you currently paid (either by an organization, or through personal sponsorship) to work on the Rust Project? If so can you please provide details 
 
 We are keen to ensure that our financial support goes to those members of the community who are most in need of it. For that reason we won’t make an award to someone who is already paid on a full time basis to work on the Rust Project. People who are only paid on a part-time basis to work on the Rust Project or who currently receive no financial support to do so can apply.
 
@@ -170,11 +170,11 @@ This will enable us to better understand you technical expertise and experience,
 
 This will enable us to learn a little bit more about your team and any public postings you may have made relating to Rust. We understand that some people choose not to have publicly available social media profiles (or social media accounts at all) nor other public sites. If this is true for you, don’t worry, it won’t count against you in the assessment process.
 
-#### Please give us a little bit of background about your organisation’s experience of Rust and how you currently use it in your day to day work, and the experience of the team members who will be working on the project
+#### Please give us a little bit of background about your organization’s experience of Rust and how you currently use it in your day to day work, and the experience of the team members who will be working on the project
 
-The answer to this question will enable us to assess the ability of your organisation to deliver your proposed project. If possible, please include:
-* What percentage of your organisation’s language usage Rust represents
-* Examples of the work related to Rust done by members of your organisation
+The answer to this question will enable us to assess the ability of your organization to deliver your proposed project. If possible, please include:
+* What percentage of your organization’s language usage Rust represents
+* Examples of the work related to Rust done by members of your organization
 
 #### Please tell us about your proposed project and what the benefit of your work will be for the Rust project and the wider community of users. Please give as much detail as you can including, where appropriate, specific deliverables and timelines.
 
