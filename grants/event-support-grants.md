@@ -51,29 +51,21 @@ All Event Support Grant applicants must ensure that they are able to receive fin
 
 To help you better understand if a Rust Event Support Grant might be suitable for you and to help you prepare for the application, the questions asked on the application, and the context for them, are as follows:
 
-#### Name(s), preferred pronoun(s), email address of lead contact
+#### Name, preferred pronoun, email address of applicant; name of group/organization arranging the event (if applicable)
 
 Essential information for us to stay in touch with you.
 
-#### Name of group/organization arranging the event (if applicable)
-
-Including links to any appropriate websites or social media accounts.
-
-#### Location(s) and languages spoken
-
-We are keen to reflect the global diversity of the Rust community in our grant awards and this information will help us achieve that.
-
-#### Links to personal website/public social media handles/LinkedIn (as appropriate)
+#### Links to personal website/public social media handles/LinkedIn of applicant/organization (as appropriate)
 
 This will enable us to learn a little bit more about you/your team and any public postings you may have made relating to Rust.  We understand that some people choose not to have publicly available social media profiles (or social media accounts at all) nor other public sites.  If this is true for you, don’t worry, it won’t count against you in the assessment process.
 
-#### Name, Date, and Location of Event
+#### About the event: location(s) and languages
 
-Location can be online.
+We are keen to reflect the global diversity of the Rust community in our grant awards, and this information will help us achieve that. We can support events that are online-only.
 
 #### Please give us a little bit of background about yourself/your group and your experience of running Rust-related events
 
-If this is your first time running a Rust-related event you can still apply.  If you have no experience of running Rust-related events, but have experience of running other events please include this here.
+If this is your first time running a Rust-related event you can still apply. If you have no experience of running Rust-related events, but have experience of running other events, please include this here.
 
 #### Please tell us a little bit about the planned event including expected number of attendees
 
