@@ -26,13 +26,14 @@ p:last-child {
 .tmpl-news p {
   max-width: 50em;
 }
-p, article ul, article ol,
-.tmpl-post li, .tmpl-news li,
+p, article ul, article ol, ul.grant li,
+.tmpl-post li, .tmpl-news li, .tmpl-grants li,
 img {
   max-width: 37.5em; /* 600px /16 */
 }
 p,
-.tmpl-post li, .tmpl-news li {
+.tmpl-post li, .tmpl-news li, .tmpl-grants li,
+ul.grant li {
   line-height: 1.75;
 }
 a[href] {

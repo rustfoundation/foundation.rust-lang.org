@@ -257,6 +257,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/news/2022-03-31-cgp-is-open-announcement/</loc>
+    <lastmod>2022-03-31</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/about/</loc>
     <lastmod>2022-03-31</lastmod>
   </url>
@@ -323,6 +328,16 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/events/</loc>
+    <lastmod>2022-03-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/grants-eligibility-and-selection/</loc>
+    <lastmod>2022-03-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/grants-faqs/</loc>
     <lastmod>2022-03-31</lastmod>
   </url>
   
@@ -637,12 +652,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/announcement/</loc>
+    <loc>https://foundation.rust-lang.org/tags/grants/</loc>
     <lastmod>2022-03-31</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/philosophy/</loc>
+    <loc>https://foundation.rust-lang.org/tags/community%20grants%20program/</loc>
     <lastmod>2022-03-31</lastmod>
   </url>
   
@@ -653,6 +668,11 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/membership%20update/</loc>
+    <lastmod>2022-03-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/announcement/</loc>
     <lastmod>2022-03-31</lastmod>
   </url>
   
@@ -682,17 +702,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/foundation/</loc>
-    <lastmod>2022-03-31</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/programs/</loc>
     <lastmod>2022-03-31</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
+    <lastmod>2022-03-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/foundation/</loc>
     <lastmod>2022-03-31</lastmod>
   </url>
   
@@ -722,6 +742,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/philosophy/</loc>
+    <lastmod>2022-03-31</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/press/</loc>
     <lastmod>2022-03-31</lastmod>
   </url>
@@ -739,5 +764,25 @@
   <url>
     <loc>https://foundation.rust-lang.org/tags/environment/</loc>
     <lastmod>2022-03-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/grants/event-support-grants/</loc>
+    <lastmod>2022-04-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/grants/fellowships/</loc>
+    <lastmod>2022-04-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/grants/hardship-grants/</loc>
+    <lastmod>2022-04-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/grants/project-grants/</loc>
+    <lastmod>2022-04-01</lastmod>
   </url>
 </urlset>
