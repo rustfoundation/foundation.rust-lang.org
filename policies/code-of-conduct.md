@@ -7,6 +7,10 @@ The Rust Foundation (“Foundation”) has adopted the following code of conduct
 
 We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic. Consequently, we will not tolerate bullying or harassment of anyone, in any form, anywhere within the Foundation’s activities. This Code of Conduct sets out our policy and tells you where you can report violations.
 
+## Rust Project Code of Conduct
+
+The Foundation operates within the larger Rust community. The Rust Project Code of Conduct (https://www.rust-lang.org/policies/code-of-conduct) is the baseline for the Foundation's Code of Conduct. Agreeing to the Foundation Code of Conduct requires that that the Rust Project Code of Conduct is also agreed to, followed and adhered to in all circumstances where the Foundation Code of Conduct applies.
+
 ## Applicability
 
 This code of conduct applies to all participants in Foundation activities, including member representatives, grantees, board and staff. Foundation staff members are required to sign up to this Code of Conduct as part of their contracts of employment, and breaches are subject to our disciplinary procedures. We expect our staff members to set a good example.
@@ -19,8 +23,6 @@ Foundation activities should be taken to include:
 * any other forums managed by the Foundation.
 
 This code also applies to non-Foundation activities where someone claims affiliation with or is representing the Foundation.
-
-The Foundation operates within the larger Rust community, and this code of conduct is intended to align with the Rust Code of Conduct (https://www.rust-lang.org/policies/code-of-conduct), but only applies to activities as described above.
 
 ## Our expectations
 
@@ -69,6 +71,8 @@ We encourage you to report incidents that didn’t affect you directly but did a
 We will act as promptly as we can to resolve the situation. Speed may be of the essence where the incident is ongoing, but we will also do our best not to compromise fairness.
 
 We will appoint a member of our staff (an “investigator”) to look into your report in detail. (If you made a report about a member of our staff, we will ensure they have no part in handling your report.)
+
+The investigator may consult and/or work with the Rust Project moderation team (https://www.rust-lang.org/governance/teams/moderation) for any report directly or indirectly related to the Rust Project.
 
 The investigator will conduct a fact-finding exercise to collect all the relevant information and establish what did or did not happen. Their role is to be fair and objective, collecting balanced evidence from both sides. The investigation will be confidential to the fullest extent possible.
 
