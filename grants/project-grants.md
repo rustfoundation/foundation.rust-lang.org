@@ -156,7 +156,7 @@ Essential information for us to stay in touch with you. Please nominate one pers
 
 #### Please provide links to the GitHub accounts of the people who will be working on the project
 
-This will enable us to better understand you technical expertise and experience, and contributions to Rust.
+This will enable us to better understand your technical expertise and experience, and contributions to Rust.
 
 #### Please provide links to the personal websites/public social media handles/LinkedIn of team members (as appropriate)
 
