@@ -82,27 +82,27 @@ To help you better understand if a Project Grant might be suitable for you and t
 
 ### Individual/Team Applications
 
-#### Name(s), preferred pronoun(s), email address of lead contact
+#### Name(s), preferred pronoun(s), email address(es)
 
 Essential information for us to stay in touch with you.
 
-#### Location(s) and languages spoken
-
-We are keen to reflect the global diversity of the Rust community in our grant awards and this information will help us achieve that.
-
-#### Are you or any members of your team part of a group that is affected by systemic bias, particularly in technology? [Yes/No]
-
-We are keen for our grants program, at the very least, to not increase systemic bias, and hopefully go some way to reducing it. We will not ask you for details of how you are affected by systemic bias (if you are), we will take your response on trust.
-
-#### GitHub Account(s)
+#### Please provide a link to your GitHub account(s)
 
 This will enable us to better understand your technical expertise and experience, and contributions to Rust.
 
-#### Links to personal website/public social media handles/LinkedIn (as appropriate)
+#### Please provide links to your personal website/public social media handles/LinkedIn (as appropriate)
 
 This will enable us to learn a little bit more about you/your team and any public postings you may have made relating to Rust. We understand that some people choose not to have publicly available social media profiles (or social media accounts at all) nor other public sites. If this is true for you, don’t worry, it won’t count against you in the assessment process.
 
-#### Are you currently paid (either by an organization, or through personal sponsorship) to work on the Rust Project? If so can you please provide details 
+#### Location(s) and language(s) spoken
+
+We are keen to reflect the global diversity of the Rust community in our grant awards and this information will help us achieve that.
+
+#### Are you / Are any members of the team part of a group that is affected by systemic bias, particularly in technology?
+
+We are keen for our grants program, at the very least, to not increase systemic bias, and hopefully go some way to reducing it. We will not ask you for details of how you are affected by systemic bias (if you are), we will take your response on trust.
+
+#### Are you / Are any of the team members currently paid (either by an organization, or through personal sponsorship) to work on the Rust Project? If so can you please provide details 
 
 We are keen to ensure that our financial support goes to those members of the community who are most in need of it. For that reason we won’t make an award to someone who is already paid on a full time basis to work on the Rust Project. People who are only paid on a part-time basis to work on the Rust Project or who currently receive no financial support to do so can apply.
 
@@ -117,7 +117,7 @@ As indicated in the full question, we're looking for things like:
 * Details of any Rust-related events you have been involved with (where applicable)
 * Details of how you participate in the Rust community (virtually or in person)
 
-Your answer to this question must demonstrate why you/your team have the experience and skills to deliver your chosen project.
+Your answer to this question must demonstrate why you / your team have the experience and skills to deliver your chosen project.
 
 #### Please tell us about your proposed project and what the benefit of your work will be for the Rust project and the wider community of users. Please give as much detail as you can including, where appropriate, specific deliverables and timelines.
 
@@ -134,7 +134,7 @@ Applicants should be confident that they are able to deliver their project witho
 
 #### How much money are you applying for?
 
-Please put in a specific number, not a range.
+Please put in an exact value, not a range.
 
 #### How long do you expect your project to take to complete (number of hours work and the total amount of time from start to finish)?
 
@@ -150,23 +150,15 @@ This will help us understand what we should be looking for in order to release t
 
 So that we know who is applying.
 
-#### Name, preferred pronouns, email address of Team Lead
+#### Name(s), preferred pronoun(s), email address(es)
 
-Essential information for us to stay in touch with you.
+Essential information for us to stay in touch with you. Please nominate one person to act as the lead application contact and give their details separately.
 
-#### Name(s), preferred pronoun(s), email address(s) of other Team Members
-
-Essential information for us to stay in touch with you.
-
-#### Are any members of your team part of a group that is affected by systemic bias, particularly in technology? [Yes/No]
-
-We are keen for our grants program, at the very least, to not increase systemic bias, and hopefully go some way to reducing it. We will not ask you for details of how you are affected by systemic bias (if you are), we will take your response on trust.
-
-#### GitHub Account(s) of the people who will be carrying out the project
+#### Please provide links to the GitHub accounts of the people who will be working on the project
 
 This will enable us to better understand you technical expertise and experience, and contributions to Rust.
 
-#### Links to personal website/public social media handles/LinkedIn of team members (as appropriate)
+#### Please provide links to the personal websites/public social media handles/LinkedIn of team members (as appropriate)
 
 This will enable us to learn a little bit more about your team and any public postings you may have made relating to Rust. We understand that some people choose not to have publicly available social media profiles (or social media accounts at all) nor other public sites. If this is true for you, don’t worry, it won’t count against you in the assessment process.
 
@@ -195,7 +187,7 @@ Please provide a specific figure for the amount that you are seeking, and a brea
 
 #### If your total includes sales tax, please provide details of it
 
-As above.
+As above. We need to know what tax is applicable in your jurisdiction, and how much of the budget this represents.
 
 #### How long do you expect your project to take to complete (number of hours work and the total amount of time from start to finish)?
 
