@@ -564,3 +564,10 @@ iframe {
   max-height: 640px;
   margin-top: 1em;
 }
+
+/* Careers */
+.jobs {
+  width: 100%;
+  background-color: #FFD866;
+  min-height: 400px;
+}
