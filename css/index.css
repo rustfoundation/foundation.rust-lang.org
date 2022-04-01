@@ -569,6 +569,7 @@ iframe {
 .job {
   max-width: 37.5em;
   background-color: #FFD866;
+  border: var(--orange) 1px solid;
   min-height: 250px;
 }
 
@@ -577,4 +578,12 @@ iframe {
   font-size: 120%;
   text-align: center;
   line-height: 2;
+}
+
+.job .cta-box {
+    text-align: center;
+    padding: 0.5em;
+    margin: 2em 0;
+    border: var(--orange) 1px dotted;
+    width: 80%;
 }
