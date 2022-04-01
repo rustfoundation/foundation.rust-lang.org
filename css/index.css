@@ -567,7 +567,14 @@ iframe {
 
 /* Careers */
 .job {
-  width: 100%;
+  max-width: 37.5em;
   background-color: #FFD866;
-  min-height: 400px;
+  min-height: 250px;
+}
+
+.job p.headline {
+  font-weight: bold;
+  font-size: 120%;
+  text-align: center;
+  line-height: 2;
 }
