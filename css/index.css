@@ -568,6 +568,7 @@ iframe {
 /* Careers */
 .job {
   max-width: 37.5em;
+  padding: 0.5em;
   background-color: #FFD866;
   border: var(--orange) 1px solid;
   min-height: 250px;
