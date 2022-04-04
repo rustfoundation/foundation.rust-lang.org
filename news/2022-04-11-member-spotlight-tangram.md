@@ -45,4 +45,4 @@ Given our company mission, we have a vested interest in both the technological a
 
 The world would be a darker place without <u>Clippy</u>. That, and the fact that I don’t lose a day of engineering to dependency wrangling anymore thanks to <u>crates.io</u>.
 
-To learn more about the Rust Foundation, check out our [website](https://foundation.rust-lang.org/), [learn about becoming a member](https://foundation.rust-lang.org/info/become-a-member/) and follow us on [Twitter](https://twitter.com/rust_foundation) and [LinkedIn](https://www.linkedin.com/company/rust-foundation/) to stay up to date.
+To learn more about the Rust Foundation, check out our [website](https://foundation.rust-lang.org/), [learn about becoming a member](https://foundation.rust-lang.org/info/become-a-member/) and follow us on [Twitter](https://twitter.com/rust_foundation) and [LinkedIn](https://www.linkedin.com/company/rust-foundation/) to stay up to date. The Foundation is also rewarding community grants to qualified applicants. Learn more about the [Community Grants Program](https://foundation.rust-lang.org/grants/) if you are interested.
