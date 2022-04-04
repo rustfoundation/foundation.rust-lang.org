@@ -14,7 +14,7 @@ tags:
 
 ### Summary
 
-**Purpose of award**: To support community members who are facing financial hardship.
+**Purpose of award**: To support active maintainers of the Rust Project who are facing financial hardship.
 
 **Award amount**: $500 to $1,500.
 
@@ -24,7 +24,7 @@ tags:
 
 ### Detail
 
-We understand that members of the Rust community may suffer from financial hardship from time to time, which can lead to food and accommodation insecurity.  The Hardship Grants programme is aimed at providing short-term financial support to those active members of the community most in need of help.
+We understand that members of the Rust community may suffer from financial hardship from time to time, which can lead to food and accommodation insecurity.  The Hardship Grants programme is aimed at providing short-term financial support to those active maintainers of the Rust Project most in need of help.
 
 * Applicants will be able to apply for amounts of between $500 and $1,500 USD.
 * Individuals will be eligible for a maximum of two Hardship Grants in a calendar year.
