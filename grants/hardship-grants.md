@@ -2,7 +2,7 @@
 layout: layouts/grants.njk
 title: Community Grants Program Hardship Grants
 name: Hardship Grants
-description: Awards ranging from $500 to $1,500 made to community members facing financial hardship. The budget for Hardship Grants is $15,000 in 2022. Applications are continually open until the allocated budget is exhausted.
+description: Awards ranging from $500 to $1,500 made to active maintainers of the Rust Project facing financial hardship. The budget for Hardship Grants is $15,000 in 2022. Applications are continually open until the allocated budget is exhausted.
 applicationLink1: mailto:grants@rustfoundation.org
 applicationLink1desc: Apply
 date: 2022-04-01
@@ -14,7 +14,7 @@ tags:
 
 ### Summary
 
-**Purpose of award**: To support community members who are facing financial hardship.
+**Purpose of award**: To support active maintainers of the Rust Project who are facing financial hardship.
 
 **Award amount**: $500 to $1,500.
 
@@ -24,7 +24,7 @@ tags:
 
 ### Detail
 
-We understand that members of the Rust community may suffer from financial hardship from time to time, which can lead to food and accommodation insecurity.  The Hardship Grants programme is aimed at providing short-term financial support to those active members of the community most in need of help.
+We understand that members of the Rust community may suffer from financial hardship from time to time, which can lead to food and accommodation insecurity.  The Hardship Grants programme is aimed at providing short-term financial support to those active maintainers of the Rust Project most in need of help.
 
 * Applicants will be able to apply for amounts of between $500 and $1,500 USD.
 * Individuals will be eligible for a maximum of two Hardship Grants in a calendar year.
