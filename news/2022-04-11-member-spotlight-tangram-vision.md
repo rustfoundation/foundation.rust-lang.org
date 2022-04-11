@@ -9,7 +9,7 @@ index: true
 layout: layouts/news.njk
 ---
 
-![Brandon Minor](/img/news/2022-04-11-member-spotlight-tangram/member-spotlight-brandon-minor.png)
+![Brandon Minor](/img/news/2022-04-11-member-spotlight-tangram-vision/member-spotlight-brandon-minor.png)
 
 We hope you’ve been enjoying our member spotlight blog series and the chance to get to know our silver members a bit better. We think these posts provide a nice look at the myriad ways Rust is being utilized and the benefits it provides. Today’s installment comes from [Brandon Minor](https://www.linkedin.com/in/bminortx/), Founder and CEO of [Tangram Vision](https://www.tangramvision.com/). Read on to learn why he’s such a big fan of Rust.
 
