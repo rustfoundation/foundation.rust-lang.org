@@ -1,6 +1,6 @@
 ---
-title: 'Member Spotlight: Tangram'
-byline: Introducing Tangram, Rust Foundation Silver Member
+title: 'Member Spotlight: Tangram Vision'
+byline: Introducing Tangram Vision, Rust Foundation Silver Member
 description:
 date: 2022-04-11T16:00:00Z
 tags:
@@ -15,7 +15,7 @@ We hope you’ve been enjoying our member spotlight blog series and the chance t
 
 ## Tell us about Tangram Vision. What do you do and who do you serve?
 
-Tangram Vision is a Perception DevOps company for robotics, AV, drones, and perception-enabled systems. The idea behind Tangram Vision came from our frustration of needing to build the same perception stack&nbsp;*yet again* at every company we worked with. So, we decided to build the perception stack we always wished we had, in order to save everyone else the trouble\!
+Tangram Vision is a Perception DevOps company for robotics, AV, drones, and perception-enabled systems. The idea behind Tangram Vision came from our frustration of needing to build the same perception stack *yet again* at every company we worked with. So, we decided to build the perception stack we always wished we had, in order to save everyone else the trouble\!
 
 The Tangram Vision Platform takes care of complex perception tasks like sensor fusion, calibration, and diagnostics so companies can deploy autonomy with confidence, all built on a scalable data backend that allows them to track, optimize, and analyze every sensor in their fleet. If this sounds like you, you can [sign up for early access here](https://hub.tangramvision.com/).
 
@@ -37,7 +37,7 @@ Given our company mission, we have a vested interest in both the technological a
 
 ## Tell us about your personal journey/involvement with Rust.
 
-[I wrote a whole blog post about it on the Tangram Vision blog](https://www.tangramvision.com/blog/why-were-choosing-rust)! This paragraph sums it up concisely:
+[I wrote a whole blog post about it on the Tangram Vision blog](https://www.tangramvision.com/blog/why-were-choosing-rust)\! This paragraph sums it up concisely:
 
 > Rust makes bad code hard to write. I mean, it makes it *really* hard to write. When I was first trying out the language, I found it infinitely frustrating; the way I habitually wrote code for years was being torn apart by compiler messages and warnings. My ego had a hard time taking the hit. Once I started to pick apart the methodology, though, I understood just how powerful this language could be.
 
