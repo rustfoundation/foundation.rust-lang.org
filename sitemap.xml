@@ -287,7 +287,7 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/news/2022-04-11-member-spotlight-tangram/</loc>
+    <loc>https://foundation.rust-lang.org/news/2022-04-11-member-spotlight-tangram-vision/</loc>
     <lastmod>2022-04-11</lastmod>
   </url>
   
@@ -682,16 +682,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/grants/</loc>
-    <lastmod>2022-04-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/community%20grants%20program/</loc>
-    <lastmod>2022-04-11</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/rustconf/</loc>
     <lastmod>2022-04-11</lastmod>
   </url>
@@ -702,17 +692,27 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/grants/</loc>
+    <lastmod>2022-04-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/community%20grants%20program/</loc>
+    <lastmod>2022-04-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
+    <lastmod>2022-04-11</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/announcement/</loc>
     <lastmod>2022-04-11</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/philosophy/</loc>
-    <lastmod>2022-04-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
     <lastmod>2022-04-11</lastmod>
   </url>
   
@@ -762,17 +762,17 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/community/</loc>
+    <lastmod>2022-04-11</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/program/</loc>
     <lastmod>2022-04-11</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
-    <lastmod>2022-04-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/community/</loc>
     <lastmod>2022-04-11</lastmod>
   </url>
   
