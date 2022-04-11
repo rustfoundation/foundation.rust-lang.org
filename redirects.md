@@ -45,6 +45,7 @@ redirects:
   - {"from": "/posts/2022-02-08-member-spotlight-zama/", "to": "/news/2022-02-08-member-spotlight-zama/"}
   - {"from": "/posts/2022-02-16-member-spotlight-simplabs/", "to": "/news/2022-02-16-member-spotlight-simplabs/"}
   - {"from": "/posts/2022-03-08-member-spotlight-1password/", "to": "/news/2022-03-08-member-spotlight-1password/"}
+  - {"from": "/news/2022-04-11-member-spotlight-tangram/", "to": "/news/2022-04-11-member-spotlight-tangram-vision/"}
 # The "permalink" attribute determines where the output page will be located.
 permalink: "{{ redirect.from }}"
 # The "redirect" layout just has a small html header with the meta tags that do redirection.
