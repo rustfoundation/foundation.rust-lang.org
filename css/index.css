@@ -564,3 +564,26 @@ iframe {
   max-height: 640px;
   margin-top: 1em;
 }
+
+/* Careers */
+.job {
+  max-width: 37.5em;
+  padding: 0.5em;
+  background-color: #FFD866;
+  border: var(--orange) 1px solid;
+  min-height: 250px;
+}
+
+.job p.headline {
+  font-weight: bold;
+  font-size: 120%;
+  text-align: center;
+  line-height: 2;
+}
+
+.job .cta-box {
+    text-align: center;
+    padding: 0.5em;
+    margin: auto;
+    border: none;
+}
