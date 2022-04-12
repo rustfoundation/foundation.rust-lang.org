@@ -767,17 +767,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/community/</loc>
-    <lastmod>2022-04-12</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/program/</loc>
     <lastmod>2022-04-12</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
+    <lastmod>2022-04-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/community/</loc>
     <lastmod>2022-04-12</lastmod>
   </url>
   
