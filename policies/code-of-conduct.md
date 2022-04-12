@@ -9,7 +9,7 @@ We are committed to providing a friendly, safe and welcoming environment for all
 
 ## Rust Project Code of Conduct
 
-The Foundation operates within the larger Rust community. The Rust Project Code of Conduct (https://www.rust-lang.org/policies/code-of-conduct) is the baseline for the Foundation's Code of Conduct. Agreeing to the Foundation Code of Conduct requires that that the Rust Project Code of Conduct is also agreed to, followed and adhered to in all circumstances where the Foundation Code of Conduct applies.
+The Foundation operates within the larger Rust community. The Rust Project Code of Conduct (https://www.rust-lang.org/policies/code-of-conduct) is the baseline for the Foundation's Code of Conduct. Agreeing to the Foundation Code of Conduct requires that the Rust Project Code of Conduct is also agreed to, followed and adhered to in all circumstances where the Foundation Code of Conduct applies.
 
 ## Applicability
 
