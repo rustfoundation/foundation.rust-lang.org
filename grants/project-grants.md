@@ -82,7 +82,7 @@ To help you better understand if a Project Grant might be suitable for you and t
 
 ### Individual/Team Applications
 
-#### Name(s), preferred pronoun(s), email address(es)
+#### Name(s), pronoun(s), email address(es)
 
 Essential information for us to stay in touch with you.
 
@@ -150,7 +150,7 @@ This will help us understand what we should be looking for in order to release t
 
 So that we know who is applying.
 
-#### Name(s), preferred pronoun(s), email address(es)
+#### Name(s), pronoun(s), email address(es)
 
 Essential information for us to stay in touch with you. Please nominate one person to act as the lead application contact and give their details separately.
 

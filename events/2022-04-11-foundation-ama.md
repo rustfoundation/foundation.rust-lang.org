@@ -9,6 +9,6 @@ tags:
 layout: layouts/event.njk
 ---
 
-Our next Rust Foundation AMA will take place on April 11th at 7:30am PT / 10:30 ET. Our Executive Director and CEO Bec Rumbul will share the latest updates, discuss the Foundation's Community Grant Program, and answer any questions you have. Bec will be joined by Foundation staff members Paul Lenz and Joel Marcey, and the conversation will be moderated by Sage Griffin.
+Our most recent Rust Foundation AMA took place on April 11th. Our Executive Director and CEO Bec Rumbul, joined by Foundation staff members Paul Lenz and Joel Marcey, shared the latest updates, discussed the Foundation's Community Grant Program, and answered questions from attendees.
 
-[Here's the link to join.](https://us06web.zoom.us/j/86938717294)
+Thanks to Sage Griffin for moderating the conversation\! We'll have a video and a transcript of it available here in due course.

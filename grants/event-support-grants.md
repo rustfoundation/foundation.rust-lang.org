@@ -4,7 +4,13 @@ title: Community Grants Program Event Support Grants
 name: Event Support Grants
 description: Awards ranging from $100 to $500 made to support events (both physical and virtual). The budget for Event Support grants is $15,000 per quarter ($45,000 in 2022). Applications are continually open until the allocated budget is exhausted.
 applicationLink1: https://app.smarterselect.com/programs/80971-Rust-Foundation
-applicationLink1desc: Apply
+applicationLink1desc: Apply in English
+applicationLink2: https://app.smarterselect.com/programs/81295-Rust-Foundation
+applicationLink2desc: En Français
+applicationLink3: https://app.smarterselect.com/programs/81297-Rust-Foundation
+applicationLink3desc: Em Portugues
+applicationLink4: https://app.smarterselect.com/programs/81296-Rust-Foundation
+applicationLink4desc: 中文
 date: 2022-04-01
 tags:
    - community grants program
@@ -25,8 +31,6 @@ tags:
 ### Detail
 
 Rust Event Support Grants are available to provide financial support for individuals, groups, and organizations to help cover the costs they incur in running events that support the Rust community.  A budget of $15,000 USD per quarter has been allocated for Event Support Grants by the Rust Foundation.
-
-Applications for Event Support Grants can be made in English from 1st April 2022, and in French, Chinese, and Portuguese from 8th April 2022.
 
 Applications for Event Support Grants can be made at any time, though in exceptional circumstances we may suspend applications if our budget for the quarter has already been spent.  
 
@@ -51,7 +55,7 @@ All Event Support Grant applicants must ensure that they are able to receive fin
 
 To help you better understand if a Rust Event Support Grant might be suitable for you and to help you prepare for the application, the questions asked on the application, and the context for them, are as follows:
 
-#### Name, preferred pronoun, email address of applicant; name of group/organization arranging the event (if applicable)
+#### Name, pronouns, email address of applicant; name of group/organization arranging the event (if applicable)
 
 Essential information for us to stay in touch with you.
 

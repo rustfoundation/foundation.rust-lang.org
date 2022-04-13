@@ -72,7 +72,7 @@ All Fellowship applicants must ensure that they are able to receive financial tr
 
 To help you better understand if the Fellowship program might be suitable for you and to help you prepare for the application, the questions asked on the application, and the context for them, are as follows:
 
-#### Name, preferred pronoun(s), email address
+#### Name, pronoun(s), email address
 
 Essential information for us to stay in touch with you.
 
