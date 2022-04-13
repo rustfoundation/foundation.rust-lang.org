@@ -20,6 +20,9 @@ body {
   color: var(--darkgray);
   background-color: var(--white);
 }
+img {
+  max-width: 37.5em;
+}
 @media screen and (max-width: 640px) {
 img {
   max-width: 100%;
@@ -32,8 +35,7 @@ p:last-child {
   max-width: 50em;
 }
 p, article ul, article ol, ul.grant li,
-.tmpl-post li, .tmpl-news li, .tmpl-grants li,
-img {
+.tmpl-post li, .tmpl-news li, .tmpl-grants li {
   max-width: 37.5em; /* 600px /16 */
 }
 p,
