@@ -34,7 +34,7 @@ p:last-child {
 p, article ul, article ol, ul.grant li,
 .tmpl-post li, .tmpl-news li, .tmpl-grants li,
 img {
-  max-width: 37.5em; /* 600px /16 */
+  width: 37.5em; /* 600px /16 */
 }
 p,
 .tmpl-post li, .tmpl-news li, .tmpl-grants li,
