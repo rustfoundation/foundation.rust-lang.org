@@ -51,7 +51,7 @@ All Event Support Grant applicants must ensure that they are able to receive fin
 
 To help you better understand if a Rust Event Support Grant might be suitable for you and to help you prepare for the application, the questions asked on the application, and the context for them, are as follows:
 
-#### Name, preferred pronoun, email address of applicant; name of group/organization arranging the event (if applicable)
+#### Name, pronouns, email address of applicant; name of group/organization arranging the event (if applicable)
 
 Essential information for us to stay in touch with you.
 
