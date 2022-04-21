@@ -12,7 +12,7 @@ layout: layouts/event.njk
 
 <div class="video-holder">
     <div id="video-container">
-        <iframe src="TODO PUT LINK IN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/uxWf7K-HNYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
