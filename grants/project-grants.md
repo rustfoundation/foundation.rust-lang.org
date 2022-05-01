@@ -2,13 +2,7 @@
 layout: layouts/grants.njk
 title: Community Grants Program Project Grants
 name: Project Grants
-description: Awards made to individuals, groups, and organizations for discrete pieces of work in the range of $1,000 to $20,000. The budget for Project Grants is $350,000 in 2022. There will be two application windows – one in April and one in October – awarding $175,000 in each.
-applicationLink1: https://app.smarterselect.com/programs/80957-Rust-Foundation
-applicationLink1desc: Apply as an individual
-applicationLink2: https://app.smarterselect.com/programs/80959-Rust-Foundation
-applicationLink2desc: Apply as a team
-applicationLink3: https://app.smarterselect.com/programs/80960-Rust-Foundation
-applicationLink3desc: Apply as an organization
+description: Awards made to individuals, groups, and organizations for discrete pieces of work in the range of $1,000 to $20,000. The budget for Project Grants is $350,000 in 2022. There will be two application windows – one in April and one in October – awarding $175,000 in each. The April application window is now closed. The initial group of Project Grant awards will be announced in June 2022.
 date: 2022-04-01
 tags:
    - community grants program
