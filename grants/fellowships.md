@@ -2,9 +2,7 @@
 layout: layouts/grants.njk
 title: Community Grants Program Rust Foundation Fellowships
 name: Rust Foundation Fellowships
-description: Awards made to up to 20 individuals, providing a stipend of $1,000 per month plus a travel and training budget. The budget for Rust Foundation Fellowships is $300,000 annually ($170,000 in 2022), and there will initially be a single application window in April 2022.
-applicationLink1: https://app.smarterselect.com/programs/80939-Rust-Foundation
-applicationLink1desc: Apply
+description: Awards made to up to 20 individuals, providing a stipend of $1,000 per month plus a travel and training budget. Applications are closed for 2022.  The initial group of Rust Foundation Fellows will be announced in June 2022.
 date: 2022-04-01
 tags:
    - community grants program
