@@ -51,6 +51,8 @@ By using the Services, you agree to be bound by this Agreement. You also agree t
 
 3\.3. Feedback. If you send us any feedback related to the Services, including ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, or recommendations (collectively, “Feedback”), you grant us a royalty-free, fully paid-up, worldwide, transferable, sub-licensable, irrevocable and perpetual license to implement, use, modify, commercially exploit and/or incorporate the Feedback into our products, services, and documentation.
 
+3\.4. Authentication Information. The Content license in Section 3.1 does not extend to private authentication information (such as passwords and SSH keys) that you provide to us for purposes of enabling your secure access to the Services. You authorize us to store and use private authentication information solely for the purpose of providing you access to the Services.
+
 ### 4\. Data Privacy; Compliance with Laws.
 
 4\.1. Data Privacy. Foundation’s use of personal information is subject to the Privacy Policy. You will not upload the personal information of any third party unless such third party has consented for you to provide it to us, and for us to use it consistent with the Privacy Policy.&nbsp;
