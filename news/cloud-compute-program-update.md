@@ -8,7 +8,7 @@ tags:
   - programs
 ---
 
-In November 2022, The Rust Foundation [announced](https://foundation.rust-lang.org/news/2021-11-16-news-announcing-cloud-compute-initiative/) the Cloud Compute Program, an initiative to provide free compute infrastructure for Rust Project maintainers around the world. Through the generous provision of cloud credits from Amazon Web Services (AWS), Google Cloud and Microsoft Azure, the Foundation has worked with the Rust Project [Infrastructure team](https://www.rust-lang.org/governance/teams/infra) and other maintainers to configure the machine images necessary to support the access and usage of these systems for Rust development.
+In November 2021, The Rust Foundation [announced](https://foundation.rust-lang.org/news/2021-11-16-news-announcing-cloud-compute-initiative/) the Cloud Compute Program, an initiative to provide free compute infrastructure for Rust Project maintainers around the world. Through the generous provision of cloud credits from Amazon Web Services (AWS), Google Cloud and Microsoft Azure, the Foundation has worked with the Rust Project [Infrastructure team](https://www.rust-lang.org/governance/teams/infra) and other maintainers to configure the machine images necessary to support the access and usage of these systems for Rust development.
 
 Over the last few months, the cloud infrastructure has been undergoing initial testing. A small test group of Rust Project maintainers have been using the service to do real work in order to both understand its benefits and provide feedback for its improvement.
 
