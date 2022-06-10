@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rust Foundation - Cloud Compute Program Update</title>
+    <meta name="description" content="Alpha testing of Cloud Compute shows positive results">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Rust Foundation">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Rust Foundation">
+    <meta name="title" content="Rust Foundation">
+<meta name="description" content="The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://foundation.rust-lang.org">
+<meta property="og:title" content="Rust Foundation">
+<meta property="og:description" content="The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.">
+<meta property="og:image" content="http://foundation.rust-lang.org/img/thumbnail.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://foundation.rust-lang.org/">
+<meta property="twitter:title" content="Rust Foundation">
+<meta property="twitter:description" content="The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.">
+<meta property="twitter:image" content="http://foundation.rust-lang.org/img/thumbnail.png">
+
+    <script defer data-domain="foundation.rust-lang.org" src="https://plausible.io/js/plausible.js"></script>
+
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+
+    
+  </head>
+  <body>
+    <header>
+        <ul class="nav">
+    <li class="nav-item home"><a href="/"><img alt="rust logo" src="/img/rf-logo-transparent.png"/></a></li>
+            <li class="nav-item"><a href="/">Home</a></li>
+            <li class="nav-item"><a href="/about/">About</a></li>
+            <li class="nav-item"><a href="/news/">News</a></li>
+            <li class="nav-item"><a href="/members/">Membership</a></li>
+            <li class="nav-item"><a href="/grants/">Grants program</a></li>
+            <li class="nav-item"><a href="/info/contact/">Contact</a></li>
+            <li class="nav-item"><a href="/careers/">Careers</a></li>
+</ul>
+
+    </header>
+
+    <main class="tmpl-news">
+        <section class="container post">
+      <h1>Cloud Compute Program Update</h1>
+      <h2>Alpha testing of Cloud Compute shows positive results</h2>
+      <time class="post-date" datetime="2022-06-09">09 Jun 2022</time>
+      <div class="content">
+          <p>In November 2021, The Rust Foundation <a href="https://foundation.rust-lang.org/news/2021-11-16-news-announcing-cloud-compute-initiative/">announced</a> the Cloud Compute Program, an initiative to provide free compute infrastructure for Rust Project maintainers around the world. Through the generous provision of cloud credits from Amazon Web Services (AWS), Google Cloud and Microsoft Azure, the Foundation has worked with the Rust Project <a href="https://www.rust-lang.org/governance/teams/infra">Infrastructure team</a> and other maintainers to configure the machine images necessary to support the access and usage of these systems for Rust development.</p>
+<p>Over the last few months, the cloud infrastructure has been undergoing initial testing. A small test group of Rust Project maintainers have been using the service to do real work in order to both understand its benefits and provide feedback for its improvement.</p>
+<p>The cloud compute infrastructure has been used for three primary purposes. One was to verify those that <em>should</em> have access <em>can</em> actually access the available machines, whether through a shell or, for example, VS Code and its <a href="https://code.visualstudio.com/docs/remote/remote-overview">remote access extension</a>. Another was to ensure all of the appropriate software is available to begin doing Rust development (e.g., git, all of the compiling prerequisites, etc.). And, finally, the infrastructure was used for the actual development and testing of the Rust language, particularly around the compiler and code generation.</p>
+<p>The feedback on the service has been positive. Since there was only one machine available for this test phase, the biggest issue was latency. However, that should be alleviated as more machines are spun up globally. There were also cases of users having local machines that were just as or more powerful than what is currently available by the cloud offering. That said, after some initial hiccups around access and having the necessary tooling, the actual development work provided noticeable efficiency wins for those that had less powerful development machines (e.g. i3 based laptops).  Build time improvements of 2-3x, to even on the order of 10x, were seen on various workloads. In addition, these efficiency gains allowed users to iterate on changes faster, running test suites on the cloud machines instead of relying on continuous integration (CI) systems in order to find and fix bugs.</p>
+<p><a href="https://github.com/yaahc">Jane Losare-Lusby</a>, the first tester of the service, said, “<em>It's been fantastic to finally have access to a beefy machine for rustc builds that I don't have to spend time managing personally. It's 2-3 times faster than my laptop and helps me stay focused on fewer tasks for longer with shorter interruptions from test cycles.</em>”</p>
+<p><a href="https://github.com/ouz-a">Oğuz Ağcayazı</a>, another tester of the service, said, “<em>With cloud computing, I don't have to contemplate the meaning of life while waiting for compiler tests to finish, it finishes the task quicker and I can use my computer while tests are running.</em>”</p>
+<p>While there are still some improvements we can make to the default machine images that are provided by this service (e.g., additional software and tooling, better user-data state persistence, targeted documentation on how to accomplish some tasks, etc.), we will soon open the Cloud Compute Program more broadly across the Rust Project. More machines will be brought online, across all three cloud compute platforms, around the world, so that other Rust maintainers can reap the benefits of this service.</p>
+<p>We will let those on the various Rust Project governance teams know when they have access, and we look forward to observing how well this program scales.</p>
+<p>Stay tuned for even more updates as we continue to expand the Cloud Compute Program offering.</p>
+
+      </div>
+      <div class="attachments"></div>
+    <div class="post-tags">
+      Tagged:
+      
+        <a href="/tags/cloud compute/" class="post-tag">cloud compute</a>
+        <a href="/tags/programs/" class="post-tag">programs</a>
+    </div>
+
+      <hr>
+      <ul><li>Previous: <a href="/news/2022-05-03-a-good-start-to-the-year/">A good start to the year!</a></li>
+      </ul>
+  </section>
+    </main>
+
+    <footer>
+    <div class="container">
+      <img src="/img/rf-logo-transparent.png" alt="rust foundation logo"/>
+      <div>
+        <a href="https://twitter.com/rust_foundation"><img class="social_icon" src="/img/social/twitter.png" alt="Twitter icon"/></a>
+        <a href="https://www.linkedin.com/company/rust-foundation/"><img class="social_icon" src="/img/social/linkedin.png" alt="LinkedIn icon" /></a>
+      </div>
+      <div>
+      
+        <a href="/policies/anti-bribery-and-anti-corruption-policy">Anti-Bribery and Anti-Corruption Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/anti-trust-policy">Anti-Trust Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/bylaws">Bylaws</a>
+        
+         |
+        
+      
+        <a href="/policies/cloud-compute-program">Cloud Compute Program</a>
+        
+         |
+        
+      
+        <a href="/policies/code-of-conduct">Code of Conduct</a>
+        
+         |
+        
+      
+        <a href="/policies/logo-policy-and-media-guide">Logo Policy and Media Guide</a>
+        
+         |
+        
+      
+        <a href="/policies/privacy-policy">Privacy Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/statement-on-global-regulations">Statement on Global Regulations</a>
+        
+      
+      </div>
+    </div>
+</footer>
+
+
+    <!-- Current page: /news/2022-06-09-cloud-compute-program-update/ -->
+  </body>
+</html>
