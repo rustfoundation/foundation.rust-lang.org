@@ -83,12 +83,12 @@ A quick reminder that these two grant streams are open for applications 24/7. Yo
 * [CAD97](https://github.com/CAD97/): Creating an improved tracing framework and language for Rust debugging and formally proposing and implementing a new Storage API.
 * [M-ou-se](https://github.com/m-ou-se/): Focusing on the organizing and management of the Rust Library teams.
 * [ChrisDenton](https://github.com/ChrisDenton): Improving file path handling on Windows and their use with filesystem APIs.
-* [Miguelraz](https://github.com/miguelraz):Writing a Rust-oriented SIMD (Single Instruction/Multiple Data) book.
-* [xFrednet](https://github.com/xFrednet):Creating a stable linting API that enables every Rust project to create custom lints.
-* [Hkmatsumoto](https://github.com/hkmatsumoto):Working on an LLVM JIT backend for the Rust MIR (Mid-level Intermediate Representation).
-* [Diannasoreil](https://github.com/diannasoreil):Maintenance and development of the RustBridge and Rustlings educational projects.
-* [Robert-king](https://gist.github.com/robert-king):Creating a 10 video series on creating fun projects with Rust.
-* [Dns2utf8](https://github.com/dns2utf8/):Developing a secure, remote filesystem that allows exposing a local folder on remote machine.
+* [Miguelraz](https://github.com/miguelraz): Writing a Rust-oriented SIMD (Single Instruction/Multiple Data) book.
+* [xFrednet](https://github.com/xFrednet): Creating a stable linting API that enables every Rust project to create custom lints.
+* [Hkmatsumoto](https://github.com/hkmatsumoto): Working on an LLVM JIT backend for the Rust MIR (Mid-level Intermediate Representation).
+* [Diannasoreil](https://github.com/diannasoreil): Maintenance and development of the RustBridge and Rustlings educational projects.
+* [Robert-king](https://gist.github.com/robert-king): Creating a 10 video series on creating fun projects with Rust.
+* [Dns2utf8](https://github.com/dns2utf8/): Developing a secure, remote filesystem that allows exposing a local folder on remote machine.
 * [Byron](https://github.com/Byron): Improving the Gitoxide project, a Rust implementation of Git. In particular, solving the shallow clone issue.
 * [Tnballo](https://github.com/tnballo): Develop and release two chapters of the High Assurance Rust book.
 * [Nanjekyejoannah](https://github.com/nanjekyejoannah): Developing a Rust-based GC (Garbage Collector) for Python.
