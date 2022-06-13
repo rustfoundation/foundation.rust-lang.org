@@ -9,8 +9,6 @@ tags:
   - programs
 ---
 
-## Community Grants Program Awards Announcement
-
 ### Overview
 
 The Rust Foundation is pleased to announce the awards of the 2022 Rust Foundation Fellowship Program, and the first tranche of the 2022 Project Grants Program.
