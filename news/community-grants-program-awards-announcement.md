@@ -56,7 +56,7 @@ A quick reminder that these two grant streams are open for applications 24/7. Yo
 
 * [GuillaumeGomez](https://github.com/GuillaumeGomez): Spinning up the former Rust Documentation team to support Rust Project based documentation and content.
 * [Anshulrgoyal](https://github.com/anshulrgoyal/): Support the Rust community through Rust Project based documentation improvements, bug fixes and educational blogs.
-* [Turbo87](https://github.com/Turbo87/): Crates.io improvements, including website design and presentation, reducing the number of issues and pull requests and growing the crates.io team.
+* [Turbo87](https://github.com/Turbo87/): Improvements to crates.io, including website design and presentation, reducing the number of issues and pull requests and growing the crates.io team.
 * [Ouz-a](https://github.com/ouz-a): Supporting the Rust Compiler Team through improved documentation, technical improvements and resolving GitHub issues. In addition, creating educational content to support new Rust project contributors.
 * [Jackh726](https://github.com/jackh726): Co-leading and supporting the Traits Working Group including organization, code review and mentoring. In addition, implementing various Rust Project technical features, particularly around Chalk and the Rust Compiler.
 * [ChrisDenton](https://github.com/ChrisDenton): Improving the Windows implementation of the Rust Standard Library.
@@ -78,124 +78,26 @@ A quick reminder that these two grant streams are open for applications 24/7. Yo
 
 ### Individual Project Grant Awards
 
-[Dochy-ksti](https://github.com/dochy-ksti/)
-
-
-
-* <span style="text-decoration:underline;">Expanding the outreach of Rust in China through Rust developer courses, increasing community engagement, and written content.</span>
-
-[Folyd](https://github.com/folyd)
-
-
-
-* <span style="text-decoration:underline;">Maintaining the Rust Search Extension and a documentation tool called Zine. </span>
-
-[CAD97](https://github.com/CAD97/)
-
-
-
-* <span style="text-decoration:underline;">Creating an improved tracing framework and language for Rust debugging and formally proposing and implementing a new Storage API. </span>
-
-[M-ou-se](https://github.com/m-ou-se/)
-
-
-
-* <span style="text-decoration:underline;">Focusing on the organizing and management of the Rust Library teams.</span>
-
-[ChrisDenton](https://github.com/ChrisDenton)
-
-
-
-* <span style="text-decoration:underline;">Improving file path handling on Windows and their use with filesystem APIs.</span>
-
-[Miguelraz](https://github.com/miguelraz)
-
-
-
-* <span style="text-decoration:underline;">Writing a Rust-oriented SIMD (Single Instruction/Multiple Data) book.</span>
-
-[xFrednet](https://github.com/xFrednet)
-
-
-
-* <span style="text-decoration:underline;">Creating a stable linting API that enables every Rust project to create custom lints.</span>
-
-[Hkmatsumoto](https://github.com/hkmatsumoto)
-
-
-
-* <span style="text-decoration:underline;">Working on an LLVM JIT backend for the Rust MIR (Mid-level Intermediate Representation).</span>
-
-[Diannasoreil](https://github.com/diannasoreil)
-
-
-
-* <span style="text-decoration:underline;">Maintenance and development of the RustBridge and Rustlings educational projects.</span>
-
-[Robert-king](https://gist.github.com/robert-king)
-
-
-
-* <span style="text-decoration:underline;">Creating a 10 video series on creating fun projects with Rust.</span>
-
-[Dns2utf8](https://github.com/dns2utf8/)
-
-
-
-* <span style="text-decoration:underline;">Developing a secure, remote filesystem that allows exposing a local folder on remote machine.</span>
-
-[Byron](https://github.com/Byron)
-
-
-
-* <span style="text-decoration:underline;">Improving the Gitoxide project, a Rust implementation of Git. In particular, solving the shallow clone issue.</span>
-
-[Tnballo](https://github.com/tnballo)
-
-
-
-* <span style="text-decoration:underline;">Develop and release two chapters of the High Assurance Rust book.</span>
-
-[Nanjekyejoannah](https://github.com/nanjekyejoannah)
-
-
-
-* <span style="text-decoration:underline;">Developing a Rust-based GC (Garbage Collector) for Python.</span>
-
-[W3eydi](https://github.com/w3eydi)
-
-
-
-* <span style="text-decoration:underline;">Fostering a Rust community in Turkey through event organization, content creation and social media growth.</span>
-
-[Weiznich](https://github.com/weiznich)
-
-
-
-* <span style="text-decoration:underline;">Improving error messages for trait heavy crates and working with the crates.io team to prioritize requests related to Diesel, a type safe query builder and ORM for Rust. </span>
-
-[LCrossman](https://github.com/LCrossman)
-
-
-
-* <span style="text-decoration:underline;">Research and increase the use of Rust in bioinformatics, particularly around improving gene finding in DNA sequences.</span>
-
-[Thejpster](https://github.com/thejpster)
-
-
-
-* <span style="text-decoration:underline;">Build five prototypes of the Neotron Pico micro-ATX home-computer kit and then 25 production units.</span>
-
-[Doc-jones](https://github.com/doc-jones)
-
-
-
-* <span style="text-decoration:underline;">Continuing to develop the Rust Contributor Program, the RFC which can be found at https://mojosd.medium.com/rustc-reading-club-draft-rfc-a32b16f803bf</span>
-
-<span style="text-decoration:underline;">Oraganizational Project Grant Awards</span>
-
-[Codecrafters.io](https://codecrafters.io)
-
-
-
-* <span style="text-decoration:underline;">Build three additional "Build your own X" CodeCrafter courses that can be accomplished in Rust.</span>
+* [Dochy-ksti](https://github.com/dochy-ksti/): Expanding the outreach of Rust in China through Rust developer courses, increasing community engagement, and written content.
+* [Folyd](https://github.com/folyd): Maintaining the Rust Search Extension and a documentation tool called Zine.
+* [CAD97](https://github.com/CAD97/): Creating an improved tracing framework and language for Rust debugging and formally proposing and implementing a new Storage API.
+* [M-ou-se](https://github.com/m-ou-se/): Focusing on the organizing and management of the Rust Library teams.
+* [ChrisDenton](https://github.com/ChrisDenton): Improving file path handling on Windows and their use with filesystem APIs.
+* [Miguelraz](https://github.com/miguelraz):Writing a Rust-oriented SIMD (Single Instruction/Multiple Data) book.
+* [xFrednet](https://github.com/xFrednet):Creating a stable linting API that enables every Rust project to create custom lints.
+* [Hkmatsumoto](https://github.com/hkmatsumoto):Working on an LLVM JIT backend for the Rust MIR (Mid-level Intermediate Representation).
+* [Diannasoreil](https://github.com/diannasoreil):Maintenance and development of the RustBridge and Rustlings educational projects.
+* [Robert-king](https://gist.github.com/robert-king):Creating a 10 video series on creating fun projects with Rust.
+* [Dns2utf8](https://github.com/dns2utf8/):Developing a secure, remote filesystem that allows exposing a local folder on remote machine.
+* [Byron](https://github.com/Byron): Improving the Gitoxide project, a Rust implementation of Git. In particular, solving the shallow clone issue.
+* [Tnballo](https://github.com/tnballo): Develop and release two chapters of the High Assurance Rust book.
+* [Nanjekyejoannah](https://github.com/nanjekyejoannah): Developing a Rust-based GC (Garbage Collector) for Python.
+* [W3eydi](https://github.com/w3eydi): Fostering a Rust community in Turkey through event organization, content creation and social media growth.
+* [Weiznich](https://github.com/weiznich): Improving error messages for trait heavy crates and working with the crates.io team to prioritize requests related to Diesel, a type safe query builder and ORM for Rust.
+* [LCrossman](https://github.com/LCrossman): Research and increase the use of Rust in bioinformatics, particularly around improving gene finding in DNA sequences.
+* [Thejpster](https://github.com/thejpster): Build five prototypes of the Neotron Pico micro-ATX home-computer kit and then 25 production units.
+* [Doc-jones](https://github.com/doc-jones): Continuing to develop the Rust Contributor Program, the RFC which can be found at https://mojosd.medium.com/rustc-reading-club-draft-rfc-a32b16f803bf
+
+### Oraganizational Project Grant Awards
+
+* [Codecrafters.io](https://codecrafters.io): Build three additional "Build your own X" CodeCrafter courses that can be accomplished in Rust.
