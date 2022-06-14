@@ -56,48 +56,48 @@ A quick reminder that these two grant streams are open for applications 24/7. Yo
 ### Fellowship Awards
 
 * [GuillaumeGomez](https://github.com/GuillaumeGomez)\: Spinning up the former Rust Documentation team to support Rust Project based documentation and content.
-* [Anshulrgoyal](https://github.com/anshulrgoyal/)\: Support the Rust community through Rust Project based documentation improvements, bug fixes and educational blogs.
+* [anshulrgoyal](https://github.com/anshulrgoyal/)\: Support the Rust community through Rust Project based documentation improvements, bug fixes and educational blogs.
 * [Turbo87](https://github.com/Turbo87/)\: Improvements to crates.io, including website design and presentation, reducing the number of issues and pull requests and growing the crates.io team.
-* [Ouz-a](https://github.com/ouz-a)\: Supporting the Rust Compiler Team through improved documentation, technical improvements and resolving GitHub issues. In addition, creating educational content to support new Rust project contributors.
-* [Jackh726](https://github.com/jackh726)\: Co-leading and supporting the Traits Working Group including organization, code review and mentoring. In addition, implementing various Rust Project technical features, particularly around Chalk and the Rust Compiler.
+* [ouz-a](https://github.com/ouz-a)\: Supporting the Rust Compiler Team through improved documentation, technical improvements and resolving GitHub issues. In addition, creating educational content to support new Rust project contributors.
+* [jackh726](https://github.com/jackh726)\: Co-leading and supporting the Traits Working Group including organization, code review and mentoring. In addition, implementing various Rust Project technical features, particularly around Chalk and the Rust Compiler.
 * [ChrisDenton](https://github.com/ChrisDenton)\: Improving the Windows implementation of the Rust Standard Library.
 * [Moxinilian](https://github.com/Moxinilian)\: Supporting the Rust Project Roadmap pertaining to the compiler in order to build experience and grow as a compiler contributor and mentor. In addition, improving documentation for under-served project areas.
-* [Tshepang](https://github.com/tshepang)\: Improving and updating the Rust Compiler Developer Guide with a view to help future contributors and growing to potentially join the Rust Compiler team in the future.
-* [B-naber](https://github.com/b-naber)\: Working with the Rust Project Language Team and the Const-Generics Working Group to advance the const-generics implementation and roadmap.
-* [Csmoe](https://github.com/csmoe)\: Addressing Rust code generation, specifically improving metrics, addressing open issues and implementing optimizations and new Code Generation Unit algorithm.
-* [Doc-jones](https://github.com/doc-jones)\: Continuing to develop the Rust Contributor Program, the RFC which can be found at https://mojosd.medium.com/rustc-reading-club-draft-rfc-a32b16f803bf
-* [Jannic](https://github.com/jannic/)\: Providing better support for Rust on the 2040 microcontroller and improving the current state of Rust packages on Debian.
-* [Flip1995](https://github.com/flip1995)\: Maintaining Clippy, which helps catch common Rust code mistakes and improve Rust code, through improvements and advancing the Clippy roadmap.
+* [tshepang](https://github.com/tshepang)\: Improving and updating the Rust Compiler Developer Guide with a view to help future contributors and growing to potentially join the Rust Compiler team in the future.
+* [b-naber](https://github.com/b-naber)\: Working with the Rust Project Language Team and the Const-Generics Working Group to advance the const-generics implementation and roadmap.
+* [csmoe](https://github.com/csmoe)\: Addressing Rust code generation, specifically improving metrics, addressing open issues and implementing optimizations and new Code Generation Unit algorithm.
+* [doc-jones](https://github.com/doc-jones)\: Continuing to develop the Rust Contributor Program, the RFC which can be found at https://mojosd.medium.com/rustc-reading-club-draft-rfc-a32b16f803bf
+* [jannic](https://github.com/jannic/)\: Providing better support for Rust on the 2040 microcontroller and improving the current state of Rust packages on Debian.
+* [flip1995](https://github.com/flip1995)\: Maintaining Clippy, which helps catch common Rust code mistakes and improve Rust code, through improvements and advancing the Clippy roadmap.
 * [WaffleLapkin](https://github.com/WaffleLapkin)\: Improving the Rust compiler and its diagnostics, and contributing to the Rust standard library and tooling. In addition, providing educational support for learning Rust.
 * [DebugSteven](https://github.com/DebugSteven)\: Improving the standard library, including working with the Rust Library Team to identify and resolve high priority issues, and specifically looking to starndardize the interface for string types.
 * [Alexendoo](https://github.com/Alexendoo)\: Supporting Clippy through reviewing pull requests, fixing bugs and contributing technical improvements.
 * [Muscraft](https://github.com/Muscraft)\: Supporting Cargo, specifically working to reduce the amount of work it takes to maintain Cargo.
-* [Jhpratt](https://github.com/jhpratt)\: General support and improvements of the Rust Project including around default value fields, coercion, traits and package libraries.
-* [Me-diru](https://github.com/me-diru)\: Working with various Rust Project teams to grow outreach of Rust in India.
-* [M-ou-se](https://github.com/m-ou-se/)\: Overall support of the Rust Project through various Team leading and participation, fostering a successful work and collaboration environment.
+* [jhpratt](https://github.com/jhpratt)\: General support and improvements of the Rust Project including around default value fields, coercion, traits and package libraries.
+* [me-diru](https://github.com/me-diru)\: Working with various Rust Project teams to grow outreach of Rust in India.
+* [m-ou-se](https://github.com/m-ou-se/)\: Overall support of the Rust Project through various Team leading and participation, fostering a successful work and collaboration environment.
 * [BoxyUwU](https://github.com/BoxyUwU)\: Working with the Rust Project Language Team and the Const-Generics Working Group, along with the Traits Working Group, to advance core language feature implementation and roadmap.
 
 ### Individual Project Grant Awards
 
 * [sunface](https://github.com/sunface/)\: Expanding the outreach of Rust in China through Rust developer courses, increasing community engagement, and written content.
-* [Folyd](https://github.com/folyd)\: Maintaining the Rust Search Extension and a documentation tool called Zine.
+* [folyd](https://github.com/folyd)\: Maintaining the Rust Search Extension and a documentation tool called Zine.
 * [CAD97](https://github.com/CAD97/)\: Creating an improved tracing framework and language for Rust debugging and formally proposing and implementing a new Storage API.
-* [M-ou-se](https://github.com/m-ou-se/)\: Focusing on the organizing and management of the Rust Library teams.
+* [m-ou-se](https://github.com/m-ou-se/)\: Focusing on the organizing and management of the Rust Library teams.
 * [ChrisDenton](https://github.com/ChrisDenton)\: Improving file path handling on Windows and their use with filesystem APIs.
-* [Miguelraz](https://github.com/miguelraz)\: Writing a Rust-oriented SIMD (Single Instruction/Multiple Data) book.
+* [miguelraz](https://github.com/miguelraz)\: Writing a Rust-oriented SIMD (Single Instruction/Multiple Data) book.
 * [xFrednet](https://github.com/xFrednet)\: Creating a stable linting API that enables every Rust project to create custom lints.
-* [Hkmatsumoto](https://github.com/hkmatsumoto)\: Working on an LLVM JIT backend for the Rust MIR (Mid-level Intermediate Representation).
-* [Diannasoreil](https://github.com/diannasoreil)\: Maintenance and development of the RustBridge and Rustlings educational projects.
-* [Robert-king](https://gist.github.com/robert-king)\: Creating a 10 video series on creating fun projects with Rust.
-* [Dns2utf8](https://github.com/dns2utf8/)\: Developing a secure, remote filesystem that allows exposing a local folder on remote machine.
+* [hkmatsumoto](https://github.com/hkmatsumoto)\: Working on an LLVM JIT backend for the Rust MIR (Mid-level Intermediate Representation).
+* [diannasoreil](https://github.com/diannasoreil)\: Maintenance and development of the RustBridge and Rustlings educational projects.
+* [robert-king](https://gist.github.com/robert-king)\: Creating a 10 video series on creating fun projects with Rust.
+* [dns2utf8](https://github.com/dns2utf8/)\: Developing a secure, remote filesystem that allows exposing a local folder on remote machine.
 * [Byron](https://github.com/Byron)\: Improving the Gitoxide project, a Rust implementation of Git. In particular, solving the shallow clone issue.
-* [Tnballo](https://github.com/tnballo)\: Develop and release two chapters of the High Assurance Rust book.
-* [Nanjekyejoannah](https://github.com/nanjekyejoannah)\: Developing a Rust-based GC (Garbage Collector) for Python.
-* [W3eydi](https://github.com/w3eydi)\: Fostering a Rust community in Turkey through event organization, content creation and social media growth.
-* [Weiznich](https://github.com/weiznich)\: Improving error messages for trait heavy crates and working with the crates.io team to prioritize requests related to Diesel, a type safe query builder and ORM for Rust.
+* [tnballo](https://github.com/tnballo)\: Develop and release two chapters of the High Assurance Rust book.
+* [nanjekyejoannah](https://github.com/nanjekyejoannah)\: Developing a Rust-based GC (Garbage Collector) for Python.
+* [w3eydi](https://github.com/w3eydi)\: Fostering a Rust community in Turkey through event organization, content creation and social media growth.
+* [weiznich](https://github.com/weiznich)\: Improving error messages for trait heavy crates and working with the crates.io team to prioritize requests related to Diesel, a type safe query builder and ORM for Rust.
 * [LCrossman](https://github.com/LCrossman)\: Research and increase the use of Rust in bioinformatics, particularly around improving gene finding in DNA sequences.
-* [Thejpster](https://github.com/thejpster)\: Build five prototypes of the Neotron Pico micro-ATX home-computer kit and then 25 production units.
-* [Doc-jones](https://github.com/doc-jones)\: Continuing to develop the Rust Contributor Program, the RFC which can be found at https://mojosd.medium.com/rustc-reading-club-draft-rfc-a32b16f803bf
+* [thejpster](https://github.com/thejpster)\: Build five prototypes of the Neotron Pico micro-ATX home-computer kit and then 25 production units.
+* [doc-jones](https://github.com/doc-jones)\: Continuing to develop the Rust Contributor Program, the RFC which can be found at https://mojosd.medium.com/rustc-reading-club-draft-rfc-a32b16f803bf
 
 ### Organizational Project Grant Awards
 
