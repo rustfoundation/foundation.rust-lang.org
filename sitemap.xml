@@ -307,6 +307,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/</loc>
+    <lastmod>2022-06-14</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/about/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
@@ -832,17 +837,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/staff/</loc>
-    <lastmod>2022-06-14</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/</loc>
+    <loc>https://foundation.rust-lang.org/tags/staff/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
