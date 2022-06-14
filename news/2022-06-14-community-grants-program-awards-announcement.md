@@ -101,4 +101,4 @@ A quick reminder that these two grant streams are open for applications 24/7. Yo
 
 ### Organizational Project Grant Awards
 
-* [Codecrafters.io](https://codecrafters.io)\: Build three additional "Build your own X" CodeCrafter courses that can be accomplished in Rust.
+* [codecrafters.io](https://codecrafters.io)\: Create three additional "Build your own X" CodeCrafters courses that can be accomplished in Rust.
