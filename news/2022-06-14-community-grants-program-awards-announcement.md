@@ -66,7 +66,7 @@ A quick reminder that these two grant streams are open for applications 24/7. Yo
 * [B-naber](https://github.com/b-naber)\: Working with the Rust Project Language Team and the Const-Generics Working Group to advance the const-generics implementation and roadmap.
 * [Csmoe](https://github.com/csmoe)\: Addressing Rust code generation, specifically improving metrics, addressing open issues and implementing optimizations and new Code Generation Unit algorithm.
 * [Doc-jones](https://github.com/doc-jones)\: Continuing to develop the Rust Contributor Program, the RFC which can be found at https://mojosd.medium.com/rustc-reading-club-draft-rfc-a32b16f803bf
-* [Jannic](https://github.com/jannic/)\: Providing better support for Rust on the 2040 microctocontroller and improving the current state of Rust packages on Debian.
+* [Jannic](https://github.com/jannic/)\: Providing better support for Rust on the 2040 microcontroller and improving the current state of Rust packages on Debian.
 * [Flip1995](https://github.com/flip1995)\: Maintaining Clippy, which helps catch common Rust code mistakes and improve Rust code, through improvements and advancing the Clippy roadmap.
 * [WaffleLapkin](https://github.com/WaffleLapkin)\: Improving the Rust compiler and its diagnostics, and contributing to the Rust standard library and tooling. In addition, providing educational support for learning Rust.
 * [DebugSteven](https://github.com/DebugSteven)\: Improving the standard library, including working with the Rust Library Team to identify and resolve high priority issues, and specifically looking to starndardize the interface for string types.
