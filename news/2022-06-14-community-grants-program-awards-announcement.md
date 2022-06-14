@@ -37,7 +37,7 @@ We were also struck by the number of applicants or potential applicants that exp
 
 ### Hardship Grants and Events Grants are live year-round
 
-A quick reminder that these two grant streams are open for applications 24/7. You can find more information [here.](https://foundation.rust-lang.org/grants/)
+A quick reminder that these two grant streams are open for applications 24/7. You can find more information [here](https://foundation.rust-lang.org/grants/).
 
 ### Expert Advisors
 
