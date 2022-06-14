@@ -51,6 +51,7 @@ A quick reminder that these two grant streams are open for applications 24/7. Yo
 * [flip1995](https://github.com/flip1995)
 * [rylev](https://github.com/rylev)
 * [sgrif](https://github.com/sgrif)
+* [Mark-Simulacrum](https://github.com/com/Mark-Simulacrum)
 
 ### Fellowship Awards
 
