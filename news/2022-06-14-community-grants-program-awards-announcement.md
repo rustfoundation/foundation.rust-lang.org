@@ -79,7 +79,7 @@ A quick reminder that these two grant streams are open for applications 24/7. Yo
 
 ### Individual Project Grant Awards
 
-* [Dochy-ksti](https://github.com/dochy-ksti/)\: Expanding the outreach of Rust in China through Rust developer courses, increasing community engagement, and written content.
+* [sunface](https://github.com/sunface/)\: Expanding the outreach of Rust in China through Rust developer courses, increasing community engagement, and written content.
 * [Folyd](https://github.com/folyd)\: Maintaining the Rust Search Extension and a documentation tool called Zine.
 * [CAD97](https://github.com/CAD97/)\: Creating an improved tracing framework and language for Rust debugging and formally proposing and implementing a new Storage API.
 * [M-ou-se](https://github.com/m-ou-se/)\: Focusing on the organizing and management of the Rust Library teams.
