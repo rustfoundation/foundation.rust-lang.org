@@ -55,8 +55,8 @@ A quick reminder that these two grant streams are open for applications 24/7. Yo
 
 ### Fellowship Awards
 
-* [GuillaumeGomez](https://github.com/GuillaumeGomez)\: Spinning up the former Rust Documentation team to support Rust Project based documentation and content.
-* [anshulrgoyal](https://github.com/anshulrgoyal/)\: Support the Rust community through Rust Project based documentation improvements, bug fixes and educational blogs.
+* [GuillaumeGomez](https://github.com/GuillaumeGomez)\: Supporting Rust Project based documentation and content.
+* [anshulrgoyal](https://github.com/anshulrgoyal/)\: Supporting the Rust community through Rust Project based documentation improvements, bug fixes and educational blogs.
 * [Turbo87](https://github.com/Turbo87/)\: Improvements to crates.io, including website design and presentation, reducing the number of issues and pull requests and growing the crates.io team.
 * [ouz-a](https://github.com/ouz-a)\: Supporting the Rust Compiler Team through improved documentation, technical improvements and resolving GitHub issues. In addition, creating educational content to support new Rust project contributors.
 * [jackh726](https://github.com/jackh726)\: Co-leading and supporting the Traits Working Group including organization, code review and mentoring. In addition, implementing various Rust Project technical features, particularly around Chalk and the Rust Compiler.
