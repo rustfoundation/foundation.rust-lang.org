@@ -73,7 +73,7 @@ A quick reminder that these two grant streams are open for applications 24/7. Yo
 * [Alexendoo](https://github.com/Alexendoo)\: Supporting Clippy through reviewing pull requests, fixing bugs and contributing technical improvements.
 * [Muscraft](https://github.com/Muscraft)\: Supporting Cargo, specifically working to reduce the amount of work it takes to maintain Cargo.
 * [jhpratt](https://github.com/jhpratt)\: General support and improvements of the Rust Project including around default value fields, coercion, traits and package libraries.
-* [me-diru](https://github.com/me-diru)\: Working with various Rust Project teams to grow outreach of Rust in India.
+* [me-diru](https://github.com/me-diru)\: Contributing to and learning from various Rust Project teams, and helping develop the Rust community in India through outreach.
 * [m-ou-se](https://github.com/m-ou-se/)\: Overall support of the Rust Project through various Team leading and participation, fostering a successful work and collaboration environment.
 * [BoxyUwU](https://github.com/BoxyUwU)\: Working with the Rust Project Language Team and the Const-Generics Working Group, along with the Traits Working Group, to advance core language feature implementation and roadmap.
 
