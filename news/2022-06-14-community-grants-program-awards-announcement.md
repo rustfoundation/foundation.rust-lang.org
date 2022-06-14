@@ -99,6 +99,6 @@ A quick reminder that these two grant streams are open for applications 24/7. Yo
 * [Thejpster](https://github.com/thejpster)\: Build five prototypes of the Neotron Pico micro-ATX home-computer kit and then 25 production units.
 * [Doc-jones](https://github.com/doc-jones)\: Continuing to develop the Rust Contributor Program, the RFC which can be found at https://mojosd.medium.com/rustc-reading-club-draft-rfc-a32b16f803bf
 
-### Oraganizational Project Grant Awards
+### Organizational Project Grant Awards
 
 * [Codecrafters.io](https://codecrafters.io)\: Build three additional "Build your own X" CodeCrafter courses that can be accomplished in Rust.
