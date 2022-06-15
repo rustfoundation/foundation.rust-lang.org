@@ -332,7 +332,7 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/board/janelusby/</loc>
+    <loc>https://foundation.rust-lang.org/board/janelosare-lusby/</loc>
     <lastmod>2022-06-15</lastmod>
   </url>
   
@@ -707,22 +707,22 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/grants/</loc>
-    <lastmod>2022-06-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/community%20grants%20program/</loc>
-    <lastmod>2022-06-15</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/rustconf/</loc>
     <lastmod>2022-06-15</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/conference/</loc>
+    <lastmod>2022-06-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/grants/</loc>
+    <lastmod>2022-06-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/community%20grants%20program/</loc>
     <lastmod>2022-06-15</lastmod>
   </url>
   
@@ -757,11 +757,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/membership/</loc>
-    <lastmod>2022-06-15</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/update/</loc>
     <lastmod>2022-06-15</lastmod>
   </url>
@@ -772,17 +767,22 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/membership/</loc>
+    <lastmod>2022-06-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/foundation/</loc>
+    <lastmod>2022-06-15</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/programs/</loc>
     <lastmod>2022-06-15</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
-    <lastmod>2022-06-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/foundation/</loc>
     <lastmod>2022-06-15</lastmod>
   </url>
   
@@ -802,12 +802,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/plans/</loc>
+    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
     <lastmod>2022-06-15</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
+    <loc>https://foundation.rust-lang.org/tags/plans/</loc>
     <lastmod>2022-06-15</lastmod>
   </url>
   
