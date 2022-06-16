@@ -1,7 +1,7 @@
 ---
-title: 'Guest Blog Series: Dotan Nahum'
+title: 'Making a Career Move with Rust: A Developer’s Approach'
 byline:
-description: 'Making a Career Move with Rust: A Developer’s Approach'
+description: 'Guest Blog Series: Dotan Nahum'
 date: 2022-06-21T17:00:00Z
 tags:
   - guest blog series
