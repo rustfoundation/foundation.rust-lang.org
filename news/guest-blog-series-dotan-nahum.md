@@ -9,7 +9,7 @@ index: true
 layout: layouts/news.njk
 ---
 
-![Till Adam](/img/news/2022-04-19-member-spotlight-kdab/member-spotlight-till-adam.png "Till Adam - Chief Commercial Officer, KDAB")
+![Dotan Nahum](/img/news/2022-06-21-guest-blog-series/dotan-nahum.png "Dotan Nahum - Founder and CEO, Spectral")
 
 You can have a career in Rust. That said, the most important thing to know is that Rust is still a relatively young programming language. For example, if you come across Rust job openings that require 10 years experience, or even 5 years "production" experience, it might be that these posts were written by "converting" some Java or C++ roles to their Rust counterparts.
 
