@@ -15,7 +15,7 @@ You can have a career in Rust. That said, the most important thing to know is th
 
 It's *possible* that companies just don't know how to hire Rust developers.
 
-> Remember, just as candidates sometimes don't pass interviews, companies aren’t always equipped to *conduct* a strong interview. For example, some companies may not have enough of a technical foundation to give you a proper Rust interview, and a smart thing to do as a candidate is to ask the employer how employees are learning to become experts at the language.
+Remember, just as candidates sometimes don't pass interviews, companies aren’t always equipped to *conduct* a strong interview. For example, some companies may not have enough of a technical foundation to give you a proper Rust interview, and a smart thing to do as a candidate is to ask the employer how employees are learning to become experts at the language.
 
 Another thing to remember is that other than the usual backend, infrastructure, and systems programming areas Rust is widely known for, it has also been dominant in the cryptocurrency world. There are many crypto oriented [open source projects](https://github.com/rust-in-blockchain/awesome-blockchain-rust) to learn from, which is fantastic. Not by chance, the number of open Rust jobs in crypto currently outnumber those in other fields.
 
