@@ -2,21 +2,22 @@
 title: 'Guest Blog Series: Dotan Nahum'
 byline:
 description: 'Making a Career Move with Rust: A Developer’s Approach'
-date: 2022-04-19T16:00:00Z
+date: 2022-06-21T17:00:00Z
 tags:
-  - member spotlight
+  - guest blog series
 index: true
 layout: layouts/news.njk
 ---
+
 ![Till Adam](/img/news/2022-04-19-member-spotlight-kdab/member-spotlight-till-adam.png "Till Adam - Chief Commercial Officer, KDAB")
 
-You can have a career in Rust. That said, the most important thing to know is that Rust is still a relatively young programming language. For example, if you come across Rust job openings that require 10 years experience, or even 5 years "production" experience, it might be that these posts were written by "converting" some Java or C++ roles to their Rust counterparts.&nbsp;
+You can have a career in Rust. That said, the most important thing to know is that Rust is still a relatively young programming language. For example, if you come across Rust job openings that require 10 years experience, or even 5 years "production" experience, it might be that these posts were written by "converting" some Java or C++ roles to their Rust counterparts.
 
 It's *possible* that companies just don't know how to hire Rust developers.
 
 > Remember, just as candidates sometimes don't pass interviews, companies aren’t always equipped to *conduct* a strong interview. For example, some companies may not have enough of a technical foundation to give you a proper Rust interview, and a smart thing to do as a candidate is to ask the employer how employees are learning to become experts at the language.
 
-Another thing to remember is that other than the usual backend, infrastructure, and systems programming areas Rust is widely known for, it has also been dominant in the cryptocurrency world. There are many crypto oriented [open source projects](https://github.com/rust-in-blockchain/awesome-blockchain-rust) to learn from, which is fantastic. Not by chance, the number of open Rust jobs in crypto currently outnumber those in other fields.&nbsp;
+Another thing to remember is that other than the usual backend, infrastructure, and systems programming areas Rust is widely known for, it has also been dominant in the cryptocurrency world. There are many crypto oriented [open source projects](https://github.com/rust-in-blockchain/awesome-blockchain-rust) to learn from, which is fantastic. Not by chance, the number of open Rust jobs in crypto currently outnumber those in other fields.
 
 And lastly, when a programming language is relatively new and is not dominating a market, there will naturally be less focus on the language itself during the interview. Instead there will be a focus on pure programming experience, software design, and common sense, which I think is a good thing. This means candidates' overall engineering skills can be the main focus of the interview, versus their ability to memorize some esoteric programming language feature.
 
