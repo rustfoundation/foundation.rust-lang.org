@@ -11,6 +11,8 @@ layout: layouts/news.njk
 
 ![Dotan Nahum](/img/news/2022-06-21-guest-blog-series/dotan-nahum.png "Dotan Nahum - Founder and CEO, Spectral")
 
+*It’s time for our first Rust Foundation&nbsp;[guest blog series](https://foundation.rust-lang.org/tags/guest%20blog%20series/), our blog series from members of the Rust Foundation or community. Today, we are pleased to have a post from&nbsp;[Dotan Nahum](https://mobile.twitter.com/jondot), Founder and CEO of&nbsp;[Spectral](https://spectralops.io/). Read on to learn making a career move with Rust, from a developer point of view.*
+
 You can have a career in Rust. That said, the most important thing to know is that Rust is still a relatively young programming language. For example, if you come across Rust job openings that require 10 years experience, or even 5 years "production" experience, it might be that these posts were written by "converting" some Java or C++ roles to their Rust counterparts.
 
 It's *possible* that companies just don't know how to hire Rust developers.
