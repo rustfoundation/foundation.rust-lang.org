@@ -52,3 +52,5 @@ _editables:
     redo: true
     removeformat: true
     copyformatting: true
+    link: true
+    
