@@ -802,7 +802,7 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/plans/</loc>
+    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
@@ -813,6 +813,11 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/program/</loc>
+    <lastmod>2022-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/plans/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
@@ -848,11 +853,6 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/environment/</loc>
-    <lastmod>2022-07-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
     <lastmod>2022-07-12</lastmod>
   </url>
   
