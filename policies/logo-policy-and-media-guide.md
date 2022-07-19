@@ -61,7 +61,7 @@ There are a variety of uses that do not require explicit approval. **However, in
 * Distributing a modified version of the Rust programming language or the Cargo package manager, provided that the modifications are limited to:
   * porting the software to a different architecture
   * fixing local paths
-  * adding patches that have been released upstream
+  * adding patches that have been released upstream, or
   * adding patches that have been reported upstream, provided that the patch is removed if it is not accepted upstream
 
 ### **Uses that require explicit approval**
