@@ -58,11 +58,10 @@ There are a variety of uses that do not require explicit approval. **However, in
 * Using the Rust trademarks (even in modified form) for social events like meetups, tutorials, and the like is allowed for events that are free to attend. For commercial events (including sponsored ones), please check in with us. The **event cannot appear to be officially endorsed or run by the Rust project** without written permission.
 * Using the Rust trademarks in books or publications like “Rust Journal” or “Rust Cookbook” is allowed.
 * Using the word “Rust” on websites, brochures, documentation, academic papers, books, and product packaging to refer to the Rust programming language or the Rust project is allowed.
-* Distributing a modified version of the Rust programming language or the Cargo package manager, provided that the modifications are limited to:
-  * porting the software to a different architecture
-  * fixing local paths
-  * adding patches that have been released upstream, or
-  * adding patches that have been reported upstream, provided that the patch is removed if it is not accepted upstream
+* Distributing a modified version of the Rust programming language, compiler, or the Cargo package manager, provided that the modifications are limited to:
+  * code adjustments for the purpose of porting to a different platform, architecture, or system, or integrating the software with the packaging system of that platform; or
+  * fixing local paths; or
+  * adding patches that have been made available upstream and accepted, or submitted upstream and not yet rejected (but you must remove either the patch or the trademark once the patch has been been rejected).
 
 ### **Uses that require explicit approval**
 
