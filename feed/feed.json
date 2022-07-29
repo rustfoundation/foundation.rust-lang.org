@@ -9,6 +9,12 @@
     "url": "https://foundation.rust-lang.org"
   },
   "items": [{
+      "id": "https://foundation.rust-lang.org/news/2022-07-29-can-you-help-us-improve-software-supply-chain-integrity-practices/",
+      "url": "https://foundation.rust-lang.org/news/2022-07-29-can-you-help-us-improve-software-supply-chain-integrity-practices/",
+      "title": "Can you help us improve software supply chain integrity practices?",
+      "content_html": "<p>Security is always important in building software. However, security in OSS is higher on the agenda than ever before. Governments around the world are finally beginning to recognise that OSS is an integral part of digital infrastructure, and are asking how it can be effectively safeguarded. At the Rust Foundation, we want to contribute to that conversation, work collaboratively with others, and understand how we can support good, secure and sustainable OSS in future.</p>\n<p>A new survey by <a href=\"https://www.chainguard.dev/\">Chainguard</a> in collaboration with the Eclipse Foundation, the Rust Foundation and OpenSSF aims to understand the software supply chain integrity practices of a broad range of software professionals. The goal of this survey is to learn more about how software professionals use and view key software supply chain integrity practices.</p>\n<p>This survey is intended for professionals involved in the creation and maintenance of software. The survey should only take 5 to 10 minutes to complete. Your responses will be used to gain insights that will improve software supply chain security.</p>\n<p>For the first 500 responses, Chainguard will also make a $10 contribution per response to <a href=\"https://www.outreachy.org/\">Outreachy</a>, an organization that helps underrepresented groups find internships in open source and open science.</p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfoQj2lzGIaDJ3-uVBxble6YjaElAreTO1LLaQ7Ws2XwrosXQ/viewform\">You can take the survey here.</a></p>\n<p>We appreciate your support! The survey results will be made available via a public whitepaper this December.</p>\n",
+      "date_published": "2022-07-29T00:00:00Z"
+    },{
       "id": "https://foundation.rust-lang.org/news/2022-07-27-what-has-the-foundation-been-up-to/",
       "url": "https://foundation.rust-lang.org/news/2022-07-27-what-has-the-foundation-been-up-to/",
       "title": "What has the Foundation been up to?",
