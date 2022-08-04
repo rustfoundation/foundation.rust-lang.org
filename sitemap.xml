@@ -817,22 +817,22 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/programs/</loc>
-    <lastmod>2022-08-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
-    <lastmod>2022-08-04</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/program/</loc>
     <lastmod>2022-08-04</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
+    <lastmod>2022-08-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/programs/</loc>
+    <lastmod>2022-08-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
     <lastmod>2022-08-04</lastmod>
   </url>
   
