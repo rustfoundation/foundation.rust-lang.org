@@ -1,5 +1,5 @@
 ---
-title: Intellectual Property (IP) Policy
+title: Intellectual Property Policy
 layout: layouts/policy.njk
 ---
 1. All new inbound code contributions to projects maintained by the Rust Foundation shall be dual-licensed under the Apache License, Version 2.0 (https://www.apache.org/licenses/LICENSE-2.0) and the MIT License (https://github.com/rust-lang/rust/blob/master/LICENSE-MIT) (together, the “Project Licenses”).
