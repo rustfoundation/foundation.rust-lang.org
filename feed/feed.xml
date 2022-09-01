@@ -183,7 +183,6 @@
 &lt;li&gt;&lt;a href=&quot;https://github.com/hkmatsumoto&quot;&gt;hkmatsumoto&lt;/a&gt;: Working on an LLVM JIT backend for the Rust MIR (Mid-level Intermediate Representation).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/diannasoreil&quot;&gt;diannasoreil&lt;/a&gt;: Maintenance and development of the RustBridge and Rustlings educational projects.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://gist.github.com/robert-king&quot;&gt;robert-king&lt;/a&gt;: Creating a 10 video series on creating fun projects with Rust.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/dns2utf8/&quot;&gt;dns2utf8&lt;/a&gt;: Developing a secure, remote filesystem that allows exposing a local folder on remote machine.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/Byron&quot;&gt;Byron&lt;/a&gt;: Improving the Gitoxide project, a Rust implementation of Git. In particular, solving the shallow clone issue.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/tnballo&quot;&gt;tnballo&lt;/a&gt;: Develop and release two chapters of the High Assurance Rust book.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/nanjekyejoannah&quot;&gt;nanjekyejoannah&lt;/a&gt;: Developing a Rust-based GC (Garbage Collector) for Python.&lt;/li&gt;
