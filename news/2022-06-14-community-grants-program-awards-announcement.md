@@ -8,7 +8,6 @@ tags:
   - CGP
   - programs
 ---
-
 ### Overview
 
 The Rust Foundation is pleased to announce the awards of the 2022 Rust Foundation Fellowship Program, and the first tranche of the 2022 Project Grants Program.
@@ -88,7 +87,6 @@ A quick reminder that these two grant streams are open for applications 24/7. Yo
 * [hkmatsumoto](https://github.com/hkmatsumoto)\: Working on an LLVM JIT backend for the Rust MIR (Mid-level Intermediate Representation).
 * [diannasoreil](https://github.com/diannasoreil)\: Maintenance and development of the RustBridge and Rustlings educational projects.
 * [robert-king](https://gist.github.com/robert-king)\: Creating a 10 video series on creating fun projects with Rust.
-* [dns2utf8](https://github.com/dns2utf8/)\: Developing a secure, remote filesystem that allows exposing a local folder on remote machine.
 * [Byron](https://github.com/Byron)\: Improving the Gitoxide project, a Rust implementation of Git. In particular, solving the shallow clone issue.
 * [tnballo](https://github.com/tnballo)\: Develop and release two chapters of the High Assurance Rust book.
 * [nanjekyejoannah](https://github.com/nanjekyejoannah)\: Developing a Rust-based GC (Garbage Collector) for Python.
