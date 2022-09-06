@@ -2,9 +2,9 @@
 layout: news
 title: 'Welcome Jan David: Rust Foundation Infrastructure Engineer'
 description: >-
-   The Rust Foundation hires a full-time Infrastructure Engineer, responsible
-   for the operations of all currently supported and future Rust Project
-   infrastructure. Welcome Jan David!
+   The Rust Foundation hires a full-time Infrastructure Engineer, supporting the
+   operations of all current and future Rust Project infrastructure. Welcome Jan
+   David!
 date: 2022-09-07T00:00:00Z
 tags:
    - staff
