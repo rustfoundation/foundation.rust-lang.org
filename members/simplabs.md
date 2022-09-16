@@ -1,6 +1,6 @@
 ---
-name: simplabs
+name: mainmatter
 level: silver
-logo: /img/member/simplabs.png
-url: https://simplabs.com
+logo: /img/member/mainmatter.svg
+url: https://mainmatter.com
 ---
