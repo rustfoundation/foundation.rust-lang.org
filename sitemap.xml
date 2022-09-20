@@ -882,12 +882,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
+    <loc>https://foundation.rust-lang.org/tags/plans/</loc>
     <lastmod>2022-09-20</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/plans/</loc>
+    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
     <lastmod>2022-09-20</lastmod>
   </url>
   
@@ -902,17 +902,17 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/guest%20blog%20series/</loc>
+    <lastmod>2022-09-20</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/Community%20Grants%20Program/</loc>
     <lastmod>2022-09-20</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/CGP/</loc>
-    <lastmod>2022-09-20</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/guest%20blog%20series/</loc>
     <lastmod>2022-09-20</lastmod>
   </url>
   
