@@ -867,16 +867,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/programs/</loc>
-    <lastmod>2022-09-20</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
-    <lastmod>2022-09-20</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/community/</loc>
     <lastmod>2022-09-20</lastmod>
   </url>
@@ -898,6 +888,16 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/plans/</loc>
+    <lastmod>2022-09-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
+    <lastmod>2022-09-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/programs/</loc>
     <lastmod>2022-09-20</lastmod>
   </url>
   
