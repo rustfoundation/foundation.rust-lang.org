@@ -7,7 +7,6 @@ description: >-
    David!
 date: 2022-09-07T00:00:00Z
 tags:
-   - staff
    - foundation
    - announcement
 ---
