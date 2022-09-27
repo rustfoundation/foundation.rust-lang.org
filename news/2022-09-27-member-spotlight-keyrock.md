@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Member Spotlight: Keyrock
+title: 'Member Spotlight: Keyrock'
 description: Introducing Keyrock, Rust Foundation Silver Member.
 date: 2022-09-27
 tags:
