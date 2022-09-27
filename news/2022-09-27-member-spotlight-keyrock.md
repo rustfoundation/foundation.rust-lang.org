@@ -6,7 +6,7 @@ date: 2022-09-27
 tags:
    - member spotlight
 ---
-<img src="/img/news/2022-09-27-member-spotlight-keyrock/FILENAME.jpg" width="" height="" alt="awaiting image from bec" />
+<img src="/img/news/2022-09-27-member-spotlight-keyrock/member-spotlight-keyrock.jpg" width="602" height="338" />
 
 Welcome to our latest Member Spotlight blog! Jeremy de Groodt, CTO and Co-Founder of Keyrock, talked to us about their work and how they’re using Rust.
 
