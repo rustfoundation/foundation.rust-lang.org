@@ -44,7 +44,7 @@ Our aim is to refine our solutions and make liquidity accessible to as many clie
 
 ## Join Keyrock’s RustFi Hackathon
 
-We invite everyone passionate about Rust and interested in financial markets to take part in our *RustFi Hackathon* - an event of the season where Rust, Financial Markets and Web3 meet. We organize it in an attempt to advocate the use of Rust within the financial domain and create a space for the community to network, share and innovate.
+We invite everyone passionate about Rust and interested in financial markets to take part in our **RustFi Hackathon** - an event of the season where Rust, Financial Markets and Web3 meet. We organize it in an attempt to advocate the use of Rust within the financial domain and create a space for the community to network, share and innovate.
 
 *Date:* 30.09-2.10.2022
 *Place:* Berlin, Germany
