@@ -12,7 +12,7 @@ tags:
 
 ## Summary
 
-**Purpose of award**: To support specific packages of work that benefit the Rust ecosystem.
+**Purpose of award**: To support specific packages of work that benefit Rust.
 
 **Award amount**: $2,500 to $15,000.
 
@@ -74,7 +74,9 @@ When you apply for a grant you will be asked to choose from one of three categor
 
 ## Requirements
 
-Individuals and teams of individuals are eligible to apply for a Rust Project Grant. If you are interested in applying as an organization, please contact us to discuss.
+Individuals and teams of individuals are eligible to apply for a Rust Project Grant. 
+
+If you are applying on behalf of an organisation please email grants@rustfoundation.org so that we can discuss your proposed application before you complete the form.
 
 Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.
 
