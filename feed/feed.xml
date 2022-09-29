@@ -18,7 +18,7 @@
 		<updated>2022-09-27T00:00:00Z</updated>
 		<id>https://foundation.rust-lang.org/news/2022-09-27-member-spotlight-keyrock/</id>
 		<content type="html">&lt;img src=&quot;https://foundation.rust-lang.org/img/news/2022-09-27-member-spotlight-keyrock/member-spotlight-keyrock.jpg&quot; width=&quot;602&quot; height=&quot;338&quot; /&gt;
-&lt;p&gt;Welcome to our latest Member Spotlight blog! Jeremy de Groodt, CTO and Co-Founder of Keyrock, talked to us about their work and how they’re using Rust.&lt;/p&gt;
+&lt;p&gt;Welcome to our latest Member Spotlight blog! Jeremy de Groodt, CTO and Co-Founder of &lt;a href=&quot;https://keyrock.eu/&quot;&gt;Keyrock&lt;/a&gt;, talked to us about their work and how they’re using Rust.&lt;/p&gt;
 &lt;h2 id=&quot;why-did-you-join-the-rust-foundation%3F-what-are-you-hoping-to-get-out-of-your-membership-in-the-rust-foundation%3F&quot;&gt;Why did you join the Rust Foundation? What are you hoping to get out of your membership in the Rust Foundation? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/2022-09-27-member-spotlight-keyrock/#why-did-you-join-the-rust-foundation%3F-what-are-you-hoping-to-get-out-of-your-membership-in-the-rust-foundation%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;As Keyrock, we have been very invested in Rust technology for about 2.5 years now. Rustaceans are a tightly knit community and very early on it was clear to us it is in our DNA to give back to it.&lt;/p&gt;
 &lt;p&gt;As an algorithmic trading market maker in the digital assets field, we operate in a niche not many people are aware of. We stand at the intersection of DLT and Finance and we strongly believe that the tokenization of digital assets will change the world as we know it, for the better. For us to be able to achieve the grand vision of democratizing liquidity services at scale, to foster this wave of technological innovation, we are convinced we can only achieve it by being able to rely on a robust technological foundation, and one that can withstand scale and the intensity of 24/7 operations. Having realized this early on and having had the luck to be able to explore Rust technology with some of our team members at an early stage of our growth, we not only want to be more visible on the scene and connect to developers who also love Rust and solve similar problems to us. We also want to build a powerful bridge of collaboration by evangelizing “RustFi” as a sub-niche. We strongly believe the use of Rust as a Web3 financial technology driver will be the essential building stone for the future, and being able to share our story and meet like-minded Rustaceans is the main reason for us to join the Rust Foundation.&lt;/p&gt;
@@ -41,6 +41,7 @@
 &lt;em&gt;Place:&lt;/em&gt; Berlin, Germany&lt;br /&gt;
 &lt;em&gt;Prize pool:&lt;/em&gt; 100,000 EUR&lt;br /&gt;
 &lt;em&gt;More information and registration:&lt;/em&gt; &lt;a href=&quot;https://rustfi.keyrock.com/&quot;&gt;rustfi.keyrock.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/company/11259345/&quot;&gt;Follow Keyrock on LinkedIn&lt;/a&gt; to hear about more like this.&lt;/p&gt;
 </content>
 	</entry>
 	
