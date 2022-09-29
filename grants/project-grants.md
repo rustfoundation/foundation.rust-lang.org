@@ -2,7 +2,7 @@
 layout: layouts/grants.njk
 title: Community Grants Program Project Grants
 name: Project Grants
-description: Awards made to individuals, groups, and organizations for discrete pieces of work in the range of $2,500 to $15,000. The budget for Project Grants is $350,000 in 2022. There are two application windows – one in April and one in October – awarding $175,000 in each. The April application window is now closed and the initial group of Project Grant awards was announced in June 2022. The second application window for 2022 opens on 3rd October 2022.
+description: Awards made to individuals and groups for discrete pieces of work in the range of $2,500 to $15,000. The budget for Project Grants is $350,000 in 2022. There are two application windows – one in April and one in October – awarding $175,000 in each. The April application window is now closed and the initial group of Project Grant awards was announced in June 2022. The second application window for 2022 opens on 3rd October 2022.
 applicationLink1: https://app.smarterselect.com/programs/80957-Rust-Foundation
 applicationLink1desc: Apply here
 date: 2022-04-01
@@ -74,7 +74,9 @@ When you apply for a grant you will be asked to choose from one of three categor
 
 ## Requirements
 
-Individuals, teams of individuals, and organizations, are eligible to apply for a Rust Project Grant. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.
+Individuals and teams of individuals are eligible to apply for a Rust Project Grant. If you are interested in applying as an organization, please contact us to discuss.
+
+Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.
 
 Employees of organizations that are members of the Rust Foundation who wish to apply as individuals or as part of a team of individuals should contact us at grants@rustfoundation.org prior to completing an application, in order for us to assess whether a grant award to them might represent a conflict of interest for the Foundation.
 
