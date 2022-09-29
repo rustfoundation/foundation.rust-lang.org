@@ -2,7 +2,7 @@
 layout: layouts/grants.njk
 title: Community Grants Program Project Grants
 name: Project Grants
-description: Awards made to individuals, groups, and organizations for discrete pieces of work in the range of $1,000 to $20,000. The budget for Project Grants is $350,000 in 2022. There will be two application windows – one in April and one in October – awarding $175,000 in each. The April application window is now closed. The initial group of Project Grant awards will be announced in June 2022.
+description: Awards made to individuals, groups, and organizations for discrete pieces of work in the range of $2,500 to $15,000. The budget for Project Grants is $350,000 in 2022. There are two application windows – one in April and one in October – awarding $175,000 in each. The April application window is now closed and the initial group of Project Grant awards was announced in June 2022. The second application window for 2022 opens on 3rd October 2022.
 date: 2022-04-01
 tags:
    - community grants program
