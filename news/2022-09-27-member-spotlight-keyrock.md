@@ -8,7 +8,7 @@ tags:
 ---
 <img src="/img/news/2022-09-27-member-spotlight-keyrock/member-spotlight-keyrock.jpg" width="602" height="338" />
 
-Welcome to our latest Member Spotlight blog! Jeremy de Groodt, CTO and Co-Founder of Keyrock, talked to us about their work and how they’re using Rust.
+Welcome to our latest Member Spotlight blog! Jeremy de Groodt, CTO and Co-Founder of <a href="https://keyrock.eu/">Keyrock</a>, talked to us about their work and how they’re using Rust.
 
 ## Why did you join the Rust Foundation? What are you hoping to get out of your membership in the Rust Foundation?
 
@@ -50,3 +50,5 @@ We invite everyone passionate about Rust and interested in financial markets to 
 *Place:* Berlin, Germany
 *Prize pool:* 100,000 EUR
 *More information and registration:* [rustfi.keyrock.com](https://rustfi.keyrock.com/)
+
+<a href="https://www.linkedin.com/company/11259345/admin/">Follow Keyrock on LinkedIn</a> to hear about more like this.
