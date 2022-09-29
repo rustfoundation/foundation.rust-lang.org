@@ -71,7 +71,7 @@ When you apply for a grant you will be asked to choose from one of three categor
 * Supporting/mentoring/guiding other contributors
 * Organizing Events / Meetups
 * Coordination and management activities
-*
+
 ## Requirements
 
 Individuals, teams of individuals, and organizations, are eligible to apply for a Rust Project Grant. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.
