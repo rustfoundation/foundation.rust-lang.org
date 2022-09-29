@@ -51,4 +51,4 @@ We invite everyone passionate about Rust and interested in financial markets to 
 *Prize pool:* 100,000 EUR
 *More information and registration:* [rustfi.keyrock.com](https://rustfi.keyrock.com/)
 
-<a href="https://www.linkedin.com/company/11259345/admin/">Follow Keyrock on LinkedIn</a> to hear about more like this.
+<a href="https://www.linkedin.com/company/11259345/">Follow Keyrock on LinkedIn</a> to hear about more like this.
