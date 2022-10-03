@@ -5,12 +5,33 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2022-09-27T00:00:00Z</updated>
+	<updated>2022-10-03T00:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>Rust Foundation Project Grants are open for applications</title>
+		<link href="https://foundation.rust-lang.org/news/2022-10-03-project-grants-open-for-applications/"/>
+		<updated>2022-10-03T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/2022-10-03-project-grants-open-for-applications/</id>
+		<content type="html">&lt;p&gt;The Rust Foundation is delighted to announce that its Project Grants Program is now open for a second round of applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://foundation.rust-lang.org/grants/project-grants&quot;&gt;Rust Foundation Project Grants&lt;/a&gt; are financial awards that support specific packages of work that benefit the Rust Project directly or provide Rust education/outreach. You can apply for a grant as an individual, or as part of a team, and request between $2,500 and $15,000 USD. Ideally the work should be carried out within six months of the award being made.&lt;/p&gt;
+&lt;p&gt;Any work that benefits the Rust Project or Rust education/outreach is eligible for a Project Grant. Priority will be given to those grants that will clearly deliver a significant benefit to a reasonable proportion of the Rust community.&lt;/p&gt;
+&lt;p&gt;We would like the Rust Foundation Grants Program to be as open and accessible as possible, and realise that some may find the application form and questions daunting. As such, we would like to give prospective grantees whatever support they might need through this process in completing an application. If you have any questions about the grants, are unsure whether you should apply, or would like help in completing an application, please get in touch. You can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: Paul Lenz and Joel Marcey at &lt;a href=&quot;mailto:grants@rustfoundation.org&quot;&gt;grants@rustfoundation.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chat: &lt;a href=&quot;https://rust-lang.zulipchat.com/#narrow/stream/335408-foundation&quot;&gt;https://rust-lang.zulipchat.com/#narrow/stream/335408-foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Arrange a voice call or text chat via: &lt;a href=&quot;http://calendly.com/rustgrants&quot;&gt;calendly.com/rustgrants&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also urge you to read this &lt;a href=&quot;https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html&quot;&gt;excellent blog post&lt;/a&gt; by our Project Director, Jane Lusby, on &amp;quot;Imposter Syndrome&amp;quot;, which was inspired by feedback that we received from our first grants round earlier this year.&lt;/p&gt;
+&lt;p&gt;Applications can be made from now until 31st October 2022 &lt;a href=&quot;https://app.smarterselect.com/programs/80957-Rust-Foundation&quot;&gt;via our application system&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find out more about our Project Grants Program &lt;a href=&quot;https://foundation.rust-lang.org/grants/project-grants&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We look forward to receiving your applications!&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Member Spotlight: Keyrock</title>
