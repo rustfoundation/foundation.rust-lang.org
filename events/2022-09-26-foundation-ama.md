@@ -3,7 +3,8 @@ title: The Rust Foundation Ask Me Anything (AMA) - September 2022
 description: >-
   Rust Foundation Project Directors Jane Lusby and Ryan Levick discussed their
   experience of serving on the Foundation's board and shaping the Foundation's
-  approach. Moderated by Sage Griffin.
+  approach. Moderated by Sage Griffin. Also attended by Executive Director
+  Rebecca Rumbul.
 date: 2022-09-26T00:00:00Z
 tags:
   - ama
@@ -12,9 +13,9 @@ tags:
 layout: layouts/event.njk
 ---
 <div class="video-holder">
-<div id="video-container">
-<iframe src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+  <div id="video-container">
+    <iframe src="https://youtube.com/embed/4St3E_PiaW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>
 
 ### Transcript from the Q3 Rust Foundation AMA with Bec Rumbul, Jane Lusby and Ryan Levick, moderated by Sage Griffin.
@@ -34,7 +35,7 @@ layout: layouts/event.njk
 * [Achieving consensus between project and corporate directors](#consensus-making)
 * [The challenges of representing the diversity of project views](#representing)
 * [The different 'types' of project director](#specific-responsibilities)
-* [What does the role involve?](#the role)
+* \[What does the role involve?\](\#the role)
 * [What does the foundation's mission of stewarding the language mean to you?](#stewarding)
 * [Favorite outcome of the foundation's work?](#accomplishments)
 * [What would you like to see the foundation fund in future?](#future-plans)
