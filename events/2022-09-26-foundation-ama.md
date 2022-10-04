@@ -12,7 +12,12 @@ tags:
   - webinar
 layout: layouts/event.njk
 ---
-<div class="video-holder"><div id="video-container"><iframe src="https://youtube.com/embed/4St3E_PiaW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></div>
+<div class="video-holder">
+  <div id="video-container">
+    <iframe src="https://youtube.com/embed/4St3E_PiaW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+    </iframe>
+  </div>
+</div>
 
 ### Transcript from the Q3 Rust Foundation AMA with Bec Rumbul, Jane Lusby and Ryan Levick, moderated by Sage Griffin.
 
