@@ -8,7 +8,7 @@ tags:
    - foundation
    - announcement
 ---
-<img src="/img/news/2022-06-10-welcome-gracie-gregory-director-of-communications/gracie.jpg" width="500" height="280" />
+<img src="/img/news/2022-06-10-welcome-gracie-gregory-director-of-communications/gracie.jpg" width="500" height="280" alt="Headshot of Gracie" />
 
 ## Welcome to Gracie Gregory, our new Director of Communications and Marketing!
 
