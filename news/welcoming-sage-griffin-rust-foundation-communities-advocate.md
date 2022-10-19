@@ -16,7 +16,7 @@ layout: layouts/news.njk
 
 ## &nbsp;
 
-<img src="/img/news/2022-10-19-welcoming-sage-griffin/sage.jpg" width="500" height="280" />
+<img src="/img/news/2022-10-19-welcoming-sage-griffin/sage.jpg" width="500" height="281" />
 
 ## Welcome to Sage Griffin — our new Communities Advocate\!
 
