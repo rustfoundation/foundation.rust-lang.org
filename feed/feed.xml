@@ -5,12 +5,35 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2022-10-06T00:00:00Z</updated>
+	<updated>2022-10-19T18:30:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>Welcoming Sage Griffin: Rust Foundation Communities Advocate</title>
+		<link href="https://foundation.rust-lang.org/news/welcoming-sage-griffin-rust-foundation-communities-advocate/"/>
+		<updated>2022-10-19T18:30:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/welcoming-sage-griffin-rust-foundation-communities-advocate/</id>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&quot;&quot;&gt;  &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/welcoming-sage-griffin-rust-foundation-communities-advocate/#&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;img src=&quot;https://foundation.rust-lang.org/img/news/2022-10-19-welcoming-sage-griffin/sage.jpg&quot; width=&quot;500&quot; height=&quot;281&quot; /&gt;
+&lt;h2 id=&quot;welcome-to-sage-griffin-%E2%80%94-our-new-communities-advocate!&quot;&gt;Welcome to Sage Griffin — our new Communities Advocate! &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/welcoming-sage-griffin-rust-foundation-communities-advocate/#welcome-to-sage-griffin-%E2%80%94-our-new-communities-advocate!&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The Rust Foundation could not adequately support the Rust programming language and the maintainers developing the project without a strong focus on community health and collaboration. For this reason, we’ve been seeking to fill a significant role at the Foundation for several months. &lt;/p&gt;
+&lt;p&gt;Today, we’re thrilled to share that Sage Griffin has joined the Rust Foundation as our first Communities Advocate. Sage uses they/them pronouns. &lt;/p&gt;
+&lt;p&gt;Sage has previously worked as a co-lead of the &lt;a href=&quot;https://crates.io/&quot;&gt;&lt;u&gt;crates.io&lt;/u&gt;&lt;/a&gt; team, hosted several software development discussion podcasts, created &lt;a href=&quot;http://diesel.rs/&quot;&gt;&lt;u&gt;diesel.rs&lt;/u&gt;&lt;/a&gt;, and served as the Program Committee Lead for RustConf in the past. You might also recognize Sage as a moderator on numerous &lt;a href=&quot;https://foundation.rust-lang.org/news/2021-11-04-rust-foundation-ama-launch/&quot;&gt;&lt;u&gt;Ask Me Anything&lt;/u&gt;&lt;/a&gt; sessions we’ve held between Foundation staff and board members. &lt;/p&gt;
+&lt;p&gt;In this position, Sage will be responsible for developing and managing positive, productive communication between the Rust Project and user communities, and the Foundation. Sage will also serve as a liaison between Rust Project Teams and Working Groups to stay up to date with current activities and champion current and new initiatives. In short, the Communities Advocate role will be central to achieving our shared and ongoing goal of sustaining, securing, and growing the Rust language. We couldn’t be happier to have Sage at the helm of this mission-critical position. &lt;/p&gt;
+&lt;p&gt;In their own words on the Communities Advocate role, Sage says:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;As a former full time open source contributor, I know how painful it can be to seek funding as an individual. That’s why I truly care about the Foundation’s mission to help serve the Rust community. But as an outsider, I see areas for improved communication and trust between the Foundation and the project. As Communities Advocate, I hope to maintain existing lines of communication, establish new healthy ones, and do my part to ensure the Foundation is doing what’s best for the Rust project and community.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sage will regularly work with the Rust Foundation team, the Rust Project Teams and Working Groups, individual maintainers, and the wider Rust communities around the world.&lt;/p&gt;
+&lt;p&gt;Welcome to the Rust Foundation, Sage!&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Welcome to Gracie Gregory: Rust Foundation Director of Communications &amp; Marketing</title>
