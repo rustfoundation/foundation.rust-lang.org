@@ -34,6 +34,6 @@ In their own words on the Communities Advocate role, Sage says:
 
 > *"As a former full time open source contributor, I know how painful it can be to seek funding as an individual. That’s why I truly care about the Foundation’s mission to help serve the Rust community. But as an outsider, I see areas for improved communication and trust between the Foundation and the project. As Communities Advocate, I hope to maintain existing lines of communication, establish new healthy ones, and do my part to ensure the Foundation is doing what’s best for the Rust project and community."*
 
-Sage will report to the Rust Foundation’s Director of Finance & Funding, Paul Lenz, and will regularly work with the Rust Foundation team, the Rust Project Teams and Working Groups, individual maintainers, and the wider Rust communities around the world.
+Sage will regularly work with the Rust Foundation team, the Rust Project Teams and Working Groups, individual maintainers, and the wider Rust communities around the world.
 
 Welcome to the Rust Foundation, Sage\!
