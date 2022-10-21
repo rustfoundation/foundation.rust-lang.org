@@ -34,9 +34,7 @@ NTP is one of the oldest Internet protocols, and although it is less known than 
 
 The clocks in our devices are reasonably accurate, but can drift meaningfully in the space of hours. The real time is kept with atomic clocks. Many technology companies and foundations provide NTP servers that make this time available to the internet.
 
-<img src="/Blog-2022-10-11-relationship-various-levels-ntp.png" width="1116" height="1056" alt="A diagram showing the relationships between the various levels of NTP servers. The blue numbers are the stratum numbers; yellow arrows show a direct connection, such as RS-232, while red arrows show a network connection." title="Relationships between the various levels of NTP servers." />
-
-*Image source: [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Network_Time_Protocol_servers_and_clients.svg)*
+*[This diagram](https://commons.wikimedia.org/wiki/File:Network_Time_Protocol_servers_and_clients.svg) will give you an idea of the relationships between the various levels of NTP servers.*&nbsp;
 
 But if you ask such a server what time it is, then by the time its response reaches you, that time is out of date. You need to somehow correct for the transmission delay.
 
