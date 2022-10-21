@@ -12,7 +12,7 @@ layout: layouts/news.njk
 
 &nbsp;
 
-<img src="/img/news/2022-10-21-implementing-a-ntp-in-rust/folkert-de-vries.png" width="2560" height="1440" />
+<img src="/img/news/2022-10-21-implementing-a-ntp-in-rust/folkert-de-vries.png" width="1600" height="900" alt="A graphic stating author's name (Folkert de Vries) and title (Embedded Software Engineer @ Tweede golf)" title="Folkert de Vries" />
 
 *Welcome to another installment in the Rust Foundation&nbsp;*[guest blog series](https://foundation.rust-lang.org/tags/guest%20blog%20series/),*&nbsp;written by members of the Rust Foundation and/or community. Today, we are pleased to have a post from Folkert de Vries, Embedded Software Engineer at Tweede golf. Read on to learn about how Folkert's team implemented a Network Time Protocol (NTP) client and server in Rust.*
 
