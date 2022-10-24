@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rust Foundation - Implementing the Network Time Protocol (NTP) in Rust</title>
+    <meta name="description" content="Guest Blog Series: Folkert de Vries">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Rust Foundation">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Rust Foundation">
+    <meta name="title" content="Rust Foundation">
+<meta name="description" content="The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://foundation.rust-lang.org">
+<meta property="og:title" content="Rust Foundation">
+<meta property="og:description" content="The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.">
+<meta property="og:image" content="http://foundation.rust-lang.org/img/thumbnail.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://foundation.rust-lang.org/">
+<meta property="twitter:title" content="Rust Foundation">
+<meta property="twitter:description" content="The Rust Foundation is an independent non-profit organization to steward the Rust programming language and ecosystem, with a unique focus on supporting the set of maintainers that govern and develop the project.">
+<meta property="twitter:image" content="http://foundation.rust-lang.org/img/thumbnail.png">
+
+    <script defer data-domain="foundation.rust-lang.org" src="https://plausible.io/js/plausible.js"></script>
+
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+
+    
+    <!-- indexing -->
+    <meta name="robots" content="noindex">
+    
+  </head>
+  <body>
+    <header>
+        <ul class="nav">
+    <li class="nav-item home"><a href="/"><img alt="rust logo" src="/img/rf-logo-transparent.png"/></a></li>
+            <li class="nav-item"><a href="/">Home</a></li>
+            <li class="nav-item"><a href="/about/">About</a></li>
+            <li class="nav-item"><a href="/news/">News</a></li>
+            <li class="nav-item"><a href="/members/">Membership</a></li>
+            <li class="nav-item"><a href="/grants/">Grants program</a></li>
+            <li class="nav-item"><a href="/info/contact/">Contact</a></li>
+            <li class="nav-item"><a href="/careers/">Careers</a></li>
+</ul>
+
+    </header>
+
+    <main class="tmpl-news">
+        <section class="container post">
+      <h1>Implementing the Network Time Protocol (NTP) in Rust</h1>
+      <h2>Guest Blog Series: Folkert de Vries</h2>
+      <time class="post-date" datetime="2022-10-21">21 Oct 2022</time>
+      <div class="content">
+          <p> </p>
+<img src="/img/news/2022-10-21-implementing-a-ntp-in-rust/tweede-golf.png" width="580" height="326" alt="A graphic stating author's name (Folkert de Vries) and title (Embedded Software Engineer @ Tweede golf)" title="Folkert de Vries" />
+<p> </p>
+<p><em>Welcome to another installment in the Rust Foundation </em><a href="https://foundation.rust-lang.org/tags/guest%20blog%20series/">guest blog series</a>,<em> written by members of the Rust Foundation and/or community. Today, we are pleased to have a post from Folkert de Vries, Embedded Software Engineer at Tweede golf. Read on to learn about how Folkert's team implemented a Network Time Protocol (NTP) client and server in Rust.</em></p>
+<hr>
+<p>For the last few months, we at <a href="https://tweedegolf.nl/">Tweede golf</a> have been working on implementing a <a href="https://github.com/memorysafety/ntpd-rs">Network Time Protocol (NTP) client and server in Rust</a>.</p>
+<p>The project is a <a href="https://www.memorysafety.org/">Prossimo</a> initiative and is supported by their sponsors, Cisco and AWS. Our first short-term goal is to deploy our implementation at <a href="https://letsencrypt.org/">Let’s Encrypt</a>, the free, automated, and open certificate authority. The long-term goal is to develop an alternative fully-featured NTP implementation that can be widely used.</p>
+<p>In this blog post we’ll talk about the process of implementing a new open-source version of the protocol in Rust, why an alternative NTP implementation is important, and our experiences along the way.</p>
+<p>Our project is called ntpd-rs. More information and the initial release of the client can be found <a href="https://github.com/memorysafety/ntpd-rs">here</a>.</p>
+<h2 id="what-is-ntp%3F">What is NTP? <a class="direct-link" href="#what-is-ntp%3F">#</a></h2>
+<p>The network time protocol synchronizes time between devices connected to a network. Accurate time is essential when your device communicates with other devices, mostly to make sure events are ordered correctly. The device you are reading this article on is probably running an NTP process that regularly synchronizes itself with the real time.</p>
+<p>NTP is one of the oldest Internet protocols, and although it is less known than HTTP or DNS for example, the Internet and its billions of devices depend on it every day.</p>
+<p>The clocks in our devices are reasonably accurate, but can drift meaningfully in the space of hours. The real time is kept with atomic clocks. Many technology companies and foundations provide NTP servers that make this time available to the internet.</p>
+<p><em><a href="https://commons.wikimedia.org/wiki/File:Network_Time_Protocol_servers_and_clients.svg">This diagram</a> will give you an idea of the relationships between the various levels of NTP servers.</em> </p>
+<p>But if you ask such a server what time it is, then by the time its response reaches you, that time is out of date. You need to somehow correct for the transmission delay.</p>
+<p>The NTP client performs this correction and maintains connections with multiple NTP servers for increased reliability.</p>
+<h2 id="goals">Goals <a class="direct-link" href="#goals">#</a></h2>
+<p>NTP is part of the foundation of the Internet, and must be absolutely secure and reliable. For example, precise time is used to check TLS certificates– it would be a disaster if an attacker could adjust the system time such that an outdated certificate is seen as valid!</p>
+<p>The primary goal for this project is to provide an alternative implementation of NTP, that is just that: secure and reliable.</p>
+<h2 id="about-prossimo-and-the-relevance-of-our-project">About Prossimo and the relevance of our project <a class="direct-link" href="#about-prossimo-and-the-relevance-of-our-project">#</a></h2>
+<p>Our NTP project fits seamlessly into Prossimo’s objectives. <a href="https://www.memorysafety.org/docs/memory-safety/">Memory safety</a> is a requirement to achieve a secure implementation of any critical software. Prossimo’s mission states:</p>
+<blockquote>
+<p>Memory safety for the Internet’s most critical infrastructure</p>
+</blockquote>
+<p>Simply put: we should provide memory-safe implementations for pieces of software that run the Internet wherever we can. This has materialized in work being done on TLS (Rustls), curl, the Linux kernel, and this project.</p>
+<h3 id="security-of-open-source-software">Security of open source software <a class="direct-link" href="#security-of-open-source-software">#</a></h3>
+<p>Prossimo’s mission has recently attracted more attention since the Linux Foundation project OpenSSF published <a href="https://openssf.org/oss-security-mobilization-plan/">The Plan</a> and selected <em>Memory Safety</em> as one of ten points of action to improve security of open source software. The plan is backed by open source foundations including <strong>the Rust Foundation</strong>, the technology industry, as well as the White House. The execution of the memory safety work in The Plan consists in large part of Prossimo projects.</p>
+<p>We will not dive into all the pros and cons of re-implementations in memory-safe languages here, but we do hope to show that these types of efforts do not need to be lengthy and painful. You can deliver solid results far more quickly than you might think, if you use a programming language like Rust, with its strong ecosystem and tools.</p>
+<h3 id="rust">Rust <a class="direct-link" href="#rust">#</a></h3>
+<p>Using Rust for our implementation means that the client we build is memory safe. We don’t do many allocations, but we can be confident that we’ll have no segfaults, buffer overflows or memory leaks ever. The same is true for anyone building on top of our implementation.</p>
+<p>Another benefit of Rust is that we can use its standard library and package ecosystem, so our NTP implementation is much smaller (hence easier to validate) than the alternatives. This small size also makes it easier to play around with extensions to the NTP specification (e.g. in the development of the next version of NTP, NTPv5).</p>
+<p>A nice side-effect of our effort is that more people are now familiar with how NTP works, and hopefully our implementation is more accessible. As we noted above, accurate time is crucial for a lot of modern internet infrastructure.</p>
+<h2 id="our-experiences">Our experiences <a class="direct-link" href="#our-experiences">#</a></h2>
+<h3 id="the-protocol">The protocol <a class="direct-link" href="#the-protocol">#</a></h3>
+<p>We initially struggled with turning the NTP specification text into code. What seems reasonable at a distance becomes painfully imprecise when you actually implement it. Still, after some deliberation, we were ready to get to work.</p>
+<p>The core of our implementation is a collection of data structures and algorithms that implement the logic of NTP. This part does not do any network calls or clock modification, it just describes as data what calls and modifications are needed.</p>
+<p>Modeling this core, <code>ntp-proto</code> as pure functions makes it easily testable, and means we have no unsafe code in this part of the code base.</p>
+<p>Our implementation is not a port of the logic of existing implementations ntpd or chrony. In fact, we barely looked at their implementation at all, because we found it hard to map their source code to the NTP specification. Our implementation is based solely on the specification.</p>
+<h3 id="the-network">The network <a class="direct-link" href="#the-network">#</a></h3>
+<p>Our networking requirements go beyond what the Rust standard library provides. NTP uses UDP to send packets, which is well-supported, but we want more.</p>
+<p>The NTP algorithm uses send and receive timestamps, which means we have to know the time right before a packet was sent, and right after it was received.</p>
+<p>We could create these timestamps in our program with <code>Instant::now</code>, but that time would include the time spent between the socket receiving the message, and our program actually resuming to process the message.</p>
+<p>Unix sockets provide more accurate send and receive timestamps. But to get them, we must configure the socket with functions from <code>libc</code>, which is unsafe and wildly under documented. After lots of digging, we figured out the mechanism, <a href="https://github.com/rust-lang/libc/pull/2881">made a tiny contribution to libc</a>, and implemented a safe <code>async</code> version of kernel software timestamping.</p>
+<h3 id="the-clock">The clock <a class="direct-link" href="#the-clock">#</a></h3>
+<p>Manipulating the system clock is not exposed by the standard library, so here too we must drop down to <code>libc</code>. Luckily we had some experience with manipulating the clock on Linux from our <a href="https://tweedegolf.nl/en/blog/72/announcing-statime-a-rust-ptp-implementation">Precision Time Protocol project</a>.</p>
+<h3 id="the-system">The system <a class="direct-link" href="#the-system">#</a></h3>
+<p>The above components are combined in what NTP calls the “system”: it orchestrates how the NTP daemon interacts with the outside world and the system clock.</p>
+<p>The system relies on Rust’s <code>async</code> support and the <a href="https://tokio.rs/">tokio</a> async runtime. We use <code>clap</code> to define our command-line interfaces.</p>
+<p>The existing C solutions need to build concurrency, argument parsing and other basic functionality from scratch. Having no dependencies brings distribution advantages, but has serious downsides in terms of lines of code and maintainability. Verifying memory safety and other security properties in such a big code base is hard.</p>
+<p>In Rust, checking properties of the system is much easier: memory safety is guaranteed by the compiler, and the standard library and many of the popular libraries have undergone serious security scrutiny. Our code, and by extension the work involved in security reviews, is comparatively small.</p>
+<h2 id="conclusion">Conclusion <a class="direct-link" href="#conclusion">#</a></h2>
+<p>Once we had a handle on NTP’s core ideas, development went smoothly. Setting up all the other parts, networking, clock adjustment and the asynchronous tasks, was a joy.</p>
+<blockquote>
+<p><strong>Our smooth experience strengthens us in the conviction that Rust is the correct choice for projects of this type: all of the protocol logic is completely safe, and only when we interact directly with the OS do we need to reason about unsafe code. We start the subsequent phases of the project with confidence.</strong></p>
+</blockquote>
+<p>Our code is available <a href="https://github.com/memorysafety/ntpd-rs">on Github</a>.</p>
+<hr>
+<p><em>Thank you for reading this post in the Rust Foundation <a href="https://foundation.rust-lang.org/tags/guest%20blog%20series/">guest blog series</a>. Stay tuned for more installments in the future!</em></p>
+
+      </div>
+      <div class="attachments"></div>
+    <div class="post-tags">
+      Tagged:
+      
+        <a href="/tags/guest blog series/" class="post-tag">guest blog series</a>
+    </div>
+
+      <hr>
+      <ul><li>Previous: <a href="/news/welcoming-sage-griffin-rust-foundation-communities-advocate/">Welcoming Sage Griffin: Rust Foundation Communities Advocate</a></li>
+      </ul>
+  </section>
+    </main>
+
+    <footer>
+    <div class="container">
+      <img src="/img/rf-logo-transparent.png" alt="rust foundation logo"/>
+      <div>
+        <a href="https://twitter.com/rust_foundation"><img class="social_icon" src="/img/social/twitter.png" alt="Twitter icon"/></a>
+        <a href="https://www.linkedin.com/company/rust-foundation/"><img class="social_icon" src="/img/social/linkedin.png" alt="LinkedIn icon" /></a>
+      </div>
+      <div>
+      
+        <a href="/policies/anti-bribery-and-anti-corruption-policy">Anti-Bribery and Anti-Corruption Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/anti-trust-policy">Anti-Trust Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/bylaws">Bylaws</a>
+        
+         |
+        
+      
+        <a href="/policies/cloud-compute-program">Cloud Compute Program</a>
+        
+         |
+        
+      
+        <a href="/policies/code-of-conduct">Code of Conduct</a>
+        
+         |
+        
+      
+        <a href="/policies/conflict-of-interest-policy">Conflict of Interest Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/copyright-policy">Copyright Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/intellectual-property-policy">Intellectual Property Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/logo-policy-and-media-guide">Logo Policy and Media Guide</a>
+        
+         |
+        
+      
+        <a href="/policies/privacy-policy">Privacy Policy</a>
+        
+         |
+        
+      
+        <a href="/policies/statement-on-global-regulations">Statement on Global Regulations</a>
+        
+      
+      </div>
+    </div>
+</footer>
+
+
+    <!-- Current page: /news/implementing-the-network-time-protocol-ntp-in-rust/ -->
+  </body>
+</html>
