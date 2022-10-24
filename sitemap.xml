@@ -867,17 +867,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/eurorust/</loc>
-    <lastmod>2022-10-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/grants/</loc>
     <lastmod>2022-10-24</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/community%20grants%20program/</loc>
+    <lastmod>2022-10-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/eurorust/</loc>
     <lastmod>2022-10-24</lastmod>
   </url>
   
