@@ -41,7 +41,7 @@ Any work that benefits the Rust Project is eligible for a Project Grant. Priorit
 
 **Questions about the program? Please visit the&nbsp;[Project Grant FAQs](https://foundation.rust-lang.org/grants-faqs/#project-grants) for more information.**
 
-```html
+```css
 <div class="cta-white button"><a href="https://app.smarterselect.com/programs/80957-Rust-Foundation">Apply here</a></div>
 ```
 
