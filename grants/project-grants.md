@@ -19,9 +19,9 @@ tags:
 
 The Rust Foundation Project Grants program exists to support specific packages of work that benefit Rust. Project Grants will be awarded to both individuals and teams, whether you're a member of a Rust Project Team or Working Group or not. Additionally, Project Grants are available for non-coding education/outreach work.
 
-> ##### ***"If you look up to people within the Rust project, if the work we do here interests you, if you have always wanted to contribute, and especially if you already have contributed, I want you to know that you're one of the people we want to apply for \[a Rust Foundation Project Grant\]."***
+> #### ***"If you look up to people within the Rust project, if the work we do here interests you, if you have always wanted to contribute, and especially if you already have contributed, I want you to know that you're one of the people we want to apply for \[a Rust Foundation Project Grant\]."***
 >
-> ##### **\- Rust Foundation Project Director, Jane Lusby**
+> #### **\- Rust Foundation Project Director, Jane Lusby**
 
 > <a target="_blank" rel="noopener" href="https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html">Read the rest of Jane's blog post</a> on Impostor Syndrome & why you should consider applying for a Project Grant.&nbsp;&nbsp;
 
@@ -54,8 +54,8 @@ If you have any questions about the program, have doubts about applying, or if y
 <u><strong>Get in touch with us via:</strong></u>
 
 * **Email:**&nbsp;[grants@rustfoundation.org](mailto:grants@rustfoundation.org)&nbsp;\*
-* <a target="_blank" rel="noopener" href="https://rust-lang.zulipchat.com/#narrow/stream/335408-foundation"><strong>Chat:</strong> via Zulip</a>
-* <a target="_blank" rel="noopener" href="https://calendly.com/rustgrants"><strong>Voice call or text chat:</strong> via Calendly</a>
+* **Chat:**&nbsp;<a target="_blank" rel="noopener" href="https://rust-lang.zulipchat.com/#narrow/stream/335408-foundation">via Zulip</a>
+* **Voice call or text chat:** <a target="_blank" rel="noopener" href="https://calendly.com/rustgrants">via Calendly</a>
 
 *\* If you are applying on behalf of an organization, please email us so that we can discuss your proposed application before you complete the form.*
 
@@ -103,10 +103,11 @@ If you have any questions about the program, have doubts about applying, or if y
 
 ## *Additional Rules*
 
-### &nbsp;
+## &nbsp;
 
 * *Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.*
 
 * *Employees of organizations that are members of the Rust Foundation who wish to apply as individuals or as part of a team should email us at [grants@rustfoundation.org](mailto:grants@rustfoundation.org) prior to completing an application, in order for us to assess whether a grant award might represent a conflict of interest for the Foundation.*
+
 * *The Rust Foundation is required to adhere to laws of the United States, and as a result all Project Grant applicants must be able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions. *
 * *If you have any questions about this, or would like more advice or help from the Foundation please email us at [grants@rustfoundation.org](mailto:grants@rustfoundation.org). We will do whatever we can to support you.*
