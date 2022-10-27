@@ -19,11 +19,11 @@ tags:
 
 The Rust Foundation Project Grants program exists to support specific packages of work that benefit Rust. Project Grants will be awarded to both individuals and teams, whether you're a member of a Rust Project Team or Working Group or not. Additionally, Project Grants are available for non-coding education/outreach work.
 
-> ### ***"If you look up to people within the Rust project, if the work we do here interests you, if you have always wanted to contribute, and especially if you already have contributed, I want you to know that you're one of the people we want to apply for \[a Rust Foundation Project Grant\]."***
->
-> ### **\- Rust Foundation Project Director, Jane Lusby**
+### ***"If you look up to people within the Rust project, if the work we do here interests you, if you have always wanted to contribute, and especially if you already have contributed, I want you to know that you're one of the people we want to apply for \[a Rust Foundation Project Grant\]."***
 
-> ### **<a target="_blank" rel="noopener" href="https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html">Read the rest of Jane's blog post</a> on Impostor Syndrome & why you should consider applying for a Project Grant. &nbsp;**
+### **\- Rust Foundation Project Director, Jane Lusby**
+
+### **<a target="_blank" rel="noopener" href="https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html">Read the rest of Jane's blog post</a> on Impostor Syndrome & why you should consider applying for a Project Grant. &nbsp;**
 
 Any work that benefits the Rust Project is eligible for a Project Grant. Priority will be given to those grants that will clearly deliver a significant benefit to a reasonable proportion of the Rust community. Ideally, the work will be carried out within six months of the grant being given.
 
