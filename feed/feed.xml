@@ -5,12 +5,39 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2022-10-21T16:30:00Z</updated>
+	<updated>2022-10-28T12:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>Project Grants Application Deadline Extended to November 7, 2022</title>
+		<link href="https://foundation.rust-lang.org/news/project-grants-application-deadline-extended-to-november-7-2022/"/>
+		<updated>2022-10-28T12:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/project-grants-application-deadline-extended-to-november-7-2022/</id>
+		<content type="html">&lt;img width=&quot;580&quot; height=&quot;326&quot; alt=&quot;Orange gradient background with white rust foundation logo up top (letter &amp;quot;R&amp;quot; inside gear icon) with the following white bolded text: &amp;quot;The Project Grants Application Deadline has been extended to November, 7, 2022&amp;quot;. To the right of this text is a white line graphic of a clock speeding by. This section is separated by a white horizonal line. Underneath the line is white text that says &amp;quot;Apply now: https://sky-winds.cloudvent.net/grants/project-grants&amp;quot;&quot; title=&quot;Project Grants 2022 Application Deadline Extended to November 7&quot; src=&quot;https://foundation.rust-lang.org/img/news/2022-10-28-project-grants-deadline-extension/project-grants-deadline.png&quot; /&gt;
+&lt;h3 id=&quot;the-rust-foundation-is-pleased-to-share-that-we%E2%80%99ve-extended-the-application-deadline-for-our-second-round-of-project-grants-to-monday%2C-november-7%2C-2022-%40-11%3A59-pm-pdt-(6%3A59-am-utc-on-tuesday%2C-november-7).&quot;&gt;&lt;strong&gt;The Rust Foundation is pleased to share that we’ve extended the application deadline for our second round of &lt;a href=&quot;https://foundation.rust-lang.org/grants/project-grants/&quot;&gt;&lt;u&gt;Project Grants&lt;/u&gt;&lt;/a&gt; to Monday, November 7, 2022 @ 11:59 PM PDT &lt;em&gt;(6:59 AM UTC on Tuesday, November 7)&lt;/em&gt;.&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/project-grants-application-deadline-extended-to-november-7-2022/#the-rust-foundation-is-pleased-to-share-that-we%E2%80%99ve-extended-the-application-deadline-for-our-second-round-of-project-grants-to-monday%2C-november-7%2C-2022-%40-11%3A59-pm-pdt-(6%3A59-am-utc-on-tuesday%2C-november-7).&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;If you were concerned about missing the original Project Grants application deadline of October 31 (or if you&#39;ve already started or submitted an application) you now have an extra week to create/edit your submission.&lt;/p&gt;
+&lt;p&gt;As a reminder, &lt;a href=&quot;https://foundation.rust-lang.org/grants/project-grants/&quot;&gt;&lt;u&gt;Rust Foundation Project Grants&lt;/u&gt;&lt;/a&gt; are part of our larger &lt;a href=&quot;https://foundation.rust-lang.org/grants/&quot;&gt;&lt;u&gt;Community Grants Program&lt;/u&gt;&lt;/a&gt;. They exist to support dedicated packages of work benefitting the Rust programming language – either through Rust-based coding projects or through education/outreach initiatives. You do &lt;strong&gt;not&lt;/strong&gt; need to be a member of a Rust Project Team or a Working Group and you &lt;strong&gt;may&lt;/strong&gt; apply as either an individual or as part of a team. &lt;/p&gt;
+&lt;p&gt;Grants will be awarded in amounts between $2,500 and $15,000 USD. &lt;/p&gt;
+&lt;h3 id=&quot;%3E%3E-apply-for-a-rust-foundation-project-grant-here&quot;&gt;&lt;a href=&quot;https://app.smarterselect.com/programs/80957-Rust-Foundation&quot;&gt;&lt;strong&gt;&lt;u&gt;&amp;gt;&amp;gt; Apply for a Rust Foundation Project Grant here&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/project-grants-application-deadline-extended-to-november-7-2022/#%3E%3E-apply-for-a-rust-foundation-project-grant-here&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Special thanks to AWS, Huawei, and Google for supporting the &lt;a href=&quot;https://foundation.rust-lang.org/grants/&quot;&gt;&lt;u&gt;Community Grants Program&lt;/u&gt;&lt;/a&gt;.​​​​​&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Why are we extending the deadline?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our team elected to extend the deadline for this program for several reasons.&lt;/p&gt;
+&lt;p&gt;First, we welcomed two new team members to the Rust Foundation over the past few weeks (&lt;a href=&quot;https://foundation.rust-lang.org/news/2022-10-06-welcome-gracie-gregory-director-of-communications/&quot;&gt;&lt;u&gt;Gracie Gregory&lt;/u&gt;&lt;/a&gt; and &lt;a href=&quot;https://foundation.rust-lang.org/news/project-grants-application-deadline-extended-to-november-7-2022/__notset__&quot;&gt;&lt;u&gt;Sage Griffi&lt;/u&gt;n&lt;/a&gt;). Since their work directly impacts the administration of the Project Grants Program, we wanted to ensure they had adequate time to focus on making the application period more navigable and visible to the community. Second, we understand that this is a busy time of year for many of you and additional time to apply for grants like ours is always appreciated. Finally, we’re eager to receive as many applications from the Rust community and hope that this extra week enables more of you to both submit and feel as confident as possible in your application! &lt;/p&gt;
+&lt;p&gt;Thanks for your time and interest in receiving a &lt;a href=&quot;https://foundation.rust-lang.org/grants/project-grants/&quot;&gt;&lt;u&gt;Rust Foundation Project Grant&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Additional Notes&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;For answers to our most frequently asked questions about this grant, &lt;a href=&quot;https://foundation.rust-lang.org/grants-faqs/#project-grants&quot;&gt;&lt;u&gt;click here&lt;/u&gt;&lt;/a&gt;. &lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;To learn more about the Project Grants Program and application support options, &lt;a href=&quot;https://foundation.rust-lang.org/grants/project-grants/&quot;&gt;&lt;u&gt;click here&lt;/u&gt;&lt;/a&gt;. &lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Doubting whether or not you should apply for a Project Grant? We encourage you to read &lt;a href=&quot;https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html&quot;&gt;this fantastic post on the Inside Rust blog&lt;/a&gt; about Impostor Syndrome and why you shouldn&#39;t doubt your worthiness of applying to the Community Grants Program by Rust Foundation Project Director, Jane Losare-Lusby. &lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Implementing the Network Time Protocol (NTP) in Rust</title>
@@ -106,7 +133,7 @@
 		<link href="https://foundation.rust-lang.org/news/2022-10-06-welcome-gracie-gregory-director-of-communications/"/>
 		<updated>2022-10-06T00:00:00Z</updated>
 		<id>https://foundation.rust-lang.org/news/2022-10-06-welcome-gracie-gregory-director-of-communications/</id>
-		<content type="html">&lt;img src=&quot;https://foundation.rust-lang.org/img/news/2022-10-06-welcome-gracie-gregory-director-of-communications/gracie.jpg&quot; width=&quot;500&quot; height=&quot;280&quot; alt=&quot;Headshot of Gracie&quot; /&gt;
+		<content type="html">&lt;img width=&quot;500&quot; height=&quot;280&quot; alt=&quot;Headshot of Gracie&quot; src=&quot;https://foundation.rust-lang.org/img/news/2022-10-06-welcome-gracie-gregory-director-of-communications/gracie.jpg&quot; /&gt;
 &lt;h2 id=&quot;welcome-to-gracie-gregory%2C-our-new-director-of-communications-and-marketing!&quot;&gt;Welcome to Gracie Gregory, our new Director of Communications and Marketing! &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/2022-10-06-welcome-gracie-gregory-director-of-communications/#welcome-to-gracie-gregory%2C-our-new-director-of-communications-and-marketing!&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;The Rust Foundation exists to steward the Rust programming language, which means supporting maintainers, providing infrastructure, and nurturing growth, adoption and innovation in the Rust ecosystem. A key part of our work is to tell the story of Rust - why the language is awesome, how inclusive and passionate the community is, and what great things are being done with Rust all over the world. Being able to tell this story enables us to promote Rust more effectively, communicate with the global Rust communities and our Members and supporters, fundraise to support Rust’s development and leverage greater resources into the ecosystem.&lt;/p&gt;
 &lt;p&gt;After months of careful consideration, the Rust Foundation is pleased to announce a new addition to the Senior Management Team – Gracie Gregory who has come aboard as the Foundation’s new Director of Communications and Marketing.&lt;/p&gt;
@@ -124,7 +151,9 @@
 		<link href="https://foundation.rust-lang.org/news/2022-10-03-project-grants-open-for-applications/"/>
 		<updated>2022-10-03T00:00:00Z</updated>
 		<id>https://foundation.rust-lang.org/news/2022-10-03-project-grants-open-for-applications/</id>
-		<content type="html">&lt;p&gt;The Rust Foundation is delighted to announce that its Project Grants Program is now open for a second round of applications.&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;em&gt;Update: The 2022 application deadline for the second round of Project Grants has been &lt;strong&gt;extended to November 7, 2022&lt;/strong&gt; @ 11:59 PM PDT. &lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;The Rust Foundation is delighted to announce that its Project Grants Program is now open for a second round of applications.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://foundation.rust-lang.org/grants/project-grants&quot;&gt;Rust Foundation Project Grants&lt;/a&gt; are financial awards that support specific packages of work that benefit the Rust Project directly or provide Rust education/outreach. You can apply for a grant as an individual, or as part of a team, and request between $2,500 and $15,000 USD. Ideally the work should be carried out within six months of the award being made.&lt;/p&gt;
 &lt;p&gt;Any work that benefits the Rust Project or Rust education/outreach is eligible for a Project Grant. Priority will be given to those grants that will clearly deliver a significant benefit to a reasonable proportion of the Rust community.&lt;/p&gt;
 &lt;p&gt;We would like the Rust Foundation Grants Program to be as open and accessible as possible, and realise that some may find the application form and questions daunting. As such, we would like to give prospective grantees whatever support they might need through this process in completing an application. If you have any questions about the grants, are unsure whether you should apply, or would like help in completing an application, please get in touch. You can:&lt;/p&gt;
@@ -134,7 +163,7 @@
 &lt;li&gt;Arrange a voice call or text chat via: &lt;a href=&quot;http://calendly.com/rustgrants&quot;&gt;calendly.com/rustgrants&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We also urge you to read this &lt;a href=&quot;https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html&quot;&gt;excellent blog post&lt;/a&gt; by our Project Director, Jane Lusby, on &amp;quot;Imposter Syndrome&amp;quot;, which was inspired by feedback that we received from our first grants round earlier this year.&lt;/p&gt;
-&lt;p&gt;Applications can be made from now until 31st October 2022 &lt;a href=&quot;https://app.smarterselect.com/programs/80957-Rust-Foundation&quot;&gt;via our application system&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Applications can be made from now until &lt;s&gt;31st October 2022&lt;/s&gt; November 7, 2022 @ 11:59 PM PDT &lt;a href=&quot;https://app.smarterselect.com/programs/80957-Rust-Foundation&quot;&gt;via our application system&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can find out more about our Project Grants Program &lt;a href=&quot;https://foundation.rust-lang.org/grants/project-grants&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We look forward to receiving your applications!&lt;/p&gt;
 </content>
