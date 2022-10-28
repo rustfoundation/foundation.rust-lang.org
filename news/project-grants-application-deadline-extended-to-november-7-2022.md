@@ -23,7 +23,7 @@ As a reminder, [<u>Rust Foundation Project Grants</u>](https://foundation.rust-l
 
 Grants will be awarded in amounts between $2,500 and $15,000 USD.&nbsp;
 
-#### [**<u>&gt;&gt; Apply for a Rust Foundation Project Grant here</u>**](https://app.smarterselect.com/programs/80957-Rust-Foundation)
+### [**<u>&gt;&gt; Apply for a Rust Foundation Project Grant here</u>**](https://app.smarterselect.com/programs/80957-Rust-Foundation)
 
 Special thanks to AWS, Huawei, and Google for supporting the&nbsp;[<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/).​​​​​
 
