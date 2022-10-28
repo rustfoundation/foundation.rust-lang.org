@@ -21,13 +21,13 @@ The Rust Foundation Project Grants program exists to support specific packages o
 
 Any work that benefits the Rust Project is eligible for a Project Grant. Priority will be given to those grants that will clearly deliver a significant benefit to a reasonable proportion of the Rust community. Ideally, the work will be carried out within six months of the grant being given.
 
-<img src="/img/grants/jane-quote.png" width="580" height="326" alt="Orange gradient background with white rust foundation logo up top (letter &quot;R&quot; inside gear icon) with the following white italicized text: &quot;&quot;If you look up to people within the Rust project, if the work we do here interests you, if you have always wanted to contribute, and especially if you already have contributed, I want you to know that you're one of the people we want to apply for [a Rust Foundation Project Grant].&quot; Quote is attributed to Jane Losare-Lusby" title="Jane Losare-Lusby quote" />
+<img width="580" height="326" alt="Orange gradient background with white rust foundation logo up top (letter &quot;R&quot; inside gear icon) with the following white italicized text: &quot;&quot;If you look up to people within the Rust project, if the work we do here interests you, if you have always wanted to contribute, and especially if you already have contributed, I want you to know that you're one of the people we want to apply for [a Rust Foundation Project Grant].&quot; Quote is attributed to Jane Losare-Lusby" title="Jane Losare-Lusby quote" src="/img/grants/jane-quote.png" />
 
 > ***<a rel="noopener" target="_blank" href="https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html">Read the rest of Jane's blog </a>[for Inside Rust](__notset__)&nbsp;on Impostor Syndrome & why you should consider applying for a Project Grant.***
 
 **Award amount**\: $2,500 to $15,000.
 
-**Application window**\: 3rd October to 31st October 2022.
+**Application window**\: 3rd October to November 7, 2022.
 
 **Selection decisions**\: By end of November 2022.
 
@@ -43,7 +43,7 @@ Any work that benefits the Rust Project is eligible for a Project Grant. Priorit
 
 ## Application support
 
-We would like the Rust Foundation Grants Program to be as open and accessible as possible, and realize that some may find the application form and questions daunting.**&nbsp;&nbsp;**As such, **we want to give prospective grantees as much support as possible throughout the process — from application to the end of the program.&nbsp;**
+We would like the Rust Foundation Grants Program to be as open and accessible as possible, and realize that some may find the application form and questions daunting.\*\* &nbsp;\*\*As such, **we want to give prospective grantees as much support as possible throughout the process — from application to the end of the program.&nbsp;**
 
 If you have any questions about the program, have doubts about applying, or if you would like help completing an application, we welcome you to contact us.
 
@@ -105,5 +105,6 @@ If you have any questions about the program, have doubts about applying, or if y
 
 * *Employees of organizations that are members of the Rust Foundation who wish to apply as individuals or as part of a team should email us at [grants@rustfoundation.org](mailto:grants@rustfoundation.org) prior to completing an application, in order for us to assess whether a grant award might represent a conflict of interest for the Foundation.*
 
-* *The Rust Foundation is required to adhere to laws of the United States, and as a result all Project Grant applicants must be able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions. *
+* \*The Rust Foundation is required to adhere to laws of the United States, and as a result all Project Grant applicants must be able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions. \*
+
 * *If you have any questions about this, or would like more advice or help from the Foundation please email us at [grants@rustfoundation.org](mailto:grants@rustfoundation.org). We will do whatever we can to support you.*

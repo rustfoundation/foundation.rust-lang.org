@@ -1,10 +1,13 @@
 ---
 layout: news
 title: Rust Foundation Project Grants are open for applications
-description: 
-date: 2022-10-03
+description:
+date: 2022-10-03T00:00:00Z
 tags:
   - community grants
+---
+*Update: The 2022 application deadline for the second round of Project Grants has been **extended to November 7, 2022** @ 11:59 PM PDT.&nbsp;*
+
 ---
 
 The Rust Foundation is delighted to announce that its Project Grants Program is now open for a second round of applications.
@@ -16,15 +19,13 @@ Any work that benefits the Rust Project or Rust education/outreach is eligible f
 We would like the Rust Foundation Grants Program to be as open and accessible as possible, and realise that some may find the application form and questions daunting. As such, we would like to give prospective grantees whatever support they might need through this process in completing an application. If you have any questions about the grants, are unsure whether you should apply, or would like help in completing an application, please get in touch. You can:
 
 * Email: Paul Lenz and Joel Marcey at grants@rustfoundation.org
-* Chat: https://rust-lang.zulipchat.com/#narrow/stream/335408-foundation 
+* Chat: https://rust-lang.zulipchat.com/\#narrow/stream/335408-foundation
 * Arrange a voice call or text chat via: calendly.com/rustgrants
 
 We also urge you to read this [excellent blog post](https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html) by our Project Director, Jane Lusby, on "Imposter Syndrome", which was inspired by feedback that we received from our first grants round earlier this year.
 
-Applications can be made from now until 31st October 2022 [via our application system](https://app.smarterselect.com/programs/80957-Rust-Foundation).
+Applications can be made from now until <s>31st October 2022</s>&nbsp;November 7, 2022 @ 11:59 PM PDT&nbsp;[via our application system](https://app.smarterselect.com/programs/80957-Rust-Foundation).
 
 You can find out more about our Project Grants Program [here](/grants/project-grants).
 
-We look forward to receiving your applications!
-
-
+We look forward to receiving your applications\!
