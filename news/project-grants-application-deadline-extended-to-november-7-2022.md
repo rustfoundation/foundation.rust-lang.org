@@ -27,7 +27,7 @@ Grants will be awarded in amounts between $2,500 and $15,000 USD.&nbsp;
 
 &nbsp;
 
-*Special thanks to AWS, Huawei, and Google for supporting the&nbsp;*[*<u>Community Grants Program</u>*](https://foundation.rust-lang.org/grants/)*.*​​​​​
+Special thanks to AWS, Huawei, and Google for supporting the&nbsp;[<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/).​​​​​
 
 ---
 
