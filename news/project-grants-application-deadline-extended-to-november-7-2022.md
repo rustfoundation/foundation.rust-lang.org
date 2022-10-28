@@ -15,7 +15,7 @@ layout: layouts/news.njk
 ---
 <img width="580" height="326" alt="Orange gradient background with white rust foundation logo up top (letter &quot;R&quot; inside gear icon) with the following white bolded text: &quot;The Project Grants Application Deadline has been extended to November, 7, 2022&quot;. To the right of this text is a white line graphic of a clock speeding by. This section is separated by a white horizonal line. Underneath the line is white text that says &quot;Apply now: https://sky-winds.cloudvent.net/grants/project-grants&quot;" title="Project Grants 2022 Application Deadline Extended to November 7" src="/img/news/2022-10-28-project-grants-deadline-extension/project-grants-deadline.png" />
 
-**The Rust Foundation is pleased to share that we’ve extended the application deadline for our second round of&nbsp;[<u>Project Grants</u>](https://foundation.rust-lang.org/grants/project-grants/) to Monday, November 7, 2022 @ 11:59 PM PDT&nbsp;*(6:59 AM UTC on Tuesday, November 7)*.**
+### **The Rust Foundation is pleased to share that we’ve extended the application deadline for our second round of&nbsp;[<u>Project Grants</u>](https://foundation.rust-lang.org/grants/project-grants/) to Monday, November 7, 2022 @ 11:59 PM PDT&nbsp;*(6:59 AM UTC on Tuesday, November 7)*.**
 
 If you were concerned about missing the original Project Grants application deadline of October 31 (or if you've already started or submitted an application) you now have an extra week to create/edit your submission.
 
