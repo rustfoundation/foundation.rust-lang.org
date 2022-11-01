@@ -8,7 +8,7 @@ tags:
   - plans
   - community grants
   - membership
-  - quarterlyupdate
+  - quarterly updates
 ---
 We have officially passed the 2022 half-way mark, and I wanted to provide an update on what we have been doing internally within the Foundation during the second quarter.
 
@@ -50,4 +50,4 @@ We began quite a few exciting conversations about collaborative projects, member
 
 ---
 
-*Find more Rust Foundation Quarterly Updates [here](https://foundation.rust-lang.org/tags/quarterlyupdate/)*
+*Find more Rust Foundation Quarterly Updates [here](https://silly-radio.cloudvent.net/tags/quarterly%20updates/)*
