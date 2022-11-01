@@ -12,7 +12,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-**Since November is officially upon us, it’s past time for the Rust Foundation to pass along a recap of the activities and progress we made as an organization in Q3. Here’s a look at what we accomplished (and the developments surrounding it) in July, August, and September 2022. Towards the end of December, we’ll share a Q4 update post to round out the year\!**
+**Since November is officially upon us, the Rust Foundation owes a recap of the activities and progress we made as an organization over the *last* quarter — Q3. Here’s a look at what we accomplished (and the developments surrounding it) in July, August, and September 2022. Towards the end of December, we’ll share a Q4 update post to round out the year\!**
 
 The third quarter of 2022 at the Rust Foundation was a unique period that included sowing seeds for exciting developments to come and harvesting the results of long-standing initiatives.&nbsp;
 
@@ -62,7 +62,7 @@ Following the awarding of our first round of Community Grants in Q2, we have bee
 
 In Q2, we began conducting calls with Project Grantees and Fellows to learn what they’ve been working on under the program, what their upcoming goals are, and the type of support they need to continue being successful. These conversations have surfaced many interesting stories. As such, we plan to begin sharing “spotlight” style features on our blog that introduce the Rust community to individual grantees to give others a sense of what the program is like and encourage the celebration of Rust Foundation Fellows and grantees.
 
-*Note: On October 3, we announced the opening of the second round of applications for the Project Grants program. If you’d like to receive funding for specific packages of work benefitting the Rust Project, we encourage you to apply for a Project Grant by November 7\! Learn more*[*<u>here</u>*](https://foundation.rust-lang.org/grants/project-grants/)*.&nbsp;*
+*Note: On October 3, we announced the opening of the second round of applications for the Project Grants program. If you’d like to receive funding for specific packages of work benefitting the Rust Project, we encourage you to apply for a Project Grant by November 7\! Learn more&nbsp;*[*<u>here</u>*](https://foundation.rust-lang.org/grants/project-grants/)*.&nbsp;*
 
 **Communications & Events**
 
@@ -82,4 +82,4 @@ As you might have gathered, there are many more exciting pertinent updates to sh
 
 ---
 
-*Find more Rust Foundation Quarterly Updates*[*<u>here</u>*](https://foundation.rust-lang.org/tags/quarterlyupdate/)
+*Find more Rust Foundation Quarterly Updates&nbsp;*[*<u>here</u>*](https://foundation.rust-lang.org/tags/quarterlyupdate/)
