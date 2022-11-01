@@ -28,13 +28,13 @@ Here are the details of what the Rust Foundation got up to in Q3. Stay tuned for
 
 ### **Staffing & Administration**
 
-Following the HR groundwork we laid across [<u>Q1</u>](https://foundation.rust-lang.org/news/2022-05-03-a-good-start-to-the-year/) and [<u>Q2</u>](https://foundation.rust-lang.org/news/2022-07-27-what-has-the-foundation-been-up-to/), the Foundation team grew significantly in Q3 with the arrival of our new Infrastructure Engineer in September: [<u>Jan David</u>](https://foundation.rust-lang.org/news/2022-09-07-welcome-jan-david-rust-foundation-infrastructure-engineer/). This is the first engineering hire to be made by the Foundation and we are thrilled to have Jan in the role.&nbsp;
+Following the HR groundwork we laid across [Q1](https://foundation.rust-lang.org/news/2022-05-03-a-good-start-to-the-year/) and [Q2](https://foundation.rust-lang.org/news/2022-07-27-what-has-the-foundation-been-up-to/), the Foundation team grew significantly in Q3 with the arrival of our new Infrastructure Engineer in September: [Jan David](https://foundation.rust-lang.org/news/2022-09-07-welcome-jan-david-rust-foundation-infrastructure-engineer/). This is the first engineering hire to be made by the Foundation and we are thrilled to have Jan in the role.&nbsp;
 
 Jan is responsible for the operations of all currently supported and future infrastructure, including managing both existing tools and new development. Jan David will work directly with the Rust Infrastructure team in their daily activities and will help manage the relationship and efforts between that team and the Foundation.&nbsp;
 
-The hiring process for this position was a close collaboration with Rust Project leaders from application review, to interviews, to the usage of the Applied platform in an effort to remove bias throughout. We were pleased to continue this work at the start of Q4 with additional [<u>Communities Advocate</u>](https://foundation.rust-lang.org/news/welcoming-sage-griffin-rust-foundation-communities-advocate/) and [<u>Director of Communications &amp; Marketing</u>](https://foundation.rust-lang.org/news/2022-10-06-welcome-gracie-gregory-director-of-communications/) hires.&nbsp;
+The hiring process for this position was a close collaboration with Rust Project leaders from application review, to interviews, to the usage of the Applied platform in an effort to remove bias throughout. We were pleased to continue this work at the start of Q4 with additional [Communities Advocate](https://foundation.rust-lang.org/news/welcoming-sage-griffin-rust-foundation-communities-advocate/) and [Director of Communications &amp; Marketing](https://foundation.rust-lang.org/news/2022-10-06-welcome-gracie-gregory-director-of-communications/) hires.&nbsp;
 
-In Q3, we also began the work of establishing an upcoming Security Engineer position, which is part of the Rust Foundation’s dedicated Security Initiative [<u>announced</u>](https://foundation.rust-lang.org/news/2022-09-13-rust-foundation-establishes-security-team/) in September (underwritten with support from the OpenSSF’s Alpha-Omega Initiative and Rust Foundation Platinum member JFrog).&nbsp;
+In Q3, we also began the work of establishing an upcoming Security Engineer position, which is part of the Rust Foundation’s dedicated Security Initiative [announced](https://foundation.rust-lang.org/news/2022-09-13-rust-foundation-establishes-security-team/) in September (underwritten with support from the OpenSSF’s Alpha-Omega Initiative and Rust Foundation Platinum member JFrog).&nbsp;
 
 The way the security team and its funding was announced raised some concerns about how it was communicated to the Project. Since then, options were discussed for a process to ensure that the Project feels informed and heard before similar announcements are made. We are currently collaboratively drafting a job description based on the feedback we have received from Project leadership and expect to publish the job listing and begin active recruitment soon. We are also actively increasing our communication with the Project beyond just the Security Initiative.
 
@@ -48,13 +48,13 @@ We expect to have 2-3 trademark policy working group meetings between now and th
 
 ### **Membership**
 
-Platinum-level membership grew in Q3, with the arrival of our newest member [<u>JFrog</u>](https://foundation.rust-lang.org/news/2022-09-06-hello-jfrog/) – an established leader in DevOps. We are thrilled to have JFrog as part of the Platinum tier, which reflects a genuine commitment to supporting the maintenance and development of the Rust programming language.&nbsp;
+Platinum-level membership grew in Q3, with the arrival of our newest member [JFrog](https://foundation.rust-lang.org/news/2022-09-06-hello-jfrog/) – an established leader in DevOps. We are thrilled to have JFrog as part of the Platinum tier, which reflects a genuine commitment to supporting the maintenance and development of the Rust programming language.&nbsp;
 
-Silver-level membership also continued to grow in Q3. In September, we were thrilled to welcome [<u>TSY Capital</u>](https://www.linkedin.com/company/tsycapital/about/) and [<u>Matter Labs</u>](https://matter-labs.io/) as our newest Silver Members.&nbsp;
+Silver-level membership also continued to grow in Q3. In September, we were thrilled to welcome [TSY Capital](https://www.linkedin.com/company/tsycapital/about/) and [Matter Labs](https://matter-labs.io/) as our newest Silver Members.&nbsp;
 
 The Rust Foundation is currently accepting new members across each tier (Platinum/Gold/Silver).&nbsp;
 
-Membership benefits include representation on the Board of Directors, marketing and thought leadership related to Rust, and more. To learn more about Rust Foundation membership and inquire, click [<u>here</u>](https://foundation.rust-lang.org/info/become-a-member/).&nbsp;
+Membership benefits include representation on the Board of Directors, marketing and thought leadership related to Rust, and more. To learn more about Rust Foundation membership and inquire, click [here](https://foundation.rust-lang.org/info/become-a-member/).&nbsp;
 
 *Additional membership note:&nbsp;*
 
@@ -66,7 +66,7 @@ Following the awarding of our first round of Community Grants in Q2, we have bee
 
 In Q2, we began conducting calls with Project Grantees and Fellows to learn what they’ve been working on under the program, what their upcoming goals are, and the type of support they need to continue being successful. These conversations have surfaced many interesting stories. As such, we plan to begin sharing “spotlight” style features on our blog that introduce the Rust community to individual grantees to give others a sense of what the program is like and encourage the celebration of Rust Foundation Fellows and grantees.
 
-*Note: On October 3, we announced the opening of the second round of applications for the Project Grants program. If you’d like to receive funding for specific packages of work benefitting the Rust Project, we encourage you to apply for a Project Grant by November 7\! Learn more&nbsp;*[*<u>here</u>*](https://foundation.rust-lang.org/grants/project-grants/)*.&nbsp;*
+*Note: On October 3, we announced the opening of the second round of applications for the Project Grants program. If you’d like to receive funding for specific packages of work benefitting the Rust Project, we encourage you to apply for a Project Grant by November 7\! Learn more&nbsp;*[*here*](https://foundation.rust-lang.org/grants/project-grants/)*.&nbsp;*
 
 ### **Communications & Events**
 
@@ -76,11 +76,11 @@ In August, as a sponsor of the event, the Rust Foundation team was excited to at
 
 We heard many positive things about the handling of the remote-attendee experience. We look forward to learning how we can support and develop this and other aspects of the conference in 2023.&nbsp;
 
-In September, the Foundation's Director of Finance & Funding, Paul Lenz, and I gave a presentation at <a target="_blank" rel="noopener" href="https://events.linuxfoundation.org/open-source-summit-europe/">Open Source Summit Europe in Dublin</a> on funding open source, with the Community Grants Program as a specific example. I was delighted that our session was packed and coupled with many other exciting talks and announcements including the <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/news/2022-09-13-rust-foundation-establishes-security-team/"><u>news</u></a>&nbsp;of Alpha-Omega funding a dedicated Security team at the Foundation.
+In September, the Foundation's Director of Finance & Funding, Paul Lenz, and I gave a presentation at <a target="_blank" rel="noopener" href="https://events.linuxfoundation.org/open-source-summit-europe/">Open Source Summit Europe in Dublin</a> on funding open source, with the Community Grants Program as a specific example. I was delighted that our session was packed and coupled with many other exciting talks and announcements including the <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/news/2022-09-13-rust-foundation-establishes-security-team/">news</a>&nbsp;of Alpha-Omega funding a dedicated Security team at the Foundation.
 
 September also brought some major Rust-related news that many of us have been waiting for: the arrival of Rust in the Linux Kernel as announced by Linus Torvalds. Though Rust’s presence in the Kernel is still in its early days with just the core infrastructure incorporated, the Foundation sees this as a significant first step in the Rust-Linux relationship.
 
-Finally, we kicked off a new series of guest posts on our blog, which are written by members of the Rust Foundation and/or community. We published our first guest post in July via [<u>Dotan Nahum</u>](https://twitter.com/jondot), Founder and CEO of Foundation Silver Member [<u>Spectral</u>](https://spectralops.io/). Find the evolving Rust Foundation Guest Blog series [<u>here</u>](https://foundation.rust-lang.org/tags/guest%20blog%20series/).&nbsp;
+Finally, we kicked off a new series of guest posts on our blog, which are written by members of the Rust Foundation and/or community. We published our first guest post in July via [Dotan Nahum](https://twitter.com/jondot), Founder and CEO of Foundation Silver Member [Spectral](https://spectralops.io/). Find the evolving Rust Foundation Guest Blog series [here](https://foundation.rust-lang.org/tags/guest%20blog%20series/).&nbsp;
 
 ### **What’s next…**
 
@@ -88,4 +88,4 @@ As you might have gathered, there are many more exciting pertinent updates to sh
 
 ---
 
-*Find more Rust Foundation Quarterly Updates&nbsp;*<a target="_blank" rel="noopener" href="https://silly-radio.cloudvent.net/tags/quarterly%20updates/"><em><u>here</u></em></a>
+*Find more Rust Foundation Quarterly Updates&nbsp;*<a target="_blank" rel="noopener" href="https://silly-radio.cloudvent.net/tags/quarterly%20updates/"><em>here</em></a>
