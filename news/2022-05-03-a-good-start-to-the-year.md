@@ -46,4 +46,6 @@ The Foundation wants to be open and transparent with the community, and to commu
 
 I realise this blog is completely focused on our internal activities this year, and that this may not be of interest to a lot of people, but I want to ensure that we are communicating how much we are actually doing. We are working very hard across a lot of different areas to build and sustain the Rust Foundation, so that it can effectively work for the benefit of the community. The team has achieved a lot in a very short space of time this year, and we look forward to growing and diversifying our programs of support.
 
-&nbsp;
+---
+
+*Find more Rust Foundation Quarterly Updates [here](https://foundation.rust-lang.org/tags/quarterlyupdate/)*
