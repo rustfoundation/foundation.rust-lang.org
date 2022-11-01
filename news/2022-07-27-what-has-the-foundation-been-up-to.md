@@ -47,3 +47,7 @@ I attended the Linux Foundation OSS Summit in June, and felt that it was a usefu
 **Looking forward...**
 
 We began quite a few exciting conversations about collaborative projects, memberships, new in-kind resources and new funding in recent weeks, and over the next few months we are going to be working on making these ideas and possibilities a reality. We are trying to build on the political momentum behind security in OSS to identify how we can work with our members to support security in Rust, we are going to be working on updating our Trademark Policy, which we will consult on publicly shortly, we will be attending a few more events to meet more of our fellow Rustaceans (including the OSS Summit Europe, where we will be speaking about the Rust Foundation), and we will be opening applications for Project Grants from the Community Grants Fund in the autumn.
+
+---
+
+*Find more Rust Foundation Quarterly Updates [here](https://foundation.rust-lang.org/tags/quarterlyupdate/)*
