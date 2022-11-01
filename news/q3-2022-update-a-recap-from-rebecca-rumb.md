@@ -4,7 +4,7 @@ byline:
 description: Here's what the Rust Foundation was up to in July, August, and September 2022.
 date: 2022-11-01T18:00:00Z
 tags:
-  - quarterlyupdate
+  - quarterly update
   - plans
   - foundation
   - membership
