@@ -50,4 +50,4 @@ We began quite a few exciting conversations about collaborative projects, member
 
 ---
 
-*Find more Rust Foundation Quarterly Updates [here](https://silly-radio.cloudvent.net/tags/quarterly%20updates/)*
+*Find more Rust Foundation Quarterly Updates [here](https://foundation.rust-lang.org/tags/quarterly%20updates/)*
