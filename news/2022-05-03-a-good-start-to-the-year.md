@@ -48,4 +48,4 @@ I realise this blog is completely focused on our internal activities this year, 
 
 ---
 
-*Find more Rust Foundation Quarterly Updates <a target="_blank" rel="noopener" href="https://silly-radio.cloudvent.net/tags/quarterly%20updates/">here</a>*
+*Find more Rust Foundation Quarterly Updates <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/tags/quarterly%20updates/">here</a>*
