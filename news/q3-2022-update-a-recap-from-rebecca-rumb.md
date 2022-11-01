@@ -26,7 +26,7 @@ We are grateful for all of the honest feedback we received from the community in
 
 Here are the details of what the Rust Foundation got up to in Q3. Stay tuned for my Q4 update in the coming weeks for more recent developments.
 
-**Staffing & Administration**
+### **Staffing & Administration**
 
 Following the HR groundwork we laid across [<u>Q1</u>](https://foundation.rust-lang.org/news/2022-05-03-a-good-start-to-the-year/) and [<u>Q2</u>](https://foundation.rust-lang.org/news/2022-07-27-what-has-the-foundation-been-up-to/), the Foundation team grew significantly in Q3 with the arrival of our new Infrastructure Engineer in September: [<u>Jan David</u>](https://foundation.rust-lang.org/news/2022-09-07-welcome-jan-david-rust-foundation-infrastructure-engineer/). This is the first engineering hire to be made by the Foundation and we are thrilled to have Jan in the role.&nbsp;
 
@@ -38,7 +38,7 @@ In Q3, we also began the work of establishing an upcoming Security Engineer posi
 
 The way the security team and its funding was announced raised some concerns about how it was communicated to the Project. Since then, options were discussed for a process to ensure that the Project feels informed and heard before similar announcements are made. We are currently collaboratively drafting a job description based on the feedback we have received from Project leadership and expect to publish the job listing and begin active recruitment soon. We are also actively increasing our communication with the Project beyond just the Security Initiative.
 
-**Finance & Legal**
+### **Finance & Legal**
 
 In Q3, the Foundation generally moved all of its financial and regulatory actions in-house, having spent Q1 & Q2 transitioning away from most third-party consultants that it was previously reliant on before having a full-time Executive Director.&nbsp;
 
@@ -46,7 +46,7 @@ The Foundation also began drafting a full rewrite of the Rust trademark policy, 
 
 We expect to have 2-3 trademark policy working group meetings between now and the end of 2022.&nbsp;
 
-**Membership**
+### **Membership**
 
 Platinum-level membership grew in Q3, with the arrival of our newest member [<u>JFrog</u>](https://foundation.rust-lang.org/news/2022-09-06-hello-jfrog/) – an established leader in DevOps. We are thrilled to have JFrog as part of the Platinum tier, which reflects a genuine commitment to supporting the maintenance and development of the Rust programming language.&nbsp;
 
@@ -60,7 +60,7 @@ Membership benefits include representation on the Board of Directors, marketing 
 
 *As a 501(c)(6) membership organization, our membership is open to any organization interested in supporting the design, development, or application of the Projects, provided those entities are in compliance with the terms and conditions of the Foundation’s Certificate of Incorporation, Bylaws, Membership Application, and other policies. Members within each tier of membership (Silver/Gold/Platinum) are treated equally and are entitled to the same benefits of membership. We understand that there are strong feelings in the community about whether membership and/or benefits to members should be restricted based on additional criteria, however, our membership structure and the legal landscape we must operate within do not provide for that.*
 
-**Community Grants Program**
+### **Community Grants Program**
 
 Following the awarding of our first round of Community Grants in Q2, we have been thrilled to watch grantees get to work on their inspiring and important projects.&nbsp;
 
@@ -68,7 +68,7 @@ In Q2, we began conducting calls with Project Grantees and Fellows to learn what
 
 *Note: On October 3, we announced the opening of the second round of applications for the Project Grants program. If you’d like to receive funding for specific packages of work benefitting the Rust Project, we encourage you to apply for a Project Grant by November 7\! Learn more&nbsp;*[*<u>here</u>*](https://foundation.rust-lang.org/grants/project-grants/)*.&nbsp;*
 
-**Communications & Events**
+### **Communications & Events**
 
 Q3 was an exciting time for Rust\! In August, as a sponsor of the event, the Rust Foundation team was excited to attend the 7th annual RustConf in Portland, Oregon alongside various members of Project leadership. The Rust Foundation hosted a reception on the eve of RustConf’s first day where we were thrilled to see an excellent turnout and many fruitful conversations and connections.&nbsp;
 
@@ -80,7 +80,7 @@ September also brought some major Rust-related news that many of us have been wa
 
 Finally, we kicked off a new series of guest posts on our blog, which are written by members of the Rust Foundation and/or community. We published our first guest post in July via [<u>Dotan Nahum</u>](https://twitter.com/jondot), Founder and CEO of Foundation Silver Member [<u>Spectral</u>](https://spectralops.io/). Find the evolving Rust Foundation Guest Blog series [<u>here</u>](https://foundation.rust-lang.org/tags/guest%20blog%20series/).&nbsp;
 
-**What’s next…**
+### **What’s next…**
 
 As you might have gathered, there are many more exciting pertinent updates to share with all of you about Q4 at the Foundation (which is well underway)\! Stay tuned over the next few weeks for a recap of our activities in the final quarter of 2022 – and what we’re looking forward to next in 2023.&nbsp;
 
