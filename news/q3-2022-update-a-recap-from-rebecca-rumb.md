@@ -1,7 +1,7 @@
 ---
-title: 'Q3 2022 Update: A recap from Rebecca Rumb'
+title: 'Q3 2022 Recap: A summary from Rebecca Rumbul'
 byline:
-description: A Q3 update from Rebecca Rumbul
+description: Here's what the Rust Foundation was up to in July, August, and September 2022.
 date: 2022-11-01T18:00:00Z
 tags:
   - quarterlyupdate
@@ -16,7 +16,7 @@ layout: layouts/news.njk
 
 &nbsp;
 
-**Since November is officially upon us, the Rust Foundation owes a recap of the activities and progress we made as an organization over the *last* quarter — Q3. Here’s a look at what we accomplished (and the developments surrounding it) in July, August, and September 2022. Towards the end of December, we’ll share a Q4 update post to round out the year\!**
+### **Since November is officially upon us, the Rust Foundation owes a recap of the activities and progress we made as an organization over the *last* quarter — Q3. Here’s a look at what we accomplished (and the developments surrounding it) in July, August, and September 2022. Towards the end of December, we’ll share a Q4 update post to round out the year\!**
 
 The third quarter of 2022 at the Rust Foundation was a unique period that included sowing seeds for exciting developments to come and harvesting the results of long-standing initiatives.&nbsp;
 
