@@ -1,13 +1,13 @@
 ---
 layout: news
-title: A good start to the year!
+title: 'Q1 2022 Update: A good start to the year!'
 description: Q1 update from Rebecca Rumbul
-date: 2022-05-03
+date: 2022-05-03T00:00:00Z
 tags:
   - foundation
   - plans
+  - quarterly updates
 ---
-
 Now that we are firmly in Q2 of 2022, I wanted to update everyone on what the Foundation did internally during Q1, and how we are building a solid, sustainable organisation.
 
 The Rust Foundation exists to steward the Rust language and support the Rust ecosystem. Externally, this should manifest in visible programs that provide various resources to individuals and/or to the entire Rust ecosystem. Internally, in practice, that involves a lot of legal, financial and administrative work to create, administer and organise those programs. International financial transactions for everything from membership dues to on-call contracts, salary payments to grant awards, need to be managed in a timely fashion. Even in-kind contributions require a fair bit of admin to manage. Legally, we need to ensure that we are complying with local and international laws that regulate our activities, that the Rust marks are secure and not open to abuse, that we have the right copyright and licensing policies in place, and that we are able to conduct the work we are constituted to do across multiple jurisdictions with vastly different legal structures. Generally, we have to have internal policies and procedures in place like any other organisation, to govern and manage things like human resources, security, records management and governance. We also need to manage our communications across channels, such as the website, social media and press, and administer our membership and our Board. These are just the things that we need to keep on top of to maintain a viable and legally compliant organisation.
@@ -40,9 +40,12 @@ One of the top priorities for the Foundation has been getting the Community Gran
 
 **Communications**
 
-The Foundation wants to be open and transparent with the community, and to communicate effectively. We have made some minor changes and additions to the website, which now has more useful information accessible to all. We have continued with our AMAs, and we have reduced our reliance on external consultants for the management of our social media. We are reaching out to the wider traditional media on a regular basis to ensure that Rust is promoted and that it remains relevant and admired in the wider tech world. We are proactively talking to journalists, and want to showcase positive stories in Rust, so do reach out if you have any stories that we could share!
+The Foundation wants to be open and transparent with the community, and to communicate effectively. We have made some minor changes and additions to the website, which now has more useful information accessible to all. We have continued with our AMAs, and we have reduced our reliance on external consultants for the management of our social media. We are reaching out to the wider traditional media on a regular basis to ensure that Rust is promoted and that it remains relevant and admired in the wider tech world. We are proactively talking to journalists, and want to showcase positive stories in Rust, so do reach out if you have any stories that we could share\!
 
 **Finally...**
 
 I realise this blog is completely focused on our internal activities this year, and that this may not be of interest to a lot of people, but I want to ensure that we are communicating how much we are actually doing. We are working very hard across a lot of different areas to build and sustain the Rust Foundation, so that it can effectively work for the benefit of the community. The team has achieved a lot in a very short space of time this year, and we look forward to growing and diversifying our programs of support.
 
+---
+
+*Find more Rust Foundation Quarterly Updates <a target="_blank" rel="noopener" href="https://silly-radio.cloudvent.net/tags/quarterly%20updates/">here</a>*
