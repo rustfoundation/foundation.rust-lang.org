@@ -32,7 +32,7 @@ Following the HR groundwork we laid across [Q1](https://foundation.rust-lang.org
 
 Jan is responsible for the operations of all currently supported and future infrastructure, including managing both existing tools and new development. Jan David will work directly with the Rust Infrastructure team in their daily activities and will help manage the relationship and efforts between that team and the Foundation.&nbsp;
 
-The hiring process for this position was a close collaboration with Rust Project leaders from application review, to interviews, to the usage of the Applied platform in an effort to remove bias throughout. We were pleased to continue this work at the start of Q4 with additional [Communities Advocate](https://foundation.rust-lang.org/news/welcoming-sage-griffin-rust-foundation-communities-advocate/) and [Director of Communications &amp; Marketing](https://foundation.rust-lang.org/news/2022-10-06-welcome-gracie-gregory-director-of-communications/) hires.&nbsp;
+The hiring process for this position was a close collaboration with Rust Project leaders from application review, to interviews, to the usage of the Applied platform in an effort to remove bias throughout. We were pleased to continue this work at the start of Q4 with additional [Communities Advocate](https://foundation.rust-lang.org/news/welcoming-sage-griffin-rust-foundation-communities-advocate/) and [Director of Communications & Marketing](https://foundation.rust-lang.org/news/2022-10-06-welcome-gracie-gregory-director-of-communications/) hires.&nbsp;
 
 In Q3, we also began the work of establishing an upcoming Security Engineer position, which is part of the Rust Foundation’s dedicated Security Initiative [announced](https://foundation.rust-lang.org/news/2022-09-13-rust-foundation-establishes-security-team/) in September (underwritten with support from the OpenSSF’s Alpha-Omega Initiative and Rust Foundation Platinum member JFrog).&nbsp;
 
@@ -88,4 +88,4 @@ As you might have gathered, there are many more exciting pertinent updates to sh
 
 ---
 
-*Find more Rust Foundation Quarterly Updates&nbsp;*<a target="_blank" rel="noopener" href="https://silly-radio.cloudvent.net/tags/quarterly%20updates/"><em>here</em></a>
+*Find more Rust Foundation Quarterly Updates&nbsp;*<a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/tags/quarterly%20updates/"><em>here</em></a>
