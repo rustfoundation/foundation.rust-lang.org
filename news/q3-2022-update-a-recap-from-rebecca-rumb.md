@@ -22,7 +22,7 @@ The third quarter of 2022 at the Rust Foundation was a unique period that includ
 
 In July, August, and September, the Rust Foundation continued to establish internal policies and practices while evolving with growth in membership, presence at events all over the world, deeper commitments to Project leadership and the Rust community as a whole, and the growth of our team itself.&nbsp;
 
-We are grateful for all of the honest feedback we received from the community in Q3. Some of the decisions we made over the last quarter were in direct response to feedback from the community. In addition to our broader aims to support and fund the people building and governing the Rust programming language, we will also strive to remain receptive to feedback from both our members and Project leadership to accomplish this mission.&nbsp;&nbsp;
+Some of the decisions we made over the last quarter were in direct response to feedback from the community. In addition to our broader aims to support and fund the people building and governing the Rust programming language, we will also strive to remain receptive to feedback from both our members and Project leadership to accomplish this mission.We are grateful for all of the honest feedback we received from the community in Q3.&nbsp;&nbsp;
 
 Here are the details of what the Rust Foundation got up to in Q3. Stay tuned for my Q4 update in the coming weeks for more recent developments.
 
