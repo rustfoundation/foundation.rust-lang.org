@@ -4,7 +4,7 @@ byline:
 description: Here's what the Rust Foundation was up to in July, August, and September 2022.
 date: 2022-11-01T18:00:00Z
 tags:
-  - quarterly update
+  - quarterly updates
   - plans
   - foundation
   - membership
@@ -88,4 +88,4 @@ As you might have gathered, there are many more exciting pertinent updates to sh
 
 ---
 
-*Find more Rust Foundation Quarterly Updates&nbsp;*[*<u>here</u>*](https://foundation.rust-lang.org/tags/quarterlyupdate/)
+*Find more Rust Foundation Quarterly Updates&nbsp;*<a target="_blank" rel="noopener" href="https://silly-radio.cloudvent.net/tags/quarterly%20updates/"><em><u>here</u></em></a>
