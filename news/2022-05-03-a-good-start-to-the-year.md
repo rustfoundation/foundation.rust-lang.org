@@ -6,7 +6,7 @@ date: 2022-05-03T00:00:00Z
 tags:
   - foundation
   - plans
-  - quarterlyupdate
+  - quarterly updates
 ---
 Now that we are firmly in Q2 of 2022, I wanted to update everyone on what the Foundation did internally during Q1, and how we are building a solid, sustainable organisation.
 
@@ -48,4 +48,4 @@ I realise this blog is completely focused on our internal activities this year, 
 
 ---
 
-*Find more Rust Foundation Quarterly Updates [here](https://foundation.rust-lang.org/tags/quarterlyupdate/)*
+*Find more Rust Foundation Quarterly Updates <a target="_blank" rel="noopener" href="https://silly-radio.cloudvent.net/tags/quarterly%20updates/">here</a>*
