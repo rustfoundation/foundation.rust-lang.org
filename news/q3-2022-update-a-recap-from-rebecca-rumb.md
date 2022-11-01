@@ -70,11 +70,13 @@ In Q2, we began conducting calls with Project Grantees and Fellows to learn what
 
 ### **Communications & Events**
 
-Q3 was an exciting time for Rust\! In August, as a sponsor of the event, the Rust Foundation team was excited to attend the 7th annual RustConf in Portland, Oregon alongside various members of Project leadership. The Rust Foundation hosted a reception on the eve of RustConf’s first day where we were thrilled to see an excellent turnout and many fruitful conversations and connections.&nbsp;
+Q3 was an exciting time for the Rust community and the Foundation was pleased to help support various events and initiatives during this time.
+
+In August, as a sponsor of the event, the Rust Foundation team was excited to attend the 7th annual <a target="_blank" rel="noopener" href="https://rustconf.com/">RustConf</a> in Portland, Oregon alongside various members of Project leadership. The Rust Foundation hosted a reception on the eve of RustConf’s first day where we were thrilled to see an excellent turnout and many fruitful conversations and connections.&nbsp;
 
 We heard many positive things about the handling of the remote-attendee experience. We look forward to learning how we can support and develop this and other aspects of the conference in 2023.&nbsp;
 
-In September, the Foundation's Director of Finance, Paul Lenz, and I gave a presentation at OSS Europe Dublin on funding open source, with the Community Grants Program as a specific example. I was delighted that our session was standing-room only and coupled with a many other exciting talks and events including the [<u>announcement</u>](https://foundation.rust-lang.org/news/2022-09-13-rust-foundation-establishes-security-team/) of Alpha-Omega funding a dedicated Security team at the Foundation.
+In September, the Foundation's Director of Finance & Funding, Paul Lenz, and I gave a presentation at <a target="_blank" rel="noopener" href="https://events.linuxfoundation.org/open-source-summit-europe/">Open Source Summit Europe in Dublin</a> on funding open source, with the Community Grants Program as a specific example. I was delighted that our session was packed and coupled with many other exciting talks and announcements including the <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/news/2022-09-13-rust-foundation-establishes-security-team/"><u>news</u></a>&nbsp;of Alpha-Omega funding a dedicated Security team at the Foundation.
 
 September also brought some major Rust-related news that many of us have been waiting for: the arrival of Rust in the Linux Kernel as announced by Linus Torvalds. Though Rust’s presence in the Kernel is still in its early days with just the core infrastructure incorporated, the Foundation sees this as a significant first step in the Rust-Linux relationship.
 
