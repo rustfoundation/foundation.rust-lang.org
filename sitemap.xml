@@ -952,6 +952,16 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/program/</loc>
+    <lastmod>2022-11-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
+    <lastmod>2022-11-01</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/community/</loc>
     <lastmod>2022-11-01</lastmod>
   </url>
@@ -963,16 +973,6 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/plans/</loc>
-    <lastmod>2022-11-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
-    <lastmod>2022-11-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/program/</loc>
     <lastmod>2022-11-01</lastmod>
   </url>
   
