@@ -5,12 +5,59 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2022-10-28T12:00:00Z</updated>
+	<updated>2022-11-01T18:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>Q3 2022 Recap: A summary from Rebecca Rumbul</title>
+		<link href="https://foundation.rust-lang.org/news/q3-2022-update-a-recap-from-rebecca-rumb/"/>
+		<updated>2022-11-01T18:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/q3-2022-update-a-recap-from-rebecca-rumb/</id>
+		<content type="html">&lt;img width=&quot;500&quot; height=&quot;281&quot; alt=&quot;White Rust Foundation logo at top (letter &amp;quot;R&amp;quot; inside gear icon) with the following white bolded text heading: “Q3 2022 Update”. Italicized subheading in white reads “from Executive Director Rebecca Rumbul”. To the right, a circular frame with a zig-zag edge contains a headshot of Rebecca Rumbul.&quot; title=&quot;Q3 Update&quot; src=&quot;https://foundation.rust-lang.org/img/news/2022-11-01-q3-update/q3.png&quot; /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&quot;since-november-is-officially-upon-us%2C-the-rust-foundation-owes-a-recap-of-the-activities-and-progress-we-made-as-an-organization-over-the-last-quarter-%E2%80%94-q3.-here%E2%80%99s-a-look-at-what-we-accomplished-(and-the-developments-surrounding-it)-in-july%2C-august%2C-and-september-2022.-towards-the-end-of-december%2C-we%E2%80%99ll-share-a-q4-update-post-to-round-out-the-year!&quot;&gt;&lt;strong&gt;Since November is officially upon us, the Rust Foundation owes a recap of the activities and progress we made as an organization over the &lt;em&gt;last&lt;/em&gt; quarter — Q3. Here’s a look at what we accomplished (and the developments surrounding it) in July, August, and September 2022. Towards the end of December, we’ll share a Q4 update post to round out the year!&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/q3-2022-update-a-recap-from-rebecca-rumb/#since-november-is-officially-upon-us%2C-the-rust-foundation-owes-a-recap-of-the-activities-and-progress-we-made-as-an-organization-over-the-last-quarter-%E2%80%94-q3.-here%E2%80%99s-a-look-at-what-we-accomplished-(and-the-developments-surrounding-it)-in-july%2C-august%2C-and-september-2022.-towards-the-end-of-december%2C-we%E2%80%99ll-share-a-q4-update-post-to-round-out-the-year!&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The third quarter of 2022 at the Rust Foundation was a unique period that included sowing seeds for exciting developments to come and harvesting the results of long-standing initiatives. &lt;/p&gt;
+&lt;p&gt;In July, August, and September, the Rust Foundation continued to establish internal policies and practices while evolving with growth in membership, presence at events all over the world, deeper commitments to Project leadership and the Rust community as a whole, and the growth of our team itself. &lt;/p&gt;
+&lt;p&gt;Some of the decisions we made over the last quarter were in direct response to feedback from the community. In addition to our broader aims to support and fund the people building and governing the Rust programming language, we will also strive to remain receptive to feedback from both our members and Project leadership to accomplish this mission.We are grateful for all of the honest feedback we received from the community in Q3.  &lt;/p&gt;
+&lt;p&gt;Without further delay, here are the details of what the Rust Foundation got up to in Q3. Stay tuned for my Q4 update in the coming weeks for more recent developments.&lt;/p&gt;
+&lt;h3 id=&quot;staffing-%26-administration&quot;&gt;&lt;strong&gt;Staffing &amp;amp; Administration&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/q3-2022-update-a-recap-from-rebecca-rumb/#staffing-%26-administration&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Following the HR groundwork we laid across &lt;a href=&quot;https://foundation.rust-lang.org/news/2022-05-03-a-good-start-to-the-year/&quot;&gt;Q1&lt;/a&gt; and &lt;a href=&quot;https://foundation.rust-lang.org/news/2022-07-27-what-has-the-foundation-been-up-to/&quot;&gt;Q2&lt;/a&gt;, the Foundation team grew significantly in Q3 with the arrival of our new Infrastructure Engineer in September: &lt;a href=&quot;https://foundation.rust-lang.org/news/2022-09-07-welcome-jan-david-rust-foundation-infrastructure-engineer/&quot;&gt;Jan David&lt;/a&gt;. This is the first engineering hire to be made by the Foundation and we are thrilled to have Jan in the role. &lt;/p&gt;
+&lt;p&gt;Jan is responsible for the operations of all currently supported and future infrastructure, including managing both existing tools and new development. Jan David will work directly with the Rust Infrastructure team in their daily activities and will help manage the relationship and efforts between that team and the Foundation. &lt;/p&gt;
+&lt;p&gt;The hiring process for this position was a close collaboration with Rust Project leaders from application review, to interviews, to the usage of the Applied platform in an effort to remove bias throughout. We were pleased to continue this work at the start of Q4 with additional &lt;a href=&quot;https://foundation.rust-lang.org/news/welcoming-sage-griffin-rust-foundation-communities-advocate/&quot;&gt;Communities Advocate&lt;/a&gt; and &lt;a href=&quot;https://foundation.rust-lang.org/news/2022-10-06-welcome-gracie-gregory-director-of-communications/&quot;&gt;Director of Communications &amp;amp; Marketing&lt;/a&gt; hires. &lt;/p&gt;
+&lt;p&gt;In Q3, we also began the work of establishing an upcoming Security Engineer position, which is part of the Rust Foundation’s dedicated Security Initiative &lt;a href=&quot;https://foundation.rust-lang.org/news/2022-09-13-rust-foundation-establishes-security-team/&quot;&gt;announced&lt;/a&gt; in September (underwritten with support from the OpenSSF’s Alpha-Omega Initiative and Rust Foundation Platinum member JFrog). &lt;/p&gt;
+&lt;p&gt;The way the security team and its funding was announced raised some concerns about how it was communicated to the Project. Since then, options were discussed for a process to ensure that the Project feels informed and heard before similar announcements are made. We are currently collaboratively drafting a job description based on the feedback we have received from Project leadership and expect to publish the job listing and begin active recruitment soon. We are also actively increasing our communication with the Project beyond just the Security Initiative.&lt;/p&gt;
+&lt;h3 id=&quot;finance-%26-legal&quot;&gt;&lt;strong&gt;Finance &amp;amp; Legal&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/q3-2022-update-a-recap-from-rebecca-rumb/#finance-%26-legal&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;In Q3, the Foundation generally moved all of its financial and regulatory actions in-house, having spent Q1 &amp;amp; Q2 transitioning away from most third-party consultants that it was previously reliant on before having a full-time Executive Director. &lt;/p&gt;
+&lt;p&gt;The Foundation also began drafting a full rewrite of the Rust trademark policy, which is a continuation of work that began in 2021. The Foundation is in the process of forming a working group composed of Rust Project leadership and interested Members to ensure that this trademark policy is comprehensive, comprehensible, and in the best interest of the Rust Project, the wider Rust Community, as well as the operations of the Foundation and its members. &lt;/p&gt;
+&lt;p&gt;We expect to have 2-3 trademark policy working group meetings between now and the end of 2022. &lt;/p&gt;
+&lt;h3 id=&quot;membership&quot;&gt;&lt;strong&gt;Membership&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/q3-2022-update-a-recap-from-rebecca-rumb/#membership&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Platinum-level membership grew in Q3, with the arrival of our newest member &lt;a href=&quot;https://foundation.rust-lang.org/news/2022-09-06-hello-jfrog/&quot;&gt;JFrog&lt;/a&gt; – an established leader in DevOps. We are thrilled to have JFrog as part of the Platinum tier, which reflects a genuine commitment to supporting the maintenance and development of the Rust programming language. &lt;/p&gt;
+&lt;p&gt;Silver-level membership also continued to grow in Q3. In September, we were thrilled to welcome &lt;a href=&quot;https://www.linkedin.com/company/tsycapital/about/&quot;&gt;TSY Capital&lt;/a&gt; and &lt;a href=&quot;https://matter-labs.io/&quot;&gt;Matter Labs&lt;/a&gt; as our newest Silver Members. &lt;/p&gt;
+&lt;p&gt;The Rust Foundation is currently accepting new members across each tier (Platinum/Gold/Silver). &lt;/p&gt;
+&lt;p&gt;Membership benefits include representation on the Board of Directors, marketing and thought leadership related to Rust, and more. To learn more about Rust Foundation membership and inquire, click &lt;a href=&quot;https://foundation.rust-lang.org/info/become-a-member/&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Additional membership note: &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;As a 501(c)(6) membership organization, our membership is open to any organization interested in supporting the design, development, or application of the Projects, provided those entities are in compliance with the terms and conditions of the Foundation’s Certificate of Incorporation, Bylaws, Membership Application, and other policies. Members within each tier of membership (Silver/Gold/Platinum) are treated equally and are entitled to the same benefits of membership. We understand that there are strong feelings in the community about whether membership and/or benefits to members should be restricted based on additional criteria, however, our membership structure and the legal landscape we must operate within do not provide for that.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;community-grants-program&quot;&gt;&lt;strong&gt;Community Grants Program&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/q3-2022-update-a-recap-from-rebecca-rumb/#community-grants-program&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Following the awarding of our first round of Community Grants in Q2, we have been thrilled to watch grantees get to work on their inspiring and important projects. &lt;/p&gt;
+&lt;p&gt;In Q2, we began conducting calls with Project Grantees and Fellows to learn what they’ve been working on under the program, what their upcoming goals are, and the type of support they need to continue being successful. These conversations have surfaced many interesting stories. As such, we plan to begin sharing “spotlight” style features on our blog that introduce the Rust community to individual grantees to give others a sense of what the program is like and encourage the celebration of Rust Foundation Fellows and grantees.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: On October 3, we announced the opening of the second round of applications for the Project Grants program. If you’d like to receive funding for specific packages of work benefitting the Rust Project, we encourage you to apply for a Project Grant by November 7! Learn more &lt;/em&gt;&lt;a href=&quot;https://foundation.rust-lang.org/grants/project-grants/&quot;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. &lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;communications-%26-events&quot;&gt;&lt;strong&gt;Communications &amp;amp; Events&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/q3-2022-update-a-recap-from-rebecca-rumb/#communications-%26-events&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Q3 was an exciting time for the Rust community and the Foundation was pleased to help support various events and initiatives during this time.&lt;/p&gt;
+&lt;p&gt;In August, as a sponsor of the event, the Rust Foundation team was excited to attend the 7th annual &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://rustconf.com/&quot;&gt;RustConf&lt;/a&gt; in Portland, Oregon alongside various members of Project leadership. The Rust Foundation hosted a reception on the eve of RustConf’s first day where we were thrilled to see an excellent turnout and many fruitful conversations and connections. &lt;/p&gt;
+&lt;p&gt;We heard many positive things about the handling of the remote-attendee experience. We look forward to learning how we can support and develop this and other aspects of the conference in 2023. &lt;/p&gt;
+&lt;p&gt;In September, the Foundation&#39;s Director of Finance &amp;amp; Funding, Paul Lenz, and I gave a presentation at &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://events.linuxfoundation.org/open-source-summit-europe/&quot;&gt;Open Source Summit Europe in Dublin&lt;/a&gt; on funding open source, with the Community Grants Program as a specific example. I was delighted that our session was packed and coupled with many other exciting talks and announcements including the &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://foundation.rust-lang.org/news/2022-09-13-rust-foundation-establishes-security-team/&quot;&gt;news&lt;/a&gt; of Alpha-Omega funding a dedicated Security team at the Foundation.&lt;/p&gt;
+&lt;p&gt;September also brought some major Rust-related news that many of us have been waiting for: the arrival of Rust in the Linux Kernel as announced by Linus Torvalds. Though Rust’s presence in the Kernel is still in its early days with just the core infrastructure incorporated, the Foundation sees this as a significant first step in the Rust-Linux relationship.&lt;/p&gt;
+&lt;p&gt;Finally, we kicked off a new series of guest posts on our blog, which are written by members of the Rust Foundation and/or community. We published our first guest post in July via &lt;a href=&quot;https://twitter.com/jondot&quot;&gt;Dotan Nahum&lt;/a&gt;, Founder and CEO of Foundation Silver Member &lt;a href=&quot;https://spectralops.io/&quot;&gt;Spectral&lt;/a&gt;. Find the evolving Rust Foundation Guest Blog series &lt;a href=&quot;https://foundation.rust-lang.org/tags/guest%20blog%20series/&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
+&lt;h3 id=&quot;what%E2%80%99s-next%E2%80%A6&quot;&gt;&lt;strong&gt;What’s next…&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/q3-2022-update-a-recap-from-rebecca-rumb/#what%E2%80%99s-next%E2%80%A6&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As you might have gathered, there are many more exciting pertinent updates to share with all of you about Q4 at the Foundation (which is well underway)! Stay tuned over the next few weeks for a recap of our activities in the final quarter of 2022 – and what we’re looking forward to next in 2023. &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Find more Rust Foundation Quarterly Updates &lt;/em&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://silly-radio.cloudvent.net/tags/quarterly%20updates/&quot;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Project Grants Application Deadline Extended to November 7, 2022</title>
@@ -280,7 +327,7 @@
 	</entry>
 	
 	<entry>
-		<title>What has the Foundation been up to?</title>
+		<title>Q2 2022 Update: What has the Foundation been up to?</title>
 		<link href="https://foundation.rust-lang.org/news/2022-07-27-what-has-the-foundation-been-up-to/"/>
 		<updated>2022-07-27T00:00:00Z</updated>
 		<id>https://foundation.rust-lang.org/news/2022-07-27-what-has-the-foundation-been-up-to/</id>
@@ -303,6 +350,8 @@
 &lt;p&gt;I attended the Linux Foundation OSS Summit in June, and felt that it was a useful and educational event. There were a lot of sessions where I got to learn about how other OSS Projects and Foundations operate and how they tackle common issues. Importantly, I got to have individual conversations with people genuinely interested in supporting OSS effectively, I met with current and potential members of the Rust Foundation, and other bodies looking to potentially support the great work we do.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Looking forward...&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We began quite a few exciting conversations about collaborative projects, memberships, new in-kind resources and new funding in recent weeks, and over the next few months we are going to be working on making these ideas and possibilities a reality. We are trying to build on the political momentum behind security in OSS to identify how we can work with our members to support security in Rust, we are going to be working on updating our Trademark Policy, which we will consult on publicly shortly, we will be attending a few more events to meet more of our fellow Rustaceans (including the OSS Summit Europe, where we will be speaking about the Rust Foundation), and we will be opening applications for Project Grants from the Community Grants Fund in the autumn.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Find more Rust Foundation Quarterly Updates &lt;a href=&quot;https://silly-radio.cloudvent.net/tags/quarterly%20updates/&quot;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -453,7 +502,7 @@
 	</entry>
 	
 	<entry>
-		<title>A good start to the year!</title>
+		<title>Q1 2022 Update: A good start to the year!</title>
 		<link href="https://foundation.rust-lang.org/news/2022-05-03-a-good-start-to-the-year/"/>
 		<updated>2022-05-03T00:00:00Z</updated>
 		<id>https://foundation.rust-lang.org/news/2022-05-03-a-good-start-to-the-year/</id>
@@ -476,6 +525,8 @@
 &lt;p&gt;The Foundation wants to be open and transparent with the community, and to communicate effectively. We have made some minor changes and additions to the website, which now has more useful information accessible to all. We have continued with our AMAs, and we have reduced our reliance on external consultants for the management of our social media. We are reaching out to the wider traditional media on a regular basis to ensure that Rust is promoted and that it remains relevant and admired in the wider tech world. We are proactively talking to journalists, and want to showcase positive stories in Rust, so do reach out if you have any stories that we could share!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Finally...&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I realise this blog is completely focused on our internal activities this year, and that this may not be of interest to a lot of people, but I want to ensure that we are communicating how much we are actually doing. We are working very hard across a lot of different areas to build and sustain the Rust Foundation, so that it can effectively work for the benefit of the community. The team has achieved a lot in a very short space of time this year, and we look forward to growing and diversifying our programs of support.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Find more Rust Foundation Quarterly Updates &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://silly-radio.cloudvent.net/tags/quarterly%20updates/&quot;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -1551,6 +1602,14 @@ the biggest accountability stunt I’ve pulled by far.&lt;/p&gt;
 &lt;p&gt;Mozilla and the Rust project are well-aligned on these values today, and you can expect us to champion them in our engagement with the Rust Foundation going forward.&lt;/p&gt;
 &lt;p&gt;Rust exists because of the efforts of countless people working together to make software better, and the Foundation exists to empower and support those people to do their best work. This is an important chapter in Rust&#39;s history, and I&#39;m excited to be a part of it.&lt;/p&gt;
 </content>
+	</entry>
+	
+	<entry>
+		<title>Hello World!</title>
+		<link href="https://foundation.rust-lang.org/news/hello-world/"/>
+		<updated>2021-02-08T00:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/hello-world/</id>
+		<content type="html"></content>
 	</entry>
 	
 	<entry>
