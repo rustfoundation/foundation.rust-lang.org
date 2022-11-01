@@ -1,10 +1,14 @@
 ---
 title: 'Q3 2022 Update: A recap from Rebecca Rumb'
 byline:
-description: Announcing the Rust Foundation to the World
+description: A Q3 update from Rebecca Rumbul
 date: 2022-11-01T18:00:00Z
 tags:
   - quarterlyupdate
+  - plans
+  - foundation
+  - membership
+  - community grants
 index: false
 layout: layouts/news.njk
 ---
