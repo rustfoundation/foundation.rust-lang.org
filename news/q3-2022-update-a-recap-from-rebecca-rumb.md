@@ -64,7 +64,7 @@ Membership benefits include representation on the Board of Directors, marketing 
 
 Following the awarding of our first round of Community Grants in Q2, we have been thrilled to watch grantees get to work on their inspiring and important projects.&nbsp;
 
-In Q2, we began conducting calls with Project Grantees and Fellows to learn what they’ve been working on under the program, what their upcoming goals are, and the type of support they need to continue being successful. These conversations have surfaced many interesting stories. As such, we plan to begin sharing “spotlight” style features on our blog that introduce the Rust community to individual grantees to give others a sense of what the program is like and encourage the celebration of Rust Foundation Fellows and grantees.
+In Q3, we began conducting calls with Project Grantees and Fellows to learn what they’ve been working on under the program, what their upcoming goals are, and the type of support they need to continue being successful. These conversations have surfaced many interesting stories. As such, we plan to begin sharing “spotlight” style features on our blog that introduce the Rust community to individual grantees to give others a sense of what the program is like and encourage the celebration of Rust Foundation Fellows and grantees.
 
 *Note: On October 3, we announced the opening of the second round of applications for the Project Grants program. If you’d like to receive funding for specific packages of work benefitting the Rust Project, we encourage you to apply for a Project Grant by November 7\! Learn more&nbsp;*[*here*](https://foundation.rust-lang.org/grants/project-grants/)*.&nbsp;*
 
