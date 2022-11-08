@@ -13,8 +13,7 @@ tags:
 
 ## Applications are now closed for 2022
 
-The initial group of Project Grant recipients was announced in June 2022. Details of the awards can be found <a href="https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/">here</a>.
-We are currently assessing the applications to the second round of funding, and are excited about making those awards soon!
+The initial group of Project Grant recipients was announced in June 2022. Details of the awards can be found <a href="https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/">here</a>. We are assessing the applications to the second round of funding, and are excited about making those awards soon!
 
 The Rust Foundation is currently fundraising for the 2023 Community Grants Program. If you are interested in supporting future Project Grant cohorts, then we would love you to <a href="mailto:contact@rustfoundation.org">get in touch</a>!
 
