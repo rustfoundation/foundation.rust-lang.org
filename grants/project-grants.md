@@ -62,7 +62,7 @@ Project grants are financial awards that support specific packages of work that 
 * Supporting/mentoring/guiding other contributors
 * Organizing Events / Meetups
 * Coordination and management activities
-* 
+
 All grantees will be required to adhere to the [Rust Foundation’s Code of Conduct](https://foundation.rust-lang.org/policies/code-of-conduct/), which is an extension of the [Rust Project Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct). Failure to adhere to the Code of Conduct may result in the grant being terminated.
 
 ## Who can apply?
