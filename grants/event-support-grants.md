@@ -4,9 +4,7 @@ title: Community Grants Program Event Support Grants
 name: Event Support Grants
 description: >-
    Awards ranging from $100 to $500 made to support events (both physical and
-   virtual). The budget for Event Support grants is $15,000 per quarter ($45,000
-   in 2022). Applications are continually open until the allocated budget is
-   exhausted.
+   virtual).
 applicationLink1: https://app.smarterselect.com/programs/80971-Rust-Foundation
 applicationLink1desc: Apply in English
 applicationLink2: https://app.smarterselect.com/programs/81295-Rust-Foundation
@@ -27,7 +25,7 @@ tags:
 
 **Award amount**\: $100 to $500.
 
-**Application window**\: Opens 1st April 2022. Open continuously, unless the allocated quarterly budget is exhausted in which case applications will be suspended until the start of the next quarter (1st July; 1st October).
+**Application window**\: Open continuously.
 
 **Selection decisions and applicants informed of the outcome**\: Within 10 working days of application submission.
 
