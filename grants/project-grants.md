@@ -4,17 +4,15 @@ title: Community Grants Program Project Grants
 name: Project Grants
 description: >-
    Awards made to individuals and groups for discrete pieces of work in the
-   range of $2,500 to $15,000. The budget for Project Grants is $350,000 in
-   2022. There are two application windows – one in April and one in October –
-   awarding $175,000 in each. The April application window is now closed and the
-   initial group of Project Grant awards was announced in June 2022. The second
-   application window for 2022 opens on 3rd October 2022.
-applicationLink1: https://app.smarterselect.com/programs/80957-Rust-Foundation
-applicationLink1desc: Apply here
+   range of $2,500 to $15,000. Applications are now closed for 2022 and the Rust Foundation
+  is currently fundraising to continue the program in 2023.
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
 ---
+
+**Applications are now closed for 2022**
+
 ## About Rust Foundation Project Grants
 
 The Rust Foundation Project Grants program exists to support specific packages of work that benefit Rust. Project Grants will be awarded to both individuals and teams, whether you're a member of a Rust Project Team or Working Group or not. Additionally, Project Grants are available for non-coding education/outreach work.
