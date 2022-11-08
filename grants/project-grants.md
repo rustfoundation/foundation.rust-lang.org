@@ -4,26 +4,24 @@ title: Community Grants Program Project Grants
 name: Project Grants
 description: >-
    Awards made to individuals and groups for discrete pieces of work in the
-   range of $2,500 to $15,000. The budget for Project Grants is $350,000 in
-   2022. There are two application windows – one in April and one in October –
-   awarding $175,000 in each. The April application window is now closed and the
-   initial group of Project Grant awards was announced in June 2022. The second
-   application window for 2022 opens on 3rd October 2022.
-applicationLink1: https://app.smarterselect.com/programs/80957-Rust-Foundation
-applicationLink1desc: Apply here
+   range of $2,500 to $15,000. Applications are now closed for 2022 and the Rust Foundation
+   is currently fundraising to continue the program in 2023.
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
 ---
-## About Rust Foundation Project Grants
+
+## Applications are now closed for 2022
+
+The initial group of Project Grant recipients was announced in June 2022. Details of the awards can be found <a href="https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/">here</a>. We are assessing the applications to the second round of funding, and are excited about making those awards soon!
+
+The Rust Foundation is currently fundraising for the 2023 Community Grants Program. If you are interested in supporting future Project Grant cohorts, then we would love you to <a href="mailto:contact@rustfoundation.org">get in touch</a>!
+
+## Summary
 
 The Rust Foundation Project Grants program exists to support specific packages of work that benefit Rust. Project Grants will be awarded to both individuals and teams, whether you're a member of a Rust Project Team or Working Group or not. Additionally, Project Grants are available for non-coding education/outreach work.
 
 Any work that benefits the Rust Project is eligible for a Project Grant. Priority will be given to those grants that will clearly deliver a significant benefit to a reasonable proportion of the Rust community. Ideally, the work will be carried out within six months of the grant being given.
-
-<img width="580" height="326" alt="Orange gradient background with white rust foundation logo up top (letter &quot;R&quot; inside gear icon) with the following white italicized text: &quot;&quot;If you look up to people within the Rust project, if the work we do here interests you, if you have always wanted to contribute, and especially if you already have contributed, I want you to know that you're one of the people we want to apply for [a Rust Foundation Project Grant].&quot; Quote is attributed to Jane Losare-Lusby" title="Jane Losare-Lusby quote" src="/img/grants/jane-quote.png" />
-
-> ***<a rel="noopener" target="_blank" href="https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html">Read the rest of Jane's blog </a>[for Inside Rust](__notset__)&nbsp;on Impostor Syndrome & why you should consider applying for a Project Grant.***
 
 **Award amount**\: $2,500 to $15,000.
 
@@ -35,74 +33,42 @@ Any work that benefits the Rust Project is eligible for a Project Grant. Priorit
 
 **Projects start**\: 1st January 2023.
 
-**Questions about the program? Please visit the&nbsp;[Project Grant FAQs](https://foundation.rust-lang.org/grants-faqs/#project-grants) for more information.**
+## Details
 
----
+<img width="580" height="326" alt="Orange gradient background with white rust foundation logo up top (letter &quot;R&quot; inside gear icon) with the following white italicized text: &quot;&quot;If you look up to people within the Rust project, if the work we do here interests you, if you have always wanted to contribute, and especially if you already have contributed, I want you to know that you're one of the people we want to apply for [a Rust Foundation Project Grant].&quot; Quote is attributed to Jane Losare-Lusby" title="Jane Losare-Lusby quote" src="/img/grants/jane-quote.png" />
 
-## Application support
+> ***<a rel="noopener" target="_blank" href="https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html">Read the rest of Jane's blog </a>[for Inside Rust](__notset__)&nbsp;on Impostor Syndrome & why you should consider applying for a Project Grant.***
 
-We would like the Rust Foundation Grants Program to be as open and accessible as possible, and realize that some may find the application form and questions daunting.\*\* &nbsp;\*\*As such, **we want to give prospective grantees as much support as possible throughout the process — from application to the end of the program.&nbsp;**
+Project grants are financial awards that support specific packages of work that benefit the Rust ecosystem. Any work that benefits the Rust ecosystem as a whole is eligible for a Project Grant. Priority will be given to those grants that will clearly deliver a significant benefit to a reasonable proportion of the Rust community. Applicants will choose from one of three categories of project focus: Maintenance and Support; Development and Infrastructure; and Community. The areas of work under each category are:
 
-If you have any questions about the program, have doubts about applying, or if you would like help completing an application, we welcome you to contact us.
+**Maintenance and Support**
+* Code review
+* Documentation updates
+* Design review
+* Issue triage
+* Issue reporting
+* Bug fixes
 
-<u><strong>Get in touch with us via:</strong></u>
+**Development and Infrastructure**
+* New features and documentation
+* Performance enhancements
+* Rollups/CI/releases
 
-* **Email:**&nbsp;[grants@rustfoundation.org](mailto:grants@rustfoundation.org)&nbsp;\*
-* **Chat:**&nbsp;<a target="_blank" rel="noopener" href="https://rust-lang.zulipchat.com/#narrow/stream/335408-foundation">via Zulip</a>
-* **Voice call or text chat:** <a target="_blank" rel="noopener" href="https://calendly.com/rustgrants">via Calendly</a>
+**Community**
+* Moderation
+* Communication (e.g. writing blog posts, release notes, preparing for meetings or taking minutes)
+* Producing education materials
+* Providing educational support
+* Supporting/mentoring/guiding other contributors
+* Organizing Events / Meetups
+* Coordination and management activities
 
-*\* If you are applying on behalf of an organization, please email us so that we can discuss your proposed application before you complete the form.*
+All grantees will be required to adhere to the [Rust Foundation’s Code of Conduct](https://foundation.rust-lang.org/policies/code-of-conduct/), which is an extension of the [Rust Project Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct). Failure to adhere to the Code of Conduct may result in the grant being terminated.
 
----
+## Who can apply?
 
-## Application guidelines
+Project Grants are open to applications from anyone who will be over the age of 18 at the time of the grant award. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. Employees of organizations that are Members of the Rust Foundation should contact us at grants@rustfoundation.org prior to completing an application, in order for us to assess whether an award to them might represent a conflict of interest for the Foundation.
 
-* **There is help text for each of the key questions that is displayed when you hover over it.** Whilst this, and the copy below, is a lot to read, it will help you write a good application.
-* **The most important thing to focus on in the application** **is the description of the work that you plan to carry out, and how it will benefit Rust.**
-* You can apply for a grant of between $2,500 and $15,000 USD
-* When you apply for a grant you will be asked to choose from one of three categories of project focus: **Maintenance and Support**; **Development and Infrastructure**; and **Community**. Within each of these categories, there are various areas of work, as described below.
+You don’t have to speak English to apply for a Project Grant, but if your project involves interaction with members of the Rust Project Teams and Working Groups you will need a reasonable understanding of written English.
 
-> **Maintenance and Support**
->
->
->
-> * Code review
-> * Documentation updates
-> * Design review
-> * Issue triage
-> * Issue reporting
-> * Bug fixes
-
-> **Development and Infrastructure**
->
->
->
-> * New features and documentation
-> * Performance enhancements
-> * Rollups/CI/releases
-
-> **Community**
->
->
->
-> * Moderation
-> * Communication (e.g. writing blog posts, release notes, preparing for meetings or taking minutes)
-> * Producing education materials
-> * Providing educational support
-> * Supporting/mentoring/guiding other contributors
-> * Organizing Events / Meetups
-> * Coordination and management activities
-
----
-
-## *Additional Rules*
-
-## &nbsp;
-
-* *Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.*
-
-* *Employees of organizations that are members of the Rust Foundation who wish to apply as individuals or as part of a team should email us at [grants@rustfoundation.org](mailto:grants@rustfoundation.org) prior to completing an application, in order for us to assess whether a grant award might represent a conflict of interest for the Foundation.*
-
-* \*The Rust Foundation is required to adhere to laws of the United States, and as a result all Project Grant applicants must be able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions. \*
-
-* *If you have any questions about this, or would like more advice or help from the Foundation please email us at [grants@rustfoundation.org](mailto:grants@rustfoundation.org). We will do whatever we can to support you.*
+All Project Grant applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
