@@ -5,13 +5,13 @@ description: 'Seth Markle joins the Rust Foundation board as Member Director for
 date: 2022-11-10T15:00:00Z
 tags:
   - announcement
-  - board
+  - board of directors
 index: false
 layout: layouts/news.njk
 ---
 ### &nbsp;
 
-### <img src="/img/news/2022-11-10-welcoming-seth-markle-to-the-rust-foundation-board/Board-Announcements.png" width="580" height="326" alt="White Rust Foundation logo at top (letter &quot;R&quot; inside gear icon) with the following white bolded text heading: “Announcing a new Rust Foundation Board member”. To the right, a circular frame with a zig-zag edge contains a headshot of Seth Markle. Underneath is smaller white text reading &quot;Seth Markle, Member Director - AWS&quot;" title="Seth Markle Announcement" />
+### <img width="580" height="326" alt="White Rust Foundation logo at top (letter &quot;R&quot; inside gear icon) with the following white bolded text heading: “Announcing a new Rust Foundation Board member”. To the right, a circular frame with a zig-zag edge contains a headshot of Seth Markle. Underneath is smaller white text reading &quot;Seth Markle, Member Director - AWS&quot;" title="Seth Markle Announcement" src="/img/news/2022-11-10-welcoming-seth-markle-to-the-rust-foundation-board/Board-Announcements.png" />
 
 ### The Rust Foundation is thrilled to share that Seth Markle has joined the Rust Foundation Board of Directors as Member Director for <a target="_blank" rel="noopener" href="https://aws.amazon.com/">AWS</a> (a Rust Foundation Platinum Member).&nbsp;
 
