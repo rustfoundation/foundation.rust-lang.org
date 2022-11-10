@@ -902,6 +902,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/Rust%20Nation/</loc>
+    <lastmod>2022-11-10</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/eurorust/</loc>
     <lastmod>2022-11-10</lastmod>
   </url>
@@ -962,17 +967,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/programs/</loc>
-    <lastmod>2022-11-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
-    <lastmod>2022-11-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/community/</loc>
+    <lastmod>2022-11-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/program/</loc>
+    <lastmod>2022-11-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
     <lastmod>2022-11-10</lastmod>
   </url>
   
@@ -987,17 +992,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
-    <lastmod>2022-11-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/program/</loc>
-    <lastmod>2022-11-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/quarterly%20updates/</loc>
+    <lastmod>2022-11-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
+    <lastmod>2022-11-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/programs/</loc>
     <lastmod>2022-11-10</lastmod>
   </url>
   
@@ -1059,5 +1064,10 @@
   <url>
     <loc>https://foundation.rust-lang.org/tags/staff/</loc>
     <lastmod>2022-11-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/events/rust-nation-uk-2023/</loc>
+    <lastmod>2023-02-16</lastmod>
   </url>
 </urlset>
