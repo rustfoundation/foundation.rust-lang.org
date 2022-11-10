@@ -432,6 +432,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/news/welcoming-seth-markle-to-the-rust-foundation-board/</loc>
+    <lastmod>2022-11-10</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/about/</loc>
     <lastmod>2022-11-10</lastmod>
   </url>
@@ -468,6 +473,11 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/board/markrousskov/</loc>
+    <lastmod>2022-11-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/board/member-director-aws/</loc>
     <lastmod>2022-11-10</lastmod>
   </url>
   
@@ -902,12 +912,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/Rust%20Nation/</loc>
+    <loc>https://foundation.rust-lang.org/tags/eurorust/</loc>
     <lastmod>2022-11-10</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/eurorust/</loc>
+    <loc>https://foundation.rust-lang.org/tags/Rust%20Nation/</loc>
     <lastmod>2022-11-10</lastmod>
   </url>
   
@@ -933,6 +943,11 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
+    <lastmod>2022-11-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/board%20of%20directors/</loc>
     <lastmod>2022-11-10</lastmod>
   </url>
   
@@ -967,17 +982,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/community/</loc>
-    <lastmod>2022-11-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/program/</loc>
     <lastmod>2022-11-10</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
+    <lastmod>2022-11-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/community/</loc>
     <lastmod>2022-11-10</lastmod>
   </url>
   
