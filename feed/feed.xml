@@ -5,12 +5,24 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2022-11-01T18:00:00Z</updated>
+	<updated>2022-11-09T15:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>Rust Foundation Included in Fastly&#39;s Fast Forward Program</title>
+		<link href="https://foundation.rust-lang.org/news/rust-foundation-included-in-fastly-s-fast-forward-program/"/>
+		<updated>2022-11-09T15:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/rust-foundation-included-in-fastly-s-fast-forward-program/</id>
+		<content type="html">&lt;p&gt;On Wednesday, November 9th, &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://www.fastly.com/&quot;&gt;Fastly&lt;/a&gt; announced a new open source initiative for nonprofits at their flagship consumer event, &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://fastlyaltitude2022.com/s/altitude-2022/home&quot;&gt;Altitude&lt;/a&gt;. The Rust Foundation is excited to be included in the &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://www.fastly.com/fast-forward&quot;&gt;Fast Forward&lt;/a&gt; program, which will allow the Rust Project to harness Fastly&#39;s full-site delivery and powerful Compute@Edge platform at no cost. &lt;/p&gt;
+&lt;p&gt;Fast Forward is the expansion of Fastly&#39;s open source program (launched in 2014), operating as a set of programs designed to &amp;quot;empower and support developers, open source projects, and nonprofits that share [Fastly&#39;s] vision of an internet that is free, open, and safe for all&amp;quot; according to their &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://www.fastly.com/blog/fast-forward-lets-build-the-good-internet-together&quot;&gt;announcement.&lt;/a&gt; &lt;/p&gt;
+&lt;h3 id=&quot;learn-more-and-find-a-statement-from-the-rust-foundation&#39;s-director-of-advocacy-%26-operations%2C-joel-marcey%2C-in-fastly&#39;s-press-release.&quot;&gt;Learn more and find a statement from the Rust Foundation&#39;s Director of Advocacy &amp;amp; Operations, Joel Marcey, in Fastly&#39;s &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://www.fastly.com/press/press-releases/fastly-launches-fast-forward-initiative-to-support-open-source-and-internet&quot;&gt;press release&lt;/a&gt;.  &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rust-foundation-included-in-fastly-s-fast-forward-program/#learn-more-and-find-a-statement-from-the-rust-foundation&#39;s-director-of-advocacy-%26-operations%2C-joel-marcey%2C-in-fastly&#39;s-press-release.&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Q3 2022 Recap: A summary from Rebecca Rumbul</title>
@@ -1602,14 +1614,6 @@ the biggest accountability stunt I’ve pulled by far.&lt;/p&gt;
 &lt;p&gt;Mozilla and the Rust project are well-aligned on these values today, and you can expect us to champion them in our engagement with the Rust Foundation going forward.&lt;/p&gt;
 &lt;p&gt;Rust exists because of the efforts of countless people working together to make software better, and the Foundation exists to empower and support those people to do their best work. This is an important chapter in Rust&#39;s history, and I&#39;m excited to be a part of it.&lt;/p&gt;
 </content>
-	</entry>
-	
-	<entry>
-		<title>Hello World!</title>
-		<link href="https://foundation.rust-lang.org/news/hello-world/"/>
-		<updated>2021-02-08T00:00:00Z</updated>
-		<id>https://foundation.rust-lang.org/news/hello-world/</id>
-		<content type="html"></content>
 	</entry>
 	
 	<entry>
