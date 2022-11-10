@@ -1,17 +1,19 @@
 ---
 layout: news
-series: "Getting to know the board"
+series: Getting to know the board
 title: Introducing Mark Rousskov
 byline: Mark Rousskov, Project Director, Core
-description: Introducing Mark Rousskov as a Project Director for Core. Part of the "Getting to know the board" series.
-date: 2021-03-25
+description: >-
+   Introducing Mark Rousskov as a Project Director for Core. Part of the
+   "Getting to know the board" series.
+date: 2021-03-25T00:00:00Z
 tags:
    - getting to know the board series
+   - board of directors
 ---
+*Over the next five weeks, we'll be running a series called "Getting to know the board", publishing blog posts from each member of the Rust Foundation [Board of Directors](/board), introducing them to the community. You can view the posts in this series [here](/tags/getting%20to%20know%20the%20board%20series/).*
 
-_Over the next five weeks, we'll be running a series called "Getting to know the board", publishing blog posts from each member of the Rust Foundation [Board of Directors](/board), introducing them to the community. You can view the posts in this series [here](/tags/getting%20to%20know%20the%20board%20series/)._
-
-Hey, I’m Mark Rousskov (often going by simulacrum online), and I’m excited to serve as one of the project directors representing the Core team! I’ve been around in the Rust project since 2016, and currently lead the release team, and am a member of the core, infrastructure, and compiler contributors teams.
+Hey, I’m Mark Rousskov (often going by simulacrum online), and I’m excited to serve as one of the project directors representing the Core team\! I’ve been around in the Rust project since 2016, and currently lead the release team, and am a member of the core, infrastructure, and compiler contributors teams.
 
 What excites me about Rust is our strong commitment to solving problems through working together, both with people already around us today, but also always looking to include more people to learn from their experiences. I believe this emphasis on connections is the core reason for Rust's success.
 
