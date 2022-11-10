@@ -27,4 +27,4 @@ Seth has been a strong advocate for Rust internally at AWS ever since he used it
 
 The Foundation is clearly thrilled to welcome Seth to the board, but this change to our leadership team comes with another bittersweet update: the upcoming departure of Shane Miller from AWS and thus, from our board (as AWS Member Director and board Chairperson). We will be bidding Shane a proper farewell in a dedicated post towards the end of her tenure in December. Stay tuned\! In the meantime, please join us in thanking Shane for her leadership on the Rust Foundation board — and at AWS.
 
-*An election for a new Rust Foundation Chairperson will be held in January 2023 amongst the Rust Foundation Board of Directors.*
+*An election for a new Rust Foundation Chairperson will be held in early 2023 amongst the Rust Foundation Board of Directors. Rust Foundation Executive Rebecca Rumbul will serve as the Interim Chairperson until a new Chairperson is elected.*
