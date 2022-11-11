@@ -1,7 +1,9 @@
 ---
 title: Welcoming Seth Markle to the Rust Foundation Board
 byline: Rust Foundation Staff
-description: 'Seth Markle joins the Rust Foundation board as Member Director for AWS. '
+description: >-
+  Seth Markle joins the Rust Foundation board as the new Member Director for
+  AWS.  Shane Miller will be departing as Chairperson in December 2022. 
 date: 2022-11-10T15:00:00Z
 tags:
   - announcement
