@@ -27,7 +27,7 @@ Seth has been a strong advocate for Rust internally at AWS ever since he used it
 
 ### Bidding Farewell to Shane Miller – Rust Foundation Board Chairperson & Member Director for AWS.
 
-The Foundation is clearly thrilled to welcome Seth to the board as the new AWS Member Director, but this change to our leadership team comes with another bittersweet update: the upcoming departure of Shane Miller from our board as Chairperson, given her recent departure from AWS. While Shane is still on the board as Chairperson, Seth is the exclusive Member Director for AWS.&nbsp;
+The Foundation is clearly thrilled to welcome Seth to the board as the new AWS Member Director, but this change to our leadership team comes with another bittersweet update: the upcoming departure of Shane Miller from our board as Chairperson. While Shane is still on the board as Chairperson, Seth is the exclusive Member Director for AWS.&nbsp;
 
 We will be bidding Shane a proper farewell in a dedicated post towards the end of her tenure in December. Stay tuned\! In the meantime, please join us in thanking Shane for her leadership on the Rust Foundation board\!
 
