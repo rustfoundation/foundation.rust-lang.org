@@ -31,4 +31,4 @@ The Foundation is clearly thrilled to welcome Seth to the board as the new AWS M
 
 We will be bidding Shane a proper farewell in a dedicated post towards the end of her tenure in December. Stay tuned\! In the meantime, please join us in thanking Shane for her leadership on the Rust Foundation board\!
 
-*An election for a new Rust Foundation Chairperson will be held in early 2023 amongst the Rust Foundation Board of Directors. Board Secretary Mark Rousskov will serve as the Interim Chairperson until a new Chairperson is elected.*
+*An election for a new Rust Foundation Chairperson will be held in during the January 2023 board meeting. Board Secretary Mark Rousskov will serve as the Interim Chairperson until a new Chairperson is elected.*
