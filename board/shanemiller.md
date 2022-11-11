@@ -1,6 +1,6 @@
 ---
 name: Shane Miller
-title: Chairwoman, Member Director, AWS
+title: Chairwoman
 ferris: /img/ferris/shane.png
 headshot: /img/headshot/shane.jpg
 ---
