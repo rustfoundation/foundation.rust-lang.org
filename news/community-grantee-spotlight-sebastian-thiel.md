@@ -147,6 +147,8 @@ Rust is being adopted at such a rapid pace despite being barely more than a todd
 
 *The Rust Foundation &nbsp;*[*<u>Community Grants Program</u>*](https://foundation.rust-lang.org/grants)*&nbsp; provides access to new resources for the Rust community to maintain, innovate, collaborate over, and further develop the Rust programming language. While the Community Grants Program provides financial backing across several different categories (Events Support Grants, Rust Foundation Fellowships, Hardship Grants, and Project Grants) the overall mission is shared: to support the continued expansion of Rust and address key areas for development across the Rust ecosystem. *
 
-### *The Rust Foundation Community Grants Program is made possible by AWS, Huawei, and Google. Learn more about the program &nbsp;*[*<u>here</u>*](https://foundation.rust-lang.org/grants)*.&nbsp;*
+### &nbsp;
 
-### *If your organization is interested in supporting the Rust Foundation's Community Grants Program, we'd love to hear from you\! Please reach out to us at [grants@rustfoundation.org](mailto:grants@rustfoundation.org) to inquire about donation/support options.&nbsp;*
+> ### *The Rust Foundation Community Grants Program is made possible by AWS, Huawei, and Google. Learn more about the program &nbsp;*[*<u>here</u>*](https://foundation.rust-lang.org/grants)*.&nbsp;*
+>
+> ### *If your organization is interested in supporting the Rust Foundation's Community Grants Program, we'd love to hear from you\! Please reach out to us at [grants@rustfoundation.org](mailto:grants@rustfoundation.org) to inquire about donation/support options.&nbsp;*
