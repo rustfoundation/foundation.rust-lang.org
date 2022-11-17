@@ -12,7 +12,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/img/news/2022-11-17-grantee-spotlight-sebastian-thiel/sebastian.png" width="580" height="326" />
+<img src="/img/news/2022-11-17-grantee-spotlight-sebastian-thiel/Grantee-Spotlight-Series.png" width="580" height="326" alt="Graphic featuring a headshot of Sebastian Thiel (Gitoxide Core Developer and Rust Foundation Project Grantee) with heading that says Rust Foundation Community Grants Program" title="Sebastian Thiel" />
 
 > *<u>About this series</u>*
 >
