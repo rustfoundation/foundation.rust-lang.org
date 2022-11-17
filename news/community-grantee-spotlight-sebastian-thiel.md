@@ -143,9 +143,9 @@ Rust is being adopted at such a rapid pace despite being barely more than a todd
 
 ---
 
-<u><em>About the Rust Foundation Community Grants Program</em></u>
+<u>About the Rust Foundation Community Grants Program</u>
 
-*The Rust Foundation &nbsp;*[*<u>Community Grants Program</u>*](https://foundation.rust-lang.org/grants)*&nbsp; provides access to new resources for the Rust community to maintain, innovate, collaborate over, and further develop the Rust programming language. While the Community Grants Program provides financial backing across several different categories (Events Support Grants, Rust Foundation Fellowships, Hardship Grants, and Project Grants) the overall mission is shared: to support the continued expansion of Rust and address key areas for development across the Rust ecosystem. *
+The Rust Foundation &nbsp;[<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants)&nbsp; provides access to new resources for the Rust community to maintain, innovate, collaborate over, and further develop the Rust programming language. While the Community Grants Program provides financial backing across several different categories (Events Support Grants, Rust Foundation Fellowships, Hardship Grants, and Project Grants) the overall mission is shared: to support the continued expansion of Rust and address key areas for development across the Rust ecosystem.
 
 ### &nbsp;
 
