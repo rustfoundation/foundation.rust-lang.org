@@ -17,13 +17,13 @@ layout: layouts/news.njk
 > *<u>About this series</u>*
 >
 >
-> *Welcome to the Rust Foundation’s first installment of the Community Grantee Spotlight series – a collection of blogs that will highlight the accomplishments and experiences of individuals who received a*[*<u>Project Grant</u>*](https://foundation.rust-lang.org/grants/project-grants) *or*[*<u>Rust Foundation Fellowship</u>*](https://foundation.rust-lang.org/grants/fellowships) *as part of our*[*<u>Community Grants Program</u>*](https://foundation.rust-lang.org/grants)*. Each installment will feature an interview with an individual grantee about their progress, goals, and experiences in the program.&nbsp;*
+> *Welcome to the Rust Foundation’s first installment of the Community Grantee Spotlight series – a collection of blogs that will highlight the accomplishments and experiences of individuals who received a &nbsp;*[*<u>Project Grant</u>*](https://foundation.rust-lang.org/grants/project-grants)*&nbsp; or &nbsp;*[*<u>Rust Foundation Fellowship</u>*](https://foundation.rust-lang.org/grants/fellowships)*&nbsp; as part of our &nbsp;*[*<u>Community Grants Program</u>*](https://foundation.rust-lang.org/grants)*.&nbsp; Each installment will feature an interview with an individual grantee about their progress, goals, and experiences in the program.&nbsp;*
 >
 >
 > *Our intention for this series is to celebrate our hardworking grantees while shedding light on the wide breadth of work they are collectively doing to benefit the Rust ecosystem. We hope you enjoy getting acquainted with these amazing individuals\!*
 >
 >
-> *<u>Note:</u> The Community Grantee Spotlight series will not function as a comprehensive catalog of all our grantees, but instead will highlight a handful of individuals who expressed interest. Please stay tuned for a new page our team is working on that will list the grants we’ve issued to date. In the meantime, you can find our most recent announcement of Rust Foundation grants*[*<u>here</u>*](https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement) *– with more to be announced soon\!&nbsp;*
+> *<u>Note:</u>&nbsp; &nbsp;The Community Grantee Spotlight series will not function as a comprehensive catalog of all our grantees, but instead will highlight a handful of individuals who expressed interest. Please stay tuned for a new page our team is working on that will list the grants we’ve issued to date. In the meantime, you can find our most recent announcement of Rust Foundation grants &nbsp;*[*<u>here</u>*](https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement)&nbsp; *– with more to be announced soon\!&nbsp;*
 
 ---
 
@@ -35,13 +35,13 @@ Rust Foundation Project Grant (Awarded in June 2022)&nbsp;
 
 ## ***<u>The Grantee:</u>***
 
-<u>Name:</u> Sebastian Thiel
+<u>Name:</u>&nbsp; &nbsp;Sebastian Thiel
 
-<u>Location:</u> Xi'an, China & Berlin, Germany
+<u>Location:</u>&nbsp; &nbsp;Xi'an, China & Berlin, Germany
 
-<u>Pronouns:</u> He/him
+<u>Pronouns:</u>&nbsp; &nbsp;He/him
 
-<u>Fun fact:</u> *“Tried to rewrite Git in multiple languages, succeeding only with Rust.”*
+<u>Fun fact:</u>&nbsp; &nbsp;*“Tried to rewrite Git in multiple languages, succeeding only with Rust.”*
 
 <u>Connect with Sebastian on:</u> [<u>Twitter</u>](https://twitter.com/theelbasian), [<u>GitHub</u>](https://github.com/Byron), or [<u>KeyBase</u>](https://keybase.io/byronbates)
 
@@ -59,7 +59,7 @@ Rust Foundation Project Grant (Awarded in June 2022)&nbsp;
 
 ### **<u>Q: Tell us a bit about your background with Rust prior to the Community Grants Program</u>**
 
-<u>A:</u> I’ve been with Rust from the very beginning – before it went 1.0. I don't remember how I discovered it, to be honest\! But when I did, I realized that it was something really special and different. When I discovered Rust, I saw an entirely new paradigm in front of me.&nbsp; This is why I was willing to really hit a brick wall with my head over and over to learn it back then when there were far fewer resources than today.&nbsp;
+<u>A:</u>&nbsp; &nbsp;I’ve been with Rust from the very beginning – before it went 1.0. I don't remember how I discovered it, to be honest\! But when I did, I realized that it was something really special and different. When I discovered Rust, I saw an entirely new paradigm in front of me.&nbsp; This is why I was willing to really hit a brick wall with my head over and over to learn it back then when there were far fewer resources than today.&nbsp;
 
 At the time, there were a great number of missing education gaps and the compiler wasn’t as helpful in telling you what was wrong with the program. The borrow checker was also less powerful at that time, requiring many workarounds that aren't needed nowadays.
 
@@ -67,7 +67,7 @@ I started out with Rust in 2015 –&nbsp; a crazy seven years ago. Since then, I
 
 ### **Q: Tell us about the background of**`gitoxide`**\! How did this project come to be?**
 
-<u>A:</u>Since `gitoxide` is a big project (one I’ve been with for two and a half years, mostly full-time\!) I think it’s important to start with talking about why there’s a need for `gitoxide` at all.
+<u>A:</u>**&nbsp; &nbsp;**Since `gitoxide` is a big project (one I’ve been with for two and a half years, mostly full-time\!) I think it’s important to start with talking about why there’s a need for `gitoxide` at all.
 
 It started with a “eureka\!” moment that I had when I first discovered Git about 15 years ago. Git was a total eye-opener for me. I thought, “this is what simplicity and ingenuity looks like. This is what version control should be”.&nbsp;
 
@@ -83,13 +83,13 @@ By this juncture, I had moved to China and that’s when COVID-19 hit. As we now
 
 ### <u><strong>Q: Can you explain </strong><code>gitoxide</code></u>**<u> for the uninitiated?</u>&nbsp;**
 
-<u>A:</u> I think it’s easiest to say what `gitoxide` is *not*. `gitoxide` is not libgit2. It is the de facto API to write applications that interact with Git. But by now, it's kind of dormant and in maintenance mode. Many new features are not actually implemented.&nbsp;
+<u>A:</u>&nbsp; &nbsp;I think it’s easiest to say what `gitoxide` is *not*. `gitoxide` is not libgit2. It is the de facto API to write applications that interact with Git. But by now, it's kind of dormant and in maintenance mode. Many new features are not actually implemented.&nbsp;
 
 `gitoxide` provides users with a nice API with the power to rewrite Git. It allows you to write your own tools for Git that act as naturally as they possibly can. And despite giving you all that power, the levers are below the surface and there if you need them. If you don't, `gitoxide` functions exactly as Git would.&nbsp;
 
 ### <u><strong>Q: What are some of the larger benefits and impacts you expect to see from </strong><code>gitoxide</code><strong>?</strong></u>
 
-<u>A:</u>`gitoxide` makes it so much more convenient to work with Git repositories and write applications that interact with it. Plus, thanks to Rust, it's safe by default.
+<u>A:</u>**&nbsp; &nbsp;**`gitoxide` makes it so much more convenient to work with Git repositories and write applications that interact with it. Plus, thanks to Rust, it's safe by default.
 
 Similar to the Rust compiler itself, if there’s something preventing `gitoxide` from working, you will see a beautiful error message that shows you exactly what went wrong. It’s not only good for the user, but also good for you as a software developer.&nbsp;
 
@@ -105,37 +105,37 @@ When I heard about the [<u>Rust Foundation&rsquo;s Community Grants Program</u>]
 
 ### <u><strong>Q: What are you most proud of having accomplished under the program so far?&nbsp;</strong></u>
 
-<u>A:</u>`gitoxide` can clone repositories typically 1.5x faster than what you can do with Git, which I consider to be a game-changer. You can learn more about this exciting development [<u>here</u>](https://github.com/Byron/gitoxide/discussions/579).&nbsp;
+<u>A:</u>&nbsp;&nbsp;`gitoxide` can clone repositories typically 1.5x faster than what you can do with Git, which I consider to be a game-changer. You can learn more about this exciting development [<u>here</u>](https://github.com/Byron/gitoxide/discussions/579).&nbsp;
 
 ### <u><strong>Q: What are your top areas of focus for the next phase of the program?&nbsp;</strong></u>
 
-<u>A:</u>Currently, I believe it’s massively important to finish the integration of `gitoxide` into cargo and completely remove the dependency to the git2 crate, which would complete the work done in this phase.
+<u>A:</u>*&nbsp; &nbsp;*Currently, I believe it’s massively important to finish the integration of `gitoxide` into cargo and completely remove the dependency to the git2 crate, which would complete the work done in this phase.
 
 ### <u><strong>Q: What has your experience as a Rust Foundation grantee been like so far?&nbsp;</strong></u>
 
-<u>A:</u>Even though I see the Rust Foundation as a stakeholder that is easily approachable, they are definitely as quiet as you allow them to be. This is an advantage in my case because I’m pretty self-driven when it comes to reaching my goals. That said, I’d like to gain more insight into the experiences of other grantees as it would help build upon the community feeling – that’s why I’m excited for the Community Grants Spotlight series\!
+<u>A:</u>***&nbsp; &nbsp;***Even though I see the Rust Foundation as a stakeholder that is easily approachable, they are definitely as quiet as you allow them to be. This is an advantage in my case because I’m pretty self-driven when it comes to reaching my goals. That said, I’d like to gain more insight into the experiences of other grantees as it would help build upon the community feeling – that’s why I’m excited for the Community Grants Spotlight series\!
 
 ### <u><strong>Q: Name one new thing about Rust that you&rsquo;ve learned from your work under the program.</strong></u>
 
-<u>A:</u>I finally picked up \`cargo-fuzz\` as a simple way to let a fuzzer find input that exercises all code-paths, even the ones I thought were impossible to encounter. This typically adds another layer of quality to make Rust code even better. It’s worth noting that the fuzzer never finds exploitable input, just input that can be handled more gracefully.
+<u>A:</u>***&nbsp; &nbsp;***I finally picked up \`cargo-fuzz\` as a simple way to let a fuzzer find input that exercises all code-paths, even the ones I thought were impossible to encounter. This typically adds another layer of quality to make Rust code even better. It’s worth noting that the fuzzer never finds exploitable input, just input that can be handled more gracefully.
 
 ### <u><strong>Q: What would you tell someone who is interested in applying for the Grants Program but is unsure about whether or not they &ldquo;should&rdquo;?&nbsp;</strong></u>
 
-<u>A:</u>From my perspective, most developers have a knack for analytical thinking. If there’s any kind of fear you’re experiencing that’s preventing you from applying for a grant like this one, try to squash it with analysis and a focus on the greater benefit of what you’d like to accomplish. If you find yourself getting down on your own knowledge or doubting your worthiness of a grant to fund your work, remember that even those you put on a pedestal doubt themselves. You’re not in this alone.
+<u>A:</u>***&nbsp; &nbsp;***From my perspective, most developers have a knack for analytical thinking. If there’s any kind of fear you’re experiencing that’s preventing you from applying for a grant like this one, try to squash it with analysis and a focus on the greater benefit of what you’d like to accomplish. If you find yourself getting down on your own knowledge or doubting your worthiness of a grant to fund your work, remember that even those you put on a pedestal doubt themselves. You’re not in this alone.
 
 I’d also like to say that I think we as an industry need to do a better job of copping to our own fears and perceived weaknesses publicly. This would help the community almost as much as our open source contributions.&nbsp;
 
 ### <u><strong>Q: Any advice for the next round of applicants to our program?</strong></u>
 
-<u>A:</u>From my experience, the Rust Foundation makes sure to pick projects with a wide set of goals and your idea might be just right despite being off the beaten path. It won’t hurt to fill in the form and see where it takes you, knowing that the Rust Foundation will be supporting you along the way no matter the outcome.
+<u>A:</u>***&nbsp; &nbsp;***From my experience, the Rust Foundation makes sure to pick projects with a wide set of goals and your idea might be just right despite being off the beaten path. It won’t hurt to fill in the form and see where it takes you, knowing that the Rust Foundation will be supporting you along the way no matter the outcome.
 
 ### **<u>Q: If you had to pick one word (or maybe a few!) to describe your experience under the Community Grants Program, what would it be?</u>&nbsp;**
 
-<u>A:</u> **Transparent. Trusted. Trusting**. I do what I set out to do while receiving financial support. There is basically no overhead for me to be part of the Community Grants Program, and I can funnel all my energy towards my goals, which now are a part of the goals of the Rust Foundation, too.
+<u>A:</u>**&nbsp; &nbsp;Transparent. Trusted. Trusting**. I do what I set out to do while receiving financial support. There is basically no overhead for me to be part of the Community Grants Program, and I can funnel all my energy towards my goals, which now are a part of the goals of the Rust Foundation, too.
 
 ### <u><strong>Q: What excites you most about Rust/the future of Rust?&nbsp;</strong></u>
 
-<u>A:</u> Rust is being adopted at such a rapid pace despite being barely more than a toddler in computer-language age. Rust redefines software quality and what’s possible with our hardware, breaking performance records ranging from multiple orders of magnitude performance increases to multiples of it. This makes it an absolute game-changer, as it puts this power into the hands of people that previously would not have been able to accomplish such feats with existing technology, like C and C++.
+<u>A:</u>&nbsp; &nbsp;Rust is being adopted at such a rapid pace despite being barely more than a toddler in computer-language age. Rust redefines software quality and what’s possible with our hardware, breaking performance records ranging from multiple orders of magnitude performance increases to multiples of it. This makes it an absolute game-changer, as it puts this power into the hands of people that previously would not have been able to accomplish such feats with existing technology, like C and C++.
 
 ---
 
