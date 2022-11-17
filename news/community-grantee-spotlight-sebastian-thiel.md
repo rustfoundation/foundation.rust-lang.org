@@ -49,9 +49,9 @@ Rust Foundation Project Grant (Awarded in June 2022)&nbsp;
 
 ## ***<u>The Work:&nbsp;</u>***
 
-<u>Focus of under the Grants Program:</u> Improving the `gitoxide` project (a Rust implementation of Git) with a special focus on [<u>supporting shallow clones</u>](https://github.com/Byron/gitoxide/issues/450) in Cargo.
+Improving the `gitoxide` project (a Rust implementation of Git) with a special focus on [<u>supporting shallow clones</u>](https://github.com/Byron/gitoxide/issues/450) in Cargo.
 
-### **You can find `gitoxide` on GitHub <a target="_blank" rel="noopener" href="https://github.com/Byron/gitoxide">here</a>. &nbsp;**
+### **You can find &nbsp;`gitoxide`&nbsp; on GitHub <a target="_blank" rel="noopener" href="https://github.com/Byron/gitoxide">here</a>. &nbsp;**
 
 **<img src="/img/news/2022-11-17-grantee-spotlight-sebastian-thiel/quote-sebastian.png" width="580" height="326" />**
 
@@ -65,9 +65,9 @@ At the time, there were a great number of missing education gaps and the compile
 
 I started out with Rust in 2015 –&nbsp; a crazy seven years ago. Since then, I've stuck with it.
 
-### **Q: Tell us about the background of**`gitoxide`**\! How did this project come to be?**
+### **Q: Tell us about the background of &nbsp;**`gitoxide `**\! How did this project come to be?**
 
-Since &nbsp;`gitoxide` is a big project (one I’ve been with for two and a half years, mostly full-time\!) I think it’s important to start with talking about why there’s a need for `gitoxide` at all.
+Since&nbsp; &nbsp;`gitoxide`&nbsp; is a big project (one I’ve been with for two and a half years, mostly full-time\!) I think it’s important to start with talking about why there’s a need for &nbsp;`gitoxide`&nbsp; at all.
 
 It started with a “eureka\!” moment that I had when I first discovered Git about 15 years ago. Git was a total eye-opener for me. I thought, “this is what simplicity and ingenuity looks like. This is what version control should be”.&nbsp;
 
@@ -79,23 +79,23 @@ So I was sitting at the intersection of Python and Git, but I knew I would never
 
 Now, even though Git is dominating version control, it's written in C. In terms of adapting to the needs of modern computers, this is a big disadvantage. To rewrite Git in another language and reach my goal, I had to be able to accommodate the current reality of computing. Rust seemed like the only answer. Even so, I was daunted by the scale of such a project.&nbsp;&nbsp;
 
-By this juncture, I had moved to China and that’s when COVID-19 hit. As we now know, China enforced rigorous lock downs, so I was literally locked in a house. It seemed like the perfect time to really give `gitoxide` a go.&nbsp;
+By this juncture, I had moved to China and that’s when COVID-19 hit. As we now know, China enforced rigorous lock downs, so I was literally locked in a house. It seemed like the perfect time to really give &nbsp;`gitoxide`&nbsp; a go.&nbsp;
 
-### <u><strong>Q: Can you explain </strong><code>gitoxide</code></u>**<u> for the uninitiated?</u>&nbsp;**
+### <u><strong>Q: Can you explain &nbsp;</strong><code>gitoxide</code></u>**<u>&nbsp; for the uninitiated?</u>&nbsp;**
 
-I think it’s easiest to say what `gitoxide` is *not*. `gitoxide` is not libgit2. It is the de facto API to write applications that interact with Git. But by now, it's kind of dormant and in maintenance mode. Many new features are not actually implemented.&nbsp;
+I think it’s easiest to say what &nbsp;`gitoxide`&nbsp; is *not*. &nbsp;`gitoxide`&nbsp; is not libgit2. It is the de facto API to write applications that interact with Git. But by now, it's kind of dormant and in maintenance mode. Many new features are not actually implemented.&nbsp;
 
-`gitoxide` provides users with a nice API with the power to rewrite Git. It allows you to write your own tools for Git that act as naturally as they possibly can. And despite giving you all that power, the levers are below the surface and there if you need them. If you don't, `gitoxide` functions exactly as Git would.&nbsp;
+`gitoxide`&nbsp; provides users with a nice API with the power to rewrite Git. It allows you to write your own tools for Git that act as naturally as they possibly can. And despite giving you all that power, the levers are below the surface and there if you need them. If you don't, &nbsp;`gitoxide`&nbsp; functions exactly as Git would.&nbsp;
 
-### <u><strong>Q: What are some of the larger benefits and impacts you expect to see from </strong><code>gitoxide</code><strong>?</strong></u>
+### <u><strong>Q: What are some of the larger benefits and impacts you expect to see from &nbsp;</strong><code>gitoxide </code><strong>?</strong></u>
 
-`gitoxide` makes it so much more convenient to work with Git repositories and write applications that interact with it. Plus, thanks to Rust, it's safe by default.
+`gitoxide`&nbsp; makes it so much more convenient to work with Git repositories and write applications that interact with it. Plus, thanks to Rust, it's safe by default.
 
-Similar to the Rust compiler itself, if there’s something preventing `gitoxide` from working, you will see a beautiful error message that shows you exactly what went wrong. It’s not only good for the user, but also good for you as a software developer.&nbsp;
+Similar to the Rust compiler itself, if there’s something preventing &nbsp;`gitoxide`&nbsp; from working, you will see a beautiful error message that shows you exactly what went wrong. It’s not only good for the user, but also good for you as a software developer.&nbsp;
 
-`gitoxide` is also vastly more efficient with your computer’s resources than Git is. It grows with your computer, because it just uses all cores efficiently by default – that makes a huge difference.&nbsp;
+`gitoxide`&nbsp; is also vastly more efficient with your computer’s resources than Git is. It grows with your computer, because it just uses all cores efficiently by default – that makes a huge difference.&nbsp;
 
-I think in the long term, Git will have trouble matching the efficiency and experience of `gitoxide` – even though I wish it would because more efficiency is good for everybody.&nbsp;
+I think in the long term, Git will have trouble matching the efficiency and experience of &nbsp;`gitoxide`&nbsp; – even though I wish it would because more efficiency is good for everybody.&nbsp;
 
 ### <u><strong>Q: What prompted you to apply for the Rust Foundation&rsquo;s Community Grants Program?</strong></u>
 
@@ -105,11 +105,11 @@ When I heard about the [<u>Rust Foundation&rsquo;s Community Grants Program</u>]
 
 ### <u><strong>Q: What are you most proud of having accomplished under the program so far?&nbsp;</strong></u>
 
-`gitoxide` can clone repositories typically 1.5x faster than what you can do with Git, which I consider to be a game-changer. You can learn more about this exciting development [<u>here</u>](https://github.com/Byron/gitoxide/discussions/579).&nbsp;
+`gitoxide`&nbsp; can clone repositories typically 1.5x faster than what you can do with Git, which I consider to be a game-changer. You can learn more about this exciting development [<u>here</u>](https://github.com/Byron/gitoxide/discussions/579).&nbsp;
 
 ### <u><strong>Q: What are your top areas of focus for the next phase of the program?&nbsp;</strong></u>
 
-Currently, I believe it’s massively important to finish the integration of `gitoxide` into cargo and completely remove the dependency to the git2 crate, which would complete the work done in this phase.
+Currently, I believe it’s massively important to finish the integration of &nbsp;`gitoxide`&nbsp; into cargo and completely remove the dependency to the git2 crate, which would complete the work done in this phase.
 
 ### <u><strong>Q: What has your experience as a Rust Foundation grantee been like so far?&nbsp;</strong></u>
 
