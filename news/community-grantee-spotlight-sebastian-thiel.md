@@ -51,7 +51,7 @@ Rust Foundation Project Grant (Awarded in June 2022)&nbsp;
 
 Improving the `gitoxide` project (a Rust implementation of Git) with a special focus on [<u>supporting shallow clones</u>](https://github.com/Byron/gitoxide/issues/450) in Cargo.
 
-### **You can find &nbsp;`gitoxide`&nbsp; on GitHub <a target="_blank" rel="noopener" href="https://github.com/Byron/gitoxide">here</a>. &nbsp;**
+**You can find &nbsp;`gitoxide`&nbsp; on GitHub <a target="_blank" rel="noopener" href="https://github.com/Byron/gitoxide">here</a>. &nbsp;**
 
 **<img src="/img/news/2022-11-17-grantee-spotlight-sebastian-thiel/quote-sebastian.png" width="580" height="326" />**
 
