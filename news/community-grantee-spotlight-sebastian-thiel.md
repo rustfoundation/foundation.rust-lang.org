@@ -45,7 +45,7 @@ Rust Foundation Project Grant (Awarded in June 2022)&nbsp;
 
 <u>Connect with Sebastian on:</u> [<u>Twitter</u>](https://twitter.com/theelbasian), [<u>GitHub</u>](https://github.com/Byron), or [<u>KeyBase</u>](https://keybase.io/byronbates)
 
-**Special thanks to**[**<u>Pascal Kuthe</u>**](https://github.com/pascalkuthe) **&**[**<u>Sidney Douw</u>**](https://github.com/SidneyDouw) **for their hard work on the** `gitoxide` **project\!**
+**Special thanks to &nbsp;**[**<u>Pascal Kuthe</u>**](https://github.com/pascalkuthe)**&nbsp; & &nbsp;**[**<u>Sidney Douw</u>**](https://github.com/SidneyDouw)**&nbsp; for their hard work on the** `gitoxide` **project\!**
 
 ## ***<u>The Work:&nbsp;</u>***
 
