@@ -65,7 +65,7 @@ At the time, there were a great number of missing education gaps and the compile
 
 I started out with Rust in 2015 –&nbsp; a crazy seven years ago. Since then, I've stuck with it.
 
-### **Q: Tell us about the background of &nbsp;**`gitoxide `**\! How did this project come to be?**
+### <u><strong>Q: Tell us about the background of &nbsp;</strong><code>gitoxide </code><strong>! How did this project come to be?</strong></u>
 
 Since&nbsp; &nbsp;`gitoxide`&nbsp; is a big project (one I’ve been with for two and a half years, mostly full-time\!) I think it’s important to start with talking about why there’s a need for &nbsp;`gitoxide`&nbsp; at all.
 
