@@ -18,13 +18,13 @@ layout: layouts/news.njk
 
 ---
 
-### **Modern security applications cannot afford to be memory unsafe**
+## **Modern security applications cannot afford to be memory unsafe**
 
 In 2019, Microsoft reported at a security conference that 70% of all security vulnerabilities they encountered were due to memory <a target="_blank" rel="noopener" href=" https://msrc-blog.microsoft.com/2019/07/16/a-proactive-approach-to-more-secure-code">vulnerabilities</a>. Google has reported <a target="_blank" rel="noopener" href="https://www.chromium.org/Home/chromium-security/memory-safety">similar statistics for vulnerabilities in Chrome</a>.
 
 Using a memory-safe language, like Python or Java, prevents buffer overflows and other common exploits from occurring. However, these languages usually rely on a garbage collector, which makes finalization and de-allocation of memory a non-deterministic process. Unless a zeroization procedure is directly called on a piece of memory, this leaves potentially secret data lingering in that memory for an unknown amount of time– possibly even forever– where it is theoretically vulnerable to exploits from other parts of the program, dumps, or side channel attacks. In this article, we’d like to talk about how **1Password is using Rust to go beyond memory safety when making our password manager as safe as it can possibly be.**
 
-### **A quick primer on memory allocation**
+## **A quick primer on memory allocation**
 
 Virtually all languages have some concept of memory allocation, though different languages expose or hide these concepts from the developer, depending on how they’re designed.&nbsp; There’s a number of ways that languages operate on allocated memory or allow developers to access it, but the underlying concepts are basically the same for all languages.
 
@@ -34,7 +34,7 @@ To ensure the allocator doesn’t run out of memory, programs must also inform i
 
 Apps like 1Password will often have thousands of these small blocks while they’re running, ranging from dozens to (rarely) thousands of bytes. New blocks may be allocated and old blocks de-allocated hundreds of times per second, and modern allocators like Microsoft’s&nbsp;[<u>mimalloc</u>](https://github.com/microsoft/mimalloc) use complex algorithms to keep track of where these blocks are in the larger original block. This ensures new allocations can happen as quickly as possible, and that de-allocated memory can be reused as efficiently as possible.
 
-### **Rust lets us avoid compromising**
+## **Rust keeps us from compromising on memory safety**
 
 Here at 1Password, our number one priority is keeping users secure. One way we do this is by destroying sensitive information in memory as soon as possible. That means your decrypted items are disposed whenever 1Password locks, and your account password and decryption keys are disposed of as soon as unlocking is complete.
 
@@ -50,13 +50,13 @@ Rust’s reduction in mental overhead is also a big win for security. Since prog
 
 But these are all somewhat abstract improvements. What are some actual examples of Rust making our security tighter?
 
-#### Zeroization
+### **Zeroization**
 
 One major problem that Rust and its ecosystem helped us with is zeroization of memory. In most languages&nbsp; – including Rust itself – simply de-allocating memory quickly may not be sufficient. While the data is no longer accessible under normal program operation, the data is still in memory and theoretically accessible under extremely abnormal circumstances, since allocators generally don’t go out of their way to erase data when deallocating.&nbsp;
 
 We wanted to go the extra mile and ensure that sensitive data is fully erased before it’s de-allocated. The [<u>zeroize</u>](https://crates.io/crates/zeroize) crate does exactly this– by storing data inside of `zeroizing`, we can ensure that that data is *always* fully erased when it’s being disposed of, regardless of when or how that happens. Combined with Rust’s lifetime-oriented memory management, this ensures that data is disposed of as soon as it’s no longer needed. It also means that cryptographic keys are immediately zeroed out in memory once we finish using them.
 
-#### Correctness with ownership and types
+### Correctness with ownership and types
 
 Another major benefit is Rust’s type system which, as much as possible, ensures that our use of cryptographic APIs is correct. Rust has a famously strong and restrictive [<u>type system</u>](https://doc.rust-lang.org/reference/types.html), allowing developers to tightly circumscribe how different kinds of data may be used, and even how *often* they may be used. There are simple examples – every type of cryptographic secret has a unique type, for instance, so there’s no risk of mixing up Secret Keys, account passwords, Master Unlock Keys, SRP components, or anything else. However, these examples are common to any typical strongly-typed language – Rust’s unique ownership system lets us take this even farther.
 
@@ -64,7 +64,7 @@ Consider the problem of a cryptographic nonce, which is a small value used in en
 
 We can then *require* that an encryption operation includes transferring ownership of an `UnusedNonce` into the encryption. After encryption finishes, it returns to us a new `UsedNonce`. Conceptually, this is exactly the same piece of data as the original `UnusedNonce`. But because that data has a different type, it can only ever be used to *decrypt* something – never to create a new encryption. And because we lost ownership of the original `UnusedNonce`, it’s no longer possible for it to be used for additional encryption.
 
-### **Looking towards the future**
+## **Looking towards the future**
 
 Idiomatic Rust gives developers some assurance of security without having to compromise on readability or structure, but there’s always room to grow for the future. At the moment, the `zeroize` crate can’t clear CPU registers, in which residual cryptographic secrets may reside. It also can’t `zeroize` every instance of a buffer if the buffer has been re-allocated. Luckily, the latter issue is solved by the [<u>secrecy</u>](https://crates.io/crates/secrecy) crate, which prevents re-allocation (or any mutation at all) of secret data.&nbsp;
 
