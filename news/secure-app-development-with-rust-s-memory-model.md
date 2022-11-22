@@ -38,7 +38,7 @@ Apps like 1Password will often have thousands of these small blocks while theyâ€
 
 Here at 1Password, our number one priority is keeping users secure. One way we do this is by destroying sensitive information in memory as soon as possible. That means your decrypted items are disposed whenever 1Password locks, and your account password and decryption keys are disposed of as soon as unlocking is complete.
 
-*Note:*&nbsp;*For more information about how 1Password encrypts your data and manages cryptographic keys, check out our <a target="_blank" rel="noopener" href="https://1password.com/security/#security-white-paper">security design whitepaper</a>*.
+*Note:*&nbsp;*For more information about how 1Password encrypts your data and manages cryptographic keys, check out our <a target="_blank" rel="noopener" href="https://1password.com/security/#security-white-paper">security design white paper</a>*.
 
 But here's the issue: Traditionally, we've used different languages and frameworks to build the 1Password app for each platform, leading to limitations unique to each language. For example, with garbage-collected languages, controlling when sensitive data is de-allocated is tricky, especially since zeroing-out memory is an operation frequently optimized away by compilers.
 
