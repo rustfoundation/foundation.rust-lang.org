@@ -17,7 +17,7 @@ layout: layouts/news.njk
 
 ### It’s that time of year again\! The latest <a target="_blank" rel="noopener" href="https://blog.rust-lang.org/2022/12/05/survey-launch.html">State of Rust Survey</a> is now open through December 19, 2022 – and the Rust Foundation encourages you to take part in it.&nbsp;
 
-For those who aren’t familiar, this short survey conducted by the Rust Project is used to surface input and perspectives from both current and prospective Rust users and those who follow the language. The valuable information gathered from the State of Rust survey helps Project leaders better understand the evolution of the language and identify challenges respondents might be encountering. This feedback is then used to inform Project priorities and strategies for 2023.
+For those who aren’t familiar, this short survey conducted by the Rust Project is used to surface input and perspectives from both current and prospective Rust users and those who follow the language. The valuable information gathered from the <a target="_blank" rel="noopener" href="https://blog.rust-lang.org/2022/12/05/survey-launch.html">State of Rust</a> survey helps Project leaders better understand the evolution of the language and identify challenges respondents might be encountering. This feedback is then used to inform Project priorities and strategies for 2023.
 
 ### **Who should take the State of Rust Survey?**
 
@@ -25,7 +25,7 @@ The Rust Project is seeking feedback from anyone who is actively interested in t
 
 ### **Who runs the State of Rust Survey?**
 
-This survey is run and overseen by the Rust Project. As the organization stewarding the Rust language, the Rust Foundation supports the efforts of the Project, which is responsible for the design and analysis of the State of Rust Survey. We are here to amplify the importance of this survey and encourage more people – with all types of Rust involvement – to take part. We’re thankful for the hard work of the Rust Project’s survey team in creating and running the survey, and we look forward to seeing how the responses shape their strategic planning going forward.
+This survey is run and overseen by the Rust Project. As the organization stewarding the Rust language, the Rust Foundation supports the efforts of the Project, which is responsible for the design and analysis of the <a target="_blank" rel="noopener" href="https://blog.rust-lang.org/2022/12/05/survey-launch.html">State of Rust Survey</a>. We are here to amplify the importance of this survey and encourage more people – with all types of Rust involvement – to take part. We’re thankful for the hard work of the Rust Project’s survey team in creating and running the survey, and we look forward to seeing how the responses shape their strategic planning going forward.
 
 ### **How can I take the State of Rust Survey?**
 
@@ -34,11 +34,11 @@ This survey is run and overseen by the Rust Project. As the organization steward
 * The survey will be open through December 19, 2022 @ 11:59 PM PT
 * Participation will take between 5-20 minutes
 * Answers are anonymous
-* The State of Rust Survey is available in 11 languages
+* The <a target="_blank" rel="noopener" href="https://blog.rust-lang.org/2022/12/05/survey-launch.html">State of Rust Survey</a> is available in 11 languages
 
 ### **What will the Rust Project do with State of Rust Survey responses?**
 
-After the State of Rust Survey closes on December 19, 2022, the Rust leadership will analyze and organize responses and apply recurring feedback and themes to their project plans for 2023. In January, the Project will publish a summary of the results on their [<u>blog</u>](https://blog.rust-lang.org/).&nbsp;
+After the <a target="_blank" rel="noopener" href="https://blog.rust-lang.org/2022/12/05/survey-launch.html">State of Rust Survey</a> closes on December 19, 2022, the Rust leadership will analyze and organize responses and apply recurring feedback and themes to their project plans for 2023. In January, the Project will publish a summary of the results on their [<u>blog</u>](https://blog.rust-lang.org/).&nbsp;
 
 &nbsp;
 
