@@ -982,12 +982,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/jobs/</loc>
+    <loc>https://foundation.rust-lang.org/tags/member%20spotlight/</loc>
     <lastmod>2022-12-14</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/member%20spotlight/</loc>
+    <loc>https://foundation.rust-lang.org/tags/jobs/</loc>
     <lastmod>2022-12-14</lastmod>
   </url>
   
@@ -1018,6 +1018,11 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
+    <lastmod>2022-12-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
     <lastmod>2022-12-14</lastmod>
   </url>
   
@@ -1063,11 +1068,6 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/trademark/</loc>
-    <lastmod>2022-12-14</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
     <lastmod>2022-12-14</lastmod>
   </url>
   
