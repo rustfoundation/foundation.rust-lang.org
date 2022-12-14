@@ -11,7 +11,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-### We are thrilled to announce that Shopify has joined the Rust Foundation as our first Gold Member\!&nbsp;
+### We are thrilled to announce that Shopify has joined the Rust Foundation as our first Gold Member\!
 
 [Shopify](https://www.shopify.com/) is a leading provider of essential internet infrastructure for commerce, offering trusted tools to start, grow, market, and manage a retail business of any size. Shopify makes commerce better for everyone with a platform and services that are engineered for reliability while delivering a better shopping experience for consumers everywhere. Shopify is powered by a robust tech stack that includes Rust, making their investment in Rust through the Rust Foundation both timely and relevant.
 
