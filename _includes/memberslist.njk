@@ -19,7 +19,18 @@
         {% endif %}
     {% endfor %}
 </ul>
-
+<h2>Gold</h2>
+<ul class="memberslist">
+    {% for member in memberslist %}
+        {% if member.data.level == "gold" %}
+            <li class="goldmember">
+                {% if member.data.logo %}
+                     <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
+                {% endif %}
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
 <h2>Silver</h2>
 <ul class="memberslist">
     {% for member in memberslist %}
