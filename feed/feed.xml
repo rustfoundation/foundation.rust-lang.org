@@ -5,12 +5,26 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2022-12-05T14:00:00Z</updated>
+	<updated>2022-12-14T12:30:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>Welcoming Shopify as Our Inaugural Gold Member</title>
+		<link href="https://foundation.rust-lang.org/news/welcoming-shopify-as-our-inaugural-gold-member/"/>
+		<updated>2022-12-14T12:30:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/welcoming-shopify-as-our-inaugural-gold-member/</id>
+		<content type="html">&lt;h3 id=&quot;we-are-thrilled-to-announce-that-shopify-has-joined-the-rust-foundation-as-our-first-gold-member!&quot;&gt;We are thrilled to announce that Shopify has joined the Rust Foundation as our first Gold Member! &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/welcoming-shopify-as-our-inaugural-gold-member/#we-are-thrilled-to-announce-that-shopify-has-joined-the-rust-foundation-as-our-first-gold-member!&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.shopify.com/&quot;&gt;Shopify&lt;/a&gt; is a leading provider of essential internet infrastructure for commerce, offering trusted tools to start, grow, market, and manage a retail business of any size. Shopify makes commerce better for everyone with a platform and services that are engineered for reliability while delivering a better shopping experience for consumers everywhere. Shopify is powered by a robust tech stack that includes Rust, making their investment in Rust through the Rust Foundation both timely and relevant.&lt;/p&gt;
+&lt;p&gt;On their new status as a Rust Foundation Gold Member, Mike Shaver, Distinguished Engineer at Shopify said:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Shopify is proud to join the Rust Foundation and support their mission of empowering everyone to build sustainable, efficient, and safe software. Shopify is building a 100-year company, and we are equally committed to our developer community and helping Rust be a 100-year tool that easily scales for everyone who uses it. Powering commerce for millions of merchants requires systems built to scale and perform, and Rust is a big part of Shopify’s strategy for building those systems. Becoming part of the Rust Foundation supports Rust’s growth, as well as the Rust community and ecosystem.” &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The Rust Foundation’s Gold membership tier reflects a genuine commitment to the future of Rust and its community. To learn more about our various tiers of membership, click &lt;a href=&quot;https://foundation.rust-lang.org/members/&quot;&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;. &lt;/p&gt;
+&lt;h3 id=&quot;shopify%2C-thank-you-for-joining-the-rust-foundation-in-our-mission-to-make-computer-systems-to-be-more-secure%2C-efficient%2C-and-performant-through-the-use-of-the-rust-programming-language.&quot;&gt;&lt;strong&gt;Shopify, thank you for joining the Rust Foundation in our mission to make computer systems to be more secure, efficient, and performant through the use of the Rust programming language.&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/welcoming-shopify-as-our-inaugural-gold-member/#shopify%2C-thank-you-for-joining-the-rust-foundation-in-our-mission-to-make-computer-systems-to-be-more-secure%2C-efficient%2C-and-performant-through-the-use-of-the-rust-programming-language.&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Share Your Thoughts on the “State of Rust” in 2022!</title>

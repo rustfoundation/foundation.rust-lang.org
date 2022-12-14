@@ -452,6 +452,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/news/welcoming-shopify-as-our-inaugural-gold-member/</loc>
+    <lastmod>2022-12-14</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/about/</loc>
     <lastmod>2022-12-14</lastmod>
   </url>
@@ -698,6 +703,11 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/members/sentry/</loc>
+    <lastmod>2022-12-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/members/shopify/</loc>
     <lastmod>2022-12-14</lastmod>
   </url>
   
@@ -997,12 +1007,7 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/programs/</loc>
-    <lastmod>2022-12-14</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
+    <loc>https://foundation.rust-lang.org/tags/community/</loc>
     <lastmod>2022-12-14</lastmod>
   </url>
   
@@ -1017,22 +1022,22 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/community/</loc>
-    <lastmod>2022-12-14</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
-    <lastmod>2022-12-14</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/plans/</loc>
     <lastmod>2022-12-14</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/quarterly%20updates/</loc>
+    <lastmod>2022-12-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
+    <lastmod>2022-12-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/programs/</loc>
     <lastmod>2022-12-14</lastmod>
   </url>
   
@@ -1058,6 +1063,11 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/trademark/</loc>
+    <lastmod>2022-12-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
     <lastmod>2022-12-14</lastmod>
   </url>
   
