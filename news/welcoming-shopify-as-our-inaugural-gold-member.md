@@ -21,4 +21,4 @@ On their new status as a Rust Foundation Gold Member, Mike Shaver, Distinguished
 
 The Rust Foundation’s Gold membership tier reflects a genuine commitment to the future of Rust and its community. To learn more about our various tiers of membership, click [<u>here</u>](https://foundation.rust-lang.org/members/).&nbsp;
 
-### **Shopify, thank you for joining the Rust Foundation in our mission to make computer systems to be more secure, efficient, and performant through the use of the Rust programming language\!**
+### **Shopify, thank you for joining the Rust Foundation in our mission to make computer systems to be more secure, efficient, and performant through the use of the Rust programming language.**
