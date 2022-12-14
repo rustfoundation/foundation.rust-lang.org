@@ -469,6 +469,10 @@ footer .container {
     width: 20em;
 }
 
+.goldmember img {
+  width: 15em;
+}
+
 /* Post */
 
 @media only screen and (min-width: 768px) {
