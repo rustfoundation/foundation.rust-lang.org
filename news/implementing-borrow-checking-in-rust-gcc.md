@@ -6,7 +6,7 @@ byline: >-
 description: >-
   Guest blog by Philip Herron, Lead Maintainer of Rust GCC and Arthur Cohen,
   Maintainer of Rust GCC
-date: 2022-12-15T13:00:00Z
+date: 2022-12-16T13:00:00Z
 tags:
   - guest blog series
 index: false
@@ -14,7 +14,7 @@ layout: layouts/news.njk
 ---
 &nbsp;
 
-<img src="/img/news/2022-12-14-Implementing-Rust-Borrow-Checking-in-Rust-GCC/Rust GCC.png" width="580" height="326" alt="Rust Foundation logo at top (Uppercase letter &quot;R&quot; inside a gear icon). Below, a heading reads &quot;Guest Blog Series: Rust GCC  (Supported by Open Source Security, inc and Embecosm)&quot; Underneath, a larger heading reads “Implementing Borrow Checking in Rust GCC”. Beneath this are headshots for the two authors of the post: Philip Herron, Lead Maintainer of Rust GCC and Arthur Cohen, Maintainer of Rust GCC." title="Rust GCC" />
+<img width="580" height="326" alt="Rust Foundation logo at top (Uppercase letter &quot;R&quot; inside a gear icon). Below, a heading reads &quot;Guest Blog Series: Rust GCC  (Supported by Open Source Security, inc and Embecosm)&quot; Underneath, a larger heading reads “Implementing Borrow Checking in Rust GCC”. Beneath this are headshots for the two authors of the post: Philip Herron, Lead Maintainer of Rust GCC and Arthur Cohen, Maintainer of Rust GCC." title="Rust GCC" src="/img/news/2022-12-14-Implementing-Rust-Borrow-Checking-in-Rust-GCC/Rust GCC.png" />
 
 &nbsp;
 
@@ -31,15 +31,17 @@ But first, a quick introduction to gcc. [<u>gcc</u>](https://gcc.gnu.org/)&nbsp;
 We believe that adding an implementation for GCC will benefit the Rust ecosystem because it can…:
 
 * Help with the formalization effort of the Rust language.
+
 * Encourage wider adoption and deployment of Rust
+
   * Widespread use of GCC
   * Removing risk of a single implementation
-
 * Benefit many organizations that already have investments in GCC with an upstream Rust frontend.
 
 * This frontend can be backported to older versions of GCC, further extending the reach of Rust.&nbsp;
 
 * Benefit Linux – Linux is built around a GCC toolchain, and having a GCC Rust compiler will facilitate the proposals to allow device drivers written in Rust within Linux.
+
 * Allow us to benefit from the impressive experience of the GCC community, which we can draw from to produce a quality compiler.
 
 ### What is borrow-checking?
@@ -59,6 +61,8 @@ The challenge with using Polonius (or \`polonius-engine\`, the associated librar
 Since \`g++\` or \`clang++\` are also written in the language that they implement, they also need to be bootstrapped and compiled by themselves. \`gccrs\` is not specifically a bootstrapping compiler: It is written in C++ but aims to compile Rust (this is similar to \`mrustc\`). However, we'd like to apply certain bootstrapping principles in order to benefit from Polonius so that we enforce the same rules as Rustc.
 
 Our plan is that a first stage compiler, \`gccrs-stage1\`, which will not have a borrow checker since we don’t have a Rust compiler yet, would not link to Polonius. Once we get the working stage1 Rust compiler, we can do an initial compilation of Polonius, shown in this diagram as polonius-stage1.
+
+<img src="/img/news/2022-12-14-Implementing-Rust-Borrow-Checking-in-Rust-GCC/Screen-Shot-2022-12-15-at-11.37.18-AM.png" width="600" height="343" title="Bootstrapping Polonius Diagram" alt="A diagram depicting the bootstrapping of Polonius" />
 
 Now that we have a borrow checker, we can compile gccrs-stage2 and link against Polonius, which will enable the borrow-checking pass. This means the Polonius library will be installed whenever gccrs is installed..
 
