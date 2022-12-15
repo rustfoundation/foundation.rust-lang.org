@@ -14,7 +14,7 @@ layout: layouts/news.njk
 ---
 &nbsp;
 
-<img width="580" height="326" alt="Rust Foundation logo at top (Uppercase letter &quot;R&quot; inside a gear icon). Below, a heading reads &quot;Guest Blog Series: Rust GCC  (Supported by Open Source Security, inc and Embecosm)&quot; Underneath, a larger heading reads “Implementing Borrow Checking in Rust GCC”. Beneath this are headshots for the two authors of the post: Philip Herron, Lead Maintainer of Rust GCC and Arthur Cohen, Maintainer of Rust GCC." title="Rust GCC" src="/img/news/2022-12-14-Implementing-Rust-Borrow-Checking-in-Rust-GCC/Rust GCC.png" />
+<img width="580" height="326" alt="Rust Foundation logo at top (Uppercase letter &quot;R&quot; inside a gear icon). Below, a heading reads &quot;Guest Blog Series: Rust GCC  (Supported by Open Source Security, inc and Embecosm)&quot; Underneath, a larger heading reads “Implementing Borrow Checking in Rust GCC”. Beneath this are headshots for the two authors of the post: Philip Herron, Lead Maintainer of Rust GCC and Arthur Cohen, Maintainer of Rust GCC." title="Rust GCC" src="/img/news/2022-12-14-Implementing-Rust-Borrow-Checking-in-Rust-GCC/Blog-Announcement.png" />
 
 &nbsp;
 
