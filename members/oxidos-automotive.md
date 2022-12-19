@@ -1,6 +1,6 @@
 ---
-name: Wyliodrin
+name: OxidOS Automotive
 level: silver
-logo: /img/member/wyliodrin.png
-url: https://wyliodrin.com/
+logo: /img/member/oxidos-automotive.png
+url: https://oxidos.io/
 ---
