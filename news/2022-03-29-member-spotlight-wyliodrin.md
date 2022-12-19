@@ -37,4 +37,8 @@ I love that it is productive and efficient and enables fast deployments. And Iâ€
 
 Safety, efficiency and embedded systems.
 
+## Update (December 2022)
+
+Since this Member Spotlight was originally published, Wyliodrin established a spin-off called [OxidOS Automotive](https://oxidos.io/): this company now handles their Rust projects and Foundation membership.
+
 To learn more about the Rust Foundation, check out our [website](https://foundation.rust-lang.org/), [learn about becoming a member](https://foundation.rust-lang.org/info/become-a-member/) and follow us on [Twitter](https://twitter.com/rust\_foundation) and [LinkedIn](https://www.linkedin.com/company/rust-foundation/) to stay up to date.
