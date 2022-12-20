@@ -5,12 +5,36 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2022-12-14T12:30:00Z</updated>
+	<updated>2022-12-20T15:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>Board Announcement: Farewell to Shane Miller</title>
+		<link href="https://foundation.rust-lang.org/news/board-announcement-farewell-to-shane-miller/"/>
+		<updated>2022-12-20T15:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/board-announcement-farewell-to-shane-miller/</id>
+		<content type="html">&lt;img src=&quot;https://foundation.rust-lang.org/img/news/2022-12-20-farewell-shane/blog-size.png&quot; width=&quot;580&quot; height=&quot;326&quot; alt=&quot;Heading reads  “Thank you to Shane Miller for her many contributions to the Rust Foundation!”. To the right is a headshot of Shane Miller with a smaller caption underneath that reads “Shane Miller will be leaving her role as Chair of the Rust Foundation Board of Directors in the new year. Please join us in wishing Shane luck on her next chapter!”&quot; title=&quot;Farewell to Shane Miller&quot; /&gt;
+&lt;p&gt;The time has come for us to say farewell to Shane Miller as Chair of the Rust Foundation Board. This news comes a few weeks after our &lt;a href=&quot;https://foundation.rust-lang.org/news/welcoming-seth-markle-to-the-rust-foundation-board/&quot;&gt;&lt;u&gt;announcement&lt;/u&gt;&lt;/a&gt; that Seth Markle has joined the Rust Foundation Board as the new Member Director for AWS, following Shane’s decision to leave her role as Senior Engineering Manager at AWS. &lt;/p&gt;
+&lt;p&gt;As our Chair, Shane has played a vital role in many different aspects of our organization and has been highly collaborative and dedicated in her position on the Board of Directors. As Member Director for AWS, Shane has done amazing work representing the founding Platinum Member. Shane has been an essential figure in these important inaugural years for the Rust Foundation. &lt;/p&gt;
+&lt;p&gt;Shane said the following about her time on the Rust Foundation Board of Directors and what’s ahead:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Building the Rust Foundation has been the most rewarding experience of my career. In our first two years, we transitioned the Rust project from a single sponsor to a cross-industry, global collaboration of forty different corporations representing every size and sector. Our board of directors is a dedicated and talented group of industry leaders, who have leveraged their individual and combined assets to advocate for and contribute to our community’s success; the impact has already been substantial, growing the number of Rust developers by almost 500% to nearly 3 million people worldwide.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;There’s still much work ahead, but I know the Rust Foundation has the board of directors and executive staff to deliver results. The Rust Foundation will have a historic impact on the security and sustainability of technology and developer communities, and I am grateful to have had the opportunity to contribute to that legacy.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The Rust Foundation’s Executive Director &amp;amp; CEO Rebecca Rumbul shared the following reflection on Shane’s tenure at our organization:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Shane has worked tirelessly over the last two years to help to build the Rust Foundation into a successful and stable organization. She has shaped and championed our work and has been a valuable supporter and mentor to many of us. It has been an absolute privilege to work with her.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;electing-our-next-chair&quot;&gt;Electing Our Next Chair &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/board-announcement-farewell-to-shane-miller/#electing-our-next-chair&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;An election for a new Rust Foundation Chair will be held during the January 2023 board meeting.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Thank you again for your service on the Rust Foundation Board of Directors, Shane!&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Welcoming Shopify as Our Inaugural Gold Member</title>
