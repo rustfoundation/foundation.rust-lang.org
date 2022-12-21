@@ -12,7 +12,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/img/news/2022-11-17-grantee-spotlight-sebastian-thiel/Grantee-Spotlight-Series.png" width="580" height="326" alt="Graphic featuring a headshot of Sebastian Thiel (Gitoxide Core Developer and Rust Foundation Project Grantee) with heading that says Rust Foundation Community Grants Program" title="Sebastian Thiel" />
+<img width="580" height="326" alt="Graphic featuring a headshot of Sebastian Thiel (Gitoxide Core Developer and Rust Foundation Project Grantee) with heading that says Rust Foundation Community Grants Program" title="Sebastian Thiel" src="/img/news/2022-11-17-grantee-spotlight-sebastian-thiel/Grantee-Spotlight-Series.png" />
 
 > *<u>About this series</u>*
 >
@@ -53,7 +53,7 @@ Improving the `gitoxide` project (a Rust implementation of Git) with a special f
 
 You can find &nbsp;`gitoxide`&nbsp; on GitHub <a target="_blank" rel="noopener" href="https://github.com/Byron/gitoxide">here</a>. &nbsp;
 
-**<img src="/img/news/2022-11-17-grantee-spotlight-sebastian-thiel/quote-sebastian.png" width="580" height="326" />**
+**<img width="580" height="326" src="/img/news/2022-11-17-grantee-spotlight-sebastian-thiel/quote-sebastian.png" />**
 
 ## ***<u>The Conversation:&nbsp;</u>***
 
