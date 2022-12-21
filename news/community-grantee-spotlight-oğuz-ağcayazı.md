@@ -45,7 +45,7 @@ Rust Foundation Fellowship Award (Awarded in June 2022)&nbsp;
 
 <u>Fun fact:</u> “I have never played football in my life but I used to manage a team in college.”
 
-<u>Connect with Oğuz on:</u> Twitter, GitHub, or \{[<u>Twitter</u>](https://twitter.com/o_uz_a), [<u>Github</u>](https://github.com/ouz-a)\}
+<u>Connect with Oğuz on:</u> [<u>Twitter</u>](https://twitter.com/o_uz_a)&nbsp;or&nbsp;[<u>Github</u>](https://github.com/ouz-a)
 
 ### “Special thanks to&nbsp;[<u>Oli</u>](https://github.com/oli-obk) for his mentorship, [<u>compiler-errors</u>](https://github.com/compiler-errors) for answering my endless questions, and the Rust compiler community for being awesome.”
 
