@@ -12,7 +12,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/img/news/2022-12-22-community-grantee-spotlight-oguz-agcayazi/Social-Announcement-Graphic-(2).png" width="580" height="326" title="Oğuz Ağcayazı" alt="Heading reads &quot;Community Grantee Spotlight: Oğuz Ağcayazı. Rust Foundation Fellow.&quot; Beneath the text is a round headshot of Oğuz Ağcayazı with a spotlight graphic overlaid on it." />
+<img width="580" height="326" title="Oğuz Ağcayazı" alt="Heading reads &quot;Community Grantee Spotlight: Oğuz Ağcayazı. Rust Foundation Fellow.&quot; Beneath the text is a round headshot of Oğuz Ağcayazı with a spotlight graphic overlaid on it." src="/img/news/2022-12-22-community-grantee-spotlight-oguz-agcayazi/Social-Announcement-Graphic-(2).png" />
 
 > *<u>About this series</u>*
 >
@@ -101,7 +101,7 @@ Warm and fuzzy.
 
 As a Rust Foundation Fellow, I've been able to pour more time into the Rust ecosystem, which has boosted my confidence and made me fall even more in love with the language. Being a part of this feels like sitting next to a fireplace and talking with family. The Community Grants Program feels like home.
 
-<img src="/img/news/2022-12-22-community-grantee-spotlight-oguz-agcayazi/Program-Focus.png" width="580" height="326" title="Oğuz Ağcayazı quote" alt="&quot;As a Fellow, I've been able to pour more time into the Rust ecosystem, which has boosted my confidence and made me fall even more in love with the language [...] The Community Grants Program feels like home.&quot; - Oğuz Ağcayazı" />
+<img width="580" height="326" title="Oğuz Ağcayazı quote" alt="&quot;As a Fellow, I've been able to pour more time into the Rust ecosystem, which has boosted my confidence and made me fall even more in love with the language [...] The Community Grants Program feels like home.&quot; - Oğuz Ağcayazı" src="/img/news/2022-12-22-community-grantee-spotlight-oguz-agcayazi/Program-Focus.png" />
 
 ## <u><strong>Q: Do you have any thoughts or advice for future applicants to the Community Grants Program?</strong></u>
 
