@@ -59,7 +59,7 @@ Rust Foundation Fellowship Award (Awarded in June 2022)&nbsp;
 
 ## *<u>The Conversation:</u>*
 
-### ***<u>Q: Tell us a bit about your background with Rust prior to the Community Grants Program</u>***
+## ***<u>Q: Tell us a bit about your background with Rust prior to the Community Grants Program</u>***
 
 It’s actually quite an interesting story. In the summer of 2020, I was working on making a Rogue-like game. I was part of a Discord channel about it where developers met to discuss the game. I met someone in that space who read my messages about what I was working on and they encouraged me to switch from C++ to Rust. They told me that it was a better use case because it’s harder to shoot yourself in the foot with Rust compared to C++. Initially, I was skeptical. I mean, Rust was completely new to me so I wasn’t sure if the learning curve would be worth it – at the time, I just wanted to make my game\! But after some preliminary research, Rust looked really interesting so I made the switch. Then, a year later, that same person who encouraged me to make this switch later published a book about making a game with Rust. I started porting my game to Rust and everything went super well after I got over the initial hurdle of starting out. Rust was totally smooth sailing for me after I got up to speed with it.
 
