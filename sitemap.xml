@@ -967,22 +967,22 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
-    <lastmod>2022-12-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/board%20of%20directors/</loc>
-    <lastmod>2022-12-22</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/announcement/</loc>
     <lastmod>2022-12-22</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/philosophy/</loc>
+    <lastmod>2022-12-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
+    <lastmod>2022-12-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/board%20of%20directors/</loc>
     <lastmod>2022-12-22</lastmod>
   </url>
   
@@ -1022,12 +1022,7 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
-    <lastmod>2022-12-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/plans/</loc>
+    <loc>https://foundation.rust-lang.org/tags/program/</loc>
     <lastmod>2022-12-22</lastmod>
   </url>
   
@@ -1037,7 +1032,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/program/</loc>
+    <loc>https://foundation.rust-lang.org/tags/rust%20project/</loc>
+    <lastmod>2022-12-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/plans/</loc>
     <lastmod>2022-12-22</lastmod>
   </url>
   
@@ -1072,12 +1072,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/security/</loc>
+    <loc>https://foundation.rust-lang.org/tags/trademark/</loc>
     <lastmod>2022-12-22</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/trademark/</loc>
+    <loc>https://foundation.rust-lang.org/tags/security/</loc>
     <lastmod>2022-12-22</lastmod>
   </url>
   
