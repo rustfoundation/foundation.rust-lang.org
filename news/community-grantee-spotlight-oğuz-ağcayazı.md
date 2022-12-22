@@ -12,7 +12,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-&nbsp;
+<img src="/img/news/2022-12-22-community-grantee-spotlight-oguz-agcayazi/Social-Announcement-Graphic-(2).png" width="580" height="326" alt="Heading reads &quot;Community Grantee Spotlight: Oğuz Ağcayazı. Rust Foundation Fellow.&quot; Beneath the text is a round headshot of Oğuz Ağcayazı with a spotlight graphic overlaid on it." title="Oğuz Ağcayazı" />
 
 > *<u>About this series</u>*
 >
@@ -104,6 +104,8 @@ I have been mentored throughout the whole process so I have to give a lot of cre
 Warm and fuzzy.
 
 As a Rust Foundation Fellow, I've been able to pour more time into the Rust ecosystem, which has boosted my confidence and made me fall even more in love with the language. Being a part of this feels like sitting next to a fireplace and talking with family. The Community Grants Program feels like home.
+
+<img src="/img/news/2022-12-22-community-grantee-spotlight-oguz-agcayazi/Program-Focus.png" width="580" height="326" alt="&quot;As a Fellow, I've been able to pour more time into the Rust ecosystem, which has boosted my confidence and made me fall even more in love with the language [...] The Community Grants Program feels like home.&quot; - Oğuz Ağcayazı" title="Oğuz Ağcayazı quote" />
 
 &nbsp;
 
