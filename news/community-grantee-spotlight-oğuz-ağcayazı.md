@@ -125,6 +125,6 @@ The Rust Foundation &nbsp;[<u>Community Grants Program</u>](https://foundation.r
 
 ---
 
-### *The Rust Foundation Community Grants Program is made possible by AWS, Huawei, and Google. Learn more about the program&nbsp;*[*<u>here</u>*](https://foundation.rust-lang.org/grants)*.&nbsp;*
+### *The Rust Foundation Community Grants Program was made possible in 2022 by AWS, Huawei, and Google. Learn more about the program&nbsp;*[*<u>here</u>*](https://foundation.rust-lang.org/grants)*.&nbsp;*
 
 ### *If your organization is interested in supporting the program, we'd love to hear from you\! Please reach out to us at [grants@rustfoundation.org](mailto:grants@rustfoundation.org) to inquire about donation/support options.&nbsp;*
