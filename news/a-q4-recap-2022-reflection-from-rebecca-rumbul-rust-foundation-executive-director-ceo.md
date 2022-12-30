@@ -15,13 +15,13 @@ layout: layouts/news.njk
 ---
 <img src="/img/news/2022-12-30-q4-recap-and-2022-reflection/rebecca-rumbul-2022-reflection.png" width="580" height="326" alt="Orange gradient background with white rust foundation logo up top (letter &quot;R&quot; inside gear icon) with the following white heading text: &quot;A Q4 Recap &amp; 2022 Reflection”. Underneath is a smaller subheading that reads “from our Executive Director &amp; CEO, Dr. Rebecca Rumbul.” A headshot of Rebecca Rumbul is underneath." title="Dr. Rebecca Rumbul (Rust Foundation Executive Director &amp; CEO)" />
 
-**With a new year just a few days away, we’re rounding out our quarterly recap series for 2022. In this post, I’ll summarize what our team accomplished this past quarter, milestones that arose from key Rust Foundation initiatives, and where we stand as a Foundation going into 2023.&nbsp;**
+### **With a new year just a few days away, we’re rounding out our quarterly recap series for 2022. In this post, I’ll summarize what our team accomplished this past quarter, milestones that arose from key Rust Foundation initiatives, and where we stand as a Foundation going into 2023.&nbsp;**
 
 *As always, we encourage you to check out the <a target="_blank" rel="noopener" href="https://blog.rust-lang.org/">main Rust blog</a> and the <a target="_blank" rel="noopener" href="https://blog.rust-lang.org/inside-rust/index.html">"Inside Rust" blog</a> for recent Rust language updates and news directly from the Project. &nbsp;*
 
 ---
 
-### Staffing & Administration&nbsp;
+## Staffing & Administration&nbsp;
 
 2022 was a year filled with administrative groundwork as we established the Rust Foundation staff team and created a staffing framework fit for growth. In Q4, we filled two important full-time roles that I believe are already setting up the Foundation for meaningful impact in 2023.&nbsp;&nbsp;
 
@@ -37,7 +37,7 @@ Finally, in December, we opened up two additional software engineering roles, wh
 
 We look forward to finalizing these recruitment exercises early in the new year and hope that you will see a beneficial impact very soon.&nbsp;
 
-### Finance & Legal
+## Finance & Legal
 
 From October through December, we continued to work on updating our trademark policy, with input from our Trademark Working Group (composed of Rust Foundation staff members, Project Directors and leaders, Corporate Members, and legal counsel) across several meetings. We are in a good place in terms of having an almost-finished draft, and our current focus is on adding a “plain English” summation of important points within the policy.&nbsp;
 
@@ -45,13 +45,13 @@ Additionally, we have been fundraising for the 2023 [<u>Community Grants Program
 
 Please stay tuned for specific 2022 financial figures in the forthcoming Rust Foundation Annual Report (more on this below).&nbsp;
 
-### Membership
+## Membership
 
 In Q4, we welcomed our newest Corporate Member, [<u>Shopify</u>](https://foundation.rust-lang.org/news/welcoming-shopify-as-our-inaugural-gold-member/), who joined as our first Gold Member. The Rust Foundation’s Gold membership tier reflects a genuine commitment to the future of Rust and its community, and we are delighted that Shopify has decided to invest in Rust and the Rust communities.
 
 In November, we also received the news that Shane Miller was stepping away from her role at AWS and, therefore, would be [<u>stepping down as AWS Member Director and Chair of the Rust Foundation Board of Directors</u>](https://foundation.rust-lang.org/news/board-announcement-farewell-to-shane-miller/). We will of course miss Shane’s leadership at the Rust Foundation, but we’re excited to work with [<u>Seth Markle</u>](https://foundation.rust-lang.org/news/welcoming-seth-markle-to-the-rust-foundation-board/) as AWS’ new Member Director.&nbsp;
 
-### Community Grants Program
+## Community Grants Program
 
 In Q4, we opened up a new round of Project Grants for applications as part of our [<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/). Since our last application round, Rust Foundation Project Directors and community members shared feedback about how we could simplify the application form and general process (specifically about making contact and feedback options clearer and easier for applicants). For the latest round of Project Grant applications, we were able to implement much of this feedback. The second round of Project Grant applications closed on November 7 with a total of 101 applications – a significant uptick since our inaugural application round in the spring.&nbsp;
 
@@ -61,7 +61,7 @@ An additional thank you to everyone who applied for a grant this past round. To 
 
 If you have any questions about the Community Grants Program, please do not hesitate to reach out at [grants@rustfoundation.org](mailto:grants@rustfoundation.org).
 
-### Communications & Events
+## Communications & Events
 
 We took on more meaningful communications work than ever in Q4 due to Gracie’s arrival in October as our first full-time Director of Communications & Marketing.&nbsp;
 
@@ -75,7 +75,7 @@ Finally, I would be remiss not to mention all the positive Rust-related news in 
 
 In short, our team was quite busy with communications and marketing-related work in Q4. I’m excited for that to continue in 2023\!&nbsp;
 
-### Rust Growth in 2022 & Looking Ahead
+## Rust Growth in 2022 & Beyond
 
 This past year at the Rust Foundation was one of change, growth, and groundwork that will enable us to further our mission to steward the Rust programming language and support the Rust community going forward.&nbsp;
 
