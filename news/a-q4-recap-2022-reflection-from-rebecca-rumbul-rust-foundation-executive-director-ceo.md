@@ -17,6 +17,8 @@ layout: layouts/news.njk
 
 **With a new year just a few days away, we’re rounding out our quarterly recap series for 2022. In this post, I’ll summarize what our team accomplished this past quarter, milestones that arose from key Rust Foundation initiatives, and where we stand as a Foundation going into 2023.&nbsp;**
 
+*As always, we encourage you to check out the <a target="_blank" rel="noopener" href="https://blog.rust-lang.org/">main Rust blog</a> and the <a target="_blank" rel="noopener" href="https://blog.rust-lang.org/inside-rust/index.html">"Inside Rust" blog</a> for recent Rust language updates and news directly from the Project. &nbsp;*
+
 ---
 
 ### Staffing & Administration&nbsp;
@@ -31,7 +33,7 @@ I’m so pleased that our search to fill these roles resulted in Gracie and Sage
 
 In Q4, we also opened recruitment for a Security Engineer role, which was made possible thanks to generous financial support from <a target="_blank" rel="noopener" href="https://openssf.org/community/alpha-omega/">OpenSSF Alpha-Omega</a> and in-kind support from Platinum Member <a target="_blank" rel="noopener" href="https://jfrog.com/">JFrog</a> as part of our Security Initiative. This position is now closed to new applicants as we are wrapping up the hiring process. I look forward to announcing our new Security Engineer in the coming weeks\!
 
-Finally, in December, we opened up two additional software engineering roles, which are still open (at the time of publishing this blog). One of our Software Engineer roles is dedicated to security support in the Rust ecosystem, while the other will be crates.io-focused. Prospective candidates can learn more about these open roles on our [<u>careers page</u>](https://foundation.rust-lang.org/careers/).
+Finally, in December, we opened up two additional software engineering roles, which are still open (at the time of publishing this blog). One of our Software Engineer roles is dedicated to security support in the Rust ecosystem, while the other will be <a target="_blank" rel="noopener" href="https://crates.io/">crates.io</a>\-focused. Prospective candidates can learn more about these open roles on our [<u>careers page</u>](https://foundation.rust-lang.org/careers/).
 
 We look forward to finalizing these recruitment exercises early in the new year and hope that you will see a beneficial impact very soon.&nbsp;
 
@@ -85,8 +87,8 @@ To quote the latest State of the Developer Nation report:
 
 I speak for my entire team when I say it is a privilege to serve this global community of thoughtful, dedicated people working to build a more secure, performant, and efficient technological future with the Rust language.&nbsp;
 
-Thank you to everyone who participated in the Rust Foundation’s calls to action, shared candid thoughts and perspectives on our efforts, and supported our mission in various ways in 2022. The Rust Foundation is entering the new year with big plans, exciting projects, and solid footing. None of this progress would have been possible without our engaged community, Project leadership, supportive Corporate Members, and our hardworking team.&nbsp;
+Thank you to everyone who participated in the Rust Foundation’s calls to action, shared candid thoughts and perspectives on our efforts, and supported our mission in various ways in 2022. The Rust Foundation is entering the new year with big plans, exciting projects, and solid footing. None of this progress would have been possible without the engaged Rust community, Rust Project leadership, our supportive Corporate Members, and our hardworking team.&nbsp;
 
-Happy New Year\!&nbsp;
+Happy New Year and cheers to the continued growth of the Rust programming language in 2023\!&nbsp;
 
 \- Rebecca Rumbul *(Rust Foundation Executive Director & CEO)*
