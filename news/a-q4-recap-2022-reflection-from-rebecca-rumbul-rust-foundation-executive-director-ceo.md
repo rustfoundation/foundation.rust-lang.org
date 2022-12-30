@@ -1,7 +1,5 @@
 ---
-title: >-
-  A Q4 Recap & 2022 Reflection from Rebecca Rumbul, Rust Foundation Executive
-  Director & CEO
+title: A Q4 Recap & 2022 Reflection from Rebecca Rumbul
 byline: Rebecca Rumbul, (Rust Foundation CEO & Executive Director)
 description: >
   A summary of the Rust Foundation’s activities in October, November, and
