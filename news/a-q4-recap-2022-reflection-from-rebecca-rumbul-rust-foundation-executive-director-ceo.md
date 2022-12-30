@@ -17,6 +17,8 @@ layout: layouts/news.njk
 
 **With a new year just a few days away, we’re rounding out our quarterly recap series for 2022. In this post, I’ll summarize what our team accomplished this past quarter, milestones that arose from key Rust Foundation initiatives, and where we stand as a Foundation going into 2023.&nbsp;**
 
+---
+
 ### Staffing & Administration&nbsp;
 
 2022 was a year filled with administrative groundwork as we established the Rust Foundation staff team and created a staffing framework fit for growth. In Q4, we filled two important full-time roles that I believe are already setting up the Foundation for meaningful impact in 2023.&nbsp;&nbsp;
@@ -27,7 +29,7 @@ Just a few weeks after Gracie’s arrival, we welcomed [<u>Sage Griffin</u>](htt
 
 I’m so pleased that our search to fill these roles resulted in Gracie and Sage coming aboard. I believe their expertise is helping drive positive collaboration between the Rust Foundation and the wider Rust Community.&nbsp;
 
-In Q4, we also opened recruitment for a Security Engineer role, which was made possible thanks to generous support from OpenSSF Alpha-Omega as part of our Security Initiative. This position is now closed to new applicants as we are wrapping up the hiring process. I look forward to announcing our new Security Engineer in the coming weeks\!
+In Q4, we also opened recruitment for a Security Engineer role, which was made possible thanks to generous financial support from <a target="_blank" rel="noopener" href="https://openssf.org/community/alpha-omega/">OpenSSF Alpha-Omega</a> and in-kind support from Platinum Member <a target="_blank" rel="noopener" href="https://jfrog.com/">JFrog</a> as part of our Security Initiative. This position is now closed to new applicants as we are wrapping up the hiring process. I look forward to announcing our new Security Engineer in the coming weeks\!
 
 Finally, in December, we opened up two additional software engineering roles, which are still open (at the time of publishing this blog). One of our Software Engineer roles is dedicated to security support in the Rust ecosystem, while the other will be crates.io-focused. Prospective candidates can learn more about these open roles on our [<u>careers page</u>](https://foundation.rust-lang.org/careers/).
 
@@ -37,7 +39,7 @@ We look forward to finalizing these recruitment exercises early in the new year 
 
 From October through December, we continued to work on updating our trademark policy, with input from our Trademark Working Group (composed of Rust Foundation staff members, Project Directors and leaders, Corporate Members, and legal counsel) across several meetings. We are in a good place in terms of having an almost-finished draft, and our current focus is on adding a “plain English” summation of important points within the policy.&nbsp;
 
-Additionally, we have been fundraising for the 2023 [<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/), to continue supporting maintainer work in the Rust Project and ecosystem. We are grateful to Rust Foundation Members Google, AWS, Zama, and Tag1 for their generous recent donations.&nbsp;
+Additionally, we have been fundraising for the 2023 [<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/), to continue supporting maintainer work in the Rust Project and ecosystem. We are grateful to Rust Foundation Members <a target="_blank" rel="noopener" href="https://www.google.com/">Google</a>, <a target="_blank" rel="noopener" href="https://aws.amazon.com/">AWS</a>, <a target="_blank" rel="noopener" href="https://www.zama.ai/">Zama</a>, and <a target="_blank" rel="noopener" href="https://www.tag1consulting.com/">Tag1</a> for their generous recent donations.&nbsp;
 
 Please stay tuned for specific 2022 financial figures in the forthcoming Rust Foundation Annual Report (more on this below).&nbsp;
 
