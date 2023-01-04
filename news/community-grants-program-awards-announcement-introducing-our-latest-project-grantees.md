@@ -4,10 +4,9 @@ title: >-
   Grantees!
 byline: Rust Foundation Team
 description: >
-  The latest round of Rust Foundation Project Grantees will be focused on
-  various short-term, Rust-related projects to support and supplement the work
-  of Rust’s hardworking maintainers and leaders. Meet the latest Project
-  Grantees below!
+  Introducing our second round of Rust Foundation Project Grantees, who will be
+  focused on various short-term, Rust-related projects to support and supplement
+  the work of Rust’s hardworking maintainers and leaders.
 date: 2023-01-05T12:30:00Z
 tags:
   - announcement
@@ -18,7 +17,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-### **The Rust Foundation is thrilled to announce our second round of Project Grants as part of our**[**<u>Community Grants Program</u>**](https://foundation.rust-lang.org/grants/) **and introduce you to the 25 grantees who will carry out various Rust-related projects over the next several months.&nbsp;**
+### **The Rust Foundation is thrilled to announce our second round of Project Grants as part of our &nbsp;**[**<u>Community Grants Program</u>**](https://foundation.rust-lang.org/grants/) **and introduce you to the 25 grantees who will carry out various Rust-related projects over the next several months.&nbsp;**
 
 The Rust Foundation’s Community Grants Program provides funds to the Rust development community in order to support and expand the language.&nbsp;[<u>Project Grants</u>](https://foundation.rust-lang.org/grants/project-grants/) are a specific subset of financial awards ranging from $2,500 to $15,000 USD that fund short-term packages of work. In 2022, we held two application rounds for the Community Grants Program: the first in April for Project Grants and [<u>Fellowships</u>](https://foundation.rust-lang.org/grants/fellowships), and the second in October 2022 specifically for Project Grants.&nbsp;
 
@@ -44,12 +43,12 @@ The Project Grantees listed below demonstrated a commitment to maintain, develop
 
 ## **Please join us in congratulating our newest Rust Foundation Project Grantees\!**
 
-*To view our first round of Project Grantees and Fellows, view our April 2022 announcement*[*<u>here</u>*](https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/)*. We look forward to releasing a more central directory of our grants in the near future.&nbsp;*
+*To view our first round of Project Grantees and Fellows, view our April 2022 announcement &nbsp;*[*<u>here</u>*](https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/)*. We look forward to releasing a more central directory of our grants in the near future.&nbsp;*
 
-*Want to get a closer look at the program experience? Don't miss our evolving*[*<u>Community Grantee Spotlight Series</u>*](https://foundation.rust-lang.org/tags/grantee%20spotlight/) *for Q&As with grantees and fellows.*
+*Want to get a closer look at the program experience? Don't miss our evolving &nbsp;*[*<u>Community Grantee Spotlight Series</u>*](https://foundation.rust-lang.org/tags/grantee%20spotlight/) *for Q&As with grantees and fellows.*
 
 ---
 
-### **Thank you to our generous 2022 sponsors**[**<u>AWS</u>**](https://aws.amazon.com/)&nbsp;**,**[**<u>Huawei</u>**](https://www.huawei.com/us/)&nbsp;**, and**[**<u>Google</u>**](https://www.google.com/) **who made this recent round of Project Grants possible.&nbsp;**
+### **Thank you to our generous 2022 sponsors &nbsp;**[**<u>AWS</u>**](https://aws.amazon.com/)**, &nbsp;**[**<u>Huawei</u>**](https://www.huawei.com/us/)**, and &nbsp;**[**<u>Google</u>**](https://www.google.com/) **who made this recent round of Project Grants possible.&nbsp;**
 
 If your organization is interested in providing support to the Rust language community, donating to the Community Grants Program is a wonderful way to do so. You can inquire about supporting the program by emailing us at [<u>grants@rustfoundation.org</u>](mailto:grants@rustfoundation.org) year-round. We accept donations for the Community Grants Program in any amount. Learn more about the program [<u>here</u>](https://foundation.rust-lang.org/grants/).&nbsp;
