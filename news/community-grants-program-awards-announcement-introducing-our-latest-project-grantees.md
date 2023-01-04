@@ -3,10 +3,7 @@ title: >-
   Community Grants Program Awards Announcement – Introducing Our Latest Project
   Grantees!
 byline: Rust Foundation Team
-description: >-
-  Introducing our second round of Rust Foundation Project Grantees. This program
-  enables grant recipients to focus on short-term, Rust-related projects to
-  support the work of Rust’s hardworking maintainers and leaders.
+description: "Announcing the latest Rust Foundation Project Grant recipients who will carry out various Rust-related projects over the next several months.\_"
 date: 2023-01-05T12:30:00Z
 tags:
   - announcement
@@ -17,9 +14,11 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-### **The Rust Foundation is thrilled to announce our second round of Project Grants as part of our &nbsp;**[**<u>Community Grants Program</u>**](https://foundation.rust-lang.org/grants/) **and introduce you to the 25 grantees who will carry out various Rust-related projects over the next several months.&nbsp;**
+### &nbsp;
 
-The Rust Foundation’s Community Grants Program provides funds to the Rust development community in order to support and expand the language.&nbsp;[<u>Project Grants</u>](https://foundation.rust-lang.org/grants/project-grants/) are a specific subset of financial awards ranging from $2,500 to $15,000 USD that fund short-term packages of work. In 2022, we held two application rounds for the Community Grants Program: the first in April for Project Grants and [<u>Fellowships</u>](https://foundation.rust-lang.org/grants/fellowships), and the second in October 2022 specifically for Project Grants.&nbsp;
+The Rust Foundation’s Community Grants Program provides funds to the Rust development community in order to support the work of Rust’s hardworking maintainers and leaders.&nbsp;[<u>Project Grants</u>](https://foundation.rust-lang.org/grants/project-grants/) are a specific subset of financial awards ranging from $2,500 to $15,000 USD that fund short-term packages of work. In 2022, we held two application rounds for the Community Grants Program: the first in April for Project Grants and [<u>Fellowships</u>](https://foundation.rust-lang.org/grants/fellowships), and the second in October 2022 specifically for Project Grants.&nbsp;
+
+## Today, we are pleased to announce our second round of Rust Foundation Project Grantees.&nbsp;
 
 ### **A Note to Past and Prospective Applicants**
 
