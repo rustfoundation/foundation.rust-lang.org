@@ -50,6 +50,6 @@ The Project Grantees listed below demonstrated a commitment to maintain, develop
 
 ---
 
-### **Thank you to our generous 2022 sponsors**[**<u>AWS</u>**](https://aws.amazon.com/)**,**[**<u>Huawei</u>**](https://www.huawei.com/us/)**, and**[**<u>Google</u>**](https://www.google.com/) **who made this recent round of Project Grants possible.&nbsp;**
+### **Thank you to our generous 2022 sponsors**[**<u>AWS</u>**](https://aws.amazon.com/)&nbsp;**,**[**<u>Huawei</u>**](https://www.huawei.com/us/)&nbsp;**, and**[**<u>Google</u>**](https://www.google.com/) **who made this recent round of Project Grants possible.&nbsp;**
 
 If your organization is interested in providing support to the Rust language community, donating to the Community Grants Program is a wonderful way to do so. You can inquire about supporting the program by emailing us at [<u>grants@rustfoundation.org</u>](mailto:grants@rustfoundation.org) year-round. We accept donations for the Community Grants Program in any amount. Learn more about the program [<u>here</u>](https://foundation.rust-lang.org/grants/).&nbsp;
