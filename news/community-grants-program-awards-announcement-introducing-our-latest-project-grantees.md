@@ -16,9 +16,7 @@ layout: layouts/news.njk
 ---
 ### &nbsp;
 
-The Rust Foundation’s Community Grants Program provides funds to the Rust development community in order to support the work of Rust’s hardworking maintainers and leaders.&nbsp;[<u>Project Grants</u>](https://foundation.rust-lang.org/grants/project-grants/) are a specific subset of financial awards ranging from $2,500 to $15,000 USD that fund short-term packages of work. In 2022, we held two application rounds for the Community Grants Program: the first in April for Project Grants and [<u>Fellowships</u>](https://foundation.rust-lang.org/grants/fellowships), and the second in October 2022 specifically for Project Grants.&nbsp;
-
-## Today, we are pleased to announce our second round of Rust Foundation Project Grantees.&nbsp;
+The Rust Foundation’s Community Grants Program provides funds to the Rust development community to help support the work of Rust’s hardworking maintainers and leaders.&nbsp;[<u>Project Grants</u>](https://foundation.rust-lang.org/grants/project-grants/) are a specific subset of financial awards ranging from $2,500 to $15,000 USD that fund short-term Rust-related projects, carried out by both individuals and organizations. In 2022, we held two application rounds for the Community Grants Program: the first in April for Project Grants and [<u>Fellowships</u>](https://foundation.rust-lang.org/grants/fellowships), and the second in October 2022 — specifically for Project Grants.&nbsp;**Today, we are pleased to introduce you to our second round of Rust Foundation Project Grantees.&nbsp;**
 
 ### **A Note to Past and Prospective Applicants**
 
