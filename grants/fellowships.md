@@ -2,31 +2,34 @@
 layout: layouts/grants.njk
 title: Community Grants Program Rust Foundation Fellowships
 name: Rust Foundation Fellowships
-description: Awards made to up to 20 individuals, providing a stipend of $1,000 per month plus a travel and training budget. The initial group of Rust Foundation Fellows was announced in June 2022. The Rust Foundation is currently fundraising for the 2023 Fellowship Program.
-date: 2022-04-01
+description: >-
+   Awards made to up to 20 individuals, providing a stipend of $1,000 per month
+   plus a travel and training budget. The initial group of Rust Foundation
+   Fellows was announced in June 2022. The Rust Foundation is currently
+   fundraising for the 2023 Fellowship Program.
+date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
 ---
-
 ## Applications are now closed for 2022
 
 The initial group of Rust Foundation Fellows was announced in June 2022. Details of the awards can be found [here](https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/).
 
-The Rust Foundation is currently fundraising for the 2023 Fellowship Program. If you are interested in supporting future Fellowship cohorts, then we would love you to [get in touch](https://foundation.rust-lang.org/info/contact/)!
+The Rust Foundation is currently fundraising for the 2023 Fellowship Program. If you are interested in supporting future Fellowship cohorts, then we would love you to [get in touch](https://foundation.rust-lang.org/info/contact/)\!
 
 ## Summary
 
-**Purpose of award**:To help support and reward those individuals who, through their voluntary work, have helped make Rust what it is today, and who are key to its future success.
+**Purpose of award**\:To help support and reward those individuals who, through their voluntary work, have helped make Rust what it is today, and who are key to its future success.
 
-**Award amount**: A stipend of $1,000 per month plus a travel and training budget.
+**Award amount**\: A stipend of $1,000 per month plus a travel and training budget.
 
-**Application window**: 1st April to 30th April 2022.
+**Application window**\: 1st April to 30th April 2022.
 
-**Selection decisions**: By end of May 2022.
+**Selection decisions**\: By end of May 2022.
 
-**Applicants informed of the outcome**: 8th June 2022.
+**Applicants informed of the outcome**\: 8th June 2022.
 
-**Formal start of the Fellowship program**: 1st July 2022.
+**Formal start of the Fellowship program**\: 1st July 2022.
 
 ## Details
 
@@ -34,10 +37,10 @@ The Rust Foundation Fellowship is a package of support for current and potential
 
 Rust Foundation Fellows (RFFs) will be members of the Rust community to whom the Rust Foundation will award a stipend of $1,000 a month, for 12 months. There will be two different kinds of RFFs:
 
-* **Fellows**: these are experienced and active members of the Rust community, who may already be members of project teams. They will have the skills and experience to work largely independently without additional support from the project teams. It is anticipated that the majority of the first cohort of RFFs will be Fellows.
-* **Associate Fellows**: these are members of the community who have Rust programming experience, but less (or no) experience with the Rust project. Associate Fellows should be keen to develop their skills with a view to becoming active members of a project team, working group, or other maintainer role in the future. It is anticipated that 4-6 members of the first cohort of RFFs will be Associate Fellows, depending upon the capacity of the project teams to provide mentorship support.
+* **Fellows**\: these are experienced and active members of the Rust community, who may already be members of project teams. They will have the skills and experience to work largely independently without additional support from the project teams. It is anticipated that the majority of the first cohort of RFFs will be Fellows.
+* **Associate Fellows**\: these are members of the community who have Rust programming experience, but less (or no) experience with the Rust project. Associate Fellows should be keen to develop their skills with a view to becoming active members of a project team, working group, or other maintainer role in the future. It is anticipated that 4-6 members of the first cohort of RFFs will be Associate Fellows, depending upon the capacity of the project teams to provide mentorship support.
 
-The aim of the RFF grants is (a) to provide support to volunteers who are already contributing to the community, and (b) to enable people who have Rust experience to develop their ability to contribute to the community. We are not expecting RFFs to spend 20 _more_ hours a month supporting the community, rather to reward them for the time they are already contributing to help improve their work-life balance and reduce the risk of burnout.
+The aim of the RFF grants is (a) to provide support to volunteers who are already contributing to the community, and (b) to enable people who have Rust experience to develop their ability to contribute to the community. We are not expecting RFFs to spend 20 *more* hours a month supporting the community, rather to reward them for the time they are already contributing to help improve their work-life balance and reduce the risk of burnout.
 
 In addition to the monthly stipend each RFF will have a travel allowance of up to $2,000 for their fellowship year to enable them to attend RustConf or another similar Rust event. Furthermore, we will spend up to $2,000 on training and skills development for each fellow. We will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them.
 
@@ -47,16 +50,16 @@ Being awarded a Fellowship will not confer any special privileges on the Fellows
 
 Prospective Fellows are free to choose what they want to work on during the course of their Fellowship year. The focus of their work must, however, be on one or more parts of the Rust Project, in the range of activities carried out by the [Rust Teams and Working Groups](https://www.rust-lang.org/governance). Fellowships won’t be limited to people who want to spend their Fellowship year writing code. Applications are also welcome from people who want to:
 
-* Provide organizational support 
-* Carry out moderation 
-* Write documentation 
-* Support the expansion of the Rust community 
+* Provide organizational support
+* Carry out moderation
+* Write documentation
+* Support the expansion of the Rust community
 * Review code
-* Carry out any other work that is beneficial to the community 
+* Carry out any other work that is beneficial to the community
 
 Applicants will be asked to describe in their application how they intend to support Rust over the course of the year. We’re not looking for a detailed list of activities – we’re looking for an overview, in broad terms, of the areas of intended focus. Priority will be given to applicants whose proposed activities align with the priorities of Project Teams and Working Groups.
 
-RFFs _will not_ be required to set and meet specific milestones. They will be asked to prepare a brief update each quarter and have a catch-up call with the Foundation staff. At the end of the fellowship year RFFs will be asked to write a blog post detailing their experiences of the program and reviewing their achievements for publication on the Foundation’s website.
+RFFs *will not* be required to set and meet specific milestones. They will be asked to prepare a brief update each quarter and have a catch-up call with the Foundation staff. At the end of the fellowship year RFFs will be asked to write a blog post detailing their experiences of the program and reviewing their achievements for publication on the Foundation’s website.
 
 All RFFs will be required to adhere to the [Rust Foundation’s Code of Conduct](https://foundation.rust-lang.org/policies/code-of-conduct/), which is an extension of the [Rust Project Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct). Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.
 
