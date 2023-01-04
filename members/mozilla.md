@@ -1,7 +1,7 @@
 ---
 name: Mozilla
-level: platinum
+level: silver
 logo: /img/member/mozilla.png
-founder: yes
+founder: 'yes'
 url: https://mozilla.org
 ---
