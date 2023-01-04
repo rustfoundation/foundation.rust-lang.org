@@ -1,6 +1,6 @@
 ---
 title: >-
-  Community Grants Program Awards Announcement – Introducing Our Latest Project
+  Community Grants Program Announcement – Introducing Our Latest Project
   Grantees!
 byline: Rust Foundation Team
 description: "Announcing the latest Rust Foundation Project Grant recipients who will carry out various Rust-related projects over the next several months.\_"
@@ -14,13 +14,13 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-### &nbsp;
+### <img src="/img/news/2023-01-05-project-grants-announcement/Announcement-Templates.png" width="580" height="326" alt="Orange gradient background with white rust foundation logo up top (letter &quot;R&quot; inside gear icon) with the following white heading text: &quot;Announcing Our Latest Round of Project Grant Recipients”. Underneath is a smaller subheading that reads “Please join us in congratulating these 25 Rust community members who have been selected to receive a Rust Foundation Project Grant as part of our Community Grants Program.”" title="Project Grant Announcement" />
 
 The Rust Foundation’s Community Grants Program provides funds to the Rust development community to help support the work of Rust’s hardworking maintainers and leaders.&nbsp;[<u>Project Grants</u>](https://foundation.rust-lang.org/grants/project-grants/) are a specific subset of financial awards ranging from $2,500 to $15,000 USD that fund short-term Rust-related projects, carried out by both individuals and organizations. In 2022, we held two application rounds for the Community Grants Program: the first in April for Project Grants and [<u>Fellowships</u>](https://foundation.rust-lang.org/grants/fellowships), and the second in October 2022 — specifically for Project Grants. Today, we are pleased to introduce you to our second round of Rust Foundation Project Grantees.&nbsp;
 
 ### **A Note to Past and Prospective Applicants**
 
-Our latest round of Project Grants is the result of a monthlong application period that resulted in around 100 applications (roughly a 66% increase from the earlier application round). With limited capacity in the program, we had to make some difficult decisions and couldn’t extend a grant to everyone deserving of one. If you applied to the last application round but were not selected, please know that we plan to offer more Project Grants in the future and would love to receive another application from you. If you are interested in a Rust Foundation Project Grant but have any doubts about your eligibility or worthiness, we highly encourage you to read [<u>this post on the Inside Rust about Impostor Syndrome</u>](https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html) from Rust Foundation Project Director Jane&nbsp; Lusby on behalf of all our Project Directors.&nbsp;
+Our latest round of Project Grants is the result of a monthlong application period that resulted in around 100 applications (roughly a 66% increase from the earlier application round). With limited capacity in the program, we had to make some difficult decisions and couldn’t extend a grant to everyone deserving of one. If you applied to the last application round but were not selected, please know that we plan to offer more Project Grants in the future and would love to receive another application from you. If you are interested in a Rust Foundation Project Grant but have any doubts about your eligibility or worthiness, we highly encourage you to read [<u>this post on the Inside Rust about Impostor Syndrome</u>](https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html) from Rust Foundation Project Director Jane Lusby on behalf of all our Project Directors.&nbsp;
 
 ### **Application Process Updates**
 
@@ -46,6 +46,6 @@ The Project Grantees listed below demonstrated a commitment to maintain, develop
 
 ---
 
-### **Thank you to our generous 2022 sponsors &nbsp;**[**<u>AWS</u>**](https://aws.amazon.com/)**, &nbsp;**[**<u>Huawei</u>**](https://www.huawei.com/us/)**, and &nbsp;**[**<u>Google</u>**](https://www.google.com/) **who made this recent round of Project Grants possible.&nbsp;**
+### **Thank you to &nbsp;**[**<u>AWS</u>**](https://aws.amazon.com/)**, &nbsp;**[**<u>Huawei</u>**](https://www.huawei.com/us/)**, and &nbsp;**[**<u>Google</u>**](https://www.google.com/) **whose donations to the Community Grants Program in 2022 made these Project Grants possible.&nbsp;**
 
 If your organization is interested in providing support to the Rust language community, donating to the Community Grants Program is a wonderful way to do so. You can inquire about supporting the program by emailing us at [<u>grants@rustfoundation.org</u>](mailto:grants@rustfoundation.org) year-round. We accept donations for the Community Grants Program in any amount. Learn more about the program [<u>here</u>](https://foundation.rust-lang.org/grants/).&nbsp;
