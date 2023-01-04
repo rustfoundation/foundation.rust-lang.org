@@ -4,8 +4,9 @@ title: Community Grants Program Rust Foundation Fellowships
 name: Rust Foundation Fellowships
 description: >-
    Awards made to up to 20 individuals, providing a stipend of $1,000 per month
-   plus a travel and training budget. The Rust Foundation is currently
-   fundraising to continue the Fellowship Program.
+   plus a travel and training budget. Applications are now closed, though we intend 
+   to open a new application round later this year. 
+   The Rust Foundation is currently fundraising to continue this program.
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
