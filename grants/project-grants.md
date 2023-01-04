@@ -4,8 +4,9 @@ title: Community Grants Program Project Grants
 name: Project Grants
 description: >-
    Awards made to individuals and groups for discrete pieces of work in the
-   range of $2,500 to $15,000. Applications are now closed for 2022 and the Rust
-   Foundation is currently fundraising to continue the program in 2023.
+   range of $2,500 to $15,000. Applications are now closed, though we intend
+   to open a new application round later this year. The Rust Foundation is currently
+   fundraising to continue this program.
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
