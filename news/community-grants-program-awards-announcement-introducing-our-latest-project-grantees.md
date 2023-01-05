@@ -1,5 +1,5 @@
 ---
-title: Introducing Our Second Round of Project Grantees
+title: Introducing Our Newest Project Grantees
 byline: Rust Foundation Team
 description: >-
   Announcing the latest Rust Foundation Project Grant recipients who will carry
