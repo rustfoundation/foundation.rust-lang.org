@@ -22,9 +22,11 @@ The Rust Foundation’s Community Grants Program provides funds to the Rust deve
 
 Our latest round of Project Grants is the result of a monthlong application period that resulted in over 100 applications (a more than 300% increase from the earlier application round). With limited funds for the program, we had to make some difficult decisions and couldn’t extend a grant to everyone who proposed meaningful work. If you applied to the last application round but were not selected, please know that we plan to offer more Project Grants in the future and would love to receive another application from you. If you are interested in a Rust Foundation Project Grant but have any doubts about your eligibility or worthiness, we highly encourage you to read[<u>this post on the Inside Rust about Impostor Syndrome</u>](https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html) from Rust Foundation Project Director Jane Lusby on behalf of all our Project Directors. &nbsp;
 
-### **Application Process Updates**
+### **Application Process Updates & Acknowledgements**
 
-We would like to thank past applicants, Rust Project leadership, and the wider Rust community for sharing their feedback and suggestions for improving our application process. We implemented a number of changes in our second application round this past Fall, including clarifying certain portions of the application form itself and offering detailed feedback to all interested applicants. If you have any additional feedback to share for future Community Grants Program application rounds, you can email us at [<u>grants@rustfoundation.org</u>](mailto:grants@rustfoundation.org).&nbsp;
+Thank you to past Community Grants Program applicants, Rust Project leadership, and the wider Rust community for sharing their feedback and suggestions for improving our application process. We implemented a number of changes in our second application round this past Fall, including clarifying certain portions of the application form itself and offering detailed feedback to all interested applicants. If you have any additional feedback to share for future Community Grants Program application rounds, you can email us at <u>grants@rustfoundation.org</u>.&nbsp;
+
+We would also like to thank Rust Project leadership for helping the Rust Foundation team throughout the application review process.&nbsp;
 
 #### ***Hardship Grants and Event Support Grants Are Available Year-Round***
 
@@ -48,4 +50,4 @@ The Project Grantees listed below demonstrated a commitment to maintain, develop
 
 ### **Thank you to &nbsp;**[**<u>AWS</u>**](https://aws.amazon.com/)**, &nbsp;**[**<u>Huawei</u>**](https://www.huawei.com/us/)**, and &nbsp;**[**<u>Google</u>**](https://www.google.com/) **whose donations to the Community Grants Program in 2022 made these Project Grants possible.&nbsp;**
 
-If your organization is interested in providing support to the Rust language community, donating to the Community Grants Program is a wonderful way to do so. You can inquire about supporting the program by emailing us at [<u>grants@rustfoundation.org</u>](mailto:grants@rustfoundation.org) year-round. We accept donations for the Community Grants Program in any amount. Learn more about the program [<u>here</u>](https://foundation.rust-lang.org/grants/).&nbsp;
+If your organization is interested in providing support to the Rust language community in 2023, donating to the Community Grants Program is a wonderful way to do so. You can inquire about supporting the program by emailing us at [<u>grants@rustfoundation.org</u>](mailto:grants@rustfoundation.org) year-round. We accept donations for the Community Grants Program in any amount. Learn more about the program [<u>here</u>](https://foundation.rust-lang.org/grants/).&nbsp;
