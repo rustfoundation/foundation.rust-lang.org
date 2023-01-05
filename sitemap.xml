@@ -472,6 +472,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/news/community-grants-program-awards-announcement-introducing-our-latest-project-grantees/</loc>
+    <lastmod>2023-01-05</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/about/</loc>
     <lastmod>2023-01-05</lastmod>
   </url>
@@ -1088,6 +1093,11 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/grantee%20spotlight/</loc>
+    <lastmod>2023-01-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/project%20grants/</loc>
     <lastmod>2023-01-05</lastmod>
   </url>
   
