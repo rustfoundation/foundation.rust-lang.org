@@ -1027,16 +1027,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/program/</loc>
-    <lastmod>2023-01-05</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
-    <lastmod>2023-01-05</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/community/</loc>
     <lastmod>2023-01-05</lastmod>
   </url>
@@ -1048,6 +1038,16 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/plans/</loc>
+    <lastmod>2023-01-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
+    <lastmod>2023-01-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/program/</loc>
     <lastmod>2023-01-05</lastmod>
   </url>
   
