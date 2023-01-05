@@ -1,9 +1,10 @@
 ---
-title: >-
-  Community Grants Program Announcement – Introducing Our Latest Project
-  Grantees!
+title: Introducing Our Second Round of Project Grantees
 byline: Rust Foundation Team
-description: "Announcing the latest Rust Foundation Project Grant recipients who will carry out various Rust-related projects over the next several months.\_"
+description: >-
+  Announcing the latest Rust Foundation Project Grant recipients who will carry
+  out various Rust-related projects over the next several months as part of the
+  Community Grants Program.
 date: 2023-01-05T12:30:00Z
 tags:
   - announcement
