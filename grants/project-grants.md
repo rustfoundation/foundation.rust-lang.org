@@ -4,18 +4,20 @@ title: Community Grants Program Project Grants
 name: Project Grants
 description: >-
    Awards made to individuals and groups for discrete pieces of work in the
-   range of $2,500 to $15,000. Applications are now closed for 2022 and the Rust Foundation
-   is currently fundraising to continue the program in 2023.
+   range of $2,500 to $15,000. Applications are now closed, though we intend
+   to open a new application round later this year. The Rust Foundation is currently
+   fundraising to continue this program.
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
 ---
+## Update
 
-## Applications are now closed for 2022
+The initial group of Project Grant recipients was announced in June 2022. Details of the awards can be found [here](https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/). In January 2023, we announced the second round of Project Grants here. Work for these latest Project Grants began on January 1, 2023.
 
-The initial group of Project Grant recipients was announced in June 2022. Details of the awards can be found <a href="https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/">here</a>. We are assessing the applications to the second round of funding, and are excited about making those awards soon!
+We plan to hold another Project Grants application round in the future. Please stay tuned for updates.&nbsp;
 
-The Rust Foundation is currently fundraising for the 2023 Community Grants Program. If you are interested in supporting future Project Grant cohorts, then we would love you to <a href="mailto:contact@rustfoundation.org">get in touch</a>!
+The Rust Foundation is currently fundraising for the 2023 Community Grants Program. If you are interested in supporting future Project Grant cohorts, we would love to hear from you\! [Click here](mailto:contact@rustfoundation.org)&nbsp;to get in touch.&nbsp;
 
 ## Summary
 
@@ -25,13 +27,7 @@ Any work that benefits the Rust Project is eligible for a Project Grant. Priorit
 
 **Award amount**\: $2,500 to $15,000.
 
-**Application window**\: 3rd October to November 7, 2022.
-
-**Selection decisions**\: By end of November 2022.
-
-**Applicants informed of the outcome:** 9th December 2022.
-
-**Projects start**\: 1st January 2023.
+&nbsp;
 
 ## Details
 
@@ -42,6 +38,7 @@ Any work that benefits the Rust Project is eligible for a Project Grant. Priorit
 Project grants are financial awards that support specific packages of work that benefit the Rust ecosystem. Any work that benefits the Rust ecosystem as a whole is eligible for a Project Grant. Priority will be given to those grants that will clearly deliver a significant benefit to a reasonable proportion of the Rust community. Applicants will choose from one of three categories of project focus: Maintenance and Support; Development and Infrastructure; and Community. The areas of work under each category are:
 
 **Maintenance and Support**
+
 * Code review
 * Documentation updates
 * Design review
@@ -50,11 +47,13 @@ Project grants are financial awards that support specific packages of work that 
 * Bug fixes
 
 **Development and Infrastructure**
+
 * New features and documentation
 * Performance enhancements
 * Rollups/CI/releases
 
 **Community**
+
 * Moderation
 * Communication (e.g. writing blog posts, release notes, preparing for meetings or taking minutes)
 * Producing education materials
@@ -67,7 +66,7 @@ All grantees will be required to adhere to the [Rust Foundation’s Code of Cond
 
 ## Who can apply?
 
-Project Grants are open to applications from anyone who will be over the age of 18 at the time of the grant award. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. Employees of organizations that are Members of the Rust Foundation should contact us at grants@rustfoundation.org prior to completing an application, in order for us to assess whether an award to them might represent a conflict of interest for the Foundation.
+Project Grants are open to applications from anyone who will be over the age of 18 at the time of the grant award. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. Employees of organizations that are Members of the Rust Foundation should contact us at [grants@rustfoundation.org](mailto:grants@rustfoundation.org) prior to completing an application, in order for us to assess whether an award to them might represent a conflict of interest for the Foundation.
 
 You don’t have to speak English to apply for a Project Grant, but if your project involves interaction with members of the Rust Project Teams and Working Groups you will need a reasonable understanding of written English.
 
