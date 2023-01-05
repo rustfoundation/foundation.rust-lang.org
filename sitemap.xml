@@ -487,11 +487,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/board/bobbyholley/</loc>
-    <lastmod>2023-01-05</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/board/ericgarcia/</loc>
     <lastmod>2023-01-05</lastmod>
   </url>
@@ -533,11 +528,6 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/board/ryanlevick/</loc>
-    <lastmod>2023-01-05</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/board/shanemiller/</loc>
     <lastmod>2023-01-05</lastmod>
   </url>
   
@@ -1027,7 +1017,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/community/</loc>
+    <loc>https://foundation.rust-lang.org/tags/programs/</loc>
+    <lastmod>2023-01-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
     <lastmod>2023-01-05</lastmod>
   </url>
   
@@ -1038,6 +1033,11 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
+    <lastmod>2023-01-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/community/</loc>
     <lastmod>2023-01-05</lastmod>
   </url>
   
@@ -1053,16 +1053,6 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/quarterly%20updates/</loc>
-    <lastmod>2023-01-05</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
-    <lastmod>2023-01-05</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/programs/</loc>
     <lastmod>2023-01-05</lastmod>
   </url>
   
