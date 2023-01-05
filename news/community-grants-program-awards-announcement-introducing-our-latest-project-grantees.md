@@ -31,7 +31,7 @@ We would also like to thank Rust Project leadership for helping the Rust Foundat
 
 #### ***Hardship Grants and Event Support Grants Are Available Year-Round***
 
-*Hardship Grants are financial awards ranging from $500 to $1,500 made to active maintainers of the Rust Project facing financial hardship. Event Support Grants are financial awards ranging from $100 to $500 made to support events (both physical and virtual). Both categories of grants are open for applications year-round. You can learn more*[*<u>here</u>*](https://foundation.rust-lang.org/grants/)*.&nbsp;*
+*Hardship Grants are financial awards ranging from $500 to $1,500 made to active maintainers of the Rust Project facing financial hardship. Event Support Grants are financial awards ranging from $100 to $500 made to support events (both physical and virtual). Both categories of grants are open for applications year-round. You can learn more&nbsp;*[*<u>here</u>*](https://foundation.rust-lang.org/grants/)*.&nbsp;*
 
 ## **Introducing Our Second Round of Project Grantees**
 
