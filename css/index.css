@@ -438,11 +438,25 @@ footer .container {
   margin: 0.5em;
 }
 
+.memberslist li.goldmember {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  display: inline-block;
+}
+
+.memberslist li.silvermember {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  display: inline-block;
+}
+
 .memberslist li:hover .founding {
   display: inline-block;
 }
 
-.memberslist .founding {
+.memberslist .platinummember .founding {
   position: absolute;
   top: 0;
   left: 0;
@@ -454,12 +468,36 @@ footer .container {
   width: 20em;
 }
 
+.memberslist .goldmember .founding {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  background: white;
+  background-size: cover;
+  background-position: center;
+  height: 12em;
+  width: 15em;
+}
+
+.memberslist .silvermember .founding {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  background: white;
+  background-size: cover;
+  background-position: center;
+  height: 10em;
+  width: 12em;
+}
+
 .memberslist-small li img {
   width: 7em;
 }
 
 .silvermember img {
-    width: 10em;
+  width: 10em;
 }
 
 .donor img {
@@ -467,7 +505,7 @@ footer .container {
 }
 
 .platinummember img {
-    width: 20em;
+  width: 20em;
 }
 
 .goldmember img {
