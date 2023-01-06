@@ -4,20 +4,19 @@ title: Community Grants Program Project Grants
 name: Project Grants
 description: >-
    Awards made to individuals and groups for discrete pieces of work in the
-   range of $2,500 to $15,000. Applications are now closed, though we intend
-   to open a new application round later this year. The Rust Foundation is currently
-   fundraising to continue this program.
+   range of $2,500 to $15,000. Applications are now closed, though we intend to
+   open a new application round later this year. The Rust Foundation is
+   currently fundraising to continue this program.
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
 ---
-## Update
+## Updates
 
-The initial group of Project Grant recipients was announced in June 2022. Details of the awards can be found [here](https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/). In January 2023, we announced the second round of Project Grants here. Work for these latest Project Grants began on January 1, 2023.
-
-We plan to hold another Project Grants application round in the future. Please stay tuned for updates.&nbsp;
-
-The Rust Foundation is currently fundraising for the 2023 Community Grants Program. If you are interested in supporting future Project Grant cohorts, we would love to hear from you\! [Click here](mailto:contact@rustfoundation.org)&nbsp;to get in touch.&nbsp;
+* The first application round for 2022 Project Grants was announced in April 2022. Grant recipients and project information were published in June 2022&nbsp;[here](https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/).
+* The second application round for 2022 Project Grants was held in October 2022. Grant recipients and project information were published in January 2023&nbsp;<a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/news/community-grants-program-awards-announcement-introducing-our-latest-project-grantees/">here</a>.
+* We plan to hold another Project Grants application round in the future. Please stay tuned for further updates.&nbsp;
+* The Rust Foundation is currently fundraising for the 2023 Community Grants Program. If you are interested in supporting future Project Grant cohorts, we would love to hear from you\! [Click here](mailto:contact@rustfoundation.org)&nbsp;to get in touch.&nbsp;
 
 ## Summary
 
