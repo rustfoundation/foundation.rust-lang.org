@@ -108,7 +108,7 @@ You must have a verified email address to publish a crate. We receive any public
 
 When you visit Crates.io, we receive your IP address, user-agent header, and request path as part of our standard server logs. We store these logs for 1 year.
 
-When you (or tooling, such as Rustup) visits static.crates.io, we receive your IP address, user-agent header, referer header, and request path as part of our standard server logs. We store these logs for 1 year.
+When you (or tooling, such as Cargo) visits static.crates.io, we receive your IP address, user-agent header, referer header, and request path as part of our standard server logs. We store these logs for 1 year.
 
 All crates on Crates.io are public, including the list of crate owners’ user names and the crate upload date. Anyone may view or download a crate’s contents. Because of the public nature of Crates.io, any personal data you might include in a Cargo.toml file uploaded to a crate will be publicly available. For example, if an email address is in the `authors` field in the Cargo.toml file, that email address will also be public.
 
