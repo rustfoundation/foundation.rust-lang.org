@@ -94,7 +94,7 @@ We may ask individuals outside of the Rust Foundation to assist with the grant a
 
 When you visit rust-lang.org, we receive your IP address as part of our standard server logs. We store these logs for 1 year.
 
-### **static.rust-lang.org**
+#### **static.rust-lang.org**
 
 When you (or tooling, such as Rustup) visits static.rust-lang.org or dev-static.rust-lang.org, we receive your IP address, user-agent header, referer header, and request path as part of our standard server logs. We store these logs for 1 year.
 
