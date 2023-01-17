@@ -94,6 +94,10 @@ We may ask individuals outside of the Rust Foundation to assist with the grant a
 
 When you visit rust-lang.org, we receive your IP address as part of our standard server logs. We store these logs for 1 year.
 
+#### **static.rust-lang.org**
+
+When you (or tooling, such as Rustup) visits static.rust-lang.org or dev-static.rust-lang.org, we receive your IP address, user-agent header, referer header, and request path as part of our standard server logs. We store these logs for 1 year.
+
 ### **crates.io**
 
 [Crates.io](https://crates.io) is managed by members of the [Core team](https://www.rust-lang.org/governance/teams/crates-io) and the [Crates.io team](https://www.rust-lang.org/governance/teams/crates-io).
@@ -102,7 +106,9 @@ Crates.io requires users to have a [GitHub account](https://github.com) in order
 
 You must have a verified email address to publish a crate. We receive any public email address associated with your GitHub account. You can also choose to submit a different address to associate with your Crates.io activity. We will only use your email address to contact you about your account.
 
-When you visit Crates.io, we receive your IP address and user-agent header as part of our standard server logs. We store these logs for 1 year.
+When you visit Crates.io, we receive your IP address, user-agent header, and request path as part of our standard server logs. We store these logs for 1 year.
+
+When you (or tooling, such as Cargo) visits static.crates.io, we receive your IP address, user-agent header, referer header, and request path as part of our standard server logs. We store these logs for 1 year.
 
 All crates on Crates.io are public, including the list of crate owners’ user names and the crate upload date. Anyone may view or download a crate’s contents. Because of the public nature of Crates.io, any personal data you might include in a Cargo.toml file uploaded to a crate will be publicly available. For example, if an email address is in the `authors` field in the Cargo.toml file, that email address will also be public.
 
