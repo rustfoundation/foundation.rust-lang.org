@@ -3,8 +3,8 @@ title: Join the Rust Foundation at Rust Nation UK 2023
 byline:
 description: >
   Rust Nation is the first UK-based conference dedicated to the Rust programming
-  language. The conference will be held at The Brewery in the heart of London on
-  the 16th & 17th of February 2023. Read more for details about our Welcome
+  language. The event will be held at The Brewery in the heart of London on the
+  16th & 17th of February 2023. Read more for details about our Welcome
   Reception on February 15 and our presence at the conference. As sponsors of
   Rust Nation UK, we hope to see you there! 
 date: 2023-01-17T14:45:00Z
