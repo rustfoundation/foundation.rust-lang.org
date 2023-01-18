@@ -12,9 +12,9 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-&nbsp;
+<img src="/img/news/2023-01-18-lars-bergstrom-chair-announcement/Board-Announcements.png" width="580" height="326" alt="[Heading]: Announcing Lars Bergstrom  as the New Rust Foundation Board of Directors Chair [Sub-Heading 1 underneath headshot of Lars]: Lars Bergstrom, [Sub-heading 2]: (Rust Foundation Board of Directors Chair,  Founding Board Member Director,  Director of Engineering at Google)." title="Lars Bergstrom Chair Announcement" />
 
-<img src="/img/news/2023-01-18-lars-bergstrom-chair-announcement/Board-Announcements.png" width="580" height="326" alt="[Heading]: Announcing Lars Bergstrom  as the New Rust Foundation Board of Directors Chair [Sub-Heading 1 underneath headshot of Lars]: Lars Bergstrom, [Sub-heading 2]: (Rust Foundation Board of Directors Chair,  Founding Board Member Director,  Director of Engineering at Google)" title="Lars Bergstrom Chair Announcement" />
+&nbsp;
 
 The Rust Foundation is pleased to announce that Lars Bergstrom has been elected as our new Board of Directors Chair. Lars takes over from former Chair, Shane Miller who <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/news/board-announcement-farewell-to-shane-miller/">stepped down from the board in December</a>.&nbsp;
 
