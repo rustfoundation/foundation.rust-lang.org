@@ -15,7 +15,22 @@ layout: layouts/news.njk
 
 ##
 
-Lorem ipsum.
+The Rust Foundation is pleased to share our Annual Report for 2022, reflecting our organization's structure, growth, and impact over the past year.&nbsp;
+
+## In the 2022 Annual Report, you will find ...
+
+* A statement from our 2022 Board of Directors Chair, Shane Miller
+
+* Details on our leadership team&nbsp;
+* A list of major milestones
+* Spotlights on key Rust Foundation initiatives&nbsp;
+* Our 2022 income, expenditure, and surplus
+
+... and much more!&nbsp;
+
+We hope that our first Annual Report helps you understand where the Rust Foundation stands and all that we're proud of in 2022 as we look towards the rest of 2023.
+
+*Note: The 2022 Annual Report is meant to capture key details and metrics from January 1, 2022 through December 31, 2022. Our Corporate Members, financial details, and the makeup of our Board of Directors on the date of publication will not match the contents of this report.&nbsp;*
 
 ##
 
