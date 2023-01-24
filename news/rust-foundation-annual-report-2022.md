@@ -15,7 +15,7 @@ layout: layouts/news.njk
 
 ## <img src="/img/news/2023-01-26-annual-report-2022/The-Rust-Foundation-Annual-Report-2022-is-now-available!.png" width="580" height="326" alt="Annual Report" />
 
-The Rust Foundation is pleased to share our Annual Report for 2022, reflecting our organization's structure, growth, and impact over the past year.&nbsp;
+The Rust Foundation is pleased to share our <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/static/publications/annual-reports/annual-report-2022.pdf">Annual Report for 2022</a>, reflecting our organization's structure, growth, and impact over the past year.&nbsp;
 
 ## In the 2022 Annual Report, you will find ...
 
