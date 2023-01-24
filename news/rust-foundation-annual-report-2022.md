@@ -30,7 +30,7 @@ The Rust Foundation is pleased to share our Annual Report for 2022, reflecting o
 
 We hope that our first Annual Report helps you understand where the Rust Foundation stands and all that we're proud of in 2022 as we look towards the rest of 2023.
 
-*Note: The 2022 Annual Report is meant to capture key details and metrics from January 1, 2022 through December 31, 2022. Our Corporate Members, financial details, and the makeup of our Board of Directors on the date of publication will not match the contents of this report.&nbsp;*
+*Note: The 2022 Annual Report is meant to capture key details and metrics from January 1, 2022 through December 31, 2022. Our list and categorization of Corporate Members, financial details, and the makeup of our Board of Directors today will not match the contents of this report.&nbsp;*
 
 ##
 
