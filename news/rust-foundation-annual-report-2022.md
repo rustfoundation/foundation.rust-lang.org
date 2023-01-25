@@ -8,6 +8,8 @@ date: 2023-01-26T12:30:00Z
 tags:
   - announcement
   - annual report
+  - board of directors
+  - foundation
 index: false
 layout: layouts/news.njk
 ---
