@@ -4,7 +4,7 @@ byline:
 description: >-
   Download the 2022 Rust Foundation Annual Report to learn more about our
   growth, impact, and community investment over the past year.
-date: 2023-01-26T12:30:00Z
+date: 2023-01-26T12:00:00Z
 tags:
   - announcement
   - annual report
