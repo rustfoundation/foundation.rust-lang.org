@@ -39,4 +39,4 @@ We hope that our first Annual Report helps you understand where the Rust Foundat
 
 ## <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/static/publications/annual-reports/annual-report-2022.pdf">&gt;&gt; Click here to download the Rust Foundation Annual Report 2022</a>
 
-*Note: The 2022 Annual Report is meant to capture key details and metrics from January 1, 2022 through December 31, 2022. Our financial details, list/categorization of Corporate Members, and the makeup of our Board of Directors today will not match the contents of this report.&nbsp;*
+*Note: The 2022 Annual Report is meant to capture key details and metrics from January 1, 2022 through December 31, 2022. Our financial details, list/categorization of Corporate Members, and the makeup of our Board of Directors <u>today</u> will not match the contents of this report.&nbsp;*
