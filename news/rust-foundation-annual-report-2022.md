@@ -15,7 +15,7 @@ layout: layouts/news.njk
 ---
 ##
 
-## <img width="580" height="326" alt="Graphic of a book with the title reading &quot;Rust Foundation Annual Report 2022&quot; against a grey gradient geometric background." src="/img/news/2023-01-26-annual-report-2022/annual-report.png" title="Annual Report" />
+## <img width="580" height="326" alt="Graphic of a book with the title reading &quot;Rust Foundation Annual Report 2022&quot; against a grey gradient geometric background." title="Annual Report" src="/img/news/2023-01-26-annual-report-2022/annual-report.png" />
 
 We are pleased to share the Rust Foundation&nbsp;<a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/static/publications/annual-reports/annual-report-2022.pdf">Annual Report for 2022</a>, reflecting our organization's structure, growth, and impact over the past year.&nbsp;
 
