@@ -1,6 +1,6 @@
 ---
 name: Amanda Brock
 title: Open Source Business Advisor
-hover: /img/ferris/hover/amandahover.png
+ferris: /img/ferris/amanda.png
 headshot: /img/headshot/amanda.jpeg
 ---
