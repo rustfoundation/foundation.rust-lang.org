@@ -1,5 +1,5 @@
 ---
 name: Amanda Brock
-title: Open Business Advisor
+title: Open Source Business Advisor
 headshot: /img/headshot/amanda.jpeg
 ---
