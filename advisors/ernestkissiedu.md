@@ -1,6 +1,6 @@
 ---
 name: Ernest Kissiedu
 title: Community Advisor
-hover: /img/hover/ernesthover.png
+ferris: /img/ferris/ernesthover.png
 headshot: /img/headshot/ernest.jpg
 ---
