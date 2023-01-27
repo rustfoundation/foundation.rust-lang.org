@@ -1,5 +1,5 @@
 ---
 name: Shane Miller
 title: Leadership Advisor
-headshot: /img/headshot/shane.png
+headshot: /img/headshot/shane.jpg
 ---

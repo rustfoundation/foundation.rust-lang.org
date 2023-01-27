@@ -5,7 +5,6 @@ eleventyNavigation:
   key: About
   order: 2
 ---
-
 <section class="container">
     <h1>We are the Rust Foundation</h1>
 
@@ -23,6 +22,13 @@ eleventyNavigation:
     <h1>Board of Directors</h1>
     {% set peoplelist = collections.board %}
     {% include "peoplelist.njk" %}
+</section>
+
+<section class="container distinguished-advisors">
+    <h1>Distinguished Advisors</h1>
+    {% set peoplelist = collections.distinguishedadvisors %}
+    {% include "peoplelist.njk" %}
+    
 </section>
 
 <section class="container">
