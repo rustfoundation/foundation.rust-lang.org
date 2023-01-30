@@ -61,6 +61,6 @@ We will keep a written record of all donations, hospitality or gifts accepted or
 
 Participants who refuse to engage in bribery, or who raise concerns, are sometimes worried about possible repercussions. We want to assure our participants that we encourage openness and will support anyone who raises genuine concerns in good faith, and ensure they do not suffer any detrimental treatment as a result.
 
-To contact the Foundation regarding matters addressed by this Policy, please send an email to contact@rustfoundation.org, and reference “Foundation Anti-Bribery and Anti-Corruption Policy” in the subject line.
+You can <a href="/info/contact/">contact the Foundation</a> regarding matters addressed by this Policy. Please reference “Foundation Anti-Bribery and Anti-Corruption Policy” in the subject line.
 
 To the fullest extent possible, your report will be treated as confidential and we will let you know the outcome of the enquiry into your suspicions.

@@ -86,4 +86,4 @@ Team, working group, and project group are classifications that the project uses
 
 If you're unsure of how the groups you're involved in are classified, check their entry in the team repo.
 
-Have a question that is not covered here? Drop us a line at contact@rustfoundation.org and we will get back to you as soon as possible.
+Have a question that is not covered here? <a href="/info/contact/">Drop us a line</a> and we will get back to you as soon as possible.

@@ -142,4 +142,4 @@ Some Rust team members use the Zulip and Discord platforms for community collabo
 
 ## **Contact**
 
-For data subject access requests, or any questions about this privacy notice, please email support at contact@rustfoundation.org.
+For data subject access requests, or any questions about this privacy notice, please <a href="/info/contact/">contact us</a>.

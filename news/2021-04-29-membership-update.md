@@ -11,7 +11,7 @@ tags:
 
 It's been a busy time for the Rust Foundation as the new board of directors gets to know each other and establish its values and goals. I'm excited to announce we have several new Foundation members, including a new Platinum member and our first set of Silver Tier members.
 
-If you are interested in becoming a member- please reach out at contact@rustfoundation.org.
+If you are interested in becoming a member- please <a href="/info/contact/">reach out</a>.
 
 ## New Platinum Member
 
