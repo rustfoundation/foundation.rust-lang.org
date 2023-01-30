@@ -12,15 +12,11 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-&nbsp;
+##
 
-## &nbsp;
+<img width="500" height="281" src="/img/news/2022-10-19-welcoming-sage-griffin/sage.jpg" />
 
-<img src="/img/news/2022-10-19-welcoming-sage-griffin/sage.jpg" width="500" height="281" />
-
-## Welcome to Sage Griffin — our new Communities Advocate\!
-
-&nbsp;
+## Welcome to Sage Griffin — our new Communities Advocate!
 
 The Rust Foundation could not adequately support the Rust programming language and the maintainers developing the project without a strong focus on community health and collaboration. For this reason, we’ve been seeking to fill a significant role at the Foundation for several months.&nbsp;
 
@@ -36,4 +32,4 @@ In their own words on the Communities Advocate role, Sage says:
 
 Sage will regularly work with the Rust Foundation team, the Rust Project Teams and Working Groups, individual maintainers, and the wider Rust communities around the world.
 
-Welcome to the Rust Foundation, Sage\!
+Welcome to the Rust Foundation, Sage!
