@@ -61,4 +61,4 @@ The Foundation’s policy is to discuss thoroughly with legal counsel any propos
 
 ## Contact Information
 
-To contact Foundation regarding matters addressed by this Policy, please send an email to contact@rustfoundation.org, and reference “Foundation Antitrust Policy” in the subject line.
+You can <a href="/info/contact/">contact the Foundation</a> regarding matters addressed by this Policy. Please reference “Foundation Antitrust Policy” in the subject line.
