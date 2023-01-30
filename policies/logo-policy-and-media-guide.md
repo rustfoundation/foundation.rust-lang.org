@@ -76,4 +76,4 @@ As a member of the Rust community, please keep an eye out for questionable uses 
 
 Please do not approach users of the trademarks with a complaint. That should be left to the Rust Foundation and its representatives. Thanks\!
 
-If you have a specific question or concern about promoting Rust or using its trademarks, please contact the Rust Foundation: contact@rustfoundation.org.
+If you have a specific question or concern about promoting Rust or using its trademarks, please <a href="/info/contact/">contact the Rust Foundation</a>.
