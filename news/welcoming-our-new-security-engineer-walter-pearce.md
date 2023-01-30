@@ -3,7 +3,7 @@ title: 'Welcoming Our New Security Engineer, Walter Pearce '
 byline:
 description: >-
   We're pleased to share that Walter Pearce has joined the Rust Foundation as
-  our new Security Engineer. Learn more about him here...
+  our new Security Engineer. 
 date: 2023-01-31T12:00:00Z
 tags:
   - announcement
