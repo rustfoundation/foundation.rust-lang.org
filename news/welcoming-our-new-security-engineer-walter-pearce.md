@@ -11,13 +11,11 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/img/news/2023-01-31-walter-pearce-security-engineer/walter-pearce-announcement.jpg" width="1600" height="900" alt="Heading reads &quot;Please Join Us in Welcoming Our New Security Engineer:  Walter Pearce!&quot;. A headshot of Walter Pearce Appears to the right of the heading text inside of a circular, zig-zag frame." title="Walter Pearce Announcement" />
+<img src="/uploads/walter-pearce-announcement.jpg" width="580" height="326" />
 
 An important part of the&nbsp;<a target="_blank" href="https://foundation.rust-lang.org"><u>Rust Foundation</u></a>’s mission is to steward the Rust language by actively supporting the volunteer maintainers that develop and govern the Rust Project. As the popularity and adoption of Rust continue to grow, it will be essential for its security practices to continue evolving alongside it. That's why we launched our [Security Initiative](https://foundation.rust-lang.org/news/2022-09-13-rust-foundation-establishes-security-team/) in 2022 with generous support from the Open Source Security Foundation's Alpha-Omega project (OpenSSF Alpha-Omega), which&nbsp;<a target="_blank" href="https://github.com/ossf/wg-securing-critical-projects#how-were-critical-oss-projects-selected"><u>identified</u></a>&nbsp;Rust as a “Critical Open Source Software Project”. Thanks to this support from OpenSSF, we were able to create a new Security Engineer role at the Rust Foundation to help the hardworking Rust Project maintainers identify and tackle security priorities.&nbsp;
 
-### Today, we are thrilled to announce that Walter Pearce has joined the Rust Foundation as our new Security Engineer.
-
-Walter uses he/him pronouns.&nbsp;
+Today, we are thrilled to announce that Walter Pearce has joined the Rust Foundation as our new Security Engineer. Walter uses he/him pronouns.&nbsp;
 
 In this position, Walter will be responsible for analyzing the code and infrastructure-level security of the Rust Project. He will provide security expertise, conduct assessments, and suggest areas for improvement for Rust and its ecosystem, including Cargo, crates.io, and more. We are excited to have Walter here to help advocate for best security practices across the entire Rust landscape and be a proactive resource for the Rust Project maintainers.
 
