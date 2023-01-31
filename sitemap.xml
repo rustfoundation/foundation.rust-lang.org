@@ -492,6 +492,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/news/welcoming-our-new-security-engineer-walter-pearce/</loc>
+    <lastmod>2023-01-31</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/about/</loc>
     <lastmod>2023-01-31</lastmod>
   </url>
@@ -907,6 +912,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/staff/security-engineer/</loc>
+    <lastmod>2023-01-31</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/</loc>
     <lastmod>2023-01-31</lastmod>
   </url>
@@ -962,12 +972,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/eurorust/</loc>
+    <loc>https://foundation.rust-lang.org/tags/Rust%20Nation/</loc>
     <lastmod>2023-01-31</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/Rust%20Nation/</loc>
+    <loc>https://foundation.rust-lang.org/tags/eurorust/</loc>
     <lastmod>2023-01-31</lastmod>
   </url>
   
@@ -1037,22 +1047,22 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/program/</loc>
-    <lastmod>2023-01-31</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
-    <lastmod>2023-01-31</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/programs/</loc>
     <lastmod>2023-01-31</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
+    <lastmod>2023-01-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/program/</loc>
+    <lastmod>2023-01-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
     <lastmod>2023-01-31</lastmod>
   </url>
   
