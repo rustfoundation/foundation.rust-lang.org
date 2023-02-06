@@ -1,7 +1,7 @@
 <h2>Platinum</h2>
 <ul class="memberslist">
     {% for member in memberslist %}
-        {% if member.data.level == "platinum" %}
+        {% if member.data.level == "platinum" and member.data.status != "suspended" %}
             {% if member.data.founder == "yes" %}
                 <li class="platinummember">
                     {% if member.data.logo %}
@@ -22,7 +22,7 @@
 <h2>Gold</h2>
 <ul class="memberslist">
     {% for member in memberslist %}
-        {% if member.data.level == "gold" %}
+        {% if member.data.level == "gold" and member.data.status != "suspended" %}
             <li class="goldmember">
                 {% if member.data.logo %}
                      <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
@@ -40,7 +40,7 @@
 <h2>Silver</h2>
 <ul class="memberslist">
     {% for member in memberslist %}
-        {% if member.data.level == "silver" %}
+        {% if member.data.level == "silver" and member.data.status != "suspended" %}
             {% if member.data.founder == "yes" %}
                 <li class="silvermember">
                     {% if member.data.logo %}
