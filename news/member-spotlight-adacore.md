@@ -42,4 +42,4 @@ Now, beyond the sheer merits of the language, Rust is also acting as a fascinati
 
 Thank you to AdaCore for their Rust Foundation Silver-level membership!
 
-You can learn more about Slint via their[<u> website</u>](https://www.adacore.com/) and connect with them on[<u> GitHub</u>](https://github.com/AdaCore), [<u>Twitter</u>](https://twitter.com/AdaCoreCompany), and[<u> LinkedIn</u>](https://www.linkedin.com/company/adacore).
+You can learn more about AdaCore via their[<u> website</u>](https://www.adacore.com/) and connect with them on[<u> GitHub</u>](https://github.com/AdaCore), [<u>Twitter</u>](https://twitter.com/AdaCoreCompany), and[<u> LinkedIn</u>](https://www.linkedin.com/company/adacore).
