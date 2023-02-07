@@ -497,6 +497,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/news/member-spotlight-adacore/</loc>
+    <lastmod>2023-02-07</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/about/</loc>
     <lastmod>2023-02-07</lastmod>
   </url>
@@ -613,6 +618,11 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/members/activision/</loc>
+    <lastmod>2023-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/members/adacore/</loc>
     <lastmod>2023-02-07</lastmod>
   </url>
   
@@ -1047,27 +1057,17 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/community/</loc>
+    <lastmod>2023-02-07</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/program/</loc>
     <lastmod>2023-02-07</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
-    <lastmod>2023-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/community/</loc>
-    <lastmod>2023-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/programs/</loc>
-    <lastmod>2023-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
     <lastmod>2023-02-07</lastmod>
   </url>
   
@@ -1083,6 +1083,16 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/quarterly%20updates/</loc>
+    <lastmod>2023-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
+    <lastmod>2023-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/programs/</loc>
     <lastmod>2023-02-07</lastmod>
   </url>
   
