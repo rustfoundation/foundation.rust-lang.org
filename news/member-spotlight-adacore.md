@@ -18,7 +18,7 @@ layout: layouts/news.njk
 
 ## Tell us about AdaCore. What do you do and who do you serve?
 
-[<u>AdaCore</u>](https://www.adacore.com/) supports software development needs for high-integrity embedded industries. In particular, we provide a development environment for various programming languages, Ada, C, C++, and now Rust. Tools that we make available to our customers include compilers, testing, source coverage, static analysis, and formal proof.&nbsp;
+[<u>AdaCore</u>](https://www.adacore.com/) supports software development needs for high-integrity embedded industries. In particular, we provide a development environment for various programming languages, Ada, C, C++, and now Rust. Tools that we make available to our customers include compilers, testing, source coverage, static analysis, and formal proof.
 
 ## How is AdaCore using Rust?
 
