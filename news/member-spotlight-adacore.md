@@ -22,7 +22,7 @@ layout: layouts/news.njk
 
 ## How is AdaCore using Rust?
 
-AdaCore is providing a Rust toolchain ([<u>Ferrocene</u>](https://www.adacore.com/ferrocene)) aimed at industrial users that have either long-term stability needs or safety certification needs. In particular, we have the ability to support a toolchain over years and decades of life cycles of industrial products. We’re working on providing safety certification evidence against various standards, including ISO-26262 (automotive) and DO-178 (avionics).
+AdaCore is providing a Rust toolchain (<a target="_blank" rel="noopener" href="https://www.adacore.com/ferrocene"><u>Ferrocene</u></a>, with <a target="_blank" rel="noopener" href="https://blog.adacore.com/adacore-and-ferrous-systems-joining-forces-to-support-rust">Ferrous Systems</a>) aimed at industrial users that have either long-term stability needs or safety certification needs. In particular, we have the ability to support a toolchain over years and decades of life cycles of industrial products. We’re working on providing safety certification evidence against various standards, including ISO-26262 (automotive) and DO-178 (avionics).
 
 ## Why did AdaCore decide to join the Rust Foundation?
 
