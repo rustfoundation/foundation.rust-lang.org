@@ -10,9 +10,9 @@ layout: layouts/news.njk
 ---
 <img src="/img/news/2023-02-07-adacore-member-spotlight/adacore-spotlight.png" width="500" height="281" alt="AdaCore Member Spotlight" title="Heading: Member Spotlight: AdaCore featuring Quentin Ochem, Chief Product Officer at AdaCore" />
 
-### Welcome to another Rust Foundation Member Spotlight blog! This series aims to introduce our community to various Rust Foundation Member organizations and their leaders.
+*Welcome to another Rust Foundation Member Spotlight blog! This series aims to introduce our community to various Rust Foundation Member organizations and their leaders.*
 
-### In this installment, we are featuring new Rust Foundation Silver Member, AdaCore, and sharing a Q&A with their Chief Product Officer, Quentin Ochem who oversees product management, marketing, and research.
+*In this installment, we are featuring new Rust Foundation Silver Member, AdaCore, and sharing a Q&A with their Chief Product Officer, Quentin Ochem who oversees product management, marketing, and research.*
 
 ---
 
