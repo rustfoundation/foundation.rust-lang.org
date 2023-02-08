@@ -6,8 +6,7 @@ description: >-
   of Slint).
 date: 2023-02-09T12:00:00Z
 tags:
-  - announcement
-  - philosophy
+  - member spotlight
 index: false
 layout: layouts/news.njk
 ---
