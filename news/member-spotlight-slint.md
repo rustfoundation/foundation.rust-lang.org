@@ -9,7 +9,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/img/news/2023-02-03-slint-member-spotlight/olivier-goffart.png" width="580" height="326" alt="Slint Silver Member Spotlight" title="Heading: Silver Member Spotlight featuring Slint. A headshot of Slint Co-Founder Olivier Goffart is underneath the heading in a zig-zag, circular frame." />
+<img width="580" height="326" alt="Slint Silver Member Spotlight" title="Heading: Silver Member Spotlight featuring Slint. A headshot of Slint Co-Founder Olivier Goffart is underneath the heading in a zig-zag, circular frame." src="/img/news/2023-02-03-slint-member-spotlight/olivier-goffart.png" />
 
 Welcome to another Rust Foundation Member Spotlight blog! This series aims to introduce our community to various Rust Foundation Member organizations and their leaders. In this installment, we spoke with Olivier Goffart, Co-Founder of Rust Foundation Silver Member Organization, Slint who shared a bit about the company, how they are using Rust, and more.&nbsp;
 
@@ -24,6 +24,10 @@ As an open source project, our goal is to build a healthy community around Slint
 In [<u>Slint</u>](https://github.com/slint-ui/slint/), the interface is defined in a User Interface Description Language that provides a way to describe graphical elements, their placement, and the flow of data through the different states. The interface is compiled ahead of time using a compiler, which uses the typical compiler phases of lexing, parsing, optimization, and finally code generation. Depending upon the target language (Rust, C++, or JavaScript), the compiler uses different engines for code generation. The runtime library connects the compiled interface and the different rendering backgrounds and styles, which are configurable at compile time.&nbsp;
 
 The compiler, the compiled interface, the runtime library, and the language server are all implemented in Rust.
+
+<img src="/img/news/2023-02-03-slint-member-spotlight/architecture.drawio.png" width="580" height="286" alt="Slint architecture" />
+
+*Slint architecture*
 
 ## Why did Slint decide to join the Rust Foundation?
 
@@ -43,4 +47,4 @@ Cargo in combination with crates.io. It’s ridiculously easy to find, use, and 
 
 *Thank you to Slint for their Rust Foundation Silver-level membership!*
 
-*You can learn more about Slint via their <a target="_blank" rel="noopener" href="https://slint-ui.com/">website</a>&nbsp;and connect with them on <a target="_blank" rel="noopener" href="https://github.com/slint-ui/slint/discussions">GitHub</a>, <a target="_blank" rel="noopener" href="https://twitter.com/slint_ui">Twitter</a>, <a target="_blank" rel="noopener" href="https://fosstodon.org/@slint">Fosstodon</a>, and <a target="_blank" rel="noopener" href="https://www.linkedin.com/company/slint-ui/">LinkedIn</a>.*
+*You can learn more about Slint via their <a target="_blank" rel="noopener" href="https://slint-ui.com/">website</a>&nbsp;and connect with them on <a target="_blank" rel="noopener" href="https://github.com/slint-ui/slint">GitHub</a>, <a target="_blank" rel="noopener" href="https://twitter.com/slint_ui">Twitter</a>, <a target="_blank" rel="noopener" href="https://fosstodon.org/@slint">Fosstodon</a>, and <a target="_blank" rel="noopener" href="https://www.linkedin.com/company/slint-ui/">LinkedIn</a>.*
