@@ -45,6 +45,6 @@ Cargo in combination with crates.io. It’s ridiculously easy to find, use, and 
 
 ---
 
-*Thank you to Slint for their Rust Foundation Silver-level membership!*
+*Thank you to&nbsp; Olivier for his participation in this conversation — and to Slint for being a Rust Foundation Silver Member!*
 
 *You can learn more about Slint via their <a target="_blank" rel="noopener" href="https://slint-ui.com/">website</a>&nbsp;and connect with them on <a target="_blank" rel="noopener" href="https://github.com/slint-ui/slint">GitHub</a>, <a target="_blank" rel="noopener" href="https://twitter.com/slint_ui">Twitter</a>, <a target="_blank" rel="noopener" href="https://fosstodon.org/@slint">Fosstodon</a>, and <a target="_blank" rel="noopener" href="https://www.linkedin.com/company/slint-ui/">LinkedIn</a>.*
