@@ -4,7 +4,7 @@ byline:
 description: >-
   The Rust Foundation to participate in a live AMA at Rust Nation UK on February
   17. 
-date: 2022-02-08T12:00:00Z
+date: 2023-02-08T12:00:00Z
 tags:
   - ama
 index: false
