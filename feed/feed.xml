@@ -5,12 +5,38 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2023-02-07T14:00:00Z</updated>
+	<updated>2023-02-08T12:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>Ask Us Anything at Rust Nation UK</title>
+		<link href="https://foundation.rust-lang.org/news/ask-us-anything-at-rust-nation-uk/"/>
+		<updated>2023-02-08T12:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/ask-us-anything-at-rust-nation-uk/</id>
+		<content type="html">&lt;img src=&quot;https://foundation.rust-lang.org/img/news/2023-02-08-rust-nation-ama/ama-rust-nation-blog.png&quot; width=&quot;580&quot; height=&quot;326&quot; alt=&quot;[Heading] Ask Us Anything at Rust Nation UK! [Sub-heading] February 17, 2023, | Live at Rust Nation UK &amp;amp; via @RustNationUK on Twitter&quot; title=&quot;Rust Nation AMA&quot; /&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://www.rustnationuk.com/&quot;&gt;Rust Nation UK&lt;/a&gt; is coming up in one week (February 16-17, 2023) and our team is excited to connect with both virtual an in-person attendees in London.&lt;/p&gt;
+&lt;p&gt;You&#39;ll be able to find us at Rust Nation UK in the following ways: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;u&gt;Rust Foundation x Rust Nation UK Welcome Reception:&lt;/u&gt; We are looking forward to celebrating the event on Wednesday, February 15th with those of you who registered for our &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://www.eventbrite.com/e/rust-foundation-x-rust-nation-uk-welcome-reception-tickets-514320976887&quot;&gt;Welcome Reception&lt;/a&gt;. Please note that proof of registration will be required for this event and tickets are sold out. &lt;/li&gt;
+&lt;li&gt;&lt;u&gt;The Rust Foundation booth:&lt;/u&gt; Swing by our table in the expo hall to meet our team, learn more about the organization, and grab some Rust Foundation stickers.&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;Rebecca Rumbul&#39;s opening remarks:&lt;/u&gt; Don&#39;t miss our Executive Director &amp;amp; CEO&#39;s opening remarks that will be kicking off the conference programming.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;additionally%2C-we-are-excited-to-share-that-we-will-be-participating-in-a-live-ask-me-anything-session-at-rust-nation-uk-on-friday%2C-february-17-%E2%80%94-starting-at-3%3A45-pm-gmt.&quot;&gt;Additionally, we are excited to share that we will be participating in a live Ask Me Anything session at Rust Nation UK on Friday, February 17 — starting at 3:45 PM GMT.  &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/ask-us-anything-at-rust-nation-uk/#additionally%2C-we-are-excited-to-share-that-we-will-be-participating-in-a-live-ask-me-anything-session-at-rust-nation-uk-on-friday%2C-february-17-%E2%80%94-starting-at-3%3A45-pm-gmt.&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Our Rust Nation UK AMA panel will feature: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Joel Marcey &lt;em&gt;(Director of Technology at the Rust Foundation)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Gracie Gregory &lt;em&gt;(Director of Communications &amp;amp; Marketing at the Rust Foundation) &lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Paul Lenz &lt;em&gt;(Director of Finance &amp;amp; Funding at the Rust Foundation)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Stephen Chin &lt;em&gt;(Platinum Member Director for JFrog on the Rust Foundation Board of Directors, VP of Developer Relations at JFrog)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In-person attendees will be able to submit questions using Slido. If you&#39;re not planning to attend Rust Nation UK in person, you can still ask us a question by following &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://twitter.com/RustNationUK&quot;&gt;@RustNationUK&lt;/a&gt; on Twitter and adding your question to a dedicated Twitter thread conference organizers will share the morning of February 17 (GMT).  Stay tuned!&lt;/p&gt;
+&lt;hr /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Member Spotlight: AdaCore</title>
