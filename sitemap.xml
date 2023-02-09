@@ -507,6 +507,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/news/member-spotlight-slint/</loc>
+    <lastmod>2023-02-09</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/about/</loc>
     <lastmod>2023-02-09</lastmod>
   </url>
@@ -1062,17 +1067,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/community/</loc>
-    <lastmod>2023-02-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/program/</loc>
     <lastmod>2023-02-09</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
+    <lastmod>2023-02-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/community/</loc>
     <lastmod>2023-02-09</lastmod>
   </url>
   
