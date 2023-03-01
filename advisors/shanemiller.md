@@ -1,6 +1,6 @@
 ---
 name: Shane Miller
-title: Leadership Advisor
+title: Open Source Business Advisor
 ferris: /img/ferris/shanehover.png
 headshot: /img/headshot/shane.jpg
 ---
