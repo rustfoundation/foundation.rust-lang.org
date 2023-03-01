@@ -1,6 +1,6 @@
 ---
 name: Ernest Kissiedu
-title: Community Advisor
+title: Open Source Community Advisor
 ferris: /img/ferris/ernesthover.png
 headshot: /img/headshot/ernest.jpg
 ---
