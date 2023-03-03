@@ -12,7 +12,7 @@ layout: layouts/news.njk
 ---
 <img src="/img/news/2023-03-07-kdab-guest-post/kdab-guest-blog.png" width="580" height="326" alt="[Heading 1] Guest Blog Series: KDAB (Silver Member) [Heading 2] Best practices for integrating Rust and Qt in embedded systems] Headshots of Leon Matthes, Andrew Hazen, &amp; Be Wilson underneath)" title="KDAB Guest Blog" />
 
-*Welcome to another installment in the Rust Foundation*[*guest blog series*](https://foundation.rust-lang.org/tags/guest%20blog%20series/)*, written by members of the Rust Foundation and/or community. Today, we are pleased to have a post written by Andrew Hazen (Qt developer), Leon Matthes (Software Engineer), and Be Wilson (Software Engineer) of KDAB— a Rust Foundation Silver Member. Read on to discover KDAB’s recommended principles for achieving the best of both the Rust and Qt worlds for embedded applications.*
+*Welcome to another installment in the Rust Foundation*[*guest blog series*](https://foundation.rust-lang.org/tags/guest%20blog%20series/)*, written by members of the Rust Foundation and/or community. Today, we are pleased to have a post written by Andrew Hazen (Qt developer), Leon Matthes (Software Engineer), and Be Wilson (Software Engineer) of KDAB— a Rust Foundation <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/members/">Silver Member</a>&nbsp;organization. Read on to discover KDAB’s recommended principles for achieving the best of both the Rust and Qt worlds for embedded applications.*
 
 ***This post originally appeared on*[*<u>embedded.com</u>*](https://www.embedded.com/best-practices-for-integrating-rust-and-qt-in-embedded-systems/) *and is being republished with permission from KDAB.***
 
