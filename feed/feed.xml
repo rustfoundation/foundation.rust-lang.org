@@ -5,12 +5,146 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2023-02-09T12:00:00Z</updated>
+	<updated>2023-03-06T12:30:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>Best Practices for Integrating Rust and Qt in Embedded Systems</title>
+		<link href="https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/"/>
+		<updated>2023-03-06T12:30:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/</id>
+		<content type="html">&lt;img src=&quot;https://foundation.rust-lang.org/img/news/2023-03-07-kdab-guest-post/kdab-guest-blog.png&quot; width=&quot;580&quot; height=&quot;326&quot; alt=&quot;[Heading 1] Guest Blog Series: KDAB (Silver Member) [Heading 2] Best practices for integrating Rust and Qt in embedded systems] Headshots of Leon Matthes, Andrew Hazen, &amp;amp; Be Wilson underneath)&quot; title=&quot;KDAB Guest Blog&quot; /&gt;
+&lt;p&gt;&lt;em&gt;Welcome to another installment in the Rust Foundation&lt;/em&gt;&lt;a href=&quot;https://foundation.rust-lang.org/tags/guest%20blog%20series/&quot;&gt;&lt;em&gt;guest blog series&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, written by members of the Rust Foundation and/or community. Today, we are pleased to have a post written by Andrew Hazen (Qt developer), Leon Matthes (Software Engineer), and Be Wilson (Software Engineer) of KDAB— a Rust Foundation &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://foundation.rust-lang.org/members/&quot;&gt;Silver Member&lt;/a&gt; organization. Read on to discover KDAB’s recommended principles for achieving the best of both the Rust and Qt worlds for embedded applications.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;This post originally appeared on&lt;/em&gt;&lt;a href=&quot;https://www.embedded.com/best-practices-for-integrating-rust-and-qt-in-embedded-systems/&quot;&gt;&lt;em&gt;&lt;u&gt;embedded.com&lt;/u&gt;&lt;/em&gt;&lt;/a&gt; &lt;em&gt;and is being republished with permission from KDAB.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Rust offers high performance, high reliability, and strong security for embedded software and helps developers check for and reduce memory and threading errors common to complex, low-level applications. With these clear benefits, Rust is gaining popularity among embedded software developers. &lt;/p&gt;
+&lt;p&gt;Similarly, as one of the most popular frameworks for cross-platform embedded applications, Qt brings powerful business logic features to the embedded sphere. As Rust doesn’t yet have a leading graphical user interface (GUI), this means that Rust-Qt integration is becoming increasingly interesting for embedded developers and has become one of the key methods for adding a GUI to embedded Rust applications.&lt;/p&gt;
+&lt;p&gt;The challenge comes when integrating the two. Without careful planning and effort, a combined Rust-Qt application falls prey to the weakest attributes of either language. Calls from Qt/C++ to Rust may be unsafe, concurrency issues may occur between domains, and Rust’s high performance and portability may be compromised.&lt;/p&gt;
+&lt;p&gt;This article walks through recommended principles to achieve the best of both the Rust and Qt worlds for embedded applications.&lt;/p&gt;
+&lt;h2 id=&quot;background-on-rust-and-qt&quot;&gt;Background on Rust and Qt &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/#background-on-rust-and-qt&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Rust has a rich ecosystem of libraries for serialization and deserialization, asynchronous operations, parsing unsafe inputs, threading, static analysis, and more, while Qt is a C++ toolkit that supports rich, GUI-based applications across a variety of platforms, from iOS to Embedded Linux. Qt applications include C++ plugins that represent business logic, QML to define GUI components and layout, and JavaScript for GUI scripting.&lt;/p&gt;
+&lt;p&gt;Integrating Rust libraries into a Qt framework gives developers a robust mechanism to deliver a high-performance and secure foundation that drives sophisticated user experiences. Consider an agricultural instrument panel application that requires safe access to a backend I/O microcontroller or an airplane cockpit display that pulls data from an RTOS-based single-board computer.&lt;/p&gt;
+&lt;p&gt;One recommended application architecture is to keep the business logic within the Rust backend and use Qt/C++ plugins for the user interface. This decouples the two domains and separates the fast iteration speed and flexibility of Qt/QML for GUI development from the business-level code.&lt;/p&gt;
+&lt;h2 id=&quot;how-to-integrate-rust-and-qt-for-embedded-software&quot;&gt;How to integrate Rust and Qt for embedded software &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/#how-to-integrate-rust-and-qt-for-embedded-software&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The most common method for integrating Qt with Rust is for Rust to call Qt’s C++ libraries. &lt;/p&gt;
+&lt;p&gt;While there are several binding methods out there, these are typically not idiomatic to Rust and tend to lose the safety benefits, as shown in Figure 1. Furthermore, most Rust bindings for Qt do not expose Rust code to C++, making them difficult to integrate into existing C++ codebases.&lt;/p&gt;
+&lt;img src=&quot;https://foundation.rust-lang.org/img/news/2023-03-07-kdab-guest-post/fig-1.png&quot; width=&quot;580&quot; height=&quot;288&quot; alt=&quot;Figure 1. Challenges with Rust-Qt bindings (Source: KDAB)&quot; title=&quot;Traditional Approach: Rust bindings for Qt&quot; /&gt;
+&lt;p&gt;&lt;em&gt;Figure 1. Challenges with Rust-Qt bindings (Source: &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://www.kdab.com/cxx-qt/&quot;&gt;KDAB&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A more effective approach is to bridge the two languages in a safe way, preserving as much of Rust’s inherent safety benefits as possible. For this to work, Rust needs to be able to extend the Qt object system with its own QObject subclasses and instances with minimal compromise.&lt;/p&gt;
+&lt;p&gt;An example of this latter approach is the open-source library &lt;a href=&quot;https://github.com/KDAB/cxx-qt&quot;&gt;&lt;u&gt;CXX-Qt&lt;/u&gt;&lt;/a&gt; that KDAB initiated and manages its ongoing development and improvements. This library combines Qt’s strong object orientation and meta-object system with Rust and builds upon and extends &lt;a href=&quot;https://cxx.rs/index.html&quot;&gt;&lt;u&gt;CXX&lt;/u&gt;&lt;/a&gt;, another open-source Rust/C++ interoperability library. In CXX-Qt, new QObject subclasses are composed of items in a Rust module to perform the bridging functions. These subclasses are instantiated just like any other QObject in QML and C++, exposing Rust features to Qt.&lt;/p&gt;
+&lt;h3 id=&quot;every-qobject-defined-by-cxx-qt-includes-two-components%3A&quot;&gt;&lt;strong&gt;Every QObject defined by CXX-Qt includes two components:&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/#every-qobject-defined-by-cxx-qt-includes-two-components%3A&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A C++-based object that is a wrapper that exposes properties and invokable methods&lt;/li&gt;
+&lt;li&gt;A Rust struct that stores the properties, implements invokables, manages internal state and handles change requests from properties and background threads&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CXX-Qt automatically generates code to transfer data between the Rust and Qt/C++ domains and uses a library called &lt;a href=&quot;https://cxx.rs/&quot;&gt;&lt;u&gt;CXX&lt;/u&gt;&lt;/a&gt; to communicate between the two.&lt;/p&gt;
+&lt;h2 id=&quot;key-principles-of-the-cxx-qt-bridging-approach&quot;&gt;Key principles of the CXX-Qt bridging approach &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/#key-principles-of-the-cxx-qt-bridging-approach&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;To explain how an effective Rust-Qt bridge works, we’ll describe several key principles behind the CXX-Qt library.&lt;/p&gt;
+&lt;h3 id=&quot;declaring-qobjects-in-rust&quot;&gt;Declaring QObjects in Rust &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/#declaring-qobjects-in-rust&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Qt’s design is inherently object-oriented, which is true for both C++ and QML, while Rust doesn’t support the usual class features like inheritance and polymorphism. To overcome this limitation, CXX-Qt extends the Qt object system within Rust to provide a natural way to integrate the two languages while maintaining idiomatic Rust code.&lt;/p&gt;
+&lt;p&gt;A CXX-Qt bridge can include these parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A macro around the module that indicates the contents are CXX-Qt related&lt;/li&gt;
+&lt;li&gt;A struct to define the QObject, any properties for Qt, and any private state&lt;/li&gt;
+&lt;li&gt;An optional impl of the Qobject struct where functions can be marked as qinvokable which allows them to be called from QML and C++&lt;/li&gt;
+&lt;li&gt;An enum to define the signals for a QObject&lt;/li&gt;
+&lt;li&gt;Normal CXX blocks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CXX-Qt expands this Rust module during code generation into a C++ subclass of QObject and the RustObj struct, as shown in Figure 2.&lt;/p&gt;
+&lt;img src=&quot;https://foundation.rust-lang.org/img/news/2023-03-07-kdab-guest-post/fig-2.png&quot; width=&quot;580&quot; height=&quot;250&quot; alt=&quot;Figure 2. How CXX-Qt expands QObjects for runtime use (Source: KDAB)&quot; title=&quot;CXX-Qt: QObject Definition&quot; /&gt;
+&lt;p&gt;&lt;em&gt;Figure 2. How CXX-Qt expands QObjects for runtime use (Source: KDAB)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Here’s an example of a QObject with three invokable methods for operations across domains and one Rust-only method:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[cxx_qt::bridge]
+mod my_object {
+    unsafe extern &amp;quot;C++&amp;quot; {
+        include!(&amp;quot;cxx-qt-lib/qstring.h&amp;quot;);
+        type QString = cxx_qt_lib::QString;
+        include!(&amp;quot;cxx-qt-lib/qurl.h&amp;quot;);
+        type QUrl = cxx_qt_lib::QUrl;
+    }
+    #[cxx_qt::qobject]
+    #[derive(Default)]
+    pub struct MyObject {
+        #[qproperty]
+        is_connected: bool,
+        #[qproperty]
+        url: QUrl,
+    }
+    #[cxx_qt::qsignals(MyObject)]
+    pub enum Connection {
+        Connected,
+        Error { message: QString },
+    }
+    impl qobject::MyObject {
+        #[qinvokable]
+        pub fn connect(mut self: Pin&amp;lt;&amp;amp;mut Self&amp;gt;, url: QUrl) {
+            self.as_mut().set_url(url);
+            if self
+              .as_ref()
+                .url()
+              .to_string()
+                .starts_with(&amp;quot;https://kdab.com&amp;quot;)
+            {
+                self.as_mut().set_is_connected(true);
+                self.emit(Connection::Connected);
+            } else {
+                self.as_mut().set_is_connected(false);
+                self.emit(Connection::Error {
+                    message: QString::from(&amp;quot;URL does not start with https://kdab.com&amp;quot;),
+                });
+            }
+        }
+    }
+}[
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Methods declared with the #[qinvokable] attribute (e.g., connect above) are exposed to QML and C++, with parameters and return type matched on the Qt side. Fields in the QObject struct declared with the #[qproperty] attribute (such as is_connected above) are exposed to QML and C++ as a Q_PROPERTY. The enum marked with a #[cxx_qt::qsignals(T)] attribute defines the signals that are declared on the QObject T. Note that CXX-Qt automatically converts between snake_case (Rust) and CamelCase (Qt) naming.&lt;/p&gt;
+&lt;p&gt;In this example, the connect method is used to mutate the URL and connected properties of the QObject from Rust. Then a signal is emitted indicating whether the connection was successful or if an error occurred.&lt;/p&gt;
+&lt;p&gt;Methods or fields not tagged with an attribute are considered private to Rust and useful to manage internal states or to use as thread instance data.&lt;/p&gt;
+&lt;p&gt;Since the QObject is a constructed Qt object owned by the C++ side of the bridge, it will be destroyed when the C++ object is destroyed at runtime.&lt;/p&gt;
+&lt;h3 id=&quot;declaring-common-data-types-across-the-bridge&quot;&gt;Declaring common data types across the bridge &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/#declaring-common-data-types-across-the-bridge&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Primitive data types and CXX types can be used across the bridge and don’t require conversion between Rust and Qt. The library cxx_qt_lib provides Rust types that represent common Qt types (e.g. QColor, QString, QVariant etc) for use across the bridge.&lt;/p&gt;
+&lt;p&gt;As the project evolves, we plan to add more commonly used Qt types to cxx_qt_lib, such as Qt container types (eg QHash and QVector) and other types useful for Qt C++ or QML. Then we want to enhance these types by adding conversions to and from established crates in the Rust ecosystem. For example, we plan to support conversion from a QColor to a color crate type or a QDateTime to a datetime crate type, or to (de)serialise Qt types using a Rust crate, etc.&lt;/p&gt;
+&lt;h3 id=&quot;keeping-threads-safe&quot;&gt;Keeping threads safe &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/#keeping-threads-safe&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The general concept behind safe threading in a Rust-Qt application is to acquire a lock on the C++ side whenever Rust code executes, to prevent the execution of this code by multiple threads. This means all Rust code directly called from C++, such as invokables, execute on the Qt thread only.&lt;/p&gt;
+&lt;p&gt;To allow developers to synchronize state from a background Rust thread to Qt, CXX-Qt provides a helper that allows you to queue a Rust closure from the background thread. The closure is then executed from the Qt event loop.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;// In an invokable, request a handle to the qt thread
+let qt_thread = self.qt_thread();
+// Spawn a Rust thread
+std::thread::spawn(move || {
+    let value = compute_value_on_rust_thread();
+    // Use a closure to move the value and run the task on the Qt event loop
+    qt_thread
+      .queue(move |mut qobject| {
+            // Happens on the Qt event loop
+            qobject.set_value(value);
+        })
+      .unwrap();
+});
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;exposing-rust-qobjects-to-qml&quot;&gt;Exposing Rust QObjects to QML &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/#exposing-rust-qobjects-to-qml&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;To use the Rust code within the Qt application, Rust QObject must be exported to QML. CXX-Qt simplifies this process by generating a C++ class for every QObject subclass defined in Rust – the developer just needs to include two statements in main.cpp:&lt;/p&gt;
+&lt;p&gt;1. Include the QObject class, e.g.,&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-rust&quot;&gt;#include &amp;quot;cxx-qt-gen/my_object.h&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;2. Export the QObject class to QML, e.g.,&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-rust&quot;&gt;qmlRegisterType(&amp;quot;com.kdab.cxx_qt.demo&amp;quot;, 1, 0, &amp;quot;MyObject&amp;quot;);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;build-system&quot;&gt;Build system &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/#build-system&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;CXX-Qt has support for being built using either CMake or Cargo.&lt;/p&gt;
+&lt;p&gt;With CMake, &lt;a href=&quot;https://github.com/corrosion-rs/corrosion&quot;&gt;&lt;u&gt;Corrosion&lt;/u&gt;&lt;/a&gt; (formerly known as cmake-cargo) is used to import the Rust crate as a static library which is then linked to your Qt application executable or library. This allows for easy integration of CXX-Qt in existing CMake Qt applications. When the Rust crate is built the &lt;a href=&quot;http://build.rs/&quot;&gt;build.rs&lt;/a&gt; file compiles any C++ code that CXX-Qt generates.&lt;/p&gt;
+&lt;p&gt;For projects using Rust’s Cargo build system CXX-Qt can also be used from Cargo without CMake. With this method, the &lt;a href=&quot;http://build.rs/&quot;&gt;build.rs&lt;/a&gt; file for the Rust project also triggers the building of Qt resources, compiling of any additional C++ files, and linking to any additional Qt modules.&lt;/p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;&lt;strong&gt;Conclusion&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/#conclusion&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;As the use cases for integrating Rust and Qt grow, development teams should know their options beyond one-to-one direct binding. The CXX-Qt library provides a viable bridging mechanism that preserves the thread safety and performance benefits of Rust in an idiomatic way while also allowing developers to work with normal Qt and Rust code.&lt;/p&gt;
+&lt;p&gt;By understanding the concepts here, including the mapping between Qt objects and Rust QObject, common Qt types for Rust, and macros and code generation to define the runtime interoperability, developers can better choose the right Rust-Qt integration mechanism for their application development.&lt;/p&gt;
+&lt;p&gt;To use CXX-Qt or contribute to its development, the library is available &lt;a href=&quot;https://github.com/KDAB/cxx-qt&quot;&gt;&lt;u&gt;on GitHub&lt;/u&gt;&lt;/a&gt; and its samples and documentation are found &lt;a href=&quot;https://kdab.github.io/cxx-qt/book/&quot;&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;. For information on all kinds of leading-edge embedded technologies, visit &lt;a href=&quot;https://www.kdab.com/&quot;&gt;&lt;u&gt;kdab.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Thank you for reading this post in the Rust Foundation &lt;a href=&quot;https://foundation.rust-lang.org/tags/guest%20blog%20series/&quot;&gt;guest blog series&lt;/a&gt;. Stay tuned for more installments in the future!&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Member Spotlight: Slint</title>
