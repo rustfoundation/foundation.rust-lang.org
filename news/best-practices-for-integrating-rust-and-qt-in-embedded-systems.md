@@ -3,18 +3,18 @@ title: Best Practices for Integrating Rust and Qt in Embedded Systems
 byline:
 description: >
   Rust Foundation Guest Blog Series: Silver Member, KDAB, featuring Andrew
-  Hazen, Leon Matthes, and Be Wilson.
+  Hayzen, Leon Matthes, and Be Wilson.
 date: 2023-03-06T12:30:00Z
 tags:
   - guest blog series
 index: false
 layout: layouts/news.njk
 ---
-<img src="/img/news/2023-03-07-kdab-guest-post/kdab-guest-blog.png" width="580" height="326" alt="[Heading 1] Guest Blog Series: KDAB (Silver Member) [Heading 2] Best practices for integrating Rust and Qt in embedded systems] Headshots of Leon Matthes, Andrew Hazen, &amp; Be Wilson underneath)" title="KDAB Guest Blog" />
+<img width="580" height="326" alt="[Heading 1] Guest Blog Series: KDAB (Silver Member) [Heading 2] Best practices for integrating Rust and Qt in embedded systems] Headshots of Leon Matthes, Andrew Hazen, &amp; Be Wilson underneath)" title="KDAB Guest Blog" src="/img/news/2023-03-07-kdab-guest-post/kdab-guest.png" />
 
-*Welcome to another installment in the Rust Foundation*[*guest blog series*](https://foundation.rust-lang.org/tags/guest%20blog%20series/)*, written by members of the Rust Foundation and/or community. Today, we are pleased to have a post written by Andrew Hazen (Qt developer), Leon Matthes (Software Engineer), and Be Wilson (Software Engineer) of KDAB— a Rust Foundation <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/members/">Silver Member</a>&nbsp;organization. Read on to discover KDAB’s recommended principles for achieving the best of both the Rust and Qt worlds for embedded applications.*
+*Welcome to another installment in the Rust Foundation*[*guest blog series*](https://foundation.rust-lang.org/tags/guest%20blog%20series/)*, written by members of the Rust Foundation and/or community. Today, we are pleased to have a post written by Andrew Hayzen (Qt developer), Leon Matthes (Software Engineer), and Be Wilson (Software Engineer) of KDAB— a Rust Foundation <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/members/">Silver Member</a>&nbsp;organization. Read on to discover KDAB’s recommended principles for achieving the best of both the Rust and Qt worlds for embedded applications.*
 
-***This post originally appeared on*[*<u>embedded.com</u>*](https://www.embedded.com/best-practices-for-integrating-rust-and-qt-in-embedded-systems/) *and is being republished with permission from KDAB.***
+***This post originally appeared on&nbsp;*[*<u>embedded.com</u>*](https://www.embedded.com/best-practices-for-integrating-rust-and-qt-in-embedded-systems/) *and is being republished with permission from KDAB.***
 
 ---
 
@@ -40,7 +40,7 @@ The most common method for integrating Qt with Rust is for Rust to call Qt’s C
 
 While there are several binding methods out there, these are typically not idiomatic to Rust and tend to lose the safety benefits, as shown in Figure 1. Furthermore, most Rust bindings for Qt do not expose Rust code to C++, making them difficult to integrate into existing C++ codebases.
 
-<img src="/img/news/2023-03-07-kdab-guest-post/fig-1.png" width="580" height="288" alt="Figure 1. Challenges with Rust-Qt bindings (Source: KDAB)" title="Traditional Approach: Rust bindings for Qt" />
+<img width="580" height="288" alt="Figure 1. Challenges with Rust-Qt bindings (Source: KDAB)" title="Traditional Approach: Rust bindings for Qt" src="/img/news/2023-03-07-kdab-guest-post/fig-1.png" />
 
 *Figure 1. Challenges with Rust-Qt bindings (Source:&nbsp;<a target="_blank" rel="noopener" href="https://www.kdab.com/cxx-qt/">KDAB</a>)*
 
@@ -73,7 +73,7 @@ A CXX-Qt bridge can include these parts:
 
 CXX-Qt expands this Rust module during code generation into a C++ subclass of QObject and the RustObj struct, as shown in Figure 2.
 
-<img src="/img/news/2023-03-07-kdab-guest-post/fig-2.png" width="580" height="250" alt="Figure 2. How CXX-Qt expands QObjects for runtime use (Source: KDAB)" title="CXX-Qt: QObject Definition" />
+<img width="580" height="250" alt="Figure 2. How CXX-Qt expands QObjects for runtime use (Source: KDAB)" title="CXX-Qt: QObject Definition" src="/img/news/2023-03-07-kdab-guest-post/fig-2.png" />
 
 *Figure 2. How CXX-Qt expands QObjects for runtime use (Source: KDAB)*
 
