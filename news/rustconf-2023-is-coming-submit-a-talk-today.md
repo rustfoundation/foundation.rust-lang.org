@@ -54,7 +54,7 @@ More details about RustConf will be released in the coming weeks including detai
 
 Please email [<u>events@tilde.io</u>](mailto:events@tilde.io) for more information about sponsoring RustConf 2023.&nbsp;
 
-*To view a list of previous RustConf sponsors, visit*[*<u>rustconf.com</u>*](https://rustconf.com/)*.*
+*To view a list of previous RustConf sponsors, visit &nbsp;*[*<u>rustconf.com</u>*](https://rustconf.com/)*.*
 
 ## **<u>Submit a Talk by April 3, 2023 (UTC)</u>**
 
