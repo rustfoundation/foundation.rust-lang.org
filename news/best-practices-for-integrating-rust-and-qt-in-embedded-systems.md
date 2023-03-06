@@ -4,7 +4,7 @@ byline:
 description: >
   Rust Foundation Guest Blog Series: Silver Member, KDAB, featuring Andrew
   Hayzen, Leon Matthes, and Be Wilson.
-date: 2023-03-06T12:30:00Z
+date: 2023-03-03T12:30:00Z
 tags:
   - guest blog series
 index: false
