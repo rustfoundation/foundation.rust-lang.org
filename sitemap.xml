@@ -522,6 +522,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/</loc>
+    <lastmod>2023-03-06</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/</loc>
     <lastmod>2023-03-06</lastmod>
   </url>
