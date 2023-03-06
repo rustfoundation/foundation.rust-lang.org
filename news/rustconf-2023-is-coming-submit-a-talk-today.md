@@ -6,10 +6,9 @@ description: >
   Albuquerque, New Mexico, USA from September 12-15, 2023. Keep reading to learn
   more about this gathering of the global Rust community and the call for talk
   proposals.
-date: 2021-02-08T00:00:00Z
+date: 2023-03-06T12:00:00Z
 tags:
-  - announcement
-  - philosophy
+  - events
 index: false
 layout: layouts/news.njk
 ---
