@@ -70,6 +70,6 @@ The review committee will gladly provide feedback to prospective speakers intere
 
 ---
 
-More information about RustConf 2023 will be released over the coming weeks. For more details, visit the [<u>rustconf.com</u>](https://rustconf.com/) and the [<u>RustConf CFP portal</u>](https://sessionize.com/rustconf-2023).&nbsp;
+More information about RustConf 2023 will be released over the coming weeks. For more details, visit [<u>rustconf.com</u>](https://rustconf.com/) and the [<u>RustConf CFP portal</u>](https://sessionize.com/rustconf-2023).&nbsp;
 
 We hope to see you at RustConf 2023 this September!
