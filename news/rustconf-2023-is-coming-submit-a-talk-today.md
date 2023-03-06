@@ -32,7 +32,7 @@ For the first time, RustConf 2023 will be taking place in sunny Albuquerque. We 
 
 RustConf will feature a variety of interesting Rust-focused talks, workshops, activities, and networking opportunities for attendees to take advantage of.&nbsp;
 
-Preventing the spread of COVID-19 is top-of-mind for RustConf’s organizers and a number of precautionary measures will be enforced to keep all in-person attendees safe. Click [<u>here</u>](https://rustconf.com/about#code-of-conduct) to read more RustConf’s COVID-19 policy.&nbsp;&nbsp;
+Preventing the spread of COVID-19 is top-of-mind for RustConf’s organizers and a number of precautionary measures will be enforced to keep all in-person attendees safe. Click&nbsp;[<u>here</u>](https://rustconf.com/about#code-of-conduct) to read more RustConf’s COVID-19 policy.&nbsp;&nbsp;
 
 ### <u>Remote Attendees</u>
 
@@ -44,7 +44,7 @@ As always, the informative and interesting talks at RustConf will be a cornersto
 
 Speakers will have the option to present their talk live on stage in Albuquerque or virtually by pre-recording their session. In-person speakers will receive travel expense reimbursements, a comped hotel room, an honorarium, a free pass to attend the conference, special speaker-only gifts and experiences, and more, and remote speakers will be send equipment as needed to ensure high production quality. Finally, accepted RustConf speakers will have access to members of the program committee for guidance and mentorship as desired.
 
-**Click**[**<u>here</u>**](https://sessionize.com/rustconf-2023) **to learn more and submit a RustConf talk proposal** (more info below)
+<u>Click &nbsp;<a href="https://sessionize.com/rustconf-2023">here</a> to learn more and submit a RustConf talk proposal (more info below)</u>
 
 ## **<u>RustConf Sponsorship</u>**
 
