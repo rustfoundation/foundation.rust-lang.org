@@ -14,7 +14,7 @@ layout: layouts/news.njk
 ---
 <img src="/img/news/rustconf-blog-1/rustconf-blog-copy.png" width="580" height="326" alt="[Heading 1] Rust Foundation [Heading 2] RustConf 2023 [Sub-heading 1] SEPTEMBER 12-15, 2023 | Albequerque, New Mexico &amp; Remote rustconf.com [Sub-heading 2] Submit a talk by April 3, 2023 at 6:59 AM UTC @ sessionize.com/rustconf-2023. An image of Ferris the crab on top of a desert mountain with a rising sun behind it appears in the lower righthand corner." title="RustConf 2023" />
 
-[**<u>RustConf</u>**](https://rustconf.com/about#code-of-conduct) **is the annual gathering of Rust language users, maintainers, enthusiasts, and enterprise leaders — and it’s back for 2023 with some exciting changes. Keep reading to learn more.&nbsp;**
+[<u>RustConf</u>](https://rustconf.com/about#code-of-conduct) is the annual gathering of Rust language users, maintainers, enthusiasts, and enterprise leaders — and it’s back for 2023 with some exciting changes. Keep reading to learn more.&nbsp;
 
 ## **Key RustConf Details**
 
