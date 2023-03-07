@@ -5,7 +5,7 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2023-03-06T12:30:00Z</updated>
+	<updated>2023-03-07T12:30:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
@@ -13,9 +13,75 @@
 	</author>
 	
 	<entry>
+		<title>Member Spotlight: HighTec</title>
+		<link href="https://foundation.rust-lang.org/news/member-spotlight-hightec/"/>
+		<updated>2023-03-07T12:30:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/member-spotlight-hightec/</id>
+		<content type="html">&lt;img width=&quot;580&quot; height=&quot;326&quot; alt=&quot;[Heading 1] Rust Foundation [Heading 2] Silver Member Spotlight: HighTec  [Sub-heading] featuring: Mario Cupelli CTO of HighTec&quot; title=&quot;HighTec Member Spotlight&quot; src=&quot;https://foundation.rust-lang.org/img/news/2023-03-07-hightec-member-spotlight/hightec-spotlight-blog.png&quot; /&gt;
+&lt;p&gt;Welcome to another Rust Foundation Member Spotlight blog! This series aims to introduce our community to various Rust Foundation Member organizations and their leaders. In this installment, we spoke with Mario Cupelli, CTO of &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://hightec-rt.com/rust&quot;&gt;HighTec EDV-Systeme GmbH&lt;/a&gt; (a Rust Foundation Silver Member Organization) who shared a bit about the company, how they use Rust, and more. &lt;/p&gt;
+&lt;h3 id=&quot;tell-us-about-hightec.-what-do-you-do-and-who-do-you-serve%3F&quot;&gt;Tell us about HighTec. What do you do and who do you serve? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/member-spotlight-hightec/#tell-us-about-hightec.-what-do-you-do-and-who-do-you-serve%3F&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://hightec-rt.com/rust&quot;&gt;HighTec EDV-Systeme GmbH&lt;/a&gt; is the world’s largest commercial provider of compilers using innovative open source technologies with ISO 26262 ASIL D certified tools for embedded software development. &lt;/p&gt;
+&lt;p&gt;HighTec also offers a safety-certified multicore real-time operating system (RTOS) called PXROS-HR, and a wide range of design-in services. &lt;/p&gt;
+&lt;p&gt;HighTec’s flagship product is the proven ASIL D qualified C/C++ multiarchitecture compiler for leading multicore microcontrollers in the automotive and industrial sectors such as Arm®, TriCore™/AURIX™ families, Power Architecture (PowerPC), GTM and Renesas architectures. The latest addition to HighTec’s offering is the first LLVM-based Rust compiler for Infineon AURIX TC3x and TC4x which leverages the benefits of Rust and those MCUs for automotive and industrial applications.&lt;/p&gt;
+&lt;h3 id=&quot;how-is-hightec-using-rust%3F&quot;&gt;How is HighTec using Rust? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/member-spotlight-hightec/#how-is-hightec-using-rust%3F&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;HighTec’s new Rust compiler for AURIX TC3x and TC4x uses the modern open source LLVM technology, to boost an efficient backend that is consistent with the existing C/C++ compiler tools offered by HighTec for AURIX. &lt;/p&gt;
+&lt;p&gt;This compiler is characterized by its rapid build system and advanced code optimizations, which are specifically tailored to the architecture-specific functions of the AURIX microcontrollers. As a result, HighTec enables the benefits of Rust on those microcontrollers and accelerates the development and certification of safety-critical applications across a range of industries, including automotive and industrial automation.&lt;/p&gt;
+&lt;h3 id=&quot;why-did-hightec-decide-to-join-the-rust-foundation%3F&quot;&gt;Why did HighTec decide to join the Rust Foundation? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/member-spotlight-hightec/#why-did-hightec-decide-to-join-the-rust-foundation%3F&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;HighTec is committed to continuously providing solutions for a safer and more secure embedded world. We see that Rust&#39;s memory management features, such as its ownership model, help prevent the types of vulnerabilities that are often the root cause of system failures and security breaches. This makes Rust an attractive option for developers looking to build robust, secure systems like automotive applications.&lt;/p&gt;
+&lt;p&gt;By joining the Rust Foundation, we are staying close to the technical evolution of Rust. In doing this, we can learn about developers’ needs early and contribute to the ecosystem, enabling them to build their applications with the best tools in terms of safety, security, and performance.&lt;/p&gt;
+&lt;h3 id=&quot;what-are-hightec&#39;s-hopes-for-the-future-of-rust%3F&quot;&gt;What are HighTec&#39;s hopes for the future of Rust? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/member-spotlight-hightec/#what-are-hightec&#39;s-hopes-for-the-future-of-rust%3F&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;All of us at HighTec hope that the Rust community and ecosystem will continue to grow. We also look forward to seeing more support from semiconductor manufacturers in the near future. As a result, different industries will be able to benefit from all the advantages Rust has to offer in terms of safety, security, and performance.&lt;/p&gt;
+&lt;h3 id=&quot;what-is-your-personal-favorite-thing-about-rust%3F&quot;&gt;What is your personal favorite thing about Rust? &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/member-spotlight-hightec/#what-is-your-personal-favorite-thing-about-rust%3F&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Rust is the best proof that open source means no tradeoff whatsoever in terms of safety and security.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Thank you to HighTec for their support as a Rust Foundation Silver Member!&lt;/p&gt;
+&lt;p&gt;You can learn more about HighTec &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://hightec-rt.com/rust&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>RustConf 2023 is Coming—Submit a Talk Today!</title>
+		<link href="https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/"/>
+		<updated>2023-03-06T12:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/</id>
+		<content type="html">&lt;img width=&quot;580&quot; height=&quot;326&quot; alt=&quot;[Heading 1] Rust Foundation [Heading 2] RustConf 2023 [Sub-heading 1] SEPTEMBER 12-15, 2023 | Albequerque, New Mexico &amp;amp; Remote rustconf.com [Sub-heading 2] Submit a talk by April 3, 2023 at 6:59 AM UTC @ sessionize.com/rustconf-2023. An image of Ferris the crab on top of a desert mountain with a rising sun behind it appears in the lower righthand corner.&quot; title=&quot;RustConf 2023&quot; src=&quot;https://foundation.rust-lang.org/img/news/2023-03-06-rustconf-cfp/rustconf-blog-2.png&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;https://rustconf.com/about#code-of-conduct&quot;&gt;&lt;u&gt;RustConf&lt;/u&gt;&lt;/a&gt; is the annual gathering of Rust language users, maintainers, enthusiasts, and enterprise leaders — and it’s back for 2023 with some exciting changes. Keep reading to learn more. &lt;/p&gt;
+&lt;h2 id=&quot;key-rustconf-details&quot;&gt;&lt;strong&gt;Key RustConf Details&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#key-rustconf-details&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;conference-dates%3A-september-12-15%2C-2023&quot;&gt;&lt;u&gt;Conference Dates: September 12-15, 2023&lt;/u&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#conference-dates%3A-september-12-15%2C-2023&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;… Plus a full “unconference” day and hands-on Rust workshops.  &lt;/p&gt;
+&lt;h3 id=&quot;location%3A-albuquerque%2C-new-mexico-%26-remote&quot;&gt;&lt;u&gt;Location: Albuquerque, New Mexico &amp;amp; Remote&lt;/u&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#location%3A-albuquerque%2C-new-mexico-%26-remote&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;For the first time, RustConf 2023 will be taking place in sunny Albuquerque. We are excited to join other in-person attendees in this historic US city filled with culture and history. RustConf will also have a remote option for those who cannot attend in person. &lt;/p&gt;
+&lt;h2 id=&quot;event-experience&quot;&gt;&lt;strong&gt;&lt;u&gt;Event Experience&lt;/u&gt;&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#event-experience&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;in-person-attendees&quot;&gt;&lt;u&gt;In-Person Attendees&lt;/u&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#in-person-attendees&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;RustConf will feature a variety of interesting Rust-focused talks, workshops, activities, and networking opportunities for attendees to take advantage of. &lt;/p&gt;
+&lt;p&gt;Preventing the spread of COVID-19 is top-of-mind for RustConf’s organizers and a number of precautionary measures will be enforced to keep all in-person attendees safe. Click &lt;a href=&quot;https://rustconf.com/about#code-of-conduct&quot;&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt; to read more RustConf’s COVID-19 policy.  &lt;/p&gt;
+&lt;h3 id=&quot;remote-attendees&quot;&gt;&lt;u&gt;Remote Attendees&lt;/u&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#remote-attendees&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;RustConf organizers are hard at work planning an enriching virtual experience for those attendees who aren’t able to or interested in attending the event in Albuquerque. All talks will be livestreamed and remote conference activities will include a lively digital hallway. Stay tuned for more information.&lt;/p&gt;
+&lt;h3 id=&quot;speakers&quot;&gt;&lt;u&gt;Speakers&lt;/u&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#speakers&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As always, the informative and interesting talks at RustConf will be a cornerstone of the event experience. RustConf will feature a mix of invited and CFP-submitted talks. &lt;/p&gt;
+&lt;p&gt;Speakers will have the option to present their talk live on stage in Albuquerque or virtually by pre-recording their session. In-person speakers will receive travel expense reimbursements, a comped hotel room, an honorarium, a free pass to attend the conference, special speaker-only gifts and experiences, and more, and remote speakers will be send equipment as needed to ensure high production quality. Finally, accepted RustConf speakers will have access to members of the program committee for guidance and mentorship as desired.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Click  &lt;a href=&quot;https://sessionize.com/rustconf-2023&quot;&gt;here&lt;/a&gt; to learn more and submit a RustConf talk proposal (more info below)&lt;/u&gt;&lt;/p&gt;
+&lt;h2 id=&quot;rustconf-sponsorship&quot;&gt;&lt;strong&gt;&lt;u&gt;RustConf Sponsorship&lt;/u&gt;&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#rustconf-sponsorship&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;RustConf 2023 sponsors will have the opportunity to connect with passionate Rust community members and leaders in a meaningful way.&lt;/p&gt;
+&lt;p&gt;More details about RustConf will be released in the coming weeks including details about sponsorship, but it’s not too early to express interest in supporting this Rust community event. &lt;/p&gt;
+&lt;p&gt;Please email &lt;a href=&quot;mailto:events@tilde.io&quot;&gt;&lt;u&gt;events@tilde.io&lt;/u&gt;&lt;/a&gt; for more information about sponsoring RustConf 2023. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;To view a list of previous RustConf sponsors, visit  &lt;/em&gt;&lt;a href=&quot;https://rustconf.com/&quot;&gt;&lt;em&gt;&lt;u&gt;rustconf.com&lt;/u&gt;&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;submit-a-talk-by-april-3%2C-2023-(utc)&quot;&gt;&lt;strong&gt;&lt;u&gt;Submit a Talk by April 3, 2023 (UTC)&lt;/u&gt;&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#submit-a-talk-by-april-3%2C-2023-(utc)&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The RustConf 2023 call-for-proposals is open through April 3, 2023 at 6:59 AM UTC (April 2 @ 11:59 PM MDT).  &lt;/p&gt;
+&lt;p&gt;All talks will be 15 or 30 minutes long, touching on a variety of Rust-related topics. &lt;/p&gt;
+&lt;p&gt;If you have an idea for a great RustConf talk, we encourage you to submit a proposal! &lt;/p&gt;
+&lt;h2 id=&quot;%3E%3E-submit-a-rustconf-talk-proposal&quot;&gt;&lt;a href=&quot;https://sessionize.com/rustconf-2023&quot;&gt;&lt;u&gt;&amp;gt;&amp;gt; Submit a RustConf Talk Proposal&lt;/u&gt;&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#%3E%3E-submit-a-rustconf-talk-proposal&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The review committee will gladly provide feedback to prospective speakers interested in increasing their odds of being accepted. &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;More information about RustConf 2023 will be released over the coming weeks. For more details, visit &lt;a href=&quot;https://rustconf.com/&quot;&gt;&lt;u&gt;rustconf.com&lt;/u&gt;&lt;/a&gt; and the &lt;a href=&quot;https://sessionize.com/rustconf-2023&quot;&gt;&lt;u&gt;RustConf CFP portal&lt;/u&gt;&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;We hope to see you at RustConf 2023 this September!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Best Practices for Integrating Rust and Qt in Embedded Systems</title>
 		<link href="https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/"/>
-		<updated>2023-03-06T12:30:00Z</updated>
+		<updated>2023-03-03T12:30:00Z</updated>
 		<id>https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/</id>
 		<content type="html">&lt;img width=&quot;580&quot; height=&quot;326&quot; alt=&quot;[Heading 1] Guest Blog Series: KDAB (Silver Member) [Heading 2] Best practices for integrating Rust and Qt in embedded systems] Headshots of Leon Matthes, Andrew Hazen, &amp;amp; Be Wilson underneath)&quot; title=&quot;KDAB Guest Blog&quot; src=&quot;https://foundation.rust-lang.org/img/news/2023-03-07-kdab-guest-post/kdab-guest.png&quot; /&gt;
 &lt;p&gt;&lt;em&gt;Welcome to another installment in the Rust Foundation &lt;/em&gt;&lt;a href=&quot;https://foundation.rust-lang.org/tags/guest%20blog%20series/&quot;&gt;&lt;em&gt;guest blog series&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, written by members of the Rust Foundation and/or community. Today, we are pleased to have a post written by Andrew Hayzen (Qt developer), Leon Matthes (Software Engineer), and Be Wilson (Software Engineer) of KDAB— a Rust Foundation &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://foundation.rust-lang.org/members/&quot;&gt;Silver Member&lt;/a&gt; organization. Read on to discover KDAB’s recommended principles for achieving the best of both the Rust and Qt worlds for embedded applications.&lt;/em&gt;&lt;/p&gt;
@@ -143,45 +209,6 @@ std::thread::spawn(move || {
 &lt;p&gt;To use CXX-Qt or contribute to its development, the library is available &lt;a href=&quot;https://github.com/KDAB/cxx-qt&quot;&gt;&lt;u&gt;on GitHub&lt;/u&gt;&lt;/a&gt; and its samples and documentation are found &lt;a href=&quot;https://kdab.github.io/cxx-qt/book/&quot;&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;. For information on all kinds of leading-edge embedded technologies, visit &lt;a href=&quot;https://www.kdab.com/&quot;&gt;&lt;u&gt;kdab.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;em&gt;Thank you for reading this post in the Rust Foundation &lt;a href=&quot;https://foundation.rust-lang.org/tags/guest%20blog%20series/&quot;&gt;guest blog series&lt;/a&gt;. Stay tuned for more installments in the future!&lt;/em&gt;&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>RustConf 2023 is Coming—Submit a Talk Today!</title>
-		<link href="https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/"/>
-		<updated>2023-03-06T12:00:00Z</updated>
-		<id>https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/</id>
-		<content type="html">&lt;img src=&quot;https://foundation.rust-lang.org/img/news/rustconf-blog-1/rustconf-blog-copy.png&quot; width=&quot;580&quot; height=&quot;326&quot; alt=&quot;[Heading 1] Rust Foundation [Heading 2] RustConf 2023 [Sub-heading 1] SEPTEMBER 12-15, 2023 | Albequerque, New Mexico &amp;amp; Remote rustconf.com [Sub-heading 2] Submit a talk by April 3, 2023 at 6:59 AM UTC @ sessionize.com/rustconf-2023. An image of Ferris the crab on top of a desert mountain with a rising sun behind it appears in the lower righthand corner.&quot; title=&quot;RustConf 2023&quot; /&gt;
-&lt;p&gt;&lt;a href=&quot;https://rustconf.com/about#code-of-conduct&quot;&gt;&lt;u&gt;RustConf&lt;/u&gt;&lt;/a&gt; is the annual gathering of Rust language users, maintainers, enthusiasts, and enterprise leaders — and it’s back for 2023 with some exciting changes. Keep reading to learn more. &lt;/p&gt;
-&lt;h2 id=&quot;key-rustconf-details&quot;&gt;&lt;strong&gt;Key RustConf Details&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#key-rustconf-details&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&quot;conference-dates%3A-september-12-15%2C-2023&quot;&gt;&lt;u&gt;Conference Dates: September 12-15, 2023&lt;/u&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#conference-dates%3A-september-12-15%2C-2023&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;… Plus a full “unconference” day and hands-on Rust workshops.  &lt;/p&gt;
-&lt;h3 id=&quot;location%3A-albuquerque%2C-new-mexico-%26-remote&quot;&gt;&lt;u&gt;Location: Albuquerque, New Mexico &amp;amp; Remote&lt;/u&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#location%3A-albuquerque%2C-new-mexico-%26-remote&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;For the first time, RustConf 2023 will be taking place in sunny Albuquerque. We are excited to join other in-person attendees in this historic US city filled with culture and history. RustConf will also have a remote option for those who cannot attend in person. &lt;/p&gt;
-&lt;h2 id=&quot;event-experience&quot;&gt;&lt;strong&gt;&lt;u&gt;Event Experience&lt;/u&gt;&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#event-experience&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&quot;in-person-attendees&quot;&gt;&lt;u&gt;In-Person Attendees&lt;/u&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#in-person-attendees&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;RustConf will feature a variety of interesting Rust-focused talks, workshops, activities, and networking opportunities for attendees to take advantage of. &lt;/p&gt;
-&lt;p&gt;Preventing the spread of COVID-19 is top-of-mind for RustConf’s organizers and a number of precautionary measures will be enforced to keep all in-person attendees safe. Click &lt;a href=&quot;https://rustconf.com/about#code-of-conduct&quot;&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt; to read more RustConf’s COVID-19 policy.  &lt;/p&gt;
-&lt;h3 id=&quot;remote-attendees&quot;&gt;&lt;u&gt;Remote Attendees&lt;/u&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#remote-attendees&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;RustConf organizers are hard at work planning an enriching virtual experience for those attendees who aren’t able to or interested in attending the event in Albuquerque. All talks will be livestreamed and remote conference activities will include a lively digital hallway. Stay tuned for more information.&lt;/p&gt;
-&lt;h3 id=&quot;speakers&quot;&gt;&lt;u&gt;Speakers&lt;/u&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#speakers&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As always, the informative and interesting talks at RustConf will be a cornerstone of the event experience. RustConf will feature a mix of invited and CFP-submitted talks. &lt;/p&gt;
-&lt;p&gt;Speakers will have the option to present their talk live on stage in Albuquerque or virtually by pre-recording their session. In-person speakers will receive travel expense reimbursements, a comped hotel room, an honorarium, a free pass to attend the conference, special speaker-only gifts and experiences, and more, and remote speakers will be send equipment as needed to ensure high production quality. Finally, accepted RustConf speakers will have access to members of the program committee for guidance and mentorship as desired.&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;Click  &lt;a href=&quot;https://sessionize.com/rustconf-2023&quot;&gt;here&lt;/a&gt; to learn more and submit a RustConf talk proposal (more info below)&lt;/u&gt;&lt;/p&gt;
-&lt;h2 id=&quot;rustconf-sponsorship&quot;&gt;&lt;strong&gt;&lt;u&gt;RustConf Sponsorship&lt;/u&gt;&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#rustconf-sponsorship&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;RustConf 2023 sponsors will have the opportunity to connect with passionate Rust community members and leaders in a meaningful way.&lt;/p&gt;
-&lt;p&gt;More details about RustConf will be released in the coming weeks including details about sponsorship, but it’s not too early to express interest in supporting this Rust community event. &lt;/p&gt;
-&lt;p&gt;Please email &lt;a href=&quot;mailto:events@tilde.io&quot;&gt;&lt;u&gt;events@tilde.io&lt;/u&gt;&lt;/a&gt; for more information about sponsoring RustConf 2023. &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;To view a list of previous RustConf sponsors, visit  &lt;/em&gt;&lt;a href=&quot;https://rustconf.com/&quot;&gt;&lt;em&gt;&lt;u&gt;rustconf.com&lt;/u&gt;&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;submit-a-talk-by-april-3%2C-2023-(utc)&quot;&gt;&lt;strong&gt;&lt;u&gt;Submit a Talk by April 3, 2023 (UTC)&lt;/u&gt;&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#submit-a-talk-by-april-3%2C-2023-(utc)&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;The RustConf 2023 call-for-proposals is open through April 3, 2023 at 6:59 AM UTC (April 2 @ 11:59 PM MDT).  &lt;/p&gt;
-&lt;p&gt;All talks will be 15 or 30 minutes long, touching on a variety of Rust-related topics. &lt;/p&gt;
-&lt;p&gt;If you have an idea for a great RustConf talk, we encourage you to submit a proposal! &lt;/p&gt;
-&lt;h2 id=&quot;%3E%3E-submit-a-rustconf-talk-proposal&quot;&gt;&lt;a href=&quot;https://sessionize.com/rustconf-2023&quot;&gt;&lt;u&gt;&amp;gt;&amp;gt; Submit a RustConf Talk Proposal&lt;/u&gt;&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rustconf-2023-is-coming-submit-a-talk-today/#%3E%3E-submit-a-rustconf-talk-proposal&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;The review committee will gladly provide feedback to prospective speakers interested in increasing their odds of being accepted. &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;More information about RustConf 2023 will be released over the coming weeks. For more details, visit &lt;a href=&quot;https://rustconf.com/&quot;&gt;&lt;u&gt;rustconf.com&lt;/u&gt;&lt;/a&gt; and the &lt;a href=&quot;https://sessionize.com/rustconf-2023&quot;&gt;&lt;u&gt;RustConf CFP portal&lt;/u&gt;&lt;/a&gt;. &lt;/p&gt;
-&lt;p&gt;We hope to see you at RustConf 2023 this September!&lt;/p&gt;
 </content>
 	</entry>
 	
