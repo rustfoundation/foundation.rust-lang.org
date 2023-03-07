@@ -9,15 +9,15 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/img/news/2023-03-07-hightec-member-spotlight/hightec-spotlight-blog.png" width="580" height="326" alt="[Heading 1] Rust Foundation [Heading 2] Silver Member Spotlight: HighTec  [Sub-heading] featuring: Mario Cupelli CTO of HighTec" title="HighTec Member Spotlight" />
+<img width="580" height="326" alt="[Heading 1] Rust Foundation [Heading 2] Silver Member Spotlight: HighTec  [Sub-heading] featuring: Mario Cupelli CTO of HighTec" title="HighTec Member Spotlight" src="/img/news/2023-03-07-hightec-member-spotlight/hightec-spotlight-blog.png" />
 
-Welcome to another Rust Foundation Member Spotlight blog! This series aims to introduce our community to various Rust Foundation Member organizations and their leaders. In this installment, we spoke with Mario Cupelli, CTO of <a target="_blank" rel="noopener" href="https://hightec-rt.com/en/">HighTec EDV-Systeme GmbH</a> (a Rust Foundation Silver Member Organization) who shared a bit about the company, how they use Rust, and more.&nbsp;
+Welcome to another Rust Foundation Member Spotlight blog! This series aims to introduce our community to various Rust Foundation Member organizations and their leaders. In this installment, we spoke with Mario Cupelli, CTO of <a target="_blank" rel="noopener" href="https://hightec-rt.com/rust">HighTec EDV-Systeme GmbH</a> (a Rust Foundation Silver Member Organization) who shared a bit about the company, how they use Rust, and more.&nbsp;
 
 ### Tell us about HighTec. What do you do and who do you serve?
 
-<a target="_blank" rel="noopener" href="https://hightec-rt.com/en/">HighTec EDV-Systeme GmbH</a> is the world’s largest commercial provider of compilers using innovative open source technologies with ISO 26262 ASIL D certified tools for embedded software development.&nbsp;
+<a target="_blank" rel="noopener" href="https://hightec-rt.com/rust">HighTec EDV-Systeme GmbH</a> is the world’s largest commercial provider of compilers using innovative open source technologies with ISO 26262 ASIL D certified tools for embedded software development.&nbsp;
 
-HighTec also offers a safety-oriented multicore real-time operating system (RTOS) called PXROS-HR, and a wide range of design-in services.&nbsp;
+HighTec also offers a safety-certified multicore real-time operating system (RTOS) called PXROS-HR, and a wide range of design-in services.&nbsp;
 
 HighTec’s flagship product is the proven ASIL D qualified C/C++ multiarchitecture compiler for leading multicore microcontrollers in the automotive and industrial sectors such as Arm®, TriCore™/AURIX™ families, Power Architecture (PowerPC), GTM and Renesas architectures. The latest addition to HighTec’s offering is the first LLVM-based Rust compiler for Infineon AURIX TC3x and TC4x which leverages the benefits of Rust and those MCUs for automotive and industrial applications.
 
@@ -45,4 +45,4 @@ Rust is the best proof that open source means no tradeoff whatsoever in terms of
 
 Thank you to HighTec for their support as a Rust Foundation Silver Member!
 
-*You can learn more about HighTec via their*[*<u> website</u>*](https://hightec-rt.com/en/)*.*
+*You can learn more about HighTec <a target="_blank" rel="noopener" href="https://hightec-rt.com/rust">here</a>**.*
