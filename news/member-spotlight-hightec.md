@@ -45,4 +45,4 @@ Rust is the best proof that open source means no tradeoff whatsoever in terms of
 
 Thank you to HighTec for their support as a Rust Foundation Silver Member!
 
-*You can learn more about HighTec <a target="_blank" rel="noopener" href="https://hightec-rt.com/rust">here</a>**.*
+You can learn more about HighTec <a target="_blank" rel="noopener" href="https://hightec-rt.com/rust">here</a>.
