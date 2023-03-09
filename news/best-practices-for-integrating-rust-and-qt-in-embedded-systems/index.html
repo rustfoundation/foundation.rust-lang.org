@@ -62,7 +62,7 @@
 </h2>
       <time class="post-date" datetime="2023-03-03">03 Mar 2023</time>
       <div class="content">
-          <img width="580" height="326" alt="[Heading 1] Guest Blog Series: KDAB (Silver Member) [Heading 2] Best practices for integrating Rust and Qt in embedded systems] Headshots of Leon Matthes, Andrew Hazen, &amp; Be Wilson underneath)" title="KDAB Guest Blog" src="/img/news/2023-03-07-kdab-guest-post/kdab-guest.png" />
+          <img src="/img/news/2023-03-03-kdab-guest-post/KDAB-guest.png" width="580" height="326" alt="[Heading 1] Guest Blog Series: KDAB (Silver Member) [Heading 2] Best practices for integrating Rust and Qt in embedded systems] Headshots of Leon Matthes, Andrew Hayzen, &amp; Be Wilson underneath)" title="KDAB Guest Post" />
 <p><em>Welcome to another installment in the Rust Foundation </em><a href="https://foundation.rust-lang.org/tags/guest%20blog%20series/"><em>guest blog series</em></a><em>, written by members of the Rust Foundation and/or community. Today, we are pleased to have a post written by Andrew Hayzen (Qt developer), Leon Matthes (Software Engineer), and Be Wilson (Software Engineer) of KDAB— a Rust Foundation <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/members/">Silver Member</a> organization. Read on to discover KDAB’s recommended principles for achieving the best of both the Rust and Qt worlds for embedded applications.</em></p>
 <p><strong><em>This post originally appeared on </em><a href="https://www.embedded.com/best-practices-for-integrating-rust-and-qt-in-embedded-systems/"><em><u>embedded.com</u></em></a> <em>and is being republished with permission from KDAB.</em></strong></p>
 <hr>
@@ -77,7 +77,7 @@
 <h2 id="how-to-integrate-rust-and-qt-for-embedded-software">How to integrate Rust and Qt for embedded software <a class="direct-link" href="#how-to-integrate-rust-and-qt-for-embedded-software">#</a></h2>
 <p>The most common method for integrating Qt with Rust is for Rust to call Qt’s C++ libraries. </p>
 <p>While there are several binding methods out there, these are typically not idiomatic to Rust and tend to lose the safety benefits, as shown in Figure 1. Furthermore, most Rust bindings for Qt do not expose Rust code to C++, making them difficult to integrate into existing C++ codebases.</p>
-<img width="580" height="288" alt="Figure 1. Challenges with Rust-Qt bindings (Source: KDAB)" title="Traditional Approach: Rust bindings for Qt" src="/img/news/2023-03-07-kdab-guest-post/fig-1.png" />
+<img src="/img/news/2023-03-03-kdab-guest-post/fig-1.png" width="580" height="284" alt="A KDAB diagram depicting challenges with Rust-Qt bindings" title="Figure 1" />
 <p><em>Figure 1. Challenges with Rust-Qt bindings (Source: <a target="_blank" rel="noopener" href="https://www.kdab.com/cxx-qt/">KDAB</a>)</em></p>
 <p>A more effective approach is to bridge the two languages in a safe way, preserving as much of Rust’s inherent safety benefits as possible. For this to work, Rust needs to be able to extend the Qt object system with its own QObject subclasses and instances with minimal compromise.</p>
 <p>An example of this latter approach is the open-source library <a href="https://github.com/KDAB/cxx-qt"><u>CXX-Qt</u></a> that KDAB initiated and manages its ongoing development and improvements. This library combines Qt’s strong object orientation and meta-object system with Rust and builds upon and extends <a href="https://cxx.rs/index.html"><u>CXX</u></a>, another open-source Rust/C++ interoperability library. In CXX-Qt, new QObject subclasses are composed of items in a Rust module to perform the bridging functions. These subclasses are instantiated just like any other QObject in QML and C++, exposing Rust features to Qt.</p>
@@ -100,7 +100,7 @@
 <li>Normal CXX blocks</li>
 </ul>
 <p>CXX-Qt expands this Rust module during code generation into a C++ subclass of QObject and the RustObj struct, as shown in Figure 2.</p>
-<img width="580" height="250" alt="Figure 2. How CXX-Qt expands QObjects for runtime use (Source: KDAB)" title="CXX-Qt: QObject Definition" src="/img/news/2023-03-07-kdab-guest-post/fig-2.png" />
+<img src="/img/news/2023-03-03-kdab-guest-post/fig-2.png" width="580" height="248" alt="A diagram from KDAB depicting how CXX-Qt expands QObjects for runtime use" title="Figure 2" />
 <p><em>Figure 2. How CXX-Qt expands QObjects for runtime use (Source: KDAB)</em></p>
 <p>Here’s an example of a QObject with three invokable methods for operations across domains and one Rust-only method:</p>
 <pre><code>[cxx_qt::bridge]
