@@ -10,3 +10,6 @@ tags:
   - live
 layout: layouts/event.njk
 ---
+## Interested in giving a talk at RustConf? Submit a proposal by April 2 at 11:59 PM MDT <a target="_blank" rel="noopener" href="https://sessionize.com/rustconf-2023">here</a>.
+
+## Registration for RustConf is not yet open. Please check&nbsp;<a href="https://rustconf.com" target="_blank" rel="noopener">https://rustconf.com</a> for updates.&nbsp;
