@@ -1122,7 +1122,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/membership/</loc>
+    <loc>https://foundation.rust-lang.org/tags/update/</loc>
+    <lastmod>2023-03-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/crates.io/</loc>
     <lastmod>2023-03-14</lastmod>
   </url>
   
@@ -1133,6 +1138,11 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/cloud%20compute/</loc>
+    <lastmod>2023-03-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/membership/</loc>
     <lastmod>2023-03-14</lastmod>
   </url>
   
@@ -1207,12 +1217,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/partnerships/</loc>
+    <loc>https://foundation.rust-lang.org/tags/annual%20report/</loc>
     <lastmod>2023-03-14</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/annual%20report/</loc>
+    <loc>https://foundation.rust-lang.org/tags/partnerships/</loc>
     <lastmod>2023-03-14</lastmod>
   </url>
   
@@ -1237,17 +1247,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/update/</loc>
-    <lastmod>2023-03-14</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/crates.io/</loc>
-    <lastmod>2023-03-14</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/staff/</loc>
     <lastmod>2023-03-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/events/open-source-summit-north-america/</loc>
+    <lastmod>2023-05-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/events/rustconf/</loc>
+    <lastmod>2023-09-12</lastmod>
   </url>
 </urlset>
