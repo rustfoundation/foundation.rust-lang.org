@@ -1,5 +1,5 @@
 ---
-title: RustConf
+title: RustConf 2023
 description: >-
   The largest annual gathering of the Rust-language communityConversation Q&A
   sessions. In person in Albuquerque, NM and online. The Rust Foundation is a
@@ -12,4 +12,4 @@ layout: layouts/event.njk
 ---
 ## Interested in giving a talk at RustConf? Submit a proposal by April 2 at 11:59 PM MDT <a target="_blank" rel="noopener" href="https://sessionize.com/rustconf-2023">here</a>.
 
-## Registration for RustConf is not yet open. Please check&nbsp;<a href="https://rustconf.com" target="_blank" rel="noopener">https://rustconf.com</a> for updates.&nbsp;
+## Registration for RustConf is not yet open. Please check&nbsp;<a target="_blank" rel="noopener" href="https://rustconf.com">https://rustconf.com</a> for updates.&nbsp;
