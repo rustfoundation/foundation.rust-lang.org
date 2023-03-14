@@ -1,5 +1,5 @@
 ---
-title: Open Source Summit North America
+title: Open Source Summit North America 2023
 description: >-
   Open Source Summit is the premier event for open source developers,
   technologists, and community leaders to collaborate, share information, solve
@@ -13,3 +13,6 @@ tags:
   - live
 layout: layouts/event.njk
 ---
+## View the schedule for Open Source Summit North America 2023 <a target="_blank" rel="noopener" href="https://events.linuxfoundation.org/open-source-summit-north-america/program/schedule/">here</a>.
+
+## Register for Open Source Summit North America <a target="_blank" rel="noopener" href="https://events.linuxfoundation.org/open-source-summit-north-america/register/">here</a>.&nbsp;
