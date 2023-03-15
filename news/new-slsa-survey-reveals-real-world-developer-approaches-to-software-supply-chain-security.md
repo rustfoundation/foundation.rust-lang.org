@@ -14,6 +14,7 @@ tags:
   - announcement
   - security
   - research
+  - publications
 index: false
 layout: layouts/news.njk
 ---
