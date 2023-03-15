@@ -1177,16 +1177,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/update/</loc>
-    <lastmod>2023-03-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/crates.io/</loc>
-    <lastmod>2023-03-15</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/Community%20Grants%20Program/</loc>
     <lastmod>2023-03-15</lastmod>
   </url>
@@ -1263,6 +1253,16 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/environment/</loc>
+    <lastmod>2023-03-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/update/</loc>
+    <lastmod>2023-03-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/crates.io/</loc>
     <lastmod>2023-03-15</lastmod>
   </url>
   
