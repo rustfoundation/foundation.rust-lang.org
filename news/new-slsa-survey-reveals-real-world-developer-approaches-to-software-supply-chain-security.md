@@ -32,7 +32,7 @@ Many practices already have strong or moderate adoption. For instance, over half
 
 <img src="/img/news/2023-03-15-slsa-survey/slsa-graph.png" width="580" height="304" title="Prevalence of Selected Software Supply Chain Security Practices" />
 
-### **Most practices are considered helpful though there is surprisingly little****variation in the perceived level of helpfulness.**
+### **Most practices are considered helpful though there is surprisingly little variation in the perceived level of helpfulness.**
 
 For each software supply chain security practice in the survey, at least 50% of the respondents labeled the practice as either extremely helpful or very helpful. Surprisingly though, the perceived helpfulness varies only slightly from practice to practice among the practices surveyed. Finally, the extent to which a participant views a particular practice as helpful is positively correlated with the likelihood that the participant’s organization adopts that practice. Whether these practices are viewed as helpful and then used or whether used practices are used and then viewed as helpful can’t be determined from the survey data.&nbsp;
 
