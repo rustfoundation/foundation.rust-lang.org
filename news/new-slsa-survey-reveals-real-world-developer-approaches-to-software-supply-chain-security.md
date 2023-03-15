@@ -5,14 +5,20 @@ title: >-
 byline: >-
   David A. Wheeler, The Linux Foundation; John Speed Meyers, Chainguard; Mikaël
   Barbero, Eclipse Foundation; and Rebecca Rumbul, Rust Foundation
-description: Announcing the Rust Foundation to the World
-date: 2021-02-08T00:00:00Z
+description: >-
+  New report from Chainguard, the Eclipse Foundation, the Open Source Security
+  Foundation, and the Rust Foundation details software supply chain security
+  survey findings
+date: 2023-03-15T09:00:00Z
 tags:
   - announcement
-  - philosophy
+  - security
+  - research
 index: false
 layout: layouts/news.njk
 ---
+<img src="/img/news/2023-03-15-slsa-survey/slsa-social-card.png" width="580" height="304" title="SLSA++ — A Survey of Software Supply Chain Security Practices &amp; Beliefs" />
+
 Answering even basic questions about software supply chain security has been surprisingly hard. For instance, how widespread are the different practices associated with software supply chain security? And do software professionals view these practices as useful or not? Easy or hard? To help answer these and related questions, the Rust Foundation,&nbsp;<a target="_blank" rel="noopener" href="https://www.chainguard.dev/">Chainguard</a>, the [<u>Eclipse Foundation</u>](https://www.eclipse.org/org/foundation/), and the [<u>Open Source Security Foundation</u>](https://openssf.org/) (OpenSSF) [<u>partnered to field a software supply chain security survey</u>](https://uploads-ssl.webflow.com/6228fdbc6c97145dad2a9c2b/640b6a455617000890bd79ba_SLSA%2B%2BWhitepaper_Design_Final.pdf). The questions were primarily, but not exclusively, derived from the security requirements associated with the [<u>Supply-chain Levels for Software Artifacts</u>](https://slsa.dev/) (SLSA) supply chain integrity framework version 0.1 (the version when the survey was conducted), hence SLSA++.&nbsp;
 
 In light of the recent [<u>White House National Cybersecurity Strategy</u>](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-biden-harris-administration-announces-national-cybersecurity-strategy/), which emphasizes organizations use best practices and frameworks for secure software development, it's important to understand how individual contributors responsible for this work–like developers, open source maintainers and security practitioners–are adopting software supply chain security practices and guidelines. The new SLSA++ survey provides insights into these trends, what’s working and what’s not working.&nbsp;
@@ -22,6 +28,8 @@ The survey, conducted in the summer and fall of 2022, includes data from nearly 
 ### **Some software supply chain security practices are already widely adopted.**
 
 Many practices already have strong or moderate adoption. For instance, over half of the respondents report always using a centralized build service. Other practices, such as digital signatures, were practiced less often: only 25% of respondents reported that their team always signs built artifacts. These findings are consistent with Google’s 2022 State of DevOps [<u>report</u>](https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out).
+
+<img src="/img/news/2023-03-15-slsa-survey/slsa-graph.png" width="580" height="304" title="Prevalence of Selected Software Supply Chain Security Practices" />
 
 ### **Most practices are considered helpful though there is surprisingly little****variation in the perceived level of helpfulness.**
 
