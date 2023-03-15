@@ -537,6 +537,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/news/new-slsa-survey-reveals-real-world-developer-approaches-to-software-supply-chain-security/</loc>
+    <lastmod>2023-03-15</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/news/welcoming-software-engineer-adam-harvey-to-the-rust-foundation-team/</loc>
     <lastmod>2023-03-15</lastmod>
   </url>
@@ -1172,6 +1177,16 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/update/</loc>
+    <lastmod>2023-03-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/crates.io/</loc>
+    <lastmod>2023-03-15</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/Community%20Grants%20Program/</loc>
     <lastmod>2023-03-15</lastmod>
   </url>
@@ -1187,12 +1202,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/trademark/</loc>
+    <loc>https://foundation.rust-lang.org/tags/security/</loc>
     <lastmod>2023-03-15</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/security/</loc>
+    <loc>https://foundation.rust-lang.org/tags/trademark/</loc>
     <lastmod>2023-03-15</lastmod>
   </url>
   
@@ -1208,6 +1223,16 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/cgp/</loc>
+    <lastmod>2023-03-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/research/</loc>
+    <lastmod>2023-03-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/publications/</loc>
     <lastmod>2023-03-15</lastmod>
   </url>
   
@@ -1238,16 +1263,6 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/environment/</loc>
-    <lastmod>2023-03-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/update/</loc>
-    <lastmod>2023-03-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/crates.io/</loc>
     <lastmod>2023-03-15</lastmod>
   </url>
   
