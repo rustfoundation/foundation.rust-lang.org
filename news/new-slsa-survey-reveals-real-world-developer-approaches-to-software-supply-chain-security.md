@@ -2,9 +2,7 @@
 title: >-
   New SLSA++ Survey Reveals Real-World Developer Approaches to Software Supply
   Chain Security
-byline: >-
-  David A. Wheeler, The Linux Foundation; John Speed Meyers, Chainguard; Mikaël
-  Barbero, Eclipse Foundation; and Rebecca Rumbul, Rust Foundation
+byline: Rebecca Rumbul
 description: >-
   New report from Chainguard, the Eclipse Foundation, the Open Source Security
   Foundation, and the Rust Foundation details software supply chain security
@@ -19,6 +17,8 @@ index: false
 layout: layouts/news.njk
 ---
 <img src="/img/news/2023-03-15-slsa-survey/slsa-social-card.png" width="580" height="304" title="SLSA++ — A Survey of Software Supply Chain Security Practices &amp; Beliefs" />
+
+By: David A. Wheeler, The Linux Foundation; John Speed Meyers, Chainguard; Mikaël Barbero, Eclipse Foundation; and Rebecca Rumbul, Rust Foundation
 
 Answering even basic questions about software supply chain security has been surprisingly hard. For instance, how widespread are the different practices associated with software supply chain security? And do software professionals view these practices as useful or not? Easy or hard? To help answer these and related questions, the Rust Foundation,&nbsp;<a target="_blank" rel="noopener" href="https://www.chainguard.dev/">Chainguard</a>, the [<u>Eclipse Foundation</u>](https://www.eclipse.org/org/foundation/), and the [<u>Open Source Security Foundation</u>](https://openssf.org/) (OpenSSF) [<u>partnered to field a software supply chain security survey</u>](https://uploads-ssl.webflow.com/6228fdbc6c97145dad2a9c2b/640b6a455617000890bd79ba_SLSA%2B%2BWhitepaper_Design_Final.pdf). The questions were primarily, but not exclusively, derived from the security requirements associated with the [<u>Supply-chain Levels for Software Artifacts</u>](https://slsa.dev/) (SLSA) supply chain integrity framework version 0.1 (the version when the survey was conducted), hence SLSA++.&nbsp;
 
