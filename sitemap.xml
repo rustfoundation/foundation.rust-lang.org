@@ -537,6 +537,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/news/welcoming-software-engineer-adam-harvey-to-the-rust-foundation-team/</loc>
+    <lastmod>2023-03-15</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/about/</loc>
     <lastmod>2023-03-15</lastmod>
   </url>
@@ -1182,12 +1187,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/security/</loc>
+    <loc>https://foundation.rust-lang.org/tags/trademark/</loc>
     <lastmod>2023-03-15</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/trademark/</loc>
+    <loc>https://foundation.rust-lang.org/tags/security/</loc>
     <lastmod>2023-03-15</lastmod>
   </url>
   
@@ -1237,17 +1242,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/staff/</loc>
-    <lastmod>2023-03-15</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/update/</loc>
     <lastmod>2023-03-15</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/crates.io/</loc>
+    <lastmod>2023-03-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/staff/</loc>
     <lastmod>2023-03-15</lastmod>
   </url>
   
