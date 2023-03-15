@@ -16,7 +16,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/img/news/2023-03-15-slsa-survey/slsa-social-card.png" width="580" height="304" title="SLSA++ — A Survey of Software Supply Chain Security Practices &amp; Beliefs" />
+<img width="580" height="304" title="SLSA++ — A Survey of Software Supply Chain Security Practices &amp; Beliefs" src="/img/news/2023-03-15-slsa-survey/slsa-social-card.png" />
 
 By: David A. Wheeler, The Linux Foundation; John Speed Meyers, Chainguard; Mikaël Barbero, Eclipse Foundation; and Rebecca Rumbul, Rust Foundation
 
@@ -30,9 +30,9 @@ The survey, conducted in the summer and fall of 2022, includes data from nearly 
 
 Many practices already have strong or moderate adoption. For instance, over half of the respondents report always using a centralized build service. Other practices, such as digital signatures, were practiced less often: only 25% of respondents reported that their team always signs built artifacts. These findings are consistent with Google’s 2022 State of DevOps [<u>report</u>](https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out).
 
-<img src="/img/news/2023-03-15-slsa-survey/slsa-graph.png" width="580" height="304" title="Prevalence of Selected Software Supply Chain Security Practices" />
+<img width="580" height="304" title="Prevalence of Selected Software Supply Chain Security Practices" src="/img/news/2023-03-15-slsa-survey/slsa-graph.png" />
 
-### **Most practices are considered helpful though there is surprisingly little****variation in the perceived level of helpfulness.**
+### **Most practices are considered helpful though there is surprisingly little variation in the perceived level of helpfulness.**
 
 For each software supply chain security practice in the survey, at least 50% of the respondents labeled the practice as either extremely helpful or very helpful. Surprisingly though, the perceived helpfulness varies only slightly from practice to practice among the practices surveyed. Finally, the extent to which a participant views a particular practice as helpful is positively correlated with the likelihood that the participant’s organization adopts that practice. Whether these practices are viewed as helpful and then used or whether used practices are used and then viewed as helpful can’t be determined from the survey data.&nbsp;
 
