@@ -8,7 +8,7 @@ description: >
   proposals.
 date: 2023-03-06T12:00:00Z
 tags:
-  - events
+  - rustconf
 index: false
 layout: layouts/news.njk
 ---
