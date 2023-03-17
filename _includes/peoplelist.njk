@@ -11,7 +11,18 @@
   {% endif %}
 {% endfor %}
 {% for person in peoplelist | reverse %}
-  {% if not person.data.showfirst %}
+  {% if person.data.showsecond  %}
+    <li {% if person.data.headshot %}style="background-image: url('{{ person.data.headshot }}'" {% endif %}>
+      <div {% if person.data.ferris %}style="background-image: url('{{ person.data.ferris }}'" {% endif %} alt="a drawing of ferris" class="ferris"></div>
+      <div class="person">
+        <h2>{{ person.data.name }}</h2>
+        <h3>{{ person.data.title }}</h3>
+      </div>
+    </li>
+  {% endif %}
+{% endfor %}
+{% for person in peoplelist | reverse %}
+  {% if not person.data.showfirst and not person.data.showsecond %}
     <li {% if person.data.headshot %}style="background-image: url('{{ person.data.headshot }}'" {% endif %}>
       <div {% if person.data.ferris %}style="background-image: url('{{ person.data.ferris }}'" {% endif %} alt="a drawing of ferris" class="ferris"></div>
       <div class="person">
