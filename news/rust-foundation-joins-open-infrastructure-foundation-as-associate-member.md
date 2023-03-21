@@ -1,7 +1,7 @@
 ---
 title: Rust Foundation Joins Open Infrastructure Foundation as Associate Member
 byline:
-description: "he Rust Foundation is pleased to announce its new status as an Associate Member of the Open Infrastructure Foundation (OpenInfra) – an organization that seeks to protect, empower, and promote the Open Infrastructure community and open source software projects globally.\_"
+description: "The Rust Foundation is pleased to announce its new status as an Associate Member of the Open Infrastructure Foundation (OpenInfra) – an organization that seeks to protect, empower, and promote the Open Infrastructure community and open source software projects globally.\_"
 date: 2023-03-22T12:30:00Z
 tags:
   - announcement
