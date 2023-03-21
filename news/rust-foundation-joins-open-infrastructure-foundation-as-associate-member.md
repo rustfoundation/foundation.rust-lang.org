@@ -8,7 +8,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/img/news/2023-03-22-openinfra-associate-membership/open-infra-associate-membership.png" width="580" height="326" alt="[Heading] The Rust Foundation Joins Open Infrastructure Foundation as Associate Member" title="OpenInfra Associate Membership" />
+<img width="580" height="326" alt="[Heading] The Rust Foundation Joins Open Infrastructure Foundation as Associate Member" title="OpenInfra Associate Membership" src="/img/news/2023-03-22-openinfra-associate-membership/open-infra-associate-membership.png" />
 
 The Rust Foundation is dedicated to stewarding the Rust language and supporting Rust communities worldwide. As our organization continues to grow, we will be committed to working with other organizations that share our mission of advancing and protecting open source software.&nbsp;
 
