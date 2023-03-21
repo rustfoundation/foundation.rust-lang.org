@@ -12,7 +12,7 @@ layout: layouts/news.njk
 
 The Rust Foundation is dedicated to stewarding the Rust language and supporting Rust communities worldwide. As our organization continues to grow, we will be committed to working with other organizations that share our mission of advancing and protecting open source software.&nbsp;
 
-#### **Today, we are pleased to share that we have joined the**[**<u>OpenInfra Foundation</u>**](https://openinfra.dev/) **as an Associate Member. Read on to learn more about OpenInfra’s important work and why we have chosen to get involved.&nbsp;**
+### **Today, we are pleased to share that we have joined the &nbsp;**[**<u>OpenInfra Foundation</u>**](https://openinfra.dev/) **as an Associate Member. Read on to learn more about OpenInfra’s important work and why we have chosen to get involved.&nbsp;**
 
 ## About the Open Infrastructure Foundation
 
@@ -38,4 +38,4 @@ The Rust Foundation’s Executive Director & CEO Rebecca Rumbul said this about 
 
 *To read the OpenInfra Foundation’s statement on the Rust Foundation’s status as an Associate Member, click here.&nbsp;*
 
-*Visit*[*<u>openinfra.dev</u>*](https://openinfra.dev/) to learn more about the OpenInfra Foundation.&nbsp;
+*Visit &nbsp;*[*<u>openinfra.dev</u>*](https://openinfra.dev/) to learn more about the OpenInfra Foundation.&nbsp;
