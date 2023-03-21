@@ -32,7 +32,7 @@ We are in good company with the OpenInfra Foundation Associate membership, joini
 
 The Rust Foundation’s Executive Director & CEO Rebecca Rumbul said this about the OpenInfra Foundation Associate Membership:&nbsp;
 
-*“Open source foundations have a stronger and more meaningful impact when ideas and resources are shared. The Rust Foundation is committed to helping advance the open source ecosystem, not only through ongoing collaboration with the Rust community and our members but also through strategic partnerships like the one we have entered into with OpenInfra Foundation. The Rust Foundation looks forward to actively supporting OpenInfra’s worthwhile mission as an Associate Member ”.&nbsp;*
+*“Open source foundations have a stronger and more meaningful impact when ideas and resources are shared. The Rust Foundation is committed to helping advance the open source ecosystem, not only through ongoing collaboration with the Rust community and our members but also through strategic partnerships like the one we have entered into with OpenInfra Foundation. The Rust Foundation looks forward to actively supporting OpenInfra’s worthwhile mission as an Associate Member .”&nbsp;*
 
 ---
 
