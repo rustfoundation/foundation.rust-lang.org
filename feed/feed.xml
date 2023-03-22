@@ -5,12 +5,36 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2023-03-15T12:00:00Z</updated>
+	<updated>2023-03-22T12:30:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>Rust Foundation Joins Open Infrastructure Foundation as Associate Member</title>
+		<link href="https://foundation.rust-lang.org/news/rust-foundation-joins-open-infrastructure-foundation-as-associate-member/"/>
+		<updated>2023-03-22T12:30:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/rust-foundation-joins-open-infrastructure-foundation-as-associate-member/</id>
+		<content type="html">&lt;img width=&quot;580&quot; height=&quot;326&quot; alt=&quot;[Heading] The Rust Foundation Joins Open Infrastructure Foundation as Associate Member&quot; title=&quot;OpenInfra Associate Membership&quot; src=&quot;https://foundation.rust-lang.org/img/news/2023-03-22-openinfra-associate-membership/open-infra-associate-membership.png&quot; /&gt;
+&lt;p&gt;The Rust Foundation is dedicated to stewarding the Rust language and supporting Rust communities worldwide. As our organization continues to grow, we will be committed to working with other organizations that share our mission of advancing and protecting open source software. &lt;/p&gt;
+&lt;h3 id=&quot;today%2C-we-are-pleased-to-share-that-we-have-joined-the-openinfra-foundation-as-an-associate-member.-read-on-to-learn-more-about-openinfra%E2%80%99s-important-work-and-why-we-have-chosen-to-get-involved.&quot;&gt;&lt;strong&gt;Today, we are pleased to share that we have joined the  &lt;/strong&gt;&lt;a href=&quot;https://openinfra.dev/&quot;&gt;&lt;strong&gt;&lt;u&gt;OpenInfra Foundation&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;as an Associate Member. Read on to learn more about OpenInfra’s important work and why we have chosen to get involved. &lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rust-foundation-joins-open-infrastructure-foundation-as-associate-member/#today%2C-we-are-pleased-to-share-that-we-have-joined-the-openinfra-foundation-as-an-associate-member.-read-on-to-learn-more-about-openinfra%E2%80%99s-important-work-and-why-we-have-chosen-to-get-involved.&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;about-the-open-infrastructure-foundation&quot;&gt;About the Open Infrastructure Foundation &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rust-foundation-joins-open-infrastructure-foundation-as-associate-member/#about-the-open-infrastructure-foundation&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The origins of the Open Infrastructure Foundation can be traced back to 2012 when the OpenStack Foundation formed to govern the OpenStack project – the de facto global open source platform for operating cloud infrastructure. &lt;/p&gt;
+&lt;p&gt;Since then, the organization has evolved to become the Open Infrastructure Foundation: a neutral, collaborative home for open-source infrastructure projects. They are guided by a proven &lt;a href=&quot;https://openinfra.dev/projects/hosting/#our-model&quot;&gt;&lt;u&gt;sustainability&lt;/u&gt;&lt;/a&gt; model, &lt;a href=&quot;https://openinfra.dev/projects/hosting/#four-opens&quot;&gt;&lt;u&gt;collaboration&lt;/u&gt;&lt;/a&gt; principles, and a large, open infrastructure network of developers, companies, and users. &lt;/p&gt;
+&lt;p&gt;In short, the Open Infrastructure Foundation has a wide-reaching mission that involves establishing “new open source communities to advance areas where technology can successfully contribute to the development of open infrastructure: AI/Machine Learning, CI/CD, Container Infrastructure, Edge Computing and of course, Public, Private and Hybrid Clouds.”&lt;/p&gt;
+&lt;h2 id=&quot;about-our-openinfra-associate-membership&quot;&gt;About our OpenInfra Associate Membership &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rust-foundation-joins-open-infrastructure-foundation-as-associate-member/#about-our-openinfra-associate-membership&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;As a relatively young foundation with large goals for the Rust community and the larger open source ecosystem, we are eager to collaborate with and learn from organizations like the OpenInfra Foundation. &lt;/p&gt;
+&lt;p&gt;With our Associate-level OpenInfra membership, the Rust Foundation is actively supporting OpenInfra’s ongoing work that helps developers and communities build open source infrastructure software collaboratively. &lt;/p&gt;
+&lt;p&gt;We are in good company with the OpenInfra Foundation Associate membership, joining an impressive &lt;a href=&quot;https://openinfra.dev/members/&quot;&gt;&lt;u&gt;roster&lt;/u&gt;&lt;/a&gt; of non-profits and academic institutions such as Boston University, the Open Source Initiative, and University of Massachusetts Amherst.&lt;/p&gt;
+&lt;p&gt;The Rust Foundation’s Executive Director &amp;amp; CEO Rebecca Rumbul said this about the OpenInfra Foundation Associate Membership: &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Open source foundations have a stronger and more meaningful impact when ideas and resources are shared. The Rust Foundation is committed to helping advance the open source ecosystem, not only through ongoing collaboration with the Rust community and our members but also through strategic partnerships like the one we have entered into with OpenInfra Foundation. The Rust Foundation looks forward to actively supporting OpenInfra’s worthwhile mission as an Associate Member .” &lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;To find the OpenInfra Foundation’s statement on the Rust Foundation’s status as an Associate Member, please &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://www.prweb.com/releases/open_infrastructure_foundation_welcomes_python_and_rust_foundations_as_associate_members/prweb19238638.htm&quot;&gt;read the official press release&lt;/a&gt;. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Visit  &lt;/em&gt;&lt;a href=&quot;https://openinfra.dev/&quot;&gt;&lt;em&gt;&lt;u&gt;openinfra.dev&lt;/u&gt;&lt;/em&gt;&lt;/a&gt; to learn more about the OpenInfra Foundation. &lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Welcoming Software Engineer Adam Harvey to the Rust Foundation Team</title>
