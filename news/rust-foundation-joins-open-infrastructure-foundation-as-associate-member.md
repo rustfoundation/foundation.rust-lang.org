@@ -36,6 +36,6 @@ The Rust Foundation’s Executive Director & CEO Rebecca Rumbul said this about 
 
 ---
 
-*To read the OpenInfra Foundation’s statement on the Rust Foundation’s status as an Associate Member, click here.&nbsp;*
+*To find the OpenInfra Foundation’s statement on the Rust Foundation’s status as an Associate Member, please <a target="_blank" rel="noopener" href="https://www.prweb.com/releases/open_infrastructure_foundation_welcomes_python_and_rust_foundations_as_associate_members/prweb19238638.htm">read the official press release</a>.&nbsp;*
 
 *Visit &nbsp;*[*<u>openinfra.dev</u>*](https://openinfra.dev/) to learn more about the OpenInfra Foundation.&nbsp;
