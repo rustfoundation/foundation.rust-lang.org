@@ -13,6 +13,8 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
+<img src="/img/news/rust-endorsed-for-safer-coding-by-nist/nist.png" width="580" height="326" alt="Rust Endorsed for Safer Coding by NIST" title="Rust Endorsed for Safer Coding by NIST" />
+
 While the popularity and adoption of Rust have been growing for some time, wider awareness of its cybersecurity merits is coming into a more global focus. Memory safe languages like Rust are emerging as critical assets not only for organizations trying to prevent data corruption and null pointer references but also for the United States government as it becomes [<u>increasingly concerned</u>](https://techinformed.com/switch-to-memory-safe-coding-white-house-cybersec-chief-urges-oss-developers/?utm_source=thenewstack&amp;utm_medium=website&amp;utm_content=inline-mention&amp;utm_campaign=platform) with encouraging proper information security measures.
 
 Case in point: this month, The U.S. Department of Commerce’s National Institute of Standards and Technology ([<u>NIST</u>](https://www.nist.gov)) has added Rust to its list of “Safer Languages”. Let’s take a look at what this news means and why it’s a noteworthy development for both Rust and cybersecurity.
