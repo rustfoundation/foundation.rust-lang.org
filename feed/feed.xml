@@ -1327,7 +1327,7 @@ std::thread::spawn(move || {
 &lt;p&gt;&lt;a href=&quot;https://github.com/ouz-a&quot;&gt;Oğuz Ağcayazı&lt;/a&gt;, another tester of the service, said, “&lt;em&gt;With cloud computing, I don&#39;t have to contemplate the meaning of life while waiting for compiler tests to finish, it finishes the task quicker and I can use my computer while tests are running.&lt;/em&gt;”&lt;/p&gt;
 &lt;p&gt;While there are still some improvements we can make to the default machine images that are provided by this service (e.g., additional software and tooling, better user-data state persistence, targeted documentation on how to accomplish some tasks, etc.), we will soon open the Cloud Compute Program more broadly across the Rust Project. More machines will be brought online, across all three cloud compute platforms, around the world, so that other Rust maintainers can reap the benefits of this service.&lt;/p&gt;
 &lt;p&gt;We will let those on the various Rust Project governance teams know when they have access, and we look forward to observing how well this program scales.&lt;/p&gt;
-&lt;p&gt;Stay tuned for even more updates as we continue to expand the Cloud Compute Program offering.&lt;/p&gt;
+&lt;p&gt;Stay tuned for even more updates as we continue to expand the Cloud Compute Program offering. If you are a Rust contributor who wants access to the Cloud Compute services, see the documentation on &lt;a href=&quot;https://forge.rust-lang.org/infra/docs/dev-desktop.html&quot;&gt;forge.rust-lang.org&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
