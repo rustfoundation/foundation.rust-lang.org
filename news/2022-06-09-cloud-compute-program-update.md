@@ -24,4 +24,6 @@ While there are still some improvements we can make to the default machine image
 
 We will let those on the various Rust Project governance teams know when they have access, and we look forward to observing how well this program scales.
 
-Stay tuned for even more updates as we continue to expand the Cloud Compute Program offering.
+Stay tuned for even more updates as we continue to expand the Cloud Compute Program offering. If you are a Rust contributor who wants access to the Cloud Compute services, see the documentation on [forge.rust-lang.org][forge-docs].
+
+[forge-docs]: https://forge.rust-lang.org/infra/docs/dev-desktop.html
