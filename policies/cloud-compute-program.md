@@ -3,6 +3,10 @@ title: Cloud Compute Program
 layout: layouts/policy.njk
 ---
 
+**NOTE: if you are a Rust contributor who wants access to the Cloud Compute services, see the documentation on [forge.rust-lang.org][forge-docs].**
+
+[forge-docs]: https://forge.rust-lang.org/infra/docs/dev-desktop.html
+
 ## **Rust Maintainer Cloud Compute Access Agreement**
 
 This Rust Maintainer Cloud Compute Access Agreement (together with the other policies below, the “Agreement”) is a legal contract between (1) the Rust Foundation (“Foundation,” “we,” or “us”); and (2) you, the individual using the Services provided under this agreement. The Agreement governs your access to and use of the cloud compute services (the “Services”) made available by the Foundation to Rust maintainers for the purpose of developing, testing, researching, and debugging the Rust compiler and related tools (together, “Rust”).
