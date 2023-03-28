@@ -552,7 +552,7 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/news/rust-endorsed-for-safer-coding-by-nist/</loc>
+    <loc>https://foundation.rust-lang.org/news/rust-identified-as-safer-coding-tool-by-nist/</loc>
     <lastmod>2023-03-27</lastmod>
   </url>
   
@@ -1187,6 +1187,16 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/Community%20Grants%20Program/</loc>
+    <lastmod>2023-03-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/CGP/</loc>
+    <lastmod>2023-03-28</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/guest%20blog%20series/</loc>
     <lastmod>2023-03-28</lastmod>
   </url>
@@ -1198,16 +1208,6 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/trademark/</loc>
-    <lastmod>2023-03-28</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/Community%20Grants%20Program/</loc>
-    <lastmod>2023-03-28</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/CGP/</loc>
     <lastmod>2023-03-28</lastmod>
   </url>
   
