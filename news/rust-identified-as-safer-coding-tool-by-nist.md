@@ -1,5 +1,5 @@
 ---
-title: Rust Endorsed for Safer Coding by NIST
+title: Rust Identified as Safer Coding Tool by NIST
 byline:
 description: >-
   The U.S. Department of Commerce’s National Institute of Standards and
@@ -13,7 +13,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/img/news/rust-endorsed-for-safer-coding-by-nist/nist.png" width="580" height="326" alt="Rust Endorsed for Safer Coding by NIST" title="Rust Endorsed for Safer Coding by NIST" />
+<img src="/img/news/rust-identified-as-safer-coding-tool-by-nist/rust-nist.png" width="580" height="326" alt="Rust Endorsed for Safer Coding by NIST" title="Rust Endorsed for Safer Coding by NIST" />
 
 While the popularity and adoption of Rust have been growing for some time, wider awareness of its cybersecurity merits is coming into a more global focus. Memory safe languages like Rust are emerging as critical assets not only for organizations trying to prevent data corruption and null pointer references but also for the United States government as it becomes [<u>increasingly concerned</u>](https://techinformed.com/switch-to-memory-safe-coding-white-house-cybersec-chief-urges-oss-developers/?utm_source=thenewstack&amp;utm_medium=website&amp;utm_content=inline-mention&amp;utm_campaign=platform) with encouraging proper information security measures.
 
@@ -39,4 +39,4 @@ In March 2023, NIST added Rust to its list of Safer Languages on the grounds of 
 
 While the Rust community has long been aware of the language’s promotion of safer coding, the Rust Foundation is encouraged to see a large government body with global influence such as the U.S. Department of Commerce taking note of Rust’s cybersecurity merits. Rust is in a strong position to become even more key to performant and safe computer systems globally. &nbsp;&nbsp;&nbsp;
 
-### As the steward of the Rust programming language and community, the Rust Foundation continues to see advocacy and awareness work as one of our responsibilities. With NIST’s approval of Rust for safer coding, we hope to see other government agencies, consumer protection bodies, and organizations taking note of the importance of memory safety and recommending tools like Rust to secure the systems impacting our daily lives.
+### As the steward of the Rust programming language and community, the Rust Foundation continues to see advocacy and awareness work as one of our responsibilities. With NIST’s addition of Rust for safer coding, we hope to see other government agencies, consumer protection bodies, and organizations taking note of the importance of memory safety and recommending tools like Rust to secure the systems impacting our daily lives.
