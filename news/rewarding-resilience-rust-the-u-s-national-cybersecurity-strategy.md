@@ -10,7 +10,7 @@ date: 2023-03-29T12:30:00Z
 tags:
   - security
   - rust
-  - distinguished-advisors
+  - distinguished advisors
 index: false
 layout: layouts/news.njk
 ---
