@@ -10,10 +10,11 @@ date: 2023-03-29T12:30:00Z
 tags:
   - security
   - rust
-  - advisors
+  - distinguished advisors
 index: false
 layout: layouts/news.njk
 ---
+
 <img width="580" height="326" alt="Orange gradient background with white rust foundation logo up top (letter &quot;R&quot; inside gear icon).  [Heading] “Rewarding Resilience: Rust &amp; the U.S. National Cybersecurity Strategy&quot;   Headshot of Shane Miller (Rust Foundation Open Source Business Advisor) appears to the right of heading inside a circular, zig-zag frame." title="Rewarding Resilience: Rust &amp; the U.S. National Cybersecurity Strategy" src="/img/news/shane-miller-advisor-guest-blog/shane-miller-guest-blog.png" />
 
 Welcome to the first installment in a series authored by the Rust Foundation’s Distinguished Advisors – a group of experts in the open source space whose perspectives help inform our general strategy as a non-profit foundation serving the Rust ecosystem.
