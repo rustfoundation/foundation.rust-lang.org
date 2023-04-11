@@ -14,14 +14,15 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-
 <img width="580" height="326" alt="Orange gradient background with white rust foundation logo up top (letter &quot;R&quot; inside gear icon).  [Heading] “Rewarding Resilience: Rust &amp; the U.S. National Cybersecurity Strategy&quot;   Headshot of Shane Miller (Rust Foundation Open Source Business Advisor) appears to the right of heading inside a circular, zig-zag frame." title="Rewarding Resilience: Rust &amp; the U.S. National Cybersecurity Strategy" src="/img/news/shane-miller-advisor-guest-blog/shane-miller-guest-blog.png" />
 
-Welcome to the first installment in a series authored by the Rust Foundation’s Distinguished Advisors – a group of experts in the open source space whose perspectives help inform our general strategy as a non-profit foundation serving the Rust ecosystem.
+Welcome to the first installment in a series authored by the Rust Foundation’s Distinguished Advisors – a group of unpaid experts in the open source space whose policy-focused perspectives help inform our executive strategy as a non-profit foundation serving the Rust ecosystem.
 
 Shane Miller is the former Chair of the Rust Foundation Board of Directors and our current Distinguished Open Source Business Advisor.&nbsp;
 
-We are pleased to share Shane’s thoughts on the new U.S. National Cybersecurity Strategy, which introduces important priorities to guide us through the next era of cyberspace with security and safety at the helm. The contents of this blog are being reposted with permission from [<u>Shane’s personal website</u>](https://shane-one.com/blog/).&nbsp;
+We are pleased to share Shane’s thoughts on the new U.S. National Cybersecurity Strategy, which introduces important priorities to guide us through the next era of cyberspace with security and safety at the helm.&nbsp;
+
+This post was written by Shane and is being shared here to give you insight into her advisory point of view.
 
 ---
 
