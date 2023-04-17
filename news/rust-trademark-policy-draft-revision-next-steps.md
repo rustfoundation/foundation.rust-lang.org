@@ -16,7 +16,7 @@ On April 6th, 2023, the Rust Foundation released an initial draft of an updated 
 
 ## Proceeding With Transparency
 
-During the consultation period, it became clear that many people in the Rust community had questions, concerns, and confusion surrounding the policy draft and the groups involved in overseeing it. While we have only just begun the process of carefully reviewing your feedback, we understand that the process of drafting the Rust Trademark Policy should have been more transparent. The Rust Foundation, Rust Project Directors, and Trademark Working Group apologize for the confusion caused by this need for greater transparency.&nbsp;
+During the consultation period, it became clear that many people in the Rust community had questions, concerns, and confusion surrounding the policy draft and the groups involved in overseeing it. While we have only just begun the process of carefully reviewing your feedback, we understand that the process of drafting the Rust Trademark Policy should have been more transparent and we apologize for that.&nbsp;
 
 The consultation phase of the policy drafting process was intended to give Rust community members the opportunity to review the first draft of the Trademark Policy and express their questions, concerns, and comments. This process has helped us understand that the initial draft clearly needs improvement. In the next phase, we will provide more progress updates and work to address the concerns that were raised. While our review of your feedback has just begun, it is already clear that there are many valid critiques of the initial draft. We will address those critiques in the next version of the policy.&nbsp;
 
