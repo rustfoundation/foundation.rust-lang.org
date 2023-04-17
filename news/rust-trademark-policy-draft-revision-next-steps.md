@@ -3,7 +3,8 @@ title: Rust Trademark Policy Draft Revision – Next Steps
 byline:
 description: >-
   Here’s what’s next with the Rust Trademark Policy revision process as we
-  review your feedback on the initial draft and work to address it.
+  review your feedback on the initial draft and work to address it in a new
+  version.
 date: 2023-04-17T13:30:00Z
 tags:
   - rust project
