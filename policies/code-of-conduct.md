@@ -88,6 +88,6 @@ The investigator will make a recommendation to the rest of the team on what acti
 
 ## If you are unhappy with the outcome
 
-If you are unhappy with the way your report has been handled, the investigation that was undertaken, or the eventual outcome, you can request that the Executive Director reviews the process followed in your case, the evidence, the decision and the way that decision was applied. Their decision will be final.
+If you are unhappy with the way your report has been handled, the investigation that was undertaken, or the eventual outcome, you can request that the Executive Director (or, for board members, an officer of the board) reviews the process followed in your case, the evidence, the decision and the way that decision was applied. Their decision will be final.
 
 We expect our staff to be treated with the same courtesy, respect and fairness that we expect them to show to individuals. We do not tolerate unacceptable or unreasonable behavior towards staff members, even if this stems from frustration. We will aim to conclude interactions respectfully where we are unable to take an issue further under this code.
