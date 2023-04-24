@@ -25,4 +25,4 @@ Please join us in welcoming Tobias to the Rust Foundation team!
 
 ---
 
-*If you would like to find Tobias online, you can connect with him on*[*<u>GitHub</u>*](https://github.com/Turbo87) *and*[*<u>Mastodon</u>*](https://hachyderm.io/@tb)*.*
+*If you would like to find Tobias online, you can connect with him on&nbsp;*[*<u>GitHub</u>*](https://github.com/Turbo87) *and&nbsp;*[*<u>Mastodon</u>*](https://hachyderm.io/@tb)*.*
