@@ -567,6 +567,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/news/welcoming-software-engineer-tobias-bieniek-to-the-rust-foundation-team/</loc>
+    <lastmod>2023-04-24</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/about/</loc>
     <lastmod>2023-04-24</lastmod>
   </url>
@@ -1142,26 +1147,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/membership%20update/</loc>
-    <lastmod>2023-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/jobs/</loc>
-    <lastmod>2023-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/update/</loc>
-    <lastmod>2023-04-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/crates.io/</loc>
-    <lastmod>2023-04-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/member%20spotlight/</loc>
     <lastmod>2023-04-24</lastmod>
   </url>
@@ -1193,6 +1178,16 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/community%20grants/</loc>
+    <lastmod>2023-04-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/update/</loc>
+    <lastmod>2023-04-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/crates.io/</loc>
     <lastmod>2023-04-24</lastmod>
   </url>
   
@@ -1302,6 +1297,16 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/jobs/</loc>
+    <lastmod>2023-04-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/membership%20update/</loc>
+    <lastmod>2023-04-24</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/staff/</loc>
     <lastmod>2023-04-24</lastmod>
   </url>
@@ -1309,6 +1314,11 @@
   <url>
     <loc>https://foundation.rust-lang.org/events/open-source-summit-north-america/</loc>
     <lastmod>2023-05-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/events/global-open-source-technology-conference-gotc/</loc>
+    <lastmod>2023-05-27</lastmod>
   </url>
   
   <url>

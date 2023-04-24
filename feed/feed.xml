@@ -5,12 +5,28 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2023-04-17T13:30:00Z</updated>
+	<updated>2023-04-24T12:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>Welcoming Software Engineer Tobias Bieniek to the Rust Foundation Team</title>
+		<link href="https://foundation.rust-lang.org/news/welcoming-software-engineer-tobias-bieniek-to-the-rust-foundation-team/"/>
+		<updated>2023-04-24T12:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/welcoming-software-engineer-tobias-bieniek-to-the-rust-foundation-team/</id>
+		<content type="html">&lt;img width=&quot;580&quot; height=&quot;326&quot; alt=&quot;[Heading] Welcome to the Rust Foundation Team, Tobias Bieniek! (Headshot of Tobias appears in a zig-zag, circular frame to the right with the caption “Tobias Bieniek, Rust Foundation Software Engineer” below)&quot; title=&quot;Tobias Bieniek&quot; src=&quot;https://foundation.rust-lang.org/img/news/2023-04-24-welcoming-tobias/tobias-announcement.png&quot; /&gt;
+&lt;p&gt;We are pleased to announce that Tobias Bieniek joined the Rust Foundation team on April 3, 2023 as our newest Software Engineer. As a member of the Rust Foundation&#39;s growing technology team led by Director of Technology, Joel Marcey, Tobias will be focused specifically on serving the Rust programming language&#39;s &lt;a href=&quot;https://crates.io/&quot;&gt;&lt;u&gt;crates.io&lt;/u&gt;&lt;/a&gt; Team within the Rust Project.&lt;/p&gt;
+&lt;p&gt;Tobias has been involved with the Rust ecosystem since roughly 2015. He started out by working to the &lt;a href=&quot;https://www.jetbrains.com/rust/&quot;&gt;&lt;u&gt;intellij-rust project&lt;/u&gt;&lt;/a&gt; and for the past several years, he has been contributing to the &lt;a href=&quot;http://crates.io/&quot;&gt;crates.io&lt;/a&gt; codebase.&lt;/p&gt;
+&lt;p&gt;In 2019, Tobias officially joined the &lt;a href=&quot;http://crates.io/&quot;&gt;&lt;u&gt;crates.io&lt;/u&gt;&lt;/a&gt; team and was asked to co-lead the team in May 2021. In mid-2022, Tobias applied for the first round of fellowship grants from the Rust Foundation (part of our &lt;a href=&quot;https://foundation.rust-lang.org/grants/&quot;&gt;&lt;u&gt;Community Grants Program&lt;/u&gt;&lt;/a&gt;) and has been in close contact with the Rust Foundation ever since being accepted as a grantee.&lt;/p&gt;
+&lt;p&gt;When the &lt;a href=&quot;https://crates.io/&quot;&gt;&lt;u&gt;crates.io&lt;/u&gt;&lt;/a&gt;-focused software engineering role opened up at the Rust Foundation as part of its ongoing &lt;a href=&quot;https://foundation.rust-lang.org/news/2022-09-13-rust-foundation-establishes-security-team/&quot;&gt;&lt;u&gt;security initiative&lt;/u&gt;&lt;/a&gt;, it felt like a natural fit for Tobias who cited being a fan of open source software development and the Rust ecosystem as his primary reason to pursue the position. &lt;/p&gt;
+&lt;p&gt;Please join us in welcoming Tobias to the Rust Foundation team!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;If you would like to find Tobias online, you can connect with him on &lt;/em&gt;&lt;a href=&quot;https://github.com/Turbo87&quot;&gt;&lt;em&gt;&lt;u&gt;GitHub&lt;/u&gt;&lt;/em&gt;&lt;/a&gt; &lt;em&gt;and &lt;/em&gt;&lt;a href=&quot;https://hachyderm.io/@tb&quot;&gt;&lt;em&gt;&lt;u&gt;Mastodon&lt;/u&gt;&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Rust Trademark Policy Draft Revision – Next Steps</title>
