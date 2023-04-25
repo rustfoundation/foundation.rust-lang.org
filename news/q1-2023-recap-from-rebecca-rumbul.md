@@ -37,7 +37,7 @@ In late March, the Rust Foundation Board of Directors formed a People Committee 
 
 In Q1, we got to work on a number of important financial and legal housekeeping tasks including completing and submitting the 1024 form to the IRS and completing and preparing the preparation work for the 990 form for 2022. We also [<u>published our public filings on our website</u>](https://foundation.rust-lang.org/about/) in the form of our 990 form for 2021. As soon as our 2022 form is available, we intend to list it on our website as well.&nbsp;&nbsp;
 
-In Q1, the Rust Foundation team also collaborated with Rust Foundation Project Directors, our legal counsel, and a Trademark Working Group to develop an initial draft of an updated Rust Trademark Policy. In March, we created a plan to share it with the public during an open consultation period in April.&nbsp;
+In Q1, the Rust Foundation team also collaborated with Rust Foundation Project Directors, a Trademark Working Group, and our legal counsel to develop an initial draft of an updated Rust Trademark Policy. In March, we created a plan to share it with the public for feedback during an open consultation period in April.&nbsp;
 
 *Note: We know many members of the community are eager for updates related to the Rust Trademark Policy draft. Please refer to &nbsp;*[*<u>this blog</u>*](https://foundation.rust-lang.org/news/rust-trademark-policy-draft-revision-next-steps/) *from Q2 for the latest information about the feedback review process and the next steps for implementation.*
 
