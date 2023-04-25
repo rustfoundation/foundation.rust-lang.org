@@ -39,7 +39,7 @@ In Q1, we got to work on a number of important financial and legal housekeeping 
 
 In Q1, the Rust Foundation team also collaborated with Rust Foundation Project Directors, our legal counsel, and a Trademark Working Group to develop an initial draft of an updated Rust Trademark Policy. In March, we created a plan to share it with the public during an open consultation period in April.&nbsp;
 
-*Note: We know many members of the community are eager for updates related to this policy draft. Please refer to*[*<u>this blog</u>*](https://foundation.rust-lang.org/news/rust-trademark-policy-draft-revision-next-steps/) *from Q2 for the latest information about the feedback review process and the next steps for implementation.*
+*Note: We know many members of the community are eager for updates related to the Rust Trademark Policy draft. Please refer to &nbsp;*[*<u>this blog</u>*](https://foundation.rust-lang.org/news/rust-trademark-policy-draft-revision-next-steps/) *from Q2 for the latest information about the feedback review process and the next steps for implementation.*
 
 With the support of Infrastructure Engineer Jan David Nose and Director of Technology Joel Marcey, we also initiated an analysis and forecast of infrastructure costs to identify possible financial risks and mitigation measures.
 
@@ -87,6 +87,6 @@ Finally, as mentioned above, we also kicked off Q1 by announcing our latest roun
 
 ---
 
-**&nbsp;**Thank you for reading this recap of the Rust Foundation’s completed activities in Q1 of 2023. We’re looking forward to more exciting work to come over the next few months including an update on the Community Grants Program, celebrating the arrival of new members, attending Open Source Summit North America (with three members of our team set to speak), and more! I look forward to recapping all of that and much more in my Q2 update. &nbsp;*Find more Rust Foundation Quarterly Updates*[*<u>here</u>*](https://foundation.rust-lang.org/tags/quarterlyupdate/)
+Thank you for reading this recap of the Rust Foundation’s completed activities in Q1 of 2023. We’re looking forward to more exciting work to come over the next few months including an update on the Community Grants Program, celebrating the arrival of new members, attending Open Source Summit North America (with three members of our team set to speak), and more! I look forward to recapping all of that and much more in my Q2 update. &nbsp;*Find more Rust Foundation Quarterly Updates**&nbsp;&nbsp;**<u>here</u>*
 
 \- Rebecca Rumbul — Executive Director & CEO of the Rust Foundation
