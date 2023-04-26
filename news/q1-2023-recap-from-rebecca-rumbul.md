@@ -39,7 +39,7 @@ In Q1, we got to work on a number of important financial and legal housekeeping 
 
 In Q1, the Rust Foundation team also collaborated with Rust Foundation Project Directors, a Trademark Working Group, and our legal counsel to develop an initial draft of an updated Rust Trademark Policy. In March, we created a plan to share it with the public for feedback during an open consultation period in April.&nbsp;
 
-*Note: We know many members of the community are eager for updates related to the Rust Trademark Policy draft. Please refer to &nbsp;*[*<u>this blog</u>*](https://foundation.rust-lang.org/news/rust-trademark-policy-draft-revision-next-steps/) *from Q2 for the latest information about the feedback review process and the next steps for implementation. A careful review of all feedback is ongoing — we are dedicated to updating and improving upon the initial draft of this policy.&nbsp;*
+*Note: We know many members of the community are eager for updates related to the Rust Trademark Policy draft. Please refer to &nbsp;*[*<u>this blog</u>*](https://foundation.rust-lang.org/news/rust-trademark-policy-draft-revision-next-steps/) *from Q2 for the latest information about the feedback review process and the next steps for implementation. A careful review of all feedback is ongoing — we are dedicated to updating and improving upon the initial draft of this policy and we appreciate your patience.&nbsp;*
 
 With the support of Infrastructure Engineer Jan David Nose and Director of Technology Joel Marcey, we also initiated an analysis and forecast of infrastructure costs to identify possible financial risks and mitigation measures.
 
