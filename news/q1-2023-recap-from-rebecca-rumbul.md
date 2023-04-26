@@ -11,7 +11,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/img/news/2023-04-26-q1-2023-recap/quarterly-recap-q1.png" width="580" height="326" alt="Heading: Q1 2023 Recap &amp; Reflection Sub-heading: from our Executive Director &amp; CEO, Rebecca Rumbul. Headshot of Rebecca Rumbul appears in a circular frame." title="Q1 2023 Recap" />
+<img width="580" height="326" alt="Heading: Q1 2023 Recap &amp; Reflection Sub-heading: from our Executive Director &amp; CEO, Rebecca Rumbul. Headshot of Rebecca Rumbul appears in a circular frame." title="Q1 2023 Recap" src="/img/news/2023-04-26-q1-2023-recap/quarterly-recap-q1.png" />
 
 Last year, I began sharing recaps of the activities, projects, and accomplishments of the Rust Foundation staff at the end of each quarter. Although this post is slightly belated, I am happy to continue the practice of sharing quarterly updates about the Foundation in 2023 with much to report on.&nbsp;
 
@@ -39,7 +39,7 @@ In Q1, we got to work on a number of important financial and legal housekeeping 
 
 In Q1, the Rust Foundation team also collaborated with Rust Foundation Project Directors, a Trademark Working Group, and our legal counsel to develop an initial draft of an updated Rust Trademark Policy. In March, we created a plan to share it with the public for feedback during an open consultation period in April.&nbsp;
 
-*Note: We know many members of the community are eager for updates related to the Rust Trademark Policy draft. Please refer to &nbsp;*[*<u>this blog</u>*](https://foundation.rust-lang.org/news/rust-trademark-policy-draft-revision-next-steps/) *from Q2 for the latest information about the feedback review process and the next steps for implementation.*
+*Note: We know many members of the community are eager for updates related to the Rust Trademark Policy draft. Please refer to &nbsp;*[*<u>this blog</u>*](https://foundation.rust-lang.org/news/rust-trademark-policy-draft-revision-next-steps/) *from Q2 for the latest information about the feedback review process and the next steps for implementation. A careful review of all feedback is ongoing — we are dedicated to updating and improving upon the initial draft of this policy.&nbsp;*
 
 With the support of Infrastructure Engineer Jan David Nose and Director of Technology Joel Marcey, we also initiated an analysis and forecast of infrastructure costs to identify possible financial risks and mitigation measures.
 
@@ -87,6 +87,6 @@ Finally, as mentioned above, we also kicked off Q1 by announcing our latest roun
 
 ---
 
-Thank you for reading this recap of the Rust Foundation’s completed activities in Q1 of 2023. We’re looking forward to more exciting work to come over the next few months including an update on the Community Grants Program, celebrating the arrival of new members, attending Open Source Summit North America (with three members of our team set to speak), and more! I look forward to recapping all of that and much more in my Q2 update. &nbsp;*Find more Rust Foundation Quarterly Updates**&nbsp;&nbsp;**<u>here</u>*
+Thank you for reading this recap of the Rust Foundation’s completed activities in Q1 of 2023. We’re looking forward to more exciting work to come over the next few months including an update on the Community Grants Program, celebrating the arrival of new members, attending <a target="_blank" rel="noopener" href="https://events.linuxfoundation.org/open-source-summit-north-america/?creative=655069989359&amp;keyword=open%20source%20summit%20north%20america&amp;matchtype=e&amp;network=g&amp;device=c&amp;pi_ad_id=655069989359&amp;utm_term=open%20source%20summit%20north%20america&amp;utm_campaign=&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=8666746580&amp;hsa_cam=19979196448&amp;hsa_grp=148939734478&amp;hsa_ad=655069989359&amp;hsa_src=g&amp;hsa_tgt=kwd-776964337628&amp;hsa_kw=open%20source%20summit%20north%20america&amp;hsa_mt=e&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gclid=CjwKCAjwl6OiBhA2EiwAuUwWZSNktBC2Nh6jQsbRD0NgWbtZZlfc8u9MEwj6FBqOdbqyGVXkXCPaohoCExoQAvD_BwE">Open Source Summit North America</a> (with three members of our team set to speak), and more! I look forward to recapping all of that and much more in my Q2 update. &nbsp;*Find more Rust Foundation Quarterly Updates&nbsp;<a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/tags/quarterly%20updates/"><u>here</u></a>.*
 
 \- Rebecca Rumbul — Executive Director & CEO of the Rust Foundation
