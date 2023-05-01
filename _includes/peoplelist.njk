@@ -1,5 +1,5 @@
 <ul class="peoplelist">
-{% for person in peoplelist | reverse %}
+{% for person in peoplelist | sort(attribute="person.data.name") %}
   {% if person.data.showfirst  %}
     <li {% if person.data.headshot %}style="background-image: url('{{ person.data.headshot }}')" {% endif %}>
       <div style="background-image: url('{% if person.data.ferris %}{{ person.data.ferris }}{% else %} /img/ferris/default.png {% endif %}')" alt="a drawing of ferris" class="ferris"></div>
@@ -10,7 +10,7 @@
     </li>
   {% endif %}
 {% endfor %}
-{% for person in peoplelist | reverse %}
+{% for person in peoplelist | sort(attribute="person.data.name") %}
   {% if person.data.showsecond  %}
     <li {% if person.data.headshot %}style="background-image: url('{{ person.data.headshot }}')" {% endif %}>
       <div style="background-image: url('{% if person.data.ferris %}{{ person.data.ferris }}{% else %} /img/ferris/default.png {% endif %}')" alt="a drawing of ferris" class="ferris"></div>
@@ -21,7 +21,7 @@
     </li>
   {% endif %}
 {% endfor %}
-{% for person in peoplelist | reverse %}
+{% for person in peoplelist | sort(attribute="person.data.name") %}
   {% if not person.data.showfirst and not person.data.showsecond %}
     <li {% if person.data.headshot %}style="background-image: url('{{ person.data.headshot }}')" {% endif %}>
       <div style="background-image: url('{% if person.data.ferris %}{{ person.data.ferris }}{% else %} /img/ferris/default.png {% endif %}')" alt="a drawing of ferris" class="ferris"></div>
