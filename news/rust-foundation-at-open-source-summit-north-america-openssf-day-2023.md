@@ -1,7 +1,7 @@
 ---
 title: Rust Foundation at Open Source Summit North America, OpenSSF Day 2023
 byline:
-description: >
+description: >-
   Headed to Vancouver, BC for Open Source Summit North America this year? Don’t
   miss these talks and panel discussions featuring members of the Rust
   Foundation team!
