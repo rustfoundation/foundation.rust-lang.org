@@ -5,12 +5,32 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2023-04-26T12:00:00Z</updated>
+	<updated>2023-05-03T12:00:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>Rust Foundation at Open Source Summit North America, OpenSSF Day 2023</title>
+		<link href="https://foundation.rust-lang.org/news/rust-foundation-at-open-source-summit-north-america-openssf-day-2023/"/>
+		<updated>2023-05-03T12:00:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/rust-foundation-at-open-source-summit-north-america-openssf-day-2023/</id>
+		<content type="html">&lt;img src=&quot;https://foundation.rust-lang.org/img/news/2023-05-03-open-source-summit-north-america-2023/ossummit.png&quot; width=&quot;580&quot; height=&quot;316&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;https://events.linuxfoundation.org/open-source-summit-north-america/&quot;&gt;&lt;u&gt;Open Source Summit North America&lt;/u&gt;&lt;/a&gt; is the premier event for open source developers, technologists, and community leaders brought to you by the Linux Foundation and coming up on May 10-12, 2023. &lt;/p&gt;
+&lt;p&gt;A handful of Rust Foundation team members will be in attendance to experience as many talks as we can and connect with the open source community in person. We hope to see you there!&lt;/p&gt;
+&lt;p&gt;Additionally, we are honored to have three of our team members on the agendas of Open Source Summit and the co-located &lt;a href=&quot;https://events.linuxfoundation.org/openssf-day-north-america/&quot;&gt;&lt;u&gt;OpenSSF Day&lt;/u&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;On Thursday, May 11, Rebecca Rumbul (Rust Foundation Executive Director &amp;amp; CEO) will be presenting a talk with Gracie Gregory (Director of Communications &amp;amp; Marketing) about how the Foundation is mapping out its strategy and priorities over the next several years. &lt;/li&gt;
+&lt;li&gt;On Wednesday, May 10, Walter Pearce (Rust Foundation Security Engineer) will be taking part in a live panel discussion hosted by Alpha-Omega Project at OpenSSF Day about securing open source software through direct maintainer engagement.  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://events.linuxfoundation.org/open-source-summit-north-america/&quot;&gt;&lt;u&gt;&amp;gt;&amp;gt; View the Open Source Summit Schedule&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://events.linuxfoundation.org/openssf-day-north-america/?utm_campaign=23Q1%20-%20OpenSSF%20-%20OpenSSF%20Day&amp;amp;utm_source=ppc&amp;amp;utm_medium=google&amp;amp;creative=656193752848&amp;amp;keyword=open%20source%20software%20conference&amp;amp;matchtype=b&amp;amp;network=g&amp;amp;device=c&amp;amp;pi_ad_id=656193752848&amp;amp;utm_term=open%20source%20software%20conference&amp;amp;utm_campaign=&amp;amp;utm_source=adwords&amp;amp;utm_medium=ppc&amp;amp;hsa_acc=8666746580&amp;amp;hsa_cam=20029959008&amp;amp;hsa_grp=149986804002&amp;amp;hsa_ad=656193752848&amp;amp;hsa_src=g&amp;amp;hsa_tgt=kwd-349256723714&amp;amp;hsa_kw=open%20source%20software%20conference&amp;amp;hsa_mt=b&amp;amp;hsa_net=adwords&amp;amp;hsa_ver=3&amp;amp;gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdyY0kRV4wLrxysbyjf1O4wLW9ux5nKYvo_vikUNiG9dr8_--H0dh270aAhBLEALw_wcB&quot;&gt;&lt;u&gt;&amp;gt;&amp;gt; View the OpenSSF Day Schedule&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you plan to attend Open Source Summit and the co-located OpenSSF Day, we hope you’ll consider attending our talks. &lt;/p&gt;
+&lt;p&gt;The Rust Foundation team looks forward to connecting with members of the Rust community as well as the general open source community from May 10-12, 2023 in Vancouver!&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Q1 2023 Recap from Rebecca Rumbul</title>
