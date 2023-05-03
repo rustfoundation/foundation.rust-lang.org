@@ -1167,6 +1167,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/membership%20update/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/update/</loc>
     <lastmod>2023-05-03</lastmod>
   </url>
@@ -1222,17 +1227,17 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/guest%20blog%20series/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/Community%20Grants%20Program/</loc>
     <lastmod>2023-05-03</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/CGP/</loc>
-    <lastmod>2023-05-03</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/guest%20blog%20series/</loc>
     <lastmod>2023-05-03</lastmod>
   </url>
   
@@ -1272,17 +1277,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/annual%20report/</loc>
-    <lastmod>2023-05-03</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/rust/</loc>
     <lastmod>2023-05-03</lastmod>
   </url>
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/distinguished%20advisors/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/annual%20report/</loc>
     <lastmod>2023-05-03</lastmod>
   </url>
   
@@ -1313,11 +1318,6 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/jobs/</loc>
-    <lastmod>2023-05-03</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/membership%20update/</loc>
     <lastmod>2023-05-03</lastmod>
   </url>
   
