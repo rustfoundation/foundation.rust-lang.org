@@ -71,7 +71,7 @@ Additionally, our team built a new strategy for growing our member base in 2023 
 
 ## **Community Grants Program**
 
-We began Q1 on a very positive note by announcing our latest round of [<u>Project Grant</u>](https://foundation.rust-lang.org/grants/project-grants/) recipients. As a reminder, Project Grants are financial awards ranging from $2,500-$15,000 USD, housed under the Rust Foundation’s [<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/) umbrella. Project Grants fund Rust-focused packages of work carried out by both individuals and teams across the wider community. You can find the list of Project Grantees from Q1 of 2023 in [<u>this blog post</u>](https://foundation.rust-lang.org/news/community-grants-program-awards-announcement-introducing-our-latest-project-grantees/).&nbsp;
+We began Q1 on a very positive note by announcing our latest round of [<u>Project Grant</u>](https://foundation.rust-lang.org/grants/project-grants/) recipients. As a reminder, Project Grants are financial awards ranging from $2,500-$15,000 USD, housed under the Rust Foundation’s [<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/) umbrella. Project Grants fund Rust-focused packages of work carried out by both individuals and teams across the wider community.&nbsp;
 
 ## **Communications & Events**
 
@@ -83,7 +83,7 @@ The Rust Foundation team was present at several Rust community events in Q1 incl
 
 In Q1, we provided administrative and communications support for the Rust Project for their annual survey – an extension of support from last year.&nbsp;
 
-Finally, as mentioned above, we also kicked off Q1 by announcing our latest round of Community Grants Program Project Grantees on social media and via our blog. We intend to continue highlighting the work of our grantees in Q2-4 via our [<u>Grantee Spotlight Series</u>](https://foundation.rust-lang.org/tags/grantee%20spotlight/) which began in Q4 of 2022.&nbsp;
+Finally, as mentioned above, we also kicked off Q1 by announcing our latest round of Community Grants Program Project Grantees on social media and [via our blog](https://foundation.rust-lang.org/news/community-grants-program-awards-announcement-introducing-our-latest-project-grantees/). We intend to continue highlighting the work of our grantees in Q2-4 via our [<u>Grantee Spotlight Series</u>](https://foundation.rust-lang.org/tags/grantee%20spotlight/) which began in Q4 of 2022.&nbsp;
 
 ---
 
