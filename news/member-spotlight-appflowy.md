@@ -4,7 +4,6 @@ byline:
 description: ' Introducing AppFlowy, a Rust Foundation Silver Member organization.'
 date: 2023-05-09T12:00:00Z
 tags:
-  - announcement
   - member spotlight
 index: false
 layout: layouts/news.njk
