@@ -8,7 +8,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/img/news/2023-05-09-appflowy-member-spotlight/appflowy.png" width="580" height="324" alt="Member Spotlight: AppFlowy Featuring Co-Founder &amp; CTO Nathan Foo" title="AppFlowy Member Spotlight Featuring Co-Founder &amp; CTO Nathan Foo" />
+<img width="580" height="324" alt="Member Spotlight: AppFlowy Featuring Co-Founder &amp; CTO Nathan Foo" title="AppFlowy Member Spotlight Featuring Co-Founder &amp; CTO Nathan Foo" src="/img/news/2023-05-09-appflowy-member-spotlight/appflowy.png" />
 
 Welcome to another installment of the Rust Foundation Member Spotlight series! These blogs aim to introduce our community to various Rust Foundation Member organizations and their leaders. In this installment, we spoke with Nathan Foo, the Co-Founder and CTO of AppFlowy (a Rust Foundation Silver Member Organization) who shared a bit about the company, how they use Rust, and more.&nbsp;
 
@@ -28,7 +28,7 @@ These early successes gave us the confidence to try more ambitious things. We ar
 
 You can learn more about how AppFlowy is built with Rust and the technical challenges we tackled by subscribing to [<u>AppFlowy Binary</u>](https://blog-appflowy.ghost.io/), our newsletter for developers and makers.
 
-<img src="/img/news/2023-05-09-appflowy-member-spotlight/appflowy-diagram.png" width="580" height="456" alt="AppFlowy Architecture Rust" title="AppFlowy Architecture" />
+<img width="580" height="456" alt="AppFlowy Architecture Rust" title="AppFlowy Architecture" src="/img/news/2023-05-09-appflowy-member-spotlight/appflowy-diagram.png" />
 
 *Image Source: AppFlowy*
 
