@@ -727,6 +727,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/members/appflowy/</loc>
+    <lastmod>2023-05-09</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/members/arm/</loc>
     <lastmod>2023-05-09</lastmod>
   </url>
@@ -1147,16 +1152,6 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/announcement/</loc>
-    <lastmod>2023-05-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/philosophy/</loc>
-    <lastmod>2023-05-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foundation.rust-lang.org/tags/getting%20to%20know%20the%20board%20series/</loc>
     <lastmod>2023-05-09</lastmod>
   </url>
@@ -1167,7 +1162,12 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/membership%20update/</loc>
+    <loc>https://foundation.rust-lang.org/tags/announcement/</loc>
+    <lastmod>2023-05-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/philosophy/</loc>
     <lastmod>2023-05-09</lastmod>
   </url>
   
@@ -1322,12 +1322,17 @@
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/jobs/</loc>
+    <loc>https://foundation.rust-lang.org/tags/staff/</loc>
     <lastmod>2023-05-09</lastmod>
   </url>
   
   <url>
-    <loc>https://foundation.rust-lang.org/tags/staff/</loc>
+    <loc>https://foundation.rust-lang.org/tags/membership%20update/</loc>
+    <lastmod>2023-05-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/jobs/</loc>
     <lastmod>2023-05-09</lastmod>
   </url>
   
