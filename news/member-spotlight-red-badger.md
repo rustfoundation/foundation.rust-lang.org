@@ -10,7 +10,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/img/news/2023-05-23-red-badger-member-spotlight/red-badger.png" width="580" height="326" alt="Rust Foundation Member Spotlight: Red Badger Featuring Stuart Harris (Co-Founder &amp; Chief Scientist at Red Badger)" title="Rust Foundation Silver Member Spotlight: Red Badger" />
+<img width="580" height="326" alt="Rust Foundation Member Spotlight: Red Badger Featuring Stuart Harris (Co-Founder &amp; Chief Scientist at Red Badger)" title="Rust Foundation Silver Member Spotlight: Red Badger" src="/img/news/2023-05-23-red-badger-member-spotlight/red-badger.png" />
 
 Welcome to another installment of the Rust Foundation Member Spotlight series! These blogs aim to introduce our community to various Rust Foundation Member organizations and their leaders. In this installment, we spoke with Stu Harris, co-founder and Chief Scientist, [<u>Red Badger</u>](https://red-badger.com/) (a Rust Foundation Silver Member organization). Stu chatted with the Rust Foundation team about Red Badger’s mission as a company, how they use Rust, and more.&nbsp;
 
@@ -50,11 +50,11 @@ The Rust Foundation provides access to the community and the support, scaffoldin
 
 ## **Stu, what is your personal favorite thing about Rust?**
 
-As an engineer, my favorite thing about Rust is best summed up as “it stops me from shooting myself in the foot.”Before any of the Rust code I write runs, I have high confidence that it is correct. It is hard to make mistakes in the code that a user will find in 6 months’ time, on a Saturday night. This leads to high-quality software as it pushes problems left, where they get highlighted and resolved immediately. This provides an incredible feeling of safety to a developer, especially during refactoring, which we can now do with impunity — helping to keep our software soft, whilst massively reducing the stress involved. The Rust compiler has my back.&nbsp;
+As an engineer, my favorite thing about Rust is best summed up as “it stops me from shooting myself in the foot.” Before any of the Rust code I write runs, I have high confidence that it is correct. It is hard to make mistakes in the code that a user will find in 6 months’ time, on a Saturday night. This leads to high-quality software as it pushes problems left, where they get highlighted and resolved immediately. This provides an incredible feeling of safety to a developer, especially during refactoring, which we can now do with impunity — helping to keep our software soft, whilst massively reducing the stress involved. The Rust compiler has my back.&nbsp;
 
 ## **What are Red Badger’s hopes for the future of Rust?**
 
-We believe that Rust is a better alternative to many traditional languages out there. We hope and look forward to the ecosystem continuing to mature for adoption across web apps and UX/UI domains.In regard to the language itself, it is already huge. As it continues to evolve, we hope it maintains the principle of greater simplicity and ease of use. Examples of this are already clear in the evolution of Rust (e.g. non-lexical lifetimes) and long may it continue.
+We believe that Rust is a better alternative to many traditional languages out there. We hope and look forward to the ecosystem continuing to mature for adoption across web apps and UX/UI domains. In regard to the language itself, it is already huge. As it continues to evolve, we hope it maintains the principle of greater simplicity and ease of use. Examples of this are already clear in the evolution of Rust (e.g. non-lexical lifetimes) and long may it continue.
 
 At Red Badger, we are very familiar with pioneering new technologies and new approaches in the enterprise – we can see that Rust is already gathering bottom-up momentum. For anyone in business or technical leadership roles, harnessing this momentum with top-down considerations in place will be game-changing. Rust is at an inflection point now and there are no longer advantages in waiting. Those that move quickly now will also accrue the competitive advantage of early knowledge and experience, and attract the best engineering talent.
 
