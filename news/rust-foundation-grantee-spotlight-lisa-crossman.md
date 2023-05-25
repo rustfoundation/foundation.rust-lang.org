@@ -1,11 +1,10 @@
 ---
 title: 'Rust Foundation Grantee Spotlight: Lisa Crossman'
 byline:
-description: Announcing the Rust Foundation to the World
-date: 2021-02-08T00:00:00Z
+description:
+date: 2023-05-25T12:00:00Z
 tags:
-  - announcement
-  - philosophy
+  - grantee spotlight
 index: false
 layout: layouts/news.njk
 ---
