@@ -1,5 +1,5 @@
 ---
-title: 'Rust Foundation Grantee Spotlight: Lisa Crossman'
+title: 'Community Grantee Spotlight: Lisa Crossman'
 byline:
 description: >-
   Meet Lisa Crossman: A Rust Foundation Project Grantee under the Community
@@ -121,8 +121,10 @@ Rust has huge potential for growth and is up-and-coming and forward-looking.&nbs
 
 Thank you to Lisa for taking the time to chat with our team about their work under the Community Grants Program so far! We’re excited to publish more installments of our Grantee Spotlight Series in the near future. You can follow the development of the series [<u>here</u>](https://foundation.rust-lang.org/tags/grantee%20spotlight%20series).&nbsp;
 
+Lisa will be speaking about her work at RustConf 2023 coming up in September in Albuquerque, NM and online. Learn more and register <a target="_blank" rel="noopener" href="https://rustconf.com/speakers/lisa-crossman">here</a>.&nbsp;
+
 ---
 
 ### ***About the Rust Foundation Community Grants Program***
 
-The Rust Foundation [<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/) provides access to new resources for the Rust community to maintain, innovate, collaborate over, and further develop the Rust programming language. While the Community Grants Program provides financial backing across several different categories (Events Support Grants, Rust Foundation Fellowships, Hardship Grants, and Project Grants) the overall mission is shared: to support the continued expansion of Rust and address key areas for development across the Rust ecosystem. The Rust Foundation Community Grants Program is made possible by <a target="_blank" rel="noopener" href="https://aws.amazon.com/">AWS</a>, [Huawei](https://www.huawei.com/en/), [Google](https://www.google.com/), and [Zama](https://www.zama.ai/). Learn more about the program [<u>here</u>](https://foundation.rust-lang.org/grants).&nbsp;
+The Rust Foundation [<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/) provides access to new resources for the Rust community to maintain, innovate, collaborate over, and further develop the Rust programming language. While the Community Grants Program provides financial backing across several different categories (Events Support Grants, Rust Foundation Fellowships, Hardship Grants, and Project Grants) the overall mission is shared: to support the continued expansion of Rust and address key areas for development across the Rust ecosystem. The Rust Foundation Community Grants Program is made possible by <a target="_blank" href="https://aws.amazon.com/">AWS</a>, [Huawei](https://www.huawei.com/en/), [Google](https://www.google.com/), and [Zama](https://www.zama.ai/). Learn more about the program [<u>here</u>](https://foundation.rust-lang.org/grants).&nbsp;
