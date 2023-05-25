@@ -11,13 +11,13 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-## <u>About this series</u>
-
-Welcome to the Rust Foundation’s latest installment of the Community Grantee series – a collection of blogs that will highlight the accomplishments and experiences of individuals who received a [<u>Project Grant</u>](https://foundation.rust-lang.org/grants/project-grants/) or [<u>Rust Foundation Fellowship</u>](https://foundation.rust-lang.org/grants/fellowships/) as part of our [<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/). Each installment features an interview with an individual grantee about their progress, goals, and experiences in the program.&nbsp;
-
-Our intention for this series is to celebrate our hardworking grantees while shedding light on the wide breadth of work they are collectively doing to benefit the Rust ecosystem. We hope you enjoy getting acquainted with these amazing individuals!
-
-Note: This series will not function as a comprehensive catalog of all our grantees, but instead will highlight a handful of individuals who expressed interest. Please stay tuned for a new page our team is working on that will list the grants we’ve issued to date. In the meantime, you can find our most recent announcement of Rust Foundation grants [<u>here</u>](https://foundation.rust-lang.org/news/community-grants-program-awards-announcement-introducing-our-latest-project-grantees/) – with more to be announced soon!&nbsp;
+> *<u>About this series</u>*
+>
+> *Welcome to the Rust Foundation’s latest installment of the Community Grantee series – a collection of blogs that will highlight the accomplishments and experiences of individuals who received a [<u>Project Grant</u>](https://foundation.rust-lang.org/grants/project-grants/) or [<u>Rust Foundation Fellowship</u>](https://foundation.rust-lang.org/grants/fellowships/) as part of our [<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/). Each installment features an interview with an individual grantee about their progress, goals, and experiences in the program.&nbsp;*
+>
+> *Our intention for this series is to celebrate our hardworking grantees while shedding light on the wide breadth of work they are collectively doing to benefit the Rust ecosystem. We hope you enjoy getting acquainted with these amazing individuals!*
+>
+> *Note: This series will not function as a comprehensive catalog of all our grantees, but instead will highlight a handful of individuals who expressed interest. Please stay tuned for a new page our team is working on that will list the grants we’ve issued to date. In the meantime, you can find our most recent announcement of Rust Foundation grants [<u>here</u>](https://foundation.rust-lang.org/news/community-grants-program-awards-announcement-introducing-our-latest-project-grantees/) – with more to be announced soon!&nbsp;*
 
 ---
 
