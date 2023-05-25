@@ -13,6 +13,8 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
+<img src="/img/news/2023-05-25-lisa-crossman-grantee-spotlight/lisa-crossman.png" width="580" height="326" alt="Community Grantee Spotlight: Lisa Crossman" title="Community Grantee Spotlight: Lisa Crossman" />
+
 > *<u>About this series</u>*
 >
 > *Welcome to the Rust Foundation’s latest installment of the Community Grantee series – a collection of blogs that will highlight the accomplishments and experiences of individuals who received a [<u>Project Grant</u>](https://foundation.rust-lang.org/grants/project-grants/) or [<u>Rust Foundation Fellowship</u>](https://foundation.rust-lang.org/grants/fellowships/) as part of our [<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/). Each installment features an interview with an individual grantee about their progress, goals, and experiences in the program.&nbsp;*
@@ -75,7 +77,7 @@ One day, my collaborator asked me to create a program to count kmers (very short
 
 ### ***<u>Q: Tell us about the process of getting started with Rust.</u>***
 
-A: I must admit that it was difficult to find a starting point with Rust, but that's actually normal in bioinformatics anyway. I was used to working without a map. In my opinion, this is the first thing you need to be prepared to do when learning Rust – jump in with both feet.&nbsp;
+A: I must admit that it was difficult to find a starting point with Rust, but that's actually normal in bioinformatics anyway. I was used to working without a map. In my opinion, jumping in with both feet is the first thing you need to be prepared to do when learning Rust.&nbsp;
 
 The only way I could really get started was to sift through source code and try things out. Obviously, if you don't understand the source code at all, that's quite a difficult thing to do! But [<u>Rust Playground</u>](https://play.rust-lang.org/?version=stable&amp;mode=debug&amp;edition=2021) really helped me in the early stages because you could actually get some things to work without having to compile it and spend ages learning Cargo right out of the gate.
 
