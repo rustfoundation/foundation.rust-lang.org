@@ -8,6 +8,8 @@ description: >-
 date: 2023-05-25T12:00:00Z
 tags:
   - grantee spotlight
+  - community grants
+  - programs
 index: false
 layout: layouts/news.njk
 ---
