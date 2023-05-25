@@ -1,7 +1,10 @@
 ---
 title: 'Rust Foundation Grantee Spotlight: Lisa Crossman'
 byline:
-description:
+description: >-
+  Meet Lisa Crossman: A Rust Foundation Project Grantee under the Community
+  Grants Program — and the latest subject of our Community Grantee Spotlight
+  series.
 date: 2023-05-25T12:00:00Z
 tags:
   - grantee spotlight
