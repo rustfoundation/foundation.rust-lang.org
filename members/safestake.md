@@ -1,6 +1,6 @@
 ---
-name: Parastate
+name: SafeStake
 level: silver
-logo: /img/member/parastate.png
-url: https://www.parastate.io/
+logo: /img/member/safestake.png
+url: https://www.safestake.xyz/
 ---
