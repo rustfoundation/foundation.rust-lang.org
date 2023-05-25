@@ -91,11 +91,11 @@ Hundreds of lines of code – that ran! I also discovered I was a Rustacean all 
 
 ### ***Q: What was your experience as a grantee like overall?&nbsp;***
 
-The program has a really nice community feel and I feel well-supported. I will say that by and large, the other grantees are a bit less chatty than I am but then again, I come from a lab environment where biologists are very chatty! Overall, it has been a fantastic experience.&nbsp;
+The program has a really nice community feel and I feel well-supported. I will say that by and large, the other grantees are a bit less chatty than I am but then again, I come from a lab environment where biologists are *very* chatty! Overall, it has been a fantastic experience.&nbsp;
 
 ### ***Q: Name one new thing about Rust that you’ve learned from your work under the program.***
 
-I actually learned a ton of Rust during this program. Being a grantee probably increased my knowledge hugely, so it's difficult to name one thing that I learned.&nbsp;
+I actually learned a ton of Rust during this program. Being a Rust Foundation Grantee probably increased my knowledge hugely, so it's difficult to name one thing that I learned.&nbsp;
 
 I suppose one thing I was surprised by is that Rust can actually be more like Python than I initially thought. You can kind of get away with not writing loads of structs and traits. Similar to Python, once you have foundational Rust knowledge, it’s simple to get on with.&nbsp;
 
@@ -115,9 +115,7 @@ Opportunity
 
 ### **Q: What excites you most about Rust/the future of Rust/the implications of Rust?&nbsp;**
 
-Rust has huge potential for growth and is up-and-coming and forward-looking.&nbsp; With all this promise it should be the programming language of choice for the next generation of software!&nbsp;&nbsp;
-
-
+Rust has huge potential for growth and is up-and-coming and forward-looking.&nbsp; With all this promise it should be the programming language of choice for the next generation of software! &nbsp;
 
 ---
 
@@ -127,4 +125,4 @@ Thank you to Lisa for taking the time to chat with our team about their work und
 
 ### ***About the Rust Foundation Community Grants Program***
 
-The Rust Foundation [<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/) provides access to new resources for the Rust community to maintain, innovate, collaborate over, and further develop the Rust programming language. While the Community Grants Program provides financial backing across several different categories (Events Support Grants, Rust Foundation Fellowships, Hardship Grants, and Project Grants) the overall mission is shared: to support the continued expansion of Rust and address key areas for development across the Rust ecosystem. The Rust Foundation Community Grants Program is made possible by AWS, Huawei, Google, and Zama. Learn more about the program [<u>here</u>](https://foundation.rust-lang.org/grants).&nbsp;
+The Rust Foundation [<u>Community Grants Program</u>](https://foundation.rust-lang.org/grants/) provides access to new resources for the Rust community to maintain, innovate, collaborate over, and further develop the Rust programming language. While the Community Grants Program provides financial backing across several different categories (Events Support Grants, Rust Foundation Fellowships, Hardship Grants, and Project Grants) the overall mission is shared: to support the continued expansion of Rust and address key areas for development across the Rust ecosystem. The Rust Foundation Community Grants Program is made possible by <a target="_blank" rel="noopener" href="https://aws.amazon.com/">AWS</a>, [Huawei](https://www.huawei.com/en/), [Google](https://www.google.com/), and [Zama](https://www.zama.ai/). Learn more about the program [<u>here</u>](https://foundation.rust-lang.org/grants).&nbsp;
