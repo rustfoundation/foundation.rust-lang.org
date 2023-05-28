@@ -13,4 +13,4 @@ layout: layouts/event.njk
 
 
 
-The Rust Foundation is a sponsor of RustConf 2023: the largest annual gathering of the Rust language community. As a sponsor, we value the opportunity to support the event financially and appreciate the efforts of RustConf's organizing team to build this year's lineup of content and experiences.&nbsp;
+*The Rust Foundation is a sponsor of RustConf 2023: the largest annual gathering of the Rust language community. As a sponsor, we value the opportunity to contribute financial support to the event and appreciate the efforts of RustConf's organizing team to build this year's lineup of content and experiences.&nbsp;*
