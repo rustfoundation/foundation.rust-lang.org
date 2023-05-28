@@ -9,6 +9,8 @@ tags:
   - live
 layout: layouts/event.njk
 ---
+## <img src="/img/news/2023-03-06-rustconf-cfp/rustconf.jpeg" width="580" height="193" />
+
 ## Learn more about RustConf 2023, view the program, and register here: &nbsp;<a target="_blank" href="https://rustconf.com">https://rustconf.com</a>.&nbsp;
 
 
