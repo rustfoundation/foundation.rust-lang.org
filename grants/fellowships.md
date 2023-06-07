@@ -6,7 +6,9 @@ description: >-
    Stipends of $1,000 per month, plus a travel and training budget, granted to up to 12 individuals
    who are either already contributing to the Rust community or who have Rust experience and a high
    potential to benefit the community through their contributions.
-   Our 2023 Fellowship application is currently OPEN through June 30th. 
+   Our 2023 Fellowship application is currently OPEN through June 30th.
+applicationLink1: https://app.smarterselect.com/programs/80939-Rust-Foundation
+applicationLink1desc: Apply for a Fellowship
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
