@@ -29,7 +29,7 @@ Rust Foundation Fellowship grants provide support and recognition to volunteers 
 
 ## Details
 
-The Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to benefit the Rust language community through their contributions. It is designed to financially support individuals to have freedom in directing their own work on the Project over a one-year period, and to provide those individuals with complementary resources such as training, networking and event attendance. The objective of Rust Foundation Fellowships is to help support and reward individuals whose voluntary work has helped make Rust what it is today, and who are key to its future success.
+The Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to benefit the Rust language community through their contributions. The program is designed to financially support individuals to have freedom in directing their own work on the Project over a one-year period, and to provide those individuals with complementary resources such as training, networking and event attendance. The objective of Rust Foundation Fellowships is to help support and reward individuals whose voluntary work has helped make Rust what it is today, and who are key to its future success.
 
 Rust Foundation Fellows (RFFs) will be members of the Rust community to whom the Rust Foundation will award a stipend of $1,000 a month, for 12 months.
 
