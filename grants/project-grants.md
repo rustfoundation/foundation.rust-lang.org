@@ -3,11 +3,11 @@ layout: layouts/grants.njk
 title: Community Grants Program Project Grants
 name: Project Grants
 description: >-
-      Awards made to individuals and groups for discrete pieces of work in the range of
-      $2,500 to $15,000. 
-     The Rust Foundation will be opening a new round of Project Grants later in the year.
-     Click the link below for updates on the 2023 Project Grant Application and to find out
-     more about this program.
+  Awards made to individuals and groups for discrete pieces of work in the range of
+  $2,500 to $15,000. 
+  The Rust Foundation will be opening a new round of Project Grants later in the year.
+  Click the link below for updates on the 2023 Project Grant Application and to find out
+  more about this program.
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
