@@ -3,8 +3,7 @@ layout: layouts/grants.njk
 title: Community Grants Program Event Support Grants
 name: Event Support Grants
 description: >-
-   Awards ranging from $100 to $500 made to support events (both physical and
-   virtual).
+   Awards ranging from $100 to $500 made to support virtual and in-person events benefitting the Rust ecosystem.
 applicationLink1: https://app.smarterselect.com/programs/80971-Rust-Foundation
 applicationLink1desc: Apply in English
 applicationLink2: https://app.smarterselect.com/programs/81295-Rust-Foundation
