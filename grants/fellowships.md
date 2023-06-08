@@ -67,23 +67,23 @@ _*The Rust Foundation will work with successful applicants to identify their tra
 
 The Security Fellow will have the opportunity to research and implement detection measures in Ecosystem Scanning, including identifying malicious code that can occur in crates, provenance detection, and code health scans (e.g. miri, audit).  Furthermore, the Security Fellow will have the opportunity to contribute to the Penetration Test of the Rust Project, which may involve assessing the security of various components, from the Project in general to specific projects or infrastructure components. This could encompass penetration testing of systems and conducting code reviews for critical components like CI/CD, bors, rustwide, playground, and more.
 
-_The Security Fellow will receive mentorship from Walter Pearce, Security Engineer at the Rust Foundation._
+_The Security Fellow will receive mentorship from [Walter Pearce](https://github.com/walterhpearce), Security Engineer at the Rust Foundation._
 
 ### Crates Fellowship
 
 The Crates Fellow will have the opportunity to develop a comprehensive understanding of crates.io and focus on enhancing its search experience. The Crates Fellow’s objective will be to explore possible, such as incorporating additional metrics for crates and leveraging them to prioritize search results. By working on these enhancements, the Crates Fellow will contribute to optimizing the search functionality on crates.io, thus improving the overall user experience.
 
-_The Crates Fellow will receive mentorship from Tobias Bieniek, Software Engineer at the Rust Foundation._
+_The Crates Fellow will receive mentorship from [Tobias Bieniek](https://github.com/turbo87/), Software Engineer at the Rust Foundation._
 
 ### Infrastructure Fellowship
 
 The Infrastructure Fellow will be responsible for developing a comprehensive understanding of the underlying infrastructure supporting the Rust language. Specific tasks include updating the infrastructure monitoring setup and optimizing the CI (Continuous Integration) process for rust-lang to enhance its efficiency. By actively working on these aspects, the Infrastructure Fellow will play a vital role in ensuring a robust infrastructure and streamlined development workflow for the Rust language.
 
-_The Infrastructure Fellow will receive mentorship from Jan David Nose, Infrastructure Engineer at the Rust Foundation._
+_The Infrastructure Fellow will receive mentorship from [Jan David Nose](https://github.com/jdno), Infrastructure Engineer at the Rust Foundation._
 
 ### Compiler Fellowship
 
-The Compiler Fellow will contribute to the Stable MIR project, which aims to provide a stable interface to the Rust compiler, allowing developers to conduct sophisticated analyses without compromising the compiler development speed or raising costs. The Compiler Fellow will have the opportunity to implement this new interface on top of the existing Rust compiler logic, gain expertise in the Rust compiler's mid-level internal representation (MIR) and its utilization, and develop functions that expose a similar structure as MIR, while protecting the internal intricacies of the Rust compiler. Additionally, the person in this role will be responsible for creating comprehensive tests to ensure that these Stable APIs are accurately representing the compiled code.
+The Compiler Fellow will develop a comprehensive understanding of the Rust compiler and develop the skills and experience needed to become an active contributor to the compiler work.
 
 _The Compiler Fellow will receive mentorship from TBC FIXME_
 
