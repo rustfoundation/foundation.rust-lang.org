@@ -52,4 +52,18 @@ We will aim to make a decision regarding a Hardship Grant within 5 working days 
 
 ### FAQs
 
-[FAQs](/grants-faqs/#hardship-grants)
+### Who is eligible to apply for a Hardship Grant?
+
+Rust community members who contribute significantly to the Rust Project and who have urgent financial insecurity.
+
+### I am 17, can I apply for a Hardship Grant?
+
+You have to be 18 or older. We need to be mindful of different countries’ child labor laws, and laws that mean people under the age of 18 can’t enter into legal contracts.
+
+### Will you make details of the Hardship Grants public?
+
+No. Out of respect for recipients, we will keep all details of Hardship Grant awards private.
+
+### Can I apply for more than one Hardship Grant?
+
+You can apply for up to two Hardship Grants in each calendar year.
