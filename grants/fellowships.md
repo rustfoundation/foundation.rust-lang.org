@@ -85,7 +85,7 @@ Our Fellowships are open to applications from anyone who will be over the age of
 
 We welcome applications from prospective fellows all over the world with different backgrounds. Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with  members of the Project Teams, Rust Project Working Groups, and the Foundation.
 
-All Fellowship applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
+Please also review our [general eligibility and exclusion criteria](https://foundation.rust-lang.org/grants-eligibility/) before applying.
 
 ## Selection Process
 
