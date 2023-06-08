@@ -17,8 +17,7 @@ Rust Foundation Fellowship grants provide support and recognition to volunteers 
 
 ## Key Application Details
 
-|Award amount  | A stipend of $1,000 per month plus a travel and training budget.   |
-|---|---|
+| Award amount  | A stipend of $1,000 per month plus a travel and training budget.   |
 | Application window:  |  Tuesday, June 13th- Friday, June 30th, 2023 |
 | Selection decisions by:  | Wednesday, July 6th, 2023  |
 | Applicants informed of decisions:  | Friday, July 7th, 2023   |
