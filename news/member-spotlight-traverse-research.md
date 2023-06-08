@@ -11,7 +11,7 @@ layout: layouts/news.njk
 ---
 <img src="/img/news/2023-06-08-member-spotlight-traverse-research/traverse.png" width="580" height="326" alt="[Heading 1] Rust Foundation [Heading 2] Silver Member Spotlight: Traverse Research  [Sub-heading] featuring: Jasper Bekkers CEO of Traverse Research" title="Traverse Research" />
 
-*Welcome to another installment of the Rust Foundation Member Spotlight series! These blogs aim to introduce our community to various Rust Foundation Member organizations and their leaders. In this installment, we spoke with Jasper Bekkers, CEO of Traverse Research (a Rust Foundation Silver Member organization). Jasper chatted with the Rust Foundation team about the work of Traverse Research, how they use Rust, and more.&nbsp;*
+*Welcome to another installment of the Rust Foundation Member Spotlight series! These blogs aim to introduce our community to various Rust Foundation Member organizations and their leaders. In this installment, we spoke with Jasper Bekkers, CEO of Traverse Research — the newest Rust Foundation Silver Member organization. Jasper chatted with the Rust Foundation team about the work of Traverse Research, how they use Rust, and more.&nbsp;*
 
 ## **Tell us about Traverse Research. What do you do and who do you serve?**
 
@@ -50,5 +50,9 @@ At Traverse Research, we think all enterprise organizations that benefit from Ru
 ---
 
 *Jasper Bekkers is an accomplished rendering engineer, having worked with some of the biggest names in the gaming industry. His expertise in rendering made him a highly sought-after talent in the industry. Jasper is the founder and CEO of Traverse Research, where he leads the research and development of new technologies*​​​​​​.
+
+### Welcome to the Rust Foundation, <a target="_blank" rel="noopener" href="https://traverseresearch.nl/">Traverse Research</a>!
+
+###
 
 ### You can follow Traverse Research on [<u>GitHub</u>](https://github.com/Traverse-Research/), [<u>Twitter</u>](https://twitter.com/TraverseBreda), or [<u>their blog</u>](https://blog.traverseresearch.nl/) for the latest updates.
