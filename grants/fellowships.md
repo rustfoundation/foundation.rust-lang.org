@@ -34,7 +34,7 @@ Monday, July 24, 2023.
 
 ## Program Details
 
-> ### Through the Fellowship program, we hope to provide support to volunteers who are already contributing to the community, and enable those with Rust experience to develop their ability to contribute to the community.
+### Through the Fellowship program, we hope to provide support to volunteers who are already contributing to the community, and enable those with Rust experience to develop their ability to contribute to the community.
 
 * Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to benefit the Rust language community through their contributions. These grants reward individuals whose voluntary work has helped make Rust what it is today, and who are key to its future success.
 
@@ -88,7 +88,7 @@ RFFs will NOT be required to set and meet specific milestones. They will be aske
 
 All RFFs will be required to adhere to the [Rust Foundation’s Code of Conduct](https://foundation.rust-lang.org/policies/code-of-conduct/), which is an extension of the [Rust Project Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct). Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.
 
-## Application Details 
+## Application Details  & Policies
 
 * Applicants will be asked to either select their preferred Mentored Fellowship role (listed above) or describe how they intend to support Rust over the course of the year. Our team will not be looking for a detailed list of activities, but instead for a broad overview of the areas of intended focus. Priority will be given to applicants whose proposed activities align with the priorities of Project Teams and Working Groups.
 * Fellowships are open to applications from anyone who will be over the age of 18 at the time of the grant award. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. 
