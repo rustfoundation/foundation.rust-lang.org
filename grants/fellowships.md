@@ -69,7 +69,7 @@ The Compiler Fellow will contribute to the Stable MIR project, which aims to pro
 
 _The Compiler Fellow will receive mentorship from TBC FIXME_
 
-## General Protocol
+## General Expectations
 
 RFFs will NOT be required to set and meet specific milestones. They will be asked to prepare a brief update each quarter and have a catch-up call with the Foundation staff. At the end of the fellowship year RFFs will be asked to write a blog post detailing their experiences of the program and reviewing their achievements for publication on the Foundation’s website.
 
@@ -77,11 +77,11 @@ All RFFs will be required to adhere to the [Rust Foundation’s Code of Conduct]
 
 ## Application Details
 
-Applicants will be asked to describe how they intend to support Rust over the course of the year. Our team will not be looking for a detailed list of activities, but instead for a broad overview of the areas of intended focus. Priority will be given to applicants whose proposed activities align with the priorities of Project Teams and Working Groups.
-
-Our Fellowships are open to applications from anyone who will be over the age of 18 at the time of the grant award. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. Employees of organizations that are Members of the Rust Foundation should contact us at grants@rustfoundation.org prior to completing an application in order for us to assess whether granting a Fellowship might represent a conflict of interest. People who are currently paid to work on the Rust Project full-time will not be eligible for Fellowships, however, we welcome applications from those who are paid to work on Rust part-time.
-
-We welcome applications from prospective fellows all over the world with different backgrounds. Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with  members of the Project Teams, Rust Project Working Groups, and the Foundation.
+* Applicants will be asked to describe how they intend to support Rust over the course of the year. Our team will not be looking for a detailed list of activities, but instead for a broad overview of the areas of intended focus. Priority will be given to applicants whose proposed activities align with the priorities of Project Teams and Working Groups.
+* Fellowships are open to applications from anyone who will be over the age of 18 at the time of the grant award. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. 
+* Employees of organizations that are Members of the Rust Foundation should contact us at grants@rustfoundation.org prior to completing an application in order for us to assess whether granting a Fellowship might represent a conflict of interest. 
+* People who are currently paid to work on the Rust Project full-time will not be eligible for Fellowships, however, we welcome applications from those who are paid to work on Rust part-time.
+* We welcome applications from prospective fellows all over the world with different backgrounds. Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with members of the Project Teams, Rust Project Working Groups, and the Foundation.
 
 All Fellowship applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
 
