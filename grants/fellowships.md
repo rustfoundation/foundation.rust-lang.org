@@ -17,30 +17,38 @@ Rust Foundation Fellowship grants provide support and recognition to volunteers 
 
 ## Key Application Details
 
-### Award amount: 
-A stipend of $1,000 per month plus a travel and training budget.
+> ### Award amount: 
+> A stipend of $1,000 per month plus a travel and training budget.
 
-### Application window:
-Tuesday, June 13th- Friday, June 30th, 2023
+> ### Application window:
+> Tuesday, June 13th- Friday, June 30th, 2023
 
-### Selection decisions by: 
-Wednesday, July 6th, 2023.
+> ### Selection decisions by: 
+> Wednesday, July 6th, 2023.
 
-### Applicants informed of decisions: 
-Friday, July 7th, 2023.
+> ### Applicants informed of decisions: 
+> Friday, July 7th, 2023.
 
-### Formal start of the Fellowship program: 
-Monday, July 24, 2023.
+> ### Formal start of the Fellowship program: 
+> Monday, July 24, 2023.
 
 ## Program Details
 
-The Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to benefit the Rust language community through their contributions. The program is designed to financially support individuals to have freedom in directing their own work on the Project over a one-year period, and to provide those individuals with complementary resources such as training, networking and event attendance. The objective of Rust Foundation Fellowships is to help support and reward individuals whose voluntary work has helped make Rust what it is today, and who are key to its future success.
+The Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to benefit the Rust language community through their contributions. 
+
+The program is designed to financially support individuals to have freedom in directing their own work on the Project over a one-year period, and to provide those individuals with complementary resources such as training, networking and event attendance. 
+
+The objective of Rust Foundation Fellowships is to help support and reward individuals whose voluntary work has helped make Rust what it is today, and who are key to its future success.
 
 Rust Foundation Fellows (RFFs) are members of the Rust community to whom the Rust Foundation will award a stipend of $1,000 a month, for 12 months.
 
-The aim of the Rust Foundation Fellowship program  is (a) to provide support to volunteers who are already contributing to the community, and (b) to enable people who have Rust experience to develop their ability to contribute to the community. The Rust Foundation does not  expect RFFs to spend 20 more hours a month supporting the community, but rather to reward them for the time they are already contributing to help improve their work-life balance and reduce the risk of burnout.
+Through the Fellowship program, we hope to (a) to provide support to volunteers who are already contributing to the community, and (b) to enable people who have Rust experience to develop their ability to contribute to the community. 
 
-In addition to the monthly stipend, each RFF will have a travel allowance of up to $2,000 for their fellowship year to support travel to relevant industry/community events focused on open source software and/or Rust specifically. Furthermore, the Rust Foundation will distribute up to $2,000 on training and skills development for each RFF. We will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them.
+The Rust Foundation does not expect RFFs to spend 20 more hours a month supporting the community, but rather to reward them for the time they are already contributing to help improve their work-life balance and reduce the risk of burnout.
+
+> ### Benefits
+
+> In addition to the monthly stipend, each RFF will have a travel allowance of up to $2,000 for their fellowship year to support travel to relevant industry/community events focused on open source > software and/or Rust specifically. Furthermore, the Rust Foundation will distribute up to $2,000 on training and skills development for each RFF. We will work with successful applicants to > identify their training needs, and fund the courses and coaching that will be most beneficial to them.
 
 Being awarded a Fellowship will not confer any special privileges on the Fellows - those who are not already will not automatically become members of Project Teams or Working Groups. Prospective Fellows must be able to accomplish their proposed work when applying for it.
 
