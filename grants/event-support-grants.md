@@ -46,7 +46,45 @@ Applications for Event Grants can currently be made in English, Chinese, Spanish
 
 ### FAQs
 
-[FAQs](/grants-faqs/#event-grants)
+### Can teams of people apply for an Event Support Grant?
+
+Yes, we welcome applications from teams of people and organizations.
+
+### Does it matter which country I live in or what my citizenship status is?
+
+No, but you (or your organization) must be able to legally receive funds from the USA to receive an Event Support grant.
+
+### I am 17, can I apply for an Event Support Grant?
+
+You have to be 18 or older on the date of your event. We need to be mindful of different countries’ child labor laws, and laws that mean people under the age of 18 can’t enter into legal contracts.
+
+### I am not currently a member of a Rust Project Team or Working Group, can I apply for an Event Support Grant?
+
+Yes.
+
+### I/my organization doesn’t have any experience with Rust, can I apply?
+
+Experience with running events – particularly events for open source communities – is more important than experience with Rust. But in order to demonstrate that your event will be a success, we'll expect you to show us how well you're connected to your local Rust users.
+
+### Do people have to adhere to a Code of Conduct to be awarded an Event Support Grant?
+
+Yes, you have to adhere to the [Rust Foundation Code of Conduct](https://foundation.rust-lang.org/policies/code-of-conduct/).
+
+### Will I have to write a report about my event?
+
+Yes, you will have to provide a brief written report about your event, for publication on the Rust Foundation website.
+
+### Will I need to provide receipts?
+
+Yes, after the event you will need to provide a report showing how the grant was spent, with copies of receipts. If you don’t spend all of the grant money on your event, you will have to return the balance to the Foundation.
+
+### How will I get paid for my event?
+
+We typically pay via direct bank transfers.
+
+### I have got a question that hasn’t been answered here – how can I get in touch for more information?
+
+Please email [grants@rustfoundation.org](mailto:grants@rustfoundation.org) and we will do our best to help.
 
 ### Selection Process
 
