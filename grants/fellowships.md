@@ -13,7 +13,7 @@ tags:
    - community grants program
 ---
 
-Rust Foundation Fellowship grants provide support and recognition to volunteers who are actively contributing to the Rust community, and to those who have the experience and potential to enhance the community through their contributions.
+Rust Foundation Fellowship grants provide support and recognition to volunteers who are actively contributing to the Rust community, and to those who have the experience and potential to enhance the community through their contributions. 
 
 ## Summary
 
