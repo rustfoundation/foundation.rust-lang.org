@@ -99,7 +99,7 @@ Event Support Grant applications will be reviewed and selected by the Rust Found
 
 We will aim to make a decision regarding an Event Support Grant within 10 working days of receiving an application.
 
-All Event Support Grant applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
+Please also review our [general eligibility and exclusion criteria](/grants-eligibility/) before applying.
 
 ### Application questions and context
 
