@@ -36,7 +36,7 @@ Monday, July 24, 2023.
 
 > ### Through the Fellowship program, we hope to provide support to volunteers who are already contributing to the community, and enable those with Rust experience to develop their ability to contribute to the community.
 
-* The Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to benefit the Rust language community through their contributions.These grants reward individuals whose voluntary work has helped make Rust what it is today, and who are key to its future success.
+* Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to benefit the Rust language community through their contributions.These grants reward individuals whose voluntary work has helped make Rust what it is today, and who are key to its future success.
 
 * The program is designed to financially support individuals to have freedom in directing their own work on the Project over a one-year period, and to provide those individuals with complementary resources such as training, networking and event attendance. 
 
@@ -60,7 +60,7 @@ Monday, July 24, 2023.
 
 Rust Foundation Fellowship applicants in 2023 will have the opportunity to either choose what they want to focus on during their fellowship year, or focus on specific parts of the Rust ecosystem with help from a dedicated mentor. These mentors will help selected Fellows develop their skills and experience in the chosen focus area over the course of the Fellowship year.
 
-## Mentored Fellowship Information:
+## Mentored Fellowship Details:
 
 ### Security Fellowship
 
