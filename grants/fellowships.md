@@ -97,6 +97,8 @@ All RFFs will be required to adhere to the [Rust Foundation’s Code of Conduct]
 * We welcome applications from prospective fellows all over the world with different backgrounds. Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with members of the Project Teams, Rust Project Working Groups, and the Foundation.
 * All Fellowship applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
 
-## [Full Eligibility and Selection Criteria](/grants-eligibility-and-selection/#fellowships)
+## Additional Resources
 
-## [FAQs](/grants-faqs/#fellowship)
+* [Full Eligibility and Selection Criteria](/grants-eligibility-and-selection/#fellowships)
+
+* [FAQs](/grants-faqs/#fellowship)
