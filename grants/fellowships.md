@@ -87,6 +87,71 @@ We welcome applications from prospective fellows all over the world with differe
 
 All Fellowship applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
 
-[Full Eligibility and Selection Criteria](/grants-eligibility-and-selection/#fellowships)
+## Selection Process
+
+### Scoring and Approval
+
+Scoring will be carried out by the Rust Foundation staff team (as a single group) for a total possible score of 15.  To ensure that we are only funding high-quality applicants, a minimum threshold score of 10 is required for an applicant to be considered for an award.  Where necessary, the staff team will reach out to members of an advisory board for insight into specific applications.
+
+Selections for funding will be based on:
+
+* Overall application score.
+* The nature of other applications. We want our funding to be distributed widely across the community, not to be focused on a single area of the Rust Project.
+* The capacity of Rust Project teams to engage with the Fellows.  We don’t want to overload any project team.
+
+### Selection Criteria
+
+Each application will be scored against three categories of criteria.  Scores will be given in the range of 1-5 for each set, with the scores being aggregated for a total possible maximum score of 15.
+
+#### Need, Diversity, and Engagement
+
+We want our grants program to include and represent the diversity of our community, and we want to ensure that our financial resources are directed towards those most in need of them. We are also keen to reflect and support the increasingly globally diverse nature of the Rust Community by helping those community members in countries with lower levels of engagement in the Rust Community to take a more active role.
+
+Is the applicant currently paid (either by an organization, or through personal sponsorship) to work on the Rust Project?
+
+* **1**: The applicant is paid on a part-time basis and/or receives some financial support (e.g. through sponsorship) to work on Rust.
+* **2**: The applicant receives little or no financial support to work on Rust (less than $1,000 USD per month).
+
+Will this application support global Rust engagement?
+
+* **0**: The applicant is based in a high engagement country.
+* **1**: The applicant is based in a low engagement country.
+
+Is the applicant part of a group that is affected by systemic bias, particularly in technology? 
+
+* **0**: The applicant is not part of a group that is affected by systemic bias, particularly in technology.
+* **1**: The applicant is part of a group that is affected by systemic bias, particularly in technology.
+
+We will not request details of how the applicant is affected by systemic bias, we will take their response on trust.
+
+How active is the applicant in the Rust community?
+
+* **0**: The applicant is not particularly active in the Rust community.
+* **1**: The applicant is active in the Rust community.
+
+#### Knowledge and Experience
+
+What level of knowledge and experience does the applicant have of Rust?
+
+* **1**: Some.
+* **2**: Considerable.
+* **3**: Expert.
+
+Does the applicant have the skills and experience to deliver the work described in their application?
+
+* **1**: The applicant probably has the skills and experience required.
+* **2**: The applicant definitely has the skills and experience required.
+
+#### Work and Focus
+
+The benefit of the work proposed by the applicant will be scored on a five-point scale:
+
+* **1**: The proposed work will have no/a trivial amount of benefit to the Rust Project.
+* **2**: The proposed work will have a small amount of benefit to the Rust Project.
+* **3**: The proposed work will have a fair amount of benefit to the Rust Project.
+* **4**: The proposed work will have a considerable amount of benefit to the Rust Project.
+* **5**: The proposed work will have a highly significant amount of benefit to the Rust Project.
+
+## FAQs
 
 [FAQs](/grants-faqs/#fellowship)
