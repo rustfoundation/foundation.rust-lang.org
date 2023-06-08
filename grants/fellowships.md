@@ -17,30 +17,28 @@ Rust Foundation Fellowship grants provide support and recognition to volunteers 
 
 ## Key Application Details
 
-> ### Award amount: 
-> A stipend of $1,000 per month plus a travel and training budget.
+### Award amount: 
+A stipend of $1,000 per month plus a travel and training budget.
 
-> ### Application window:
-> Tuesday, June 13th- Friday, June 30th, 2023
+### Application window:
+Tuesday, June 13th- Friday, June 30th, 2023
 
-> ### Selection decisions by: 
-> Wednesday, July 6th, 2023.
+### Selection decisions by: 
+Wednesday, July 6th, 2023.
 
-> ### Applicants informed of decisions: 
-> Friday, July 7th, 2023.
+### Applicants informed of decisions: 
+Friday, July 7th, 2023.
 
-> ### Formal start of the Fellowship program: 
-> Monday, July 24, 2023.
+### Formal start of the Fellowship program: 
+Monday, July 24, 2023.
 
 ## Program Details
 
-The Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to benefit the Rust language community through their contributions. 
+* The Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to benefit the Rust language community through their contributions.These grants reward individuals whose voluntary work has helped make Rust what it is today, and who are key to its future success.
 
-The program is designed to financially support individuals to have freedom in directing their own work on the Project over a one-year period, and to provide those individuals with complementary resources such as training, networking and event attendance. 
+* The program is designed to financially support individuals to have freedom in directing their own work on the Project over a one-year period, and to provide those individuals with complementary resources such as training, networking and event attendance. 
 
-The objective of Rust Foundation Fellowships is to help support and reward individuals whose voluntary work has helped make Rust what it is today, and who are key to its future success.
-
-Rust Foundation Fellows (RFFs) are members of the Rust community to whom the Rust Foundation will award a stipend of $1,000 a month, for 12 months.
+* Rust Foundation Fellows (RFFs) are members of the Rust community to whom the Rust Foundation will award a stipend of $1,000 a month, for 12 months.
 
 Through the Fellowship program, we hope to (a) to provide support to volunteers who are already contributing to the community, and (b) to enable people who have Rust experience to develop their ability to contribute to the community. 
 
