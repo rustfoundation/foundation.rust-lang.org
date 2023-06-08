@@ -15,17 +15,17 @@ tags:
 
 Rust Foundation Fellowship grants provide support and recognition to volunteers who are actively contributing to the Rust community, and to those who demonstrate the experience and potential to enhance the community through their contributions. 
 
-## Key Application Dates
+## Key Application Details
 
-_Award amount_\: A stipend of $1,000 per month plus a travel and training budget.
+Award amount: A stipend of $1,000 per month plus a travel and training budget.
 
-_Application window_\: Tuesday, June 13th- Friday, June 30th, 2023
+Application window\: Tuesday, June 13th- Friday, June 30th, 2023
 
-_Selection decisions by_\: Wednesday, July 6th, 2023.
+Selection decisions by\: Wednesday, July 6th, 2023.
 
-_Applicants informed of decisions_\: Friday, July 7th, 2023.
+Applicants informed of decisions\: Friday, July 7th, 2023.
 
-_Formal start of the Fellowship program_\: Monday, July 24, 2023.
+Formal start of the Fellowship program\: Monday, July 24, 2023.
 
 ## Program Details
 
@@ -75,16 +75,15 @@ RFFs will NOT be required to set and meet specific milestones. They will be aske
 
 All RFFs will be required to adhere to the [Rust Foundation’s Code of Conduct](https://foundation.rust-lang.org/policies/code-of-conduct/), which is an extension of the [Rust Project Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct). Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.
 
-## Application Details
+## Application Details 
 
 * Applicants will be asked to describe how they intend to support Rust over the course of the year. Our team will not be looking for a detailed list of activities, but instead for a broad overview of the areas of intended focus. Priority will be given to applicants whose proposed activities align with the priorities of Project Teams and Working Groups.
 * Fellowships are open to applications from anyone who will be over the age of 18 at the time of the grant award. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. 
 * Employees of organizations that are Members of the Rust Foundation should contact us at grants@rustfoundation.org prior to completing an application in order for us to assess whether granting a Fellowship might represent a conflict of interest. 
 * People who are currently paid to work on the Rust Project full-time will not be eligible for Fellowships, however, we welcome applications from those who are paid to work on Rust part-time.
 * We welcome applications from prospective fellows all over the world with different backgrounds. Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with members of the Project Teams, Rust Project Working Groups, and the Foundation.
+* All Fellowship applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
 
-All Fellowship applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
+## [Full Eligibility and Selection Criteria](/grants-eligibility-and-selection/#fellowships)
 
-[Full Eligibility and Selection Criteria](/grants-eligibility-and-selection/#fellowships)
-
-[FAQs](/grants-faqs/#fellowship)
+## [FAQs](/grants-faqs/#fellowship)
