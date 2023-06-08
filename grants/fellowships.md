@@ -47,7 +47,11 @@ Through the Fellowship program, we hope to provide support to volunteers who are
 
 > ### Benefits
 
-> In addition to the monthly stipend, each RFF will have a travel allowance of up to $2,000 for their fellowship year to support travel to relevant industry/community events focused on open source > software and/or Rust specifically. Furthermore, the Rust Foundation will distribute up to $2,000 on training and skills development for each RFF. We will work with successful applicants to > identify their training needs, and fund the courses and coaching that will be most beneficial to them.
+> * A monthly stipend of $1,000 USD per month for 12 months
+> * travel allowance of up to $2,000 for the fellowship year to support travel to relevant industry/community events focused on open source software and/or Rust specifically.
+> * Up to $2,000 on training and skills development for each RFF. 
+
+> We will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them.
 
 Being awarded a Fellowship will not confer any special privileges on the Fellows - those who are not already will not automatically become members of Project Teams or Working Groups. Prospective Fellows must be able to accomplish their proposed work when applying for it.
 
