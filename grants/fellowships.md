@@ -47,13 +47,12 @@ Monday, July 24, 2023.
 * Fellowships do not come with special priviledges within the Rust Project - those who are not already will not automatically become members of Project Teams or Working Groups. Prospective Fellows must be able to accomplish their proposed work when applying for it.
 
 
-> ### Benefits
+> <mark>### Benefits<mark>
 
-> * A monthly stipend of $1,000 USD per month for 12 months
-> * travel allowance of up to $2,000 for the fellowship year to support travel to relevant industry/community events focused on open source software and/or Rust specifically.
-> * Up to $2,000 on training and skills development for each RFF. 
-
-> The Rust Foundation will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them.
+> * <mark>A monthly stipend of $1,000 USD per month for 12 months<mark>
+> * <mark>An allowance of up to $2,000 for the Fellowship year to support travel to relevant and useful industry events.<mark>
+> * <mark>Up to $2,000 towards training and skills development.<mark> 
+> _The Rust Foundation will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them._
 
 
 
