@@ -34,7 +34,7 @@ Monday, July 24, 2023.
 
 ## Program Details
 
-Through the Fellowship program, we hope to provide support to volunteers who are already contributing to the community, and enable those with Rust experience to develop their ability to contribute to the community.
+> ### Through the Fellowship program, we hope to provide support to volunteers who are already contributing to the community, and enable those with Rust experience to develop their ability to contribute to the community.
 
 * The Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to benefit the Rust language community through their contributions.These grants reward individuals whose voluntary work has helped make Rust what it is today, and who are key to its future success.
 
@@ -43,6 +43,8 @@ Through the Fellowship program, we hope to provide support to volunteers who are
 * Rust Foundation Fellows (RFFs) are members of the Rust community to whom the Rust Foundation will award a stipend of $1,000 a month, for 12 months.
 
 * The Rust Foundation does not expect RFFs to spend 20 more hours a month supporting the community, but rather to reward them for the time they are already contributing to help improve their work-life balance and reduce the risk of burnout.
+
+* Fellowships do not come with special priviledges within the Rust Project - those who are not already will not automatically become members of Project Teams or Working Groups. Prospective Fellows must be able to accomplish their proposed work when applying for it.
 
 
 > ### Benefits
@@ -53,7 +55,6 @@ Through the Fellowship program, we hope to provide support to volunteers who are
 
 > We will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them.
 
-Being awarded a Fellowship will not confer any special privileges on the Fellows - those who are not already will not automatically become members of Project Teams or Working Groups. Prospective Fellows must be able to accomplish their proposed work when applying for it.
 
 ## Fellowship Work
 
