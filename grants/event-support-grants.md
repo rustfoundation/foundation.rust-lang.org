@@ -42,15 +42,26 @@ Applications can be made for grants from $100 to $500 USD. The types of expenses
 * Swag
 * Online event platform costs
 
-Event Support Grant applications will be reviewed and selected by the Rust Foundation staff team.
+Applications for Event Grants can currently be made in English, Chinese, Spanish, and Portuguese, reflecting our ambition to support a global community of events.
+
+### FAQs
+
+[FAQs](/grants-faqs/#event-grants)
+
+### Selection Process
+
+Event Support Grant applications will be reviewed and selected by the Rust Foundation staff team. Event Support Grants will not be subject to a point-based scoring system. Instead, there will be a lighter-touch process, reflecting the relatively low amounts being awarded under this program. The Rust Foundation staff team will make their decision based on:
+
+* The type of event being proposed
+* The number of people likely to benefit from the event
+* The amount of funding being sought 
+* The accessibility of the event
+* The experience of the individual/team running the event
+* The location/languages of the event
 
 We will aim to make a decision regarding an Event Support Grant within 10 working days of receiving an application.
 
 All Event Support Grant applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
-
-[Full Eligibility and Selection Criteria](/grants-eligibility-and-selection/#event-grants)
-
-[FAQs](/grants-faqs/#event-grants)
 
 ### Application questions and context
 
