@@ -49,8 +49,6 @@ At Traverse Research, we think all enterprise organizations that benefit from Ru
 
 ---
 
-*Jasper Bekkers is an accomplished rendering engineer, having worked with some of the biggest names in the gaming industry. He started his career as an intern at EA Digital Illusions CE AB in Stockholm, Sweden, where he contributed to the development of Battlefield 3. He then moved on to Frostbite, where he gained valuable experience working on impressive games such as Battlefield 4, Dragon Age: Inquisition, and Star Wars: Battlefront. Jasper's expertise in rendering made him a highly sought-after talent in the industry.*
-
-*In 2016, Jasper joined OTOY, a company that specializes in cloud rendering technology, before moving on to SEED, a division of Electronic Arts. At SEED, he served as a consulting rendering engineer, working on cutting-edge technologies that would help push the boundaries of what was possible in game development. After two years at SEED, Jasper founded his own company, Traverse Research, where he currently serves as the CEO, leading the research and development of new technologies.&nbsp;*
+*Jasper Bekkers is an accomplished rendering engineer, having worked with some of the biggest names in the gaming industry. His expertise in rendering made him a highly sought-after talent in the industry. Jasper is the founder and CEO of Traverse Research, where he leads the research and development of new technologies*​​​​​​.
 
 ### You can follow Traverse Research on [<u>GitHub</u>](https://github.com/Traverse-Research/), [<u>Twitter</u>](https://twitter.com/TraverseBreda), or [<u>their blog</u>](https://blog.traverseresearch.nl/) for the latest updates.
