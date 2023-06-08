@@ -13,6 +13,8 @@ layout: layouts/news.njk
 
 *Welcome to another installment of the Rust Foundation Member Spotlight series! These blogs aim to introduce our community to various Rust Foundation Member organizations and their leaders. In this installment, we spoke with Jasper Bekkers, CEO of Traverse Research — the newest Rust Foundation Silver Member organization. Jasper chatted with the Rust Foundation team about the work of Traverse Research, how they use Rust, and more.&nbsp;*
 
+---
+
 ## **Tell us about Traverse Research. What do you do and who do you serve?**
 
 [<u>Traverse Research</u>](https://traverseresearch.nl/) is a rendering research and development company located in Breda, Netherlands. We offer specialized services to a range of respected tech companies, including AMD, ARM, Intel, Samsung, and Qualcomm.&nbsp;
@@ -47,9 +49,11 @@ While Rust has many great upsides, there is also a lot of opportunity for growth
 
 At Traverse Research, we think all enterprise organizations that benefit from Rust should invest in its development, including its tooling, documentation, and educational resources. We would love to see a future where there are more Rust learning initiatives such as courses and programs at universities, more grants and funding for Rust projects and research, and more widespread contributions and investment from enterprise users. By doing so, we can all help Rust reach its full potential as a powerful and widely-used programming language.
 
----
+
 
 *Jasper Bekkers is an accomplished rendering engineer, having worked with some of the biggest names in the gaming industry. His expertise in rendering made him a highly sought-after talent in the industry. Jasper is the founder and CEO of Traverse Research, where he leads the research and development of new technologies*​​​​​​.
+
+---
 
 ### Welcome to the Rust Foundation, <a target="_blank" rel="noopener" href="https://traverseresearch.nl/">Traverse Research</a>!
 
