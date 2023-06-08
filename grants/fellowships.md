@@ -40,7 +40,7 @@ Monday, July 24, 2023.
 
 * The program is designed to financially support individuals to have freedom in directing their own work on the Project over a one-year period, and to provide those individuals with complementary resources such as training, networking and event attendance. 
 
-* Rust Foundation Fellows (RFFs) are members of the Rust community to whom the Rust Foundation will award a stipend of $1,000 a month, for 12 months.
+* Applicants in 2023 will have the opportunity to either choose what they want to focus on during their fellowship year, or focus on specific parts of the Rust ecosystem with help from a dedicated mentor. These mentors will help selected Fellows develop their skills and experience in the chosen focus area over the course of the Fellowship year.
 
 * The Rust Foundation does not expect RFFs to spend 20 more hours a month supporting the community, but rather to reward them for the time they are already contributing to help improve their work-life balance and reduce the risk of burnout.
 
@@ -56,9 +56,6 @@ Monday, July 24, 2023.
 > We will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them.
 
 
-## Fellowship Work
-
-Rust Foundation Fellowship applicants in 2023 will have the opportunity to either choose what they want to focus on during their fellowship year, or focus on specific parts of the Rust ecosystem with help from a dedicated mentor. These mentors will help selected Fellows develop their skills and experience in the chosen focus area over the course of the Fellowship year.
 
 ## Mentored Fellowship Details:
 
