@@ -1207,6 +1207,11 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/tags/membership%20update/</loc>
+    <lastmod>2023-06-08</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/tags/jobs/</loc>
     <lastmod>2023-06-08</lastmod>
   </url>
@@ -1358,11 +1363,6 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/environment/</loc>
-    <lastmod>2023-06-08</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foundation.rust-lang.org/tags/membership%20update/</loc>
     <lastmod>2023-06-08</lastmod>
   </url>
   
