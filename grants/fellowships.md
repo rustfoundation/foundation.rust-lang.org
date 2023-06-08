@@ -47,7 +47,7 @@ Monday, July 24, 2023.
 * Fellowships do not come with special priviledges within the Rust Project - those who are not already will not automatically become members of Project Teams or Working Groups. Prospective Fellows must be able to accomplish their proposed work when applying for it.
 
 
-> <mark>### Benefits<mark>
+> ### <mark>Benefits<mark>
 
 > * <mark>A monthly stipend of $1,000 USD per month for 12 months<mark>
 > * <mark>An allowance of up to $2,000 for the Fellowship year to support travel to relevant and useful industry events.<mark>
