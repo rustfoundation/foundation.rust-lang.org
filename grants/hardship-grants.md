@@ -41,6 +41,15 @@ We will aim to make a decision regarding a Hardship Grant within 5 working days 
 
 All Hardship Grant applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
 
-[Full Eligibility and Selection Criteria](/grants-eligibility-and-selection/#hardship-grants)
+### Selection Process
+
+Hardship Grant applications will be reviewed and selected by the Rust Foundation staff team with possible input from Rust Foundation Directors or members of the Project Teams if  counsel is needed. As a rule, the Rust Foundation will endeavor to keep details of any Hardship Grant application as private as possible, due to the sensitive circumstances under which someone might apply for a Hardship Grant. The decisions will be made based upon:
+
+* The contributions made by the individual to the Rust Project
+* The individual’s financial circumstances and need
+
+We will aim to make a decision regarding a Hardship Grant within 5 working days of receiving an application.
+
+### FAQs
 
 [FAQs](/grants-faqs/#hardship-grants)
