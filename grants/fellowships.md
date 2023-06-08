@@ -15,7 +15,7 @@ tags:
 
 Rust Foundation Fellowship grants provide support and recognition to volunteers who are actively contributing to the Rust community, and to those who demonstrate the experience and potential to enhance the community through their contributions. 
 
-## Fellowship Application Details
+## Key Application Dates
 
 _Award amount_\: A stipend of $1,000 per month plus a travel and training budget.
 
@@ -41,35 +41,35 @@ Being awarded a Fellowship will not confer any special privileges on the Fellows
 
 ## Fellowship Work
 
-Rust Foundation Fellows in 2023 will have the opportunity to either choose what they want to focus on during their fellowship year, or focus on specific parts of the Rust ecosystem with help from a dedicated mentor. These mentors will help Fellows develop their skills and experience in the chosen focus area over the course of the Fellowship year.
+Rust Foundation Fellowship applicants in 2023 will have the opportunity to either choose what they want to focus on during their fellowship year, or focus on specific parts of the Rust ecosystem with help from a dedicated mentor. These mentors will help selected Fellows develop their skills and experience in the chosen focus area over the course of the Fellowship year.
 
-### Mentored Fellowship Information:
+## Mentored Fellowship Information:
 
-_Security Fellowship_
+### Security Fellowship
 
 This role will involve researching and implementing detection measures in Ecosystem Scanning, including identifying malicious code that can occur in crates, provenance detection, and code health scans (e.g. miri, audit).  Furthermore, the Security Fellow will have the opportunity to contribute to the Penetration Test of the Rust Project, which may involve assessing the security of various components, from the Project in general to specific projects or infrastructure components. This could encompass penetration testing of systems and conducting code reviews for critical components like CI/CD, bors, rustwide, playground, and more.
 
-### The Security Fellow will receive mentorship from Walter Pearce, Security Engineer at the Rust Foundation
+_The Security Fellow will receive mentorship from Walter Pearce, Security Engineer at the Rust Foundation._
 
-_Crates Fellowship_
+### Crates Fellowship
 
 This role provides the opportunity to develop a comprehensive understanding of crates.io and focus on enhancing its search experience. The Crates Fellow’s objective will be to explore possible, such as incorporating additional metrics for crates and leveraging them to prioritize search results. By working on these enhancements, the Crates Fellow will contribute to optimizing the search functionality on crates.io, thus improving the overall user experience.
 
-### The Crates Fellow will receive mentorship from Tobias Bieniek, Software Engineer at the Rust Foundation.**
+_The Crates Fellow will receive mentorship from Tobias Bieniek, Software Engineer at the Rust Foundation._
 
-_Infrastructure Fellowship_
+### Infrastructure Fellowship
 
 The Infrastructure Fellow will be responsible for developing a comprehensive understanding of the underlying infrastructure supporting the Rust language. Specific tasks include updating the infrastructure monitoring setup and optimizing the CI (Continuous Integration) process for rust-lang to enhance its efficiency. By actively working on these aspects, the Infrastructure Fellow will play a vital role in ensuring a robust infrastructure and streamlined development workflow for the Rust language.
 
 _The Infrastructure Fellow will receive mentorship from Jan David Nose, Infrastructure Engineer at the Rust Foundation._
 
-_Compiler Fellowship_
+### Compiler Fellowship
 
 The Compiler Fellow will contribute to the Stable MIR project, which aims to provide a stable interface to the Rust compiler, allowing developers to conduct sophisticated analyses without compromising the compiler development speed or raising costs. The Compiler Fellow will have the opportunity to implement this new interface on top of the existing Rust compiler logic, gain expertise in the Rust compiler's mid-level internal representation (MIR) and its utilization, and develop functions that expose a similar structure as MIR, while protecting the internal intricacies of the Rust compiler. Additionally, the person in this role will be responsible for creating comprehensive tests to ensure that these Stable APIs are accurately representing the compiled code.
 
-### The Compiler Fellow will receive mentorship from TBC FIXME.
+_The Compiler Fellow will receive mentorship from TBC FIXME_
 
-### General Protocol
+## General Protocol
 
 RFFs will NOT be required to set and meet specific milestones. They will be asked to prepare a brief update each quarter and have a catch-up call with the Foundation staff. At the end of the fellowship year RFFs will be asked to write a blog post detailing their experiences of the program and reviewing their achievements for publication on the Foundation’s website.
 
