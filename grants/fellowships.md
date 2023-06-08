@@ -34,7 +34,7 @@ Monday, July 24, 2023.
 
 ## Program Details
 
-### Through the Fellowship program, we hope to provide support to volunteers who are already contributing to the community, and enable those with Rust experience to develop their ability to contribute to the community.
+Through the Fellowship program, we hope to provide support to volunteers who are already contributing to the community, and enable those with Rust experience to develop their ability to contribute to the community.
 
 * Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to benefit the Rust language community through their contributions. These grants reward individuals whose voluntary work has helped make Rust what it is today, and who are key to its future success.
 
@@ -44,7 +44,9 @@ Monday, July 24, 2023.
 
 * The Rust Foundation does not expect RFFs to spend 20 more hours a month supporting the community, but rather to reward them for the time they are already contributing to help improve their work-life balance and reduce the risk of burnout.
 
-* Fellowships do not come with special priviledges within the Rust Project - those who are not already will not automatically become members of Project Teams or Working Groups. Prospective Fellows must be able to accomplish their proposed work when applying for it.
+* Fellowships do not come with special priviledges within the Rust Project - those who are not already will not automatically become members of Project Teams or Working Groups. 
+
+* Prospective Fellows must be able to accomplish their proposed work when applying for it.
 
 
 > ### <mark>Benefits<mark>
