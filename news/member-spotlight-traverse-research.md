@@ -55,7 +55,7 @@ At Traverse Research, we think all enterprise organizations that benefit from Ru
 
 ---
 
-### Welcome to the Rust Foundation, <a target="_blank" rel="noopener" href="https://traverseresearch.nl/">Traverse Research</a>!
+## Welcome to the Rust Foundation, <a target="_blank" rel="noopener" href="https://traverseresearch.nl/">Traverse Research</a>!
 
 ###
 
