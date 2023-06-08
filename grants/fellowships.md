@@ -52,7 +52,8 @@ Monday, July 24, 2023.
 > * <mark>A monthly stipend of $1,000 USD per month for 12 months<mark>
 > * <mark>An allowance of up to $2,000 for the Fellowship year to support travel to relevant and useful industry events.<mark>
 > * <mark>Up to $2,000 towards training and skills development.<mark> 
-> _The Rust Foundation will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them._
+
+_The Rust Foundation will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them._
 
 
 
