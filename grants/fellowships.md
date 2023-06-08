@@ -8,7 +8,7 @@ description: >-
    community or who have Rust experience and a high potential to benefit the
    community through their contributions.
 applicationLink1: https://app.smarterselect.com/programs/80939-Rust-Foundation
-applicationLink1desc: Apply for a Rust Foundation Fellowship by June 30
+applicationLink1desc: Apply for a Rust Foundation Fellowship
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
