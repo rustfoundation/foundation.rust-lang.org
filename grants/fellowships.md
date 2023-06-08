@@ -13,13 +13,13 @@ date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
 ---
+*<mark>The 2023 Rust Foundation Fellowship application is open through June 30 at midnight PDT.</mark>*
+
 Rust Foundation Fellowship grants provide support and recognition to volunteers who are actively contributing to the Rust community, and to those who demonstrate the experience and potential to enhance the community through their contributions.
 
 Through the Fellowship program, we hope to provide support to volunteers who are already contributing to the community, and enable those with Rust experience to develop their ability to contribute meaningfully.
 
 ## Key Application Details
-
-<mark>The 2023 Rust Foundation Fellowship application is open through June 30 at midnight PDT.</mark>
 
 ### Award amount:
 
