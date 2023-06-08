@@ -53,7 +53,7 @@ Monday, July 24, 2023.
 > * travel allowance of up to $2,000 for the fellowship year to support travel to relevant industry/community events focused on open source software and/or Rust specifically.
 > * Up to $2,000 on training and skills development for each RFF. 
 
-> We will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them.
+> The Rust Foundation will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them.
 
 
 
@@ -91,7 +91,7 @@ All RFFs will be required to adhere to the [Rust Foundation’s Code of Conduct]
 
 ## Application Details 
 
-* Applicants will be asked to describe how they intend to support Rust over the course of the year. Our team will not be looking for a detailed list of activities, but instead for a broad overview of the areas of intended focus. Priority will be given to applicants whose proposed activities align with the priorities of Project Teams and Working Groups.
+* Applicants will be asked to either select their preferred Mentored Fellowship role (listed above) or describe how they intend to support Rust over the course of the year. Our team will not be looking for a detailed list of activities, but instead for a broad overview of the areas of intended focus. Priority will be given to applicants whose proposed activities align with the priorities of Project Teams and Working Groups.
 * Fellowships are open to applications from anyone who will be over the age of 18 at the time of the grant award. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. 
 * Employees of organizations that are Members of the Rust Foundation should contact us at grants@rustfoundation.org prior to completing an application in order for us to assess whether granting a Fellowship might represent a conflict of interest. 
 * People who are currently paid to work on the Rust Project full-time will not be eligible for Fellowships, however, we welcome applications from those who are paid to work on Rust part-time.
