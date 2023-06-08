@@ -154,4 +154,102 @@ The benefit of the work proposed by the applicant will be scored on a five-point
 
 ## FAQs
 
-[FAQs](/grants-faqs/#fellowship)
+### When will the program start?
+
+July 2023.
+
+### How long does the program last?
+
+12 months.
+
+### Does it matter which country I live in or what my citizenship status is?
+
+No, but you have to be able to legally receive funds from the USA to be a Fellow.
+
+### I am 17, can I apply to be a Rust Foundation Fellow?
+
+You have to be 18 or older on the date your Fellowship begins. We need to be mindful of different countries’ child labor laws, and laws that mean people under the age of 18 can’t enter into legal contracts.
+
+### I am not currently a member of a Rust Project Team or Working Group, can I apply?
+
+Yes.
+
+### I don’t have any experience with Rust, can I apply?
+
+No, you have to have some experience with Rust to apply.
+
+### How much time will I have to spend working on Rust for my Fellowship?
+
+RFFs will be expected to dedicate approximately 20 hours per month to the Rust project.  We acknowledge that the demands of their day-to-day lives mean that this may not be consistently delivered each month, and therefore will be flexible in allowing RFFs to choose when they support the project.  We will not require RFFs to document the time they spend working on the project, rather trust them to provide the support that they have committed to.  We want RFFs to achieve a healthy work/life balance and actively encourage them to adopt reasonable working patterns.
+
+### If I become a Rust Foundation Fellow will I automatically join one of the Project Teams?
+
+No, you don’t have to join a project team, but you can if you want. You can find out more about getting involved in the Rust Project Teams and Working Groups on the [rust-lang website](https://www.rust-lang.org/governance).
+
+### I am interested in building the Rust community, not writing code, can I apply?
+
+Yes, though we do expect you to have experience of participating in the Rust community and have a clear idea of how your work will benefit it.
+
+### I am currently paid to work on the Rust Project, can I apply?
+
+Yes, but people who are currently paid to work on the Rust Project full time will not be eligible. If you are only paid part-time to work on the Project, or not paid at all, you can apply.
+
+### Do I have to speak English to be a Rust Foundation Fellow?
+
+You don’t have to speak English to be a Fellow, but you do need a reasonable understanding of written English in order to be able to interact with members of the Project Teams and Working Groups.
+
+### How will the travel grants work?
+
+Fellows will let us know which Rust event they want to attend, and we will work with them to confirm the budget and then provide them with the funds needed to cover their attendance. Our travel budget is limited to $2,000 USD per Fellow and will provide economy travel, accommodation and subsistence, plus any conference ticket.
+
+### What training support can I receive as a Fellow?
+
+We will work with each Fellow to understand how we can provide training support for them.  We expect the types of training to include things like project planning, organizational management, leadership, document writing, and effective communication.
+
+### Do I have to adhere to a Code of Conduct to be a Fellow?
+
+Yes, you have to adhere to the [Rust Foundation Code of Conduct](https://foundation.rust-lang.org/policies/code-of-conduct/).
+
+### Will I have to write reports on my work?
+
+Yes. You will have to write a brief report each quarter, and have a catch-up call with a member of the Rust Foundation staff team.  At the end of your fellowship year you will have to write a brief blog post about your experience for publication on the Rust Foundation website.
+
+### Because of my work/studies I can’t commit to dedicating 20 hours of time to Rust every month, is that going to be a problem?
+
+No, it won’t be a problem. We understand that the demands upon people’s time vary over the course of a year, and will allow you to be flexible in allocating time to the Fellowship program.  We do require you to spend on average 20 hours a month on the program over the course of the year.
+
+### I currently dedicate a significant amount of time to Rust, if I become a fellow do I have to increase the number of hours I spend working on it?
+
+No. If you are already spending 20 or more hours a month working on the Rust project, then no additional hours are necessary.  We encourage Fellows to limit the additional amount of time they spend working on the project to help achieve a healthy work-life balance.
+
+### If I become a Fellow, will any information about me be published publicly?
+
+We will publish a brief biography of you on the Rust Foundation website, along with any public social media/other relevant links that you are willing to share. If you would rather us use your online alias, rather than your legal name, that is fine. We would like to be able to publish a picture of you as well, but that is not essential, an avatar will be fine.
+
+### How will I get paid as a Fellow?
+
+We typically pay Rust Foundation Fellows via direct bank transfers.
+
+### Who will own the work that I produce as a Fellow?
+
+You will own the IP of any work that you create as a Fellow, but we will require you to release that work under an open source license so that the work can benefit the community as a whole.
+
+### Can I drop out of the Fellowship before the year is up if I am not enjoying it?
+
+Yes, but it would be better if we can find ways to improve the program for you so that you do enjoy it! If Fellows have issues or concerns about the program, we want them to feel they can tell us about it, so that we can work together on finding a solution.
+
+### Can I share my Fellowship with someone else?
+
+No. Each Rust Foundation Fellowship is for an individual person.
+
+### How will you check on how I am spending my Fellowship time?
+
+We will be trusting our Fellows to honestly report how they have been supporting the Rust Project.
+
+### Will you be able to help me understand the tax implications of receiving a Fellowship grant?
+
+Individual Fellows are responsible for ensuring that they are complying with any tax laws that apply to the receipt of this funding in their country/jurisdiction of residence. The Rust Foundation cannot provide advice on the personal tax arrangements or obligations of individual fellows.
+
+### I have got a question that hasn’t been answered here – how can I get in touch for more information?
+
+Please email [grants@rustfoundation.org](mailto:grants@rustfoundation.org) and we will do our best to help.
