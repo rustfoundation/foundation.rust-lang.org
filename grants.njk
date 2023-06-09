@@ -5,7 +5,9 @@ eleventyNavigation:
   key: Grants program
   order: 5
 ---
+
 <section class="container">
+
 <center><h1>Community Grants Program</h1>
 
 <p>The Rust Foundation is proud to support the further development and innovation of Rust by dispensing financial, administrative, and career-development support to community members through the Community Grants Program.</p>
@@ -14,6 +16,7 @@ eleventyNavigation:
 <style>
   .bordered {
     width: 400px;
+    max-width: 100%;
     text-align: center;
     color: #FFFFFF;
     height: 115px;
@@ -27,18 +30,53 @@ eleventyNavigation:
 <div class="bordered">
 The 2023 Fellowship application is now open through June 30!
 <br>
-<br><a href="https://foundation.rust-lang.org/grants/fellowships/" style="color:#FFFFFF;">>> Learn More & Apply</a></center>
+<br><a href="/grants/fellowships/" style="color:#FFFFFF;">>> Learn More & Apply</a></center>
 
 </div>
-<center><h5><i>If you have any questions that haven’t been answered after reading the content below or if you would like to share a comment about the Community Grants Program, please contact us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a>.</i></h5></center>
+<center><h5><i>If you have any comments about the Community Grants Program or questions that are not answered after reading the content below, please contact us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a>.</i></h5></center>
 <br>
+
 <hr>
 
-<h2>Program Mission</h2>
+<center><h2>Program Mission</h2></center>
 <br>
 
 <h3>Through the Community Grants Program, The Rust Foundation aims to:</h3>
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  float: left;
+  width: 33.33%;
+  padding: 50px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>Grid of Boxes</h2>
+<p>Float boxes side by side:</p>
+
+<div class="clearfix">
+  <div class="box" style="background-color:#bbb">
+  <p>Some text inside the box.</p>
+  </div>
+  <div class="box" style="background-color:#ccc">
+  <p>Some text inside the box.</p>
+  </div>
+  <div class="box" style="background-color:#ddd">
+  <p>Some text inside the box.</p>
+  </div>
+</div>
 
 <ul class="grant">
 <p><u>Support the maintainers of Rust.</u>  We know that many people have volunteered significant amounts of their time to help make Rust what it is today. We hope that our funding will go some way in acknowledging their efforts and rewarding their future contributions.</p>
@@ -64,30 +102,21 @@ The 2023 Fellowship application is now open through June 30!
 
 <hr>
 
-
 <center><h2>Grant Categories</h2></center>
 <br>
-<br>
+
     {% set grantslist = collections.grants %}
     {% include "grantslist.njk" %}
-    
-    <hr>
 
+<hr>
 
 <center><h2>More Information</h2></center>
 
-<h3>Eligibility and Selection Process</h3>
-
-<p>Information about eligibility and selection processes for the currently-open grants can be found <a href="/grants-eligibility-and-selection/">here</a>.</p>
-
-
-<h3>FAQs</h3>
-
-<p>Frequently asked questions can be found <a href="/grants-faqs/">here</a>.</p>
-
-<h3>Privacy</h3>
-
-<p>You can learn more about our Privacy Policy and how we handle personal data <a href="/policies/privacy-policy/">here</a>.</p>
+<ul class="grant">
+<p><i>Eligibility and exclusion criteria</i> can be found <a href="/grants-eligibility/">here</a>.</p>
+<p><i>Frequently asked questions</i> about the grants program can be found <a href="/grants-faqs/">here</a>.</p>
+<p><i>Our Privacy Policy</i> and how we handle personal data can be found <a href="/policies/privacy-policy/">here</a>.</p>
+</ul>
 
 <hr>
 
@@ -97,6 +126,6 @@ The 2023 Fellowship application is now open through June 30!
 
 <center><p><i>If your organization is interested in supporting the future of Rust’s talent and innovation through the Community Grants Program, please email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a>. Donations in any amount are greatly appreciated.</p></center></i>
 
-</h3></section>
+</h3>
 
-
+</section>
