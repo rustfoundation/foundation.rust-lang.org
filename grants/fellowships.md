@@ -41,14 +41,17 @@ Friday, July 7th, 2023.
 
 Monday, July 24, 2023.
 
+- - -
+
 ## Fellowship Benefits
 
 * A monthly stipend of $1,000 USD per month for 12 months
 * An allowance of up to $2,000 for the Fellowship year to support travel to relevant and useful industry events.*
 * Up to $2,000 towards training and skills development.
-* 
+
 *\*The Rust Foundation will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them.*
 
+- - -
 
 ## Program Details
 
@@ -96,6 +99,8 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 *The Compiler Fellow will receive mentorship from TBC FIXME*
 
+- - -
+
 ## Who Can Apply?
 * The Rust Foundation Fellowships application is open to anyone who will be over the age of 18 at the time of the grant award.
 * We welcome applications from prospective fellows all over the world with different backgrounds. 
@@ -106,6 +111,9 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 * While we cannot consider applications from those who are paid to work on Rust full-time, we welcome applications from part-time paid Rust contributors.
 
 * All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information).
+
+- - - 
+
 
 ## FAQs
 
