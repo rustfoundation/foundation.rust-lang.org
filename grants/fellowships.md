@@ -136,7 +136,13 @@ Yes.
 We are only able to consider applications from individuals who possess some Rust experience
 
 ### How much time will I have to spend working on Rust for my Fellowship?
-RFFs will be expected to dedicate an average of 20 hours per month on program work. The Rust Foundation acknowledges the demands of Rust community members’ lives and therefore will be flexible in allowing RFFs to map out their own working patterns. We will abide by the honor system and will not require RFFs to document the time they spend working on the project. We want RFFs to achieve a healthy work/life balance and actively encourage them to adopt reasonable working practices.
+While RFFs are expected to dedicate an average of 20 hours per month on program work we acknowledge the time demands on Rust community members. As such, we are flexible in allowing RFFs to map out their own working patterns and encourage RFFs to prioritize work-life balance.
+
+### I can’t commit to dedicating 20 hours of time to Rust every month, is that going to be a problem?
+While we expect Fellows to spend an average of 20 hours per month on the program, we understand that schedules vary over the course of a year and the program will accommodate this reality as needed.
+
+### I currently dedicate a significant amount of time to Rust, if I become a Fellow do I have to increase the number of hours I spend working on it?
+No. If you are already spending 20 or more hours a month working on the Rust project, then no additional hours will be necessary. We encourage Fellows to limit the additional amount of time they spend working on the project to help achieve a healthy work-life balance.
 
 ### I am interested in building the Rust community, not writing code, can I apply? 
 Yes, although you will be required to have some experience contributing to the Rust community and be able to communicate a clear idea of how your work would benefit the Rust ecosystem. 
@@ -156,12 +162,6 @@ Examples of training categories we support: project planning, organizational man
 
 ### How will I report my work as a RFF?
 Fellows will be required to write a brief report each quarter, and participate in a catch-up call with a member of the Rust Foundation staff team. At the end of the Fellowship year, RFFs will write a brief blog post about their experience for publication on the Rust Foundation website.
-
-### I can’t commit to dedicating 20 hours of time to Rust every month, is that going to be a problem?
-While we expect Fellows to spend an average of 20 hours per month on the program, we understand that schedules vary over the course of a year and the program will accommodate this reality as needed.
-
-### I currently dedicate a significant amount of time to Rust, if I become a fellow do I have to increase the number of hours I spend working on it?
-No. If you are already spending 20 or more hours a month working on the Rust project, then no additional hours will be necessary. We encourage Fellows to limit the additional amount of time they spend working on the project to help achieve a healthy work-life balance.
 
 ### If I become a Fellow, will any information about me be published publicly? 
 We will publish a brief biography of you on the Rust Foundation website, along with any public social media/other relevant links that you are willing to share. If you would rather we use your online alias in place of your legal name, please let us know. While our preference is to publish a picture of you, we will also accept an avatar as an alternative. 
