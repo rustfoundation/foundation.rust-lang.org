@@ -39,15 +39,16 @@ Friday, July 7th, 2023.
 
 Monday, July 24, 2023.
 
-> ### <mark>Fellowship Benefits</mark>
+## Fellowship Benefits
 
-> * <mark>A monthly stipend of $1,000 USD per month for 12 months</mark>
-> * <mark>An allowance of up to $2,000 for the Fellowship year to support travel to relevant and useful industry events.*</mark>
-> * <mark>Up to $2,000 towards training and skills development.</mark>
+* A monthly stipend of $1,000 USD per month for 12 months
+* An allowance of up to $2,000 for the Fellowship year to support travel to relevant and useful industry events.*
+* Up to $2,000 towards training and skills development.
+* 
+*\*The Rust Foundation will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them.*
+
 
 ## Program Details
-
-*\*The Rust Foundation will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them.*
 
 * Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to positively impact the Rust language community.
 
