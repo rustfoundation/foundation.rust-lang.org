@@ -13,7 +13,7 @@ date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
 ---
-*<mark>Applications Close: Midnight PDT, June 30th, 2023.</mark>*
+*<mark>Applications Close: Midnight (PDT) on June 30th, 2023.</mark>*
 
 The Rust Foundation Fellowship program exists to support and acknowledge active members of the Rust programming language community who generously contribute their time and expertise on a voluntary basis. These grants reward individuals who have helped make Rust what it is today and are key to its future success.
 
