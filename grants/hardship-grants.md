@@ -5,7 +5,7 @@ name: Hardship Grants
 description: >-
    Awards ranging from $500 to $1,500 made to active maintainers of the Rust
    Project facing financial hardship.
-applicationLink1: mailto:grants@rustfoundation.org
+applicationLink1: mailto:grants@rustfoundation.org?subject=Hardship Grant Application
 applicationLink1desc: Apply
 date: 2022-04-01T00:00:00Z
 tags:
