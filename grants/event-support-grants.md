@@ -114,6 +114,8 @@ We will aim to make a decision regarding an Event Support Grant within 10 workin
 
 Please also review our [general eligibility and exclusion criteria](/grants-eligibility/) before applying.
 
+- - -
+
 ## Application questions and context
 
 To help you better understand if a Rust Event Support Grant might be suitable for you and to help you prepare for the application, the questions asked on the application, and the context for them, are as follows:
