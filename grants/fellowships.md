@@ -173,7 +173,7 @@ RFFs are typically paid via direct bank transfers.
 You will own the IP of any work that you create as a Fellow. However, we will require you to release your work as a RFF under an open source license so it can benefit the community as a whole.
 
 ### Can I drop out of the Fellowship before the year is up if I am not enjoying it? 
-Yes, however we will do everything we can to find ways to make the program more enjoyable for you! Our goal is for all Fellows to feel comfortable telling the Rust Foundation team if they have issues or concerns related to the program so we can work together to find a solution.  If Fellows have issues or concerns about the program, we want them to feel they can tell us about it, so that we can work together on finding a solution.
+Yes, however we will do everything we can to find ways to make the program more enjoyable for you! Our goal is for all Fellows to feel comfortable telling the Rust Foundation team if they have issues or concerns related to the program so we can work together to find a solution.  
 
 ### Can I share my Fellowship with someone else? 
 No. Each Rust Foundation Fellowship is for an individual.
