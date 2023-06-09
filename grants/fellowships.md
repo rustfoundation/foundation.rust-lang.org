@@ -19,17 +19,18 @@ The Rust Foundation Fellowship program exists to support and acknowledge active 
 
 Grantees in this category are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the fellowship year, funding for career development, and access to mentorship opportunities.
 
-We invite current maintainers of the Rust Project and passionate Rust users to apply for our 2023 Fellowship through June 30th, 2023
+We invite current maintainers of the Rust Project and passionate Rust users to apply for our 2023 Fellowship through June 30th, 2023.
 
 ## Application info 
 
 ### Application window:
 
-Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT)
+Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).
 
 ### Fellow selections:
 
 Wednesday, July 6th, 2023.
+
 ### Applicant notifications:
 
 Friday, July 7th, 2023.
