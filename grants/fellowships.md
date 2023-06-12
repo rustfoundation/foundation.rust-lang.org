@@ -30,9 +30,10 @@ tags:
 </style>
 
 <div class="bordered">
-The 2023 Fellowship application is now open through June 30!
+The 2023 Fellowship application is now open through midnight PDT on June 30!
 <br>
-<br><a href="/grants/fellowships/" style="color:#FFFFFF;">>> Learn More & Apply</a></center>
+<br><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
+applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#FFFFFF;">>> Apply Now</a></center>
 
 </div>
 <center><h5><i>If you have any comments about the Community Grants Program or questions that are not answered after reading the content below, please contact us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a>.</i></h5></center>
