@@ -53,24 +53,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
   </div>
   
   <div class="float-child">
-    <div class="blue">Float Column 2</div>
-  </div>
-
-<style>.
-.float-container {
-    border: 3px solid #fff;
-    padding: 20px;
-}
-
-.float-child {
-    width: 50%;
-    float: left;
-    padding: 20px;
-}  
-</style>
-</div>
-
-<TABLE BORDER=”2″ CELLSPACING=”10″>
+    <div class="blue"><TABLE BORDER=”2″ CELLSPACING=”10″>
 <th colspan="2"><h3>Important Dates</h3></th>
     <tbody>
         <td><u>Application window:</u></td>
@@ -88,7 +71,22 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
     <td><u>Fellowship year begins:</td></u>
     <td>Monday, July 24, 2023.</td>
   </tr>
-</table>
+</table></div>
+  </div>
+
+<style>.
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}  
+</style>
+</div>
 <br>
 <hr>
 <div>
