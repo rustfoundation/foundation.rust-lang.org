@@ -15,6 +15,7 @@ tags:
 <p>The Rust Foundation is proud to support the further development and innovation of Rust by dispensing financial, administrative, and career-development support to community members through the Community Grants Program.</p>
 <br>
 <mark>The 2023 Fellowship application is now open through midnight PDT on June 30!<mark>
+<br>
 <style>
   .bordered {
     width: 175px;
