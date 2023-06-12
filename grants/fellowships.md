@@ -24,6 +24,33 @@ tags:
 <br>
 <br>
 <br>
+
+<div class="flex-container">
+
+  <div class="flex-child magenta">
+    Flex Column 1
+  </div>
+  
+  <div class="flex-child green">
+    Flex Column 2
+  </div>
+  
+</div>
+
+}
+<div id="header"></div>
+<div id="container">
+    <div id="first"></div>
+    <div id="second"></div>
+    <div id="clear"></div>
+</div>
+
+
+
+
+
+
+
 <span style="background-color:#F5D7C5">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
 <br>
 <style>
