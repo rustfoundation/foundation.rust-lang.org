@@ -25,7 +25,7 @@ tags:
     padding: 15px;
     border: 1px solid darkorange;
     border-radius: 6px;
-    background-color: #1E2650
+    background-color: #EFC9BF
   }
 </style>
 
