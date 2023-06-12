@@ -26,20 +26,7 @@ tags:
 <br>
 <center><h2>Application Info</h2>
 <br>
-<br>
-<style> .flex-container {
-    display: flex;
-}
-
-.flex-child {
-    flex: 1;
-}  
-
-.flex-child:first-child {
-    margin-right: 20px;
-} 
-</style>
-  <div class="flex-child call-to-action"><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
+<span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
   <br>
   <style>
   .bordered {
