@@ -22,7 +22,7 @@ tags:
 <br>We invite current maintainers of the Rust Project and passionate Rust users to review the information below and apply for a Fellowship today.</br>
 </div>
 <br>
-<div style="background-color:#F5D7C5">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</div>
+<span style="background-color:#F5D7C5">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
 <br>
 <style>
   .bordered {
