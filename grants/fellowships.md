@@ -22,7 +22,7 @@ tags:
     text-align: center;
     color: #000000;
     height: 55px;
-    padding: 15px;
+    padding: 0px;
     border: 1px solid darkorange;
     border-radius: 6px;
     background-color: #EFC9BF
