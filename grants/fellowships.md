@@ -12,7 +12,7 @@ tags:
 
 <a href="https://foundation.rust-lang.org/grants">&#9166;&nbsp;Return to Community Grants Program Main</a>
 <br>
-<span style="background-color:#F5D7C5">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
+<center><span style="background-color:#F5D7C5">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
 <style>
   .bordered {
     width: 175px;
