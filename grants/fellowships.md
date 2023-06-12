@@ -48,7 +48,6 @@ tags:
     width: 50%;
     float: left;
     padding: 20px;
-    border: 2px solid red;
 }  
 </style>
 </div>
