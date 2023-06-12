@@ -60,28 +60,6 @@ tags:
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center></div></center>
   </div>
 
-<style> .flex-container {
-    display: flex;
-}
-
-.flex-child {
-    flex: 2;
-}  
-
-.flex-child:second-child {
-    margin-right: 20px;
-} 
-</style>
-<div class="flex-container"
-<div class="flex-child dates">
-<style> 
-.table { 
-border: 1px solid #333;
-background-color: #333;
-color: #fff;
-}
-</style>
-
 <TABLE BORDER=”2″ CELLSPACING=”10″>
 <th colspan="2"><h3>Important Dates</h3></th>
     <tbody>
@@ -103,7 +81,7 @@ color: #fff;
 </table>
 <br>
 <hr>
-
+<div>
 <center><h2>Grant Categories</h2></center>
 <br>
 
