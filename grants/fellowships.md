@@ -23,19 +23,15 @@ tags:
     color: #000000;
     height: 55px;
     padding: 0px;
-    border: 1px solid darkorange;
+    border: 4px solid darkorange;
     border-radius: 6px;
     background-color: #EFC9BF
   }
+  
+.bordered:hover {
+   color: purple;
 }
 </style>
-
-<a
- style="color:blue;text-decoration: underline;background: white;"
- href="http://aashwin.com/index.php/education/library/"
- class="lib-link">
-   Library
-</a>
 
 <div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center>
