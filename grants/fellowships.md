@@ -59,6 +59,7 @@ color: #fff;
 
 
 <TABLE BORDER=”2″ CELLSPACING=”10″>
+  <caption>Important Dates</caption>
     <tbody>
         <td><u>Application window:</u></td>
     <td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td>
