@@ -27,6 +27,10 @@ tags:
     border-radius: 6px;
     background-color: #EFC9BF
   }
+  
+  a:hover {
+  color: white;
+}
 </style>
 
 <div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
