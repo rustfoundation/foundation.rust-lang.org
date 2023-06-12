@@ -22,7 +22,7 @@ tags:
 <br>We invite current maintainers of the Rust Project and passionate Rust users to review the information below and apply for a Fellowship today.</br>
 </div>
 <br>
-<center><div style="background-color:#F5D7C5">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</div>
+<div style="background-color:#F5D7C5">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</div>
 <br>
 <style>
   .bordered {
@@ -39,7 +39,7 @@ tags:
 }
 </style>
 
-<div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
+<center><div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center></div></center>
 <br>
 
