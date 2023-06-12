@@ -1,7 +1,5 @@
 ---
 layout: layouts/grants.njk
-title: Rust Foundation Fellowships
-name: Rust Foundation Fellowships
 description: >-
    Stipends of $1,000 per month, plus a travel and training budget, granted to
    up to 12 individuals who are either already contributing to the Rust
@@ -14,6 +12,27 @@ tags:
    - community grants program
 ---
 
+<style>
+.container {
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+</style>
+
+<div class="container">
+  <div class="vertical-center">
+    <button>Centered Button</button>
+  </div>
+</div>
 <section class="container">
 
 <center><h1>Community Grants Program</h1>
