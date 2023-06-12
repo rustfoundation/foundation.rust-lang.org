@@ -20,7 +20,7 @@ tags:
     width: 375px;
     max-width: 100%;
     text-align: center;
-    color: #FFFFFF;
+    color: #000000;
     height: 115px;
     padding: 15px;
     border: 1px solid darkorange;
@@ -33,7 +33,7 @@ tags:
 The 2023 Fellowship application is now open through midnight PDT on June 30!
 <br>
 <br><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
-applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#FFFFFF;">>> Apply Now</a></center>
+applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;">>> Apply Now</a></center>
 
 </div>
 <center><h5><i>If you have any comments about the Community Grants Program or questions that are not answered after reading the content below, please contact us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a>.</i></h5></center>
