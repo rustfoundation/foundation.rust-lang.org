@@ -27,21 +27,23 @@ tags:
     border-radius: 6px;
     background-color: #EFC9BF
   }
-  
-a:link {
-  color: black;
-}
-a:visited {
-  color: black;
-}
-a:hover {
-  color: white;
-}
-a:active {
-  color: white;
-}
 }
 </style>
+
+<style>
+      a {
+        text-decoration: none;
+      }
+      a:link {
+        color: #000000;      
+      }
+      a:visited {
+        color: #000000;
+      }
+      a:hover {
+        color: #FFFFFF;
+      }
+    </style>
 
 <div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center>
