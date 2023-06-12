@@ -66,6 +66,6 @@ Our team looks forward to reviewing all applications and introducing our latest 
 
 ### **The Community Grants Program is made possible by these generous organizations:**
 
-Rust Foundation Platinum Members: [<u>AWS</u>](https://aws.amazon.com/), [<u>Google</u>](https://www.google.com/), and [<u>Huawei</u>](https://www.huawei.com/en/?ic_medium=direct&amp;ic_source=surlent), Rust Foundation Silver Members [<u>CarGurus</u>](https://www.cargurus.com/), [<u>Tag1</u>](https://www.tag1consulting.com/), and [<u>Zama</u>](https://www.zama.ai/) – and finally, [<u>Activision</u>](https://www.activision.com/) and [<u>Replit</u>](https://replit.com/)!
+Rust Foundation Platinum Members: [<u>AWS</u>](https://aws.amazon.com/), [<u>Google</u>](https://www.google.com/), and [<u>Huawei</u>](https://www.huawei.com/en/?ic_medium=direct&amp;ic_source=surlent), Rust Foundation Silver Members&nbsp;[<u>Tag1</u>](https://www.tag1consulting.com/)&nbsp;and [<u>Zama</u>](https://www.zama.ai/) – and finally, [<u>Activision</u>](https://www.activision.com/),&nbsp;[<u>CarGurus</u>](https://www.cargurus.com/)&nbsp;and [<u>Replit</u>](https://replit.com/)!
 
 If you have a question about the Community Grants Program, or if your organization is interested in supporting this work, feel free to email us at grants@rustfoundation.org.&nbsp;
