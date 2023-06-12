@@ -17,9 +17,7 @@ tags:
 
 <p>The Rust Foundation Fellowship program exists to support and acknowledge active members of the Rust programming language community who generously contribute their time and expertise on a voluntary basis. These grants reward individuals who have helped make Rust what it is today and are key to its future success.
 
-Grantees in this category are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the fellowship year, funding for career development, and access to mentorship opportunities.
-
-We invite current maintainers of the Rust Project and passionate Rust users to review the information below and apply for a Fellowship today.</p>
+Grantees in this category are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the fellowship year, funding for career development, and access to mentorship opportunities. We invite current maintainers of the Rust Project and passionate Rust users to review the information below and apply for a Fellowship today.</p>
 <br>
 <span style="background-color:#F5D7C5">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
 <br>
