@@ -56,12 +56,9 @@ color: #fff;
 }
 </style>
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="2"><h3>Application Info</h3></th>
-        </tr>
-    </thead>
+
+
+<TABLE BORDER=”2″ CELLSPACING=”10″>
     <tbody>
         <td>Application window:</td>
     <td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td>
