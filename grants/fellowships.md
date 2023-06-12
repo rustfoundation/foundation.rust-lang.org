@@ -31,7 +31,6 @@ tags:
 
 <div class="bordered">
 The 2023 Fellowship application is now open through midnight PDT on June 30!
-<br>
 <br><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>>> APPLY</h3></a></center>
 
