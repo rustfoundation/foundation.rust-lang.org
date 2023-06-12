@@ -81,9 +81,9 @@ The Security Fellow will have the opportunity to research and implement detectio
 
 *The Security Fellow will receive mentorship from [Walter Pearce](https://github.com/walterhpearce), Security Engineer at the Rust Foundation.*
 
-### crates.io Fellowship
+### <span>crates.io</span> Fellowship
 
-The crates.io Fellow will have the opportunity to develop a comprehensive understanding of crates.io and focus on enhancing its search experience. The crates.io Fellow’s objective will be to explore possible improvements to the crate search experience, such as incorporating additional metrics for crates and leveraging them to prioritize search results. By working on these enhancements, the crates.io Fellow will contribute to optimizing the search functionality on crates.io, thus improving the overall user experience.
+The <span>crates.io</span> Fellow will have the opportunity to develop a comprehensive understanding of crates.io and focus on enhancing its search experience. The <span>crates.io</span> Fellow’s objective will be to explore possible improvements to the crate search experience, such as incorporating additional metrics for crates and leveraging them to prioritize search results. By working on these enhancements, the <span>crates.io</span> Fellow will contribute to optimizing the search functionality on c<span>crates.io</span>, thus improving the overall user experience.
 
 *The Crates Fellow will receive mentorship from [Tobias Bieniek](https://github.com/turbo87/), Software Engineer at the Rust Foundation.*
 
