@@ -46,11 +46,13 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 <br>
 
 <hr>
+<br>
+## Application Info
 
 <table>
   <tr>
-    <th>Application window:</th>
-    <th>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</th>
+    <td>Application window:</td>
+    <td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td>
   </tr>
   <tr>
     <td>Fellow selections:</td>
@@ -61,8 +63,8 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
     <td>Friday, July 7th, 2023.</td>
   </tr>
   <tr>
-    <th>Fellowship year begins</th>
-    <th>Monday, July 24, 2023.</th>
+    <td>Fellowship year begins</td>
+    <td>Monday, July 24, 2023.</td>
   </tr>
 </table>
 
