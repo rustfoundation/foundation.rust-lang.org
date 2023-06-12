@@ -26,12 +26,11 @@ tags:
 <br>
 <center><h2>Application Info</h2>
 <br>
-<span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
   <br>
 <div class="float-container">
 
   <div class="float-child">
-    <div class="green">Float Column 1</div>
+    <div class="green"><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span></div>
   </div>
   
   <div class="float-child">
