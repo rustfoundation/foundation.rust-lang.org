@@ -10,6 +10,8 @@ tags:
    - community grants program
 ---
 
+<a href="https://foundation.rust-lang.org/grants">&#9166;Return to Community Grants Program Main</a>
+
 <center><h1>Rust Foundation Fellowship Program</h1>
 
 <p>The Rust Foundation is proud to support the further development and innovation of Rust by dispensing financial, administrative, and career-development support to community members through the Community Grants Program.</p>
