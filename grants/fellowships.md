@@ -39,9 +39,6 @@ tags:
     margin-right: 20px;
 } 
 </style>
-
-<div class="flex-container">
-
   <div class="flex-child call-to-action"><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
   <br>
   <style>
@@ -75,8 +72,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
     margin-right: 20px;
 } 
 </style>
-
-<div class="flex-container">
+<div class="flex-container"
 <div class="flex-child dates">
 <style> 
 .table { 
