@@ -24,6 +24,19 @@ tags:
 <br>
 <br>
 <br>
+<style> .flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid yellow;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
+</style>
 
 <div class="flex-container">
 
