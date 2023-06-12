@@ -10,7 +10,7 @@ tags:
    - community grants program
 ---
 
-<a href="https://foundation.rust-lang.org/grants">&#9166;Return to Community Grants Program Main</a>
+<a href="https://foundation.rust-lang.org/grants">&#9166;&nbsp;Return to Community Grants Program Main</a>
 
 <center><h1>Rust Foundation Fellowship Program</h1>
 
