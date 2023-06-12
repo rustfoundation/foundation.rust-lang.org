@@ -30,7 +30,7 @@ tags:
 </style>
 <style>
 .bordered:hover {
-color:purple;
+color: purple;
 }
 </style>
 
