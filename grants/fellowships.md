@@ -40,7 +40,7 @@ tags:
 
 <div class="flex-container">
 
-  <div class="flex-child magenta"><span style="background-color:#F5D7C5">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
+  <div class="flex-child magenta"><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
   </div>
   
   <div class="flex-child green">
