@@ -33,7 +33,6 @@ tags:
     <button>Centered Button</button>
   </div>
 </div>
-<section class="container">
 
 <center><h1>Community Grants Program</h1>
 
