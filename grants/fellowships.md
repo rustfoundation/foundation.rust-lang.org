@@ -11,7 +11,8 @@ tags:
 ---
 
 <a href="https://foundation.rust-lang.org/grants">&#9166;&nbsp;Return to Community Grants Program Main</a>
-
+<br>
+<br>
 <center><h1>Rust Foundation Fellowship Program</h1>
 
 <p>The Rust Foundation is proud to support the further development and innovation of Rust by dispensing financial, administrative, and career-development support to community members through the Community Grants Program.</p>
@@ -37,7 +38,6 @@ tags:
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center>
 
 </div>
-<center><h5><i>If you have any comments about the Community Grants Program or questions that are not answered after reading the content below, please contact us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a>.</i></h5></center>
 <br>
 
 <hr>
