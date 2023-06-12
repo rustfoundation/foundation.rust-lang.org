@@ -24,7 +24,7 @@ tags:
     height: 55px;
     padding: 0px;
     border: 4px solid darkorange;
-    border-radius: 6px;
+    border-radius: 4px;
     background-color: #EFC9BF
   }
   
