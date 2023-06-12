@@ -49,6 +49,12 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 <br>
 ## Application Info
 
+<style>
+.table {
+border: 1px solid black;
+}
+</style>
+
 <table>
   <tr>
     <td>Application window:</td>
