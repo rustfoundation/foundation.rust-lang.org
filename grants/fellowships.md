@@ -27,6 +27,8 @@ tags:
     border-radius: 4px;
     background-color: #EFC9BF
 }
+</style>
+<style>
 .bordered:hover {
 color:purple;
 }
