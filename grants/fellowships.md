@@ -41,6 +41,26 @@ tags:
 <div class="flex-container">
 
   <div class="flex-child magenta"><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
+  <br>
+  <style>
+  .bordered {
+    width: 175px;
+    max-width: 100%;
+    text-align: center;
+    border:2px solid darkorange;
+    color: #000;
+    height: 55px;
+    padding: 0px;
+    border-radius: 4px;
+    background-color: #EFC9BF;
+    margin-top: 10px;
+}
+</style>
+
+<center><div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
+applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center></div></center>
+<br>
+
   </div>
   
   <div class="flex-child green">
