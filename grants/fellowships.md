@@ -21,16 +21,16 @@ tags:
     max-width: 100%;
     text-align: center;
     border:2px solid darkorange;
-    color: #000;
+    color: #FFFFFF;
     height: 55px;
     padding: 0px;
     border-radius: 4px;
-    background-color: #EFC9BF
+    background-color: #1E2651
 }
 </style>
 
 <div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
-applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center>
+applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#FFFFFF;"><h3>APPLY</h3></a></center>
 
 </div>
 <center><h5><i>If you have any comments about the Community Grants Program or questions that are not answered after reading the content below, please contact us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a>.</i></h5></center>
