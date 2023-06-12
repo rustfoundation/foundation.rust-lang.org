@@ -58,7 +58,7 @@ color: #fff;
 
 
 
-<TABLE BORDER=”2″ CELLSPACING=”10″>
+<right><TABLE BORDER=”2″ CELLSPACING=”10″>
   <caption>Important Dates</caption>
     <tbody>
         <td><u>Application window:</u></td>
@@ -76,7 +76,7 @@ color: #fff;
     <td><u>Fellowship year begins:</td></u>
     <td>Monday, July 24, 2023.</td>
   </tr>
-</table>
+</table></right>
 
 <style>
 * {
