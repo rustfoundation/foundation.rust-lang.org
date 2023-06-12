@@ -26,7 +26,8 @@ tags:
     height: 55px;
     padding: 0px;
     border-radius: 4px;
-    background-color: #EFC9BF
+    background-color: #EFC9BF;
+    margin-top: 10px;
 }
 </style>
 
