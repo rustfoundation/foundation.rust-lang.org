@@ -28,6 +28,30 @@ tags:
 <br>
 <span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
   <br>
+<div class="float-container">
+
+  <div class="float-child">
+    <div class="green">Float Column 1</div>
+  </div>
+  
+  <div class="float-child">
+    <div class="blue">Float Column 2</div>
+  </div>
+
+<style>.
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}  
+</style>
+</div>
   <style>
   .bordered {
     width: 175px;
