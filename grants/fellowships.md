@@ -28,8 +28,18 @@ tags:
     background-color: #EFC9BF
   }
   
-  a:hover {
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+a:hover {
   color: white;
+}
+a:active {
+  color: white;
+}
 }
 </style>
 
