@@ -30,7 +30,6 @@ tags:
 
 .flex-child {
     flex: 1;
-    border: 2px solid yellow;
 }  
 
 .flex-child:first-child {
@@ -40,7 +39,7 @@ tags:
 
 <div class="flex-container">
 
-  <div class="flex-child magenta"><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
+  <div class="flex-child call-to-action"><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
   <br>
   <style>
   .bordered {
@@ -63,8 +62,55 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 
   </div>
   
-  <div class="flex-child green">
-    Flex Column 2
+  <div class="flex-child dates">
+  <style> 
+.table { 
+border: 1px solid #333;
+background-color: #333;
+color: #fff;
+}
+</style>
+
+
+
+<TABLE BORDER=”2″ CELLSPACING=”10″>
+<th colspan="2"><h3>Important Dates</h3></th>
+    <tbody>
+        <td><u>Application window:</u></td>
+    <td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td>
+  </tr>
+  <tr>
+    <td><u>Fellow selections:</td></u>
+    <td>Wednesday, July 6th, 2023.</td>
+  </tr>
+  <tr>
+    <td><u>Applicant notifications:</td></u>
+    <td>Friday, July 7th, 2023.</td>
+  </tr>
+  <tr>
+    <td><u>Fellowship year begins:</td></u>
+    <td>Monday, July 24, 2023.</td>
+  </tr>
+</table>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  display: table-cell;
+  width: 33.33%;
+  padding: 50px;
+}
+
+.clearfix::mission {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+</style>
   </div>
 
 }
