@@ -23,13 +23,13 @@ tags:
     color: #000000;
     height: 55px;
     padding: 0px;
-    border: 4px solid darkorange;
+    border: 3px solid darkorange;
     border-radius: 4px;
     background-color: #EFC9BF
   }
 </style>
 <style>
-.box:hover {
+.bordered:hover {
    color: purple;
 }
 </style>
