@@ -17,11 +17,11 @@ tags:
 <mark>The 2023 Fellowship application is now open through midnight PDT on June 30!<mark>
 <style>
   .bordered {
-    width: 175px;
+    width: 275px;
     max-width: 100%;
     text-align: center;
     color: #000000;
-    height: 15px;
+    height: 55px;
     padding: 15px;
     border: 1px solid darkorange;
     border-radius: 6px;
