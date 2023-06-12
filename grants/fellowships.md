@@ -47,8 +47,6 @@ tags:
   <div class="flex-child green">
     Flex Column 2
   </div>
-  
-</div>
 
 }
 <div id="header"></div>
