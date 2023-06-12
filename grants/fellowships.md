@@ -12,29 +12,7 @@ tags:
    - community grants program
 ---
 
-<style>
-.container {
-  height: 200px;
-  position: fixed;
-  border: 3px solid green;
-}
-
-.vertical-center {
-  margin: 0;
-  position: fixed;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-</style>
-
-<div class="container">
-  <div class="vertical-center">
-    <button>Centered Button</button>
-  </div>
-</div>
-
-<center><h1>Community Grants Program</h1>
+<center><h1>Rust Foundation Fellowship Program</h1>
 
 <p>The Rust Foundation is proud to support the further development and innovation of Rust by dispensing financial, administrative, and career-development support to community members through the Community Grants Program.</p>
 <br>
