@@ -60,19 +60,19 @@ color: #fff;
 
 <TABLE BORDER=”2″ CELLSPACING=”10″>
     <tbody>
-        <td>Application window:</td>
+        <td><u>Application window:</u></td>
     <td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td>
   </tr>
   <tr>
-    <td>Fellow selections:</td>
+    <td><u>Fellow selections:</td></u>
     <td>Wednesday, July 6th, 2023.</td>
   </tr>
   <tr>
-    <td>Applicant notifications:</td>
+    <td><u>Applicant notifications:</td></u>
     <td>Friday, July 7th, 2023.</td>
   </tr>
   <tr>
-    <td>Fellowship year begins</td>
+    <td><u>Fellowship year begins:</td></u>
     <td>Monday, July 24, 2023.</td>
   </tr>
 </table>
