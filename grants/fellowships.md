@@ -30,7 +30,26 @@ tags:
 <div class="float-container">
 
   <div class="float-child">
-    <div class="green"><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span></div>
+    <div class="green"><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span>
+    <br>
+  <style>
+  .bordered {
+    width: 175px;
+    max-width: 100%;
+    text-align: center;
+    border:2px solid darkorange;
+    color: #000;
+    height: 55px;
+    padding: 0px;
+    border-radius: 4px;
+    background-color: #EFC9BF;
+    margin-top: 10px;
+}
+</style>
+
+<center><div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
+applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center></div></center>
+  </div></div>
   </div>
   
   <div class="float-child">
@@ -50,24 +69,6 @@ tags:
 }  
 </style>
 </div>
-  <style>
-  .bordered {
-    width: 175px;
-    max-width: 100%;
-    text-align: center;
-    border:2px solid darkorange;
-    color: #000;
-    height: 55px;
-    padding: 0px;
-    border-radius: 4px;
-    background-color: #EFC9BF;
-    margin-top: 10px;
-}
-</style>
-
-<center><div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
-applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center></div></center>
-  </div>
 
 <TABLE BORDER=”2″ CELLSPACING=”10″>
 <th colspan="2"><h3>Important Dates</h3></th>
