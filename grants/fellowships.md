@@ -57,9 +57,6 @@ tags:
     <td>Monday, July 24, 2023</td>
   </tr>
 </table></center>
-
-<div><center><h2>Program Details</h2></center>
-<br>
 <div><center><h3>Fellowship Benefits</h3></center>
 
 <style>
@@ -93,6 +90,9 @@ tags:
   <center><p>Up to $2,000 towards training and skills development.</p>
   </div>
   </div></body>
+<br>
+<br>
+<div><center><h2>Program Details</h2></center>
 <br>
 
 <style>
