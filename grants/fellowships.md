@@ -38,28 +38,24 @@ tags:
 <hr>
 
 <table>
+<table border="”2″"><th colspan="2"><h3>2023 Application Dates</h3></center></th>
   <tr>
-    <td>Data 1</td>
-    <td>Data 2</td>
+    <td><u>Application window:</u></td>
+    <td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td>
   </tr>
   <tr>
-    <td>Calcutta</td>
-    <td>Orange</td>
+    <td><u>Fellow selections:</u</td>
+    <td>Wednesday, July 6th, 2023.</td>
   </tr>
   <tr>
-    <td>Robots</td>
-    <td>Jazz</td>
+    <td><u>Applicant notifications:</u></td>
+    <td>Friday, July 7th, 2023.</td>
   </tr>
   <tr>
-    <td>Data 1</td>
-    <td>Data 2</td>
+    <td><u>Fellowship year begins:</u></td>
+    <td>Monday, July 24, 2023</td>
   </tr>
 </table>
-
-<center><table><table border="”2″"><th colspan="2"><h3>2023 Application Dates</h3></center></th>
-
-<center><table><table border="”2″"><th colspan="2"><h3>2023 Application Dates</h3></center></th>
-<tr><u>Application window:</u> Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</tr><tr><u>Fellow selections:</u> Wednesday, July 6th, 2023.</tr><tr><u>Applicant notifications:</u> Friday, July 7th, 2023.</tr><tr><u>Fellowship year begins:</u> Monday, July 24, 2023.</tr></div></center></table>
 
 
 
