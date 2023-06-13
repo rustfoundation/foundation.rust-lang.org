@@ -22,9 +22,6 @@ tags:
 <br>
 </div>
 <br>
-<hr>
-<br>
-<center><h2>Application Info</h2>
 <br>
 <br>
 <div class="float-container">
