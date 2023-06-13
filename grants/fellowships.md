@@ -100,7 +100,7 @@ tags:
     text-align: left;
     color: #000000;
     height: 300px;
-    padding: 10px;
+    padding: 20px;
     border: 1px solid lightorange;
     border-radius: 6px;
     background-color: #bab7c8
