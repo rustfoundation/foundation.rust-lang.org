@@ -71,6 +71,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
   display: inline-block;
   padding: 5px 5px;
   margin: 10px;
+  right: 100px;
   vertical-align: top;
   
 } 
