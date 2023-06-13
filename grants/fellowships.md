@@ -206,28 +206,12 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 <center><h2>FAQs</h2></center>
 
 <style>
+<div class="content">Hello</div>
+
 .details {
-  overflow: hidden;
-  margin-top: 0.125em;
-  border: 1px solid #dddddd;
-  background: #ffffff;
-  color: #333333;
-  border-radius: 3px;
-}
-
-.summary {
-  display: block;
-  cursor: pointer;
-  padding: .5em .5em .5em .7em;
-  background: #ededed;
-  color: #2b2b2b;
-  border-radius: 3px 3px 0 0;
-}
-
-.summary[open] {
-  border: 1px solid #003eff;
-  background: #007fff;
-  color: #ffffff;
+    margin-top:auto;
+    margin-bottom:auto;
+    text-align:center;
 }
 </style>
 
