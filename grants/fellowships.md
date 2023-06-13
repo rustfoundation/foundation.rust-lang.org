@@ -231,7 +231,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 <div class="who4"><p>- Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.</p></div>
 
-<div class="who5"><p>- Employees of <a href="https://foundation.rust-lang.org/members/">Rust Foundation Member organizations</a> should email us at grants@rustfoundation.org prior to completing an application to verify that being granted a Fellowship would not represent a conflict of interest.</p></div>
+<div class="who5"><p>- Employees of <a href="https://foundation.rust-lang.org/members/">Rust Foundation Member organizations</a> should email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> prior to completing an application to verify that being granted a Fellowship would not represent a conflict of interest.</p></div>
 
 <div class="who6"><p>- While we cannot consider applications from those who are paid to work on Rust full-time, we welcome applications from part-time paid Rust contributors.</p></div>
 
@@ -353,7 +353,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 <details>
   <summary>I have a question that hasn’t been answered here. How can I get in touch for more information?</summary>
-  <p>Please email grants@rustfoundation.org and we will do our best to help.</p>
+  <p>Please email <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> and we will do our best to help.</p>
 </details></div>
 
 
