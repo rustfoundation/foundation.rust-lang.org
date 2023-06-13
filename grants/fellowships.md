@@ -117,52 +117,6 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 
 </style>
 
-<div class="bordered3">
-<p><u>Project Grants</p></u>
-<p>Awards made to individuals and groups for discrete pieces of work in the range of $2,500 to $15,000. The Rust Foundation will be opening a new round of Project Grants later in the year. Click the link below for updates on the 2023 Project Grant Application and to find out more about this program.</p><a href="/grants/project-grants/" style="color:#000000;">>> Learn More</a></center>
-
-</div>
-
-<center><style>
-  .bordered4 {
-    margin: 10px; 
-    width: 600px;
-    max-width: 100%;
-    text-align: left;
-    color: #000000;
-    height: 180px;
-    padding: 10px;
-    border: 1px solid lightorange;
-    border-radius: 6px;
-    background-color: #bab7c8
-  }
-</style>
-
-<div class="bordered4">
-<p><u>Event Support Grants</p></u>
-<p>Awards ranging from $100 to $500 made to support virtual and in-person events benefitting the Rust ecosystem.</p><a href="grants/event-support-grants/" style="color:#000000;">>> Learn More</a></center>
-
-</div>
-
-<center><style>
-  .bordered5 {
-    margin: 10px;
-    width: 600px;
-    max-width: 100%;
-    text-align: left;
-    color: #000000;
-    height: 180px;
-    padding: 10px;
-    border: 1px solid lightorange;
-    border-radius: 6px;
-    background-color: #D9D9D9;
-  }
-</style>
-
-<div class="bordered5">
-<p><u>Hardship Grants</p></u>
-<p>Awards ranging from $500 to $1,500 made to active maintainers of the Rust Project facing financial hardship.</p><a href="/grants/event-support-grants/" style="color:#000000;">>> Learn More</a></center>
-
 </div>
 
 <hr>
