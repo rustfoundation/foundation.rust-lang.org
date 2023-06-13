@@ -9,7 +9,7 @@ date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
 ---
-[⏎ Return to Community Grants Program Main](https://foundation.rust-lang.org/grants)
+[⏎ Return to Community Grants Program Main](/grants/)
 
 <br>
 <center><h1>Rust Foundation Fellowship Program</h1>
@@ -34,7 +34,7 @@ tags:
 }
 </style>
 
-<div class="center"><center><h3><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation applicationLink1desc: Apply for a Rust Foundation Fellowship">APPLY by June 30th</a></h3></center></div>
+<div class="center"><center><h3><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation">APPLY by June 30th</a></h3></center></div>
 <br>
 <hr>
 
@@ -65,7 +65,7 @@ tags:
 }
 
 .box9 {
-  float: left;
+  display: table-cell;
   width: 33.33%;
   padding: 50px;
 }
@@ -76,8 +76,6 @@ tags:
   display: table;
 }
 </style>
-</head>
-<body>
 
 <div class="benefits">
   <div class="box9" style="background-color:#F5D7C5">
@@ -89,7 +87,7 @@ tags:
   <div class="box9" style="background-color:#F5D7C5">
   <center><p>Up to $2,000 towards training and skills development.</p>
   </div>
-  </div></body>
+  </div>
 <br>
 &nbsp;
 <br>
@@ -110,8 +108,11 @@ tags:
   margin: 20px;
   vertical-align: middle;
   }
-</style><div class="detail1"><p>* Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p></div><div class="detail2"><p>* Applicants in 2023 will have the opportunity to either select a self-directed or a mentored role for their Fellowship year.</p></div></div>
+</style>
 
+<div class="detail1"><p>- Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p></div>
+
+<div class="detail2"><p>- Applicants in 2023 will have the opportunity to either select a self-directed or a mentored role for their Fellowship year.</p></div>
 
 
 <div class="detail3"><p>- Fellowships are intended to support work RFFs are already carrying out. They are not intended to add more work to RFFs' plates.</p></div>
@@ -124,7 +125,7 @@ tags:
 
 <div class="detail7"><p>- Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p></div>
 
-<div class="detail8"><p>- All RFFs will be required to adhere to the Rust Foundation’s <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Code of Conduct</a>, which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
+<div class="detail8"><p>- All RFFs will be required to adhere to the Rust Foundation’s <a href="/policies/code-of-conduct/">Code of Conduct</a>, which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
 
 <center><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentored Fellowship Details</h3></center>
 <br>
