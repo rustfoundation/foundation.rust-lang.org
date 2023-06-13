@@ -99,7 +99,7 @@ tags:
     max-width: 100%;
     text-align: left;
     color: #000000;
-    height: 230px;
+    height: 300px;
     padding: 10px;
     border: 1px solid lightorange;
     border-radius: 6px;
