@@ -89,8 +89,8 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 </div>
 <div class="detail2">
 <p>Applicants in 2023 will have the opportunity to either select a self-directed or a mentored role for their Fellowship year.</p>
+</div>
 
-<style>
 </style>
 
 <div class="bordered3">
