@@ -37,7 +37,7 @@ tags:
 <br>
 <hr>
 
-<center><table>
+<table>
 <table border="”2″"><th colspan="2"><h3>2023 Application Dates</h3></th>
   <tr>
     <td><u>Application window:</u></td>
@@ -55,7 +55,7 @@ tags:
     <td><u>Fellowship year begins:</u></td>
     <td>Monday, July 24, 2023</td>
   </tr>
-</table></center>
+</table>
 
 
 
