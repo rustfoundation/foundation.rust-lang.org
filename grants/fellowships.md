@@ -23,7 +23,7 @@ tags:
 </div>
 <hr>
 <br>
-<div class="first"><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span><br>
+<div><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span><br>
 
 <style>
   .bordered {
