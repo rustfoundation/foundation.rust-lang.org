@@ -67,18 +67,6 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 <br>
 
 <style>
-.heading1 {
-  display: inline-block;
-  padding: 10px 10px;
-  margin: 20px;
-  vertical-align: middle;
-}
-
-.heading2 {
-  display: inline-block;
-  padding: 10px 10px;
-  margin: 20px;
-  vertical-align: middle;
 }
 
 .detail1, .detail3, .detail5, .detail7, .detail9 {
@@ -96,8 +84,6 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
   background-color: #bab7c8
   }
 </style>
-<div class="heading1">
-<p>Activities</p></div>
 <div class="detail1">
 <p>Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p>
 
