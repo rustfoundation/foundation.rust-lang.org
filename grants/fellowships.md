@@ -111,12 +111,29 @@ tags:
   background-color: #EFC9BF;
   margin-top: 6px;
 }
+
+  .box2 {
+  margin: 100px;
+  vertical-align: middle;
+  width: 38%;
+  text-align: right;
+  border:2px solid darkorange;
+  color: #000;
+  height: 430px;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: #EFC9BF;
+  margin-top: 6px;
+}
 </style>
 
 <div class="flexparent">
 <div class="box1"><h3>Security Fellowship</h3><p>The Security Fellow will have the opportunity to research and implement detection measures in Ecosystem Scanning, including identifying malicious code that can occur in crates, provenance detection, and code health scans (e.g. miri, audit). The Security Fellow will also have the opportunity to contribute to the Penetration Test of the Rust Project, which may involve assessing the security of various components, from the Project in general to specific projects or infrastructure components. This work could encompass penetration testing of systems and conducting code reviews for critical components like CI/CD, bors, rustwide, playground, and more.</p><p>The Security Fellow will receive mentorship from <a href="https://github.com/walterhpearce">Walter Pearce</a>, Security Engineer at the Rust Foundation.</p></div>
 
 <div class="box1"><h3>Crates.io Fellowship</h3><p>The crates.io Fellow will have the opportunity to develop a comprehensive understanding of crates.io and focus on enhancing its search experience. The crates.io Fellow’s objective will be to explore possible improvements to the crate search experience, such as incorporating additional metrics for crates and leveraging them to prioritize search results. By working on these enhancements, the crates.io Fellow will contribute to optimizing the search functionality on crates.io, thus improving the overall user experience.</p><p>The crates<span>.</span>io Fellow will receive mentorship from <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Software Engineer at the Rust Foundation.</p></div>
+
+<div class="flexparent">
+<div class="box2"><h3>Security Fellowship</h3><p>The Security Fellow will have the opportunity to research and implement detection measures in Ecosystem Scanning, including identifying malicious code that can occur in crates, provenance detection, and code health scans (e.g. miri, audit). The Security Fellow will also have the opportunity to contribute to the Penetration Test of the Rust Project, which may involve assessing the security of various components, from the Project in general to specific projects or infrastructure components. This work could encompass penetration testing of systems and conducting code reviews for critical components like CI/CD, bors, rustwide, playground, and more.</p><p>The Security Fellow will receive mentorship from <a href="https://github.com/walterhpearce">Walter Pearce</a>, Security Engineer at the Rust Foundation.</p></div>
 
 ---
 
