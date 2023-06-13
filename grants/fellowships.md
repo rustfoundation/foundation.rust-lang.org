@@ -102,7 +102,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 </div>
 
 <div class="detail6">
-<p>* RFFs *will not* be required to set and meet specific milestones. At the end of the program, RFFs *will* be asked to write a blog detailing their experience for possible publication on our website</p>
+<p>* RFFs <i>will not</i> be required to set and meet specific milestones. At the end of the program, RFFs <i>will</i> be asked to write a blog detailing their experience for possible publication on our website</p>
 </div>
 
 <div class="detail7">
