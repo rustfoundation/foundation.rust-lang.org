@@ -213,6 +213,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
     </style>
     
   <div class="details">
+  <details>
   <summary>How long does the program last?</summary>
   <p>12 months</p>
 </details>
