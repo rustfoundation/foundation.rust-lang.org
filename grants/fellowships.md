@@ -215,13 +215,13 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
-  vertical-align: middle;
+  vertical-align: top;
 }
 .who2, .who4, .who6, .who8 {
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
-  vertical-align: middle;
+  vertical-align: top;
   }
 </style><div class="who1"><p>- The Rust Foundation Fellowships application is open to anyone who will be over the age of 18 at the time of the grant award.</p></div>
 
