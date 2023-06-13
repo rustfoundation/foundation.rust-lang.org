@@ -95,7 +95,7 @@ tags:
 <center><style>
   .bordered2 {
     margin: 10px; 
-    width: 30%;
+    width: 100%;
     max-width: 100%;
     text-align: left;
     color: #000000;
