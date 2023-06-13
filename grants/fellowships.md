@@ -24,7 +24,7 @@ tags:
 <style>
 .center {
   margin: auto;
-  width: 10%;
+  width: 15%;
   text-align: center;
   border:2px solid darkorange;
   color: #000;
