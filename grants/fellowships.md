@@ -122,7 +122,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 <style>
 .type1 {
   margin: 100px;
-  width: 50%;
+  width: 30%;
   text-align: left;
   border:2px solid darkorange;
   color: #000;
