@@ -140,4 +140,4 @@ tags:
 
 <center><p>... and by the companies and individuals who contribute through our <a href="https://github.com/sponsors/rustfoundation">GitHub Sponsors</a> page.</p></center>
 
-<center><p><i>If your organization is interested in supporting the future of Rust’s talent and innovation through the Community Grants Program, please email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a>. Donations in any amount are greatly appreciated.</i></p></center>
+<p><i>If your organization is interested in supporting the future of Rust’s talent and innovation through the Community Grants Program, please email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a>. Donations in any amount are greatly appreciated.</i></p>
