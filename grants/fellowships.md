@@ -59,7 +59,7 @@ tags:
 </table></center>
 
 
-<div><center><h2>Fellowship Benefits</h2></center>
+<div><center><h3>Fellowship Benefits</h3></center>
 
 <style>
 * {
@@ -83,13 +83,13 @@ tags:
 
 <div class="benefits">
   <div class="box9" style="background-color:#F5D7C5">
-  <center><h3> A monthly stipend of $1,000 USD per month for 12 months.</h3>
+  <center><p> A monthly stipend of $1,000 USD per month for 12 months.</p>
   </div>
   <div class="box9" style="background-color:#EAA681">
-  <center><h3>An allowance of up to $2,000 to support travel to relevant Rust events</h3>
+  <center><p>An allowance of up to $2,000 to support travel to relevant Rust events</p>
   </div>
   <div class="box9" style="background-color:#F5D7C5">
-  <center><h3>Up to $2,000 towards training and skills development.</h3>
+  <center><p>Up to $2,000 towards training and skills development.</p>
   </div>
   </div></body>
 <br>
