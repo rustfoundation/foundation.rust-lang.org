@@ -215,7 +215,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
   border-radius: 3px;
 }
 
-.details summary {
+.summary {
   display: block;
   cursor: pointer;
   padding: .5em .5em .5em .7em;
@@ -224,20 +224,10 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
   border-radius: 3px 3px 0 0;
 }
 
-.details:not([open]) summary:hover,
-details:not([open]) summary:focus {      
-  background: #f6f6f6;
-  color: #454545;
-}
-
-.details[open] summary {
+.summary[open] {
   border: 1px solid #003eff;
   background: #007fff;
   color: #ffffff;
-}
-
-.details main {
-  padding: 1em 2.2em;
 }
 </style>
 
