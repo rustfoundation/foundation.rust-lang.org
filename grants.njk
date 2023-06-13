@@ -51,29 +51,41 @@ The 2023 Fellowship application is now open through June 30!
   box-sizing: border-box;
 }
 
-.box {
-  display: table-cell;
+/* Create three equal columns that floats next to each other */
+.statement {
+  float: left;
   width: 33.33%;
-  padding: 50px;
+  padding: 10px;
 }
 
-.clearfix::mission {
+/* Clear floats after the columns */
+.mission:after {
   content: "";
-  clear: both;
   display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .statement {
+    width: 100%;
+  }
 }
 
 </style>
 
 <div class="mission">
-  <div class="box" style="background-color:#F5D7C5">
-  <center><p><u>SUPPORT THE MAINTAINERS OF RUST.</u></center></p><p><i>We know that many people have volunteered significant time to help make Rust what it is today. We hope that our funding will go some way in acknowledging their efforts and rewarding their future contributions.</i></p>
+  <div class="statement">
+  <h3>SUPPORT THE MAINTAINERS OF RUST.</h3>
+  <p><i>We know that many people have volunteered significant time to help make Rust what it is today. We hope that our funding will go some way in acknowledging their efforts and rewarding their future contributions.</i></p>
   </div>
-  <div class="box" style="background-color:#EAA681">
-  <center><p><u>NURTURE THE COMMUNITY OF RUST USERS.</u></center></p><p><i>By supporting contributors across the world, we hope to support the diversity and health of the Rust community and create more opportunities for contributors of all backgrounds.</p></i>
+  <div class="statement">
+  <h3>NURTURE THE COMMUNITY OF RUST USERS.</h3>
+  <p><i>By supporting contributors across the world, we hope to support the diversity and health of the Rust community and create more opportunities for contributors of all backgrounds.</p></i>
   </div>
-  <div class="box" style="background-color:#F5D7C5">
-  <center><p><u>ENABLE THE FURTHER INNOVATION OF RUST.</center></p></u><p><i>By rewarding and supporting Rust community members' innovative ideas, our grants serve as a strategic investment in the long-term growth and advancement of the Rust ecosystem.</p></i>
+  <div class="statement">
+  <h3>ENABLE THE FURTHER INNOVATION OF RUST.</h3>
+  <p><i>By rewarding and supporting Rust community members' innovative ideas, our grants serve as a strategic investment in the long-term growth and advancement of the Rust ecosystem.</p></i>
   </div>
   <p>&nbsp;</p>
 <hr>
@@ -131,7 +143,7 @@ The 2023 Fellowship application is now open through June 30!
 
 <center><style>
   .bordered2 {
-    margin: 10px; 
+    margin: 10px;
     width: 600px;
     max-width: 100%;
     text-align: left;
@@ -152,7 +164,7 @@ The 2023 Fellowship application is now open through June 30!
 
 <center><style>
   .bordered3 {
-    margin: 10px; 
+    margin: 10px;
     width: 600px;
     max-width: 100%;
     text-align: left;
@@ -173,7 +185,7 @@ The 2023 Fellowship application is now open through June 30!
 
 <center><style>
   .bordered4 {
-    margin: 10px; 
+    margin: 10px;
     width: 600px;
     max-width: 100%;
     text-align: left;

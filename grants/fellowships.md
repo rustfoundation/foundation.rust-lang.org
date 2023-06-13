@@ -65,30 +65,42 @@ tags:
   box-sizing: border-box;
 }
 
-.box9 {
-  display: table-cell;
+/* Create three equal columns that floats next to each other */
+.benefit {
+  float: left;
   width: 33.33%;
-  padding: 50px;
+  padding: 10px;
 }
 
-.clearfix::benefits {
+/* Clear floats after the columns */
+.benefits:after {
   content: "";
-  clear: both;
   display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .benefit {
+    width: 100%;
+  }
 }
 </style>
 
 <div class="benefits">
-  <div class="box9" style="background-color:#F5D7C5">
-  <center><p> A monthly stipend of $1,000 USD per month for 12 months.</p>
+  <div class="benefit">
+    <h3>Stipend</h3>
+    <p>A monthly stipend of $1,000 USD per month for 12 months.</p>
   </div>
-  <div class="box9" style="background-color:#EAA681">
-  <center><p>An allowance of up to $2,000 to support travel to relevant Rust events.</p>
+  <div class="benefit">
+    <h3>Travel Budget</h3>
+    <p>An allowance of up to $2,000 to support travel to relevant Rust events.</p>
   </div>
-  <div class="box9" style="background-color:#F5D7C5">
-  <center><p>Up to $2,000 towards training and skills development.</p>
+  <div class="benefit">
+    <h3>Training Allowance</h3>
+    <p>Up to $2,000 towards training and skills development.</p>
   </div>
-  </div>
+</div>
 <br>
 &nbsp;
 <br>
@@ -133,7 +145,7 @@ tags:
 
 <style>
   .bordered2 {
-    margin: 10px; 
+    margin: 10px;
     width: 100%;
     max-width: 100%;
     text-align: left;
@@ -152,7 +164,7 @@ The Security Fellow will have the opportunity to research and implement detectio
 
 <style>
   .bordered3 {
-    margin: 10px; 
+    margin: 10px;
     width: 100%;
     max-width: 100%;
     text-align: left;
@@ -171,7 +183,7 @@ The crates.io Fellow will have the opportunity to develop a comprehensive unders
 
 <style>
   .bordered4 {
-    margin: 10px; 
+    margin: 10px;
     width: 100%;
     max-width: 100%;
     text-align: left;
@@ -190,7 +202,7 @@ The Infrastructure Fellow will be responsible for developing a comprehensive und
 
 <style>
   .bordered5 {
-    margin: 10px; 
+    margin: 10px;
     width: 100%;
     max-width: 100%;
     text-align: left;
@@ -249,13 +261,13 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
   text-align: left;
   margin: 100px;
   }
-  
+
 .details p {
   margin-bottom: 1em;
   line-height: normal;
 }
     </style>
-    
+
   <div class="details">
   <details>
   <summary>How long does the program last?</summary>
