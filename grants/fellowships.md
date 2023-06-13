@@ -24,20 +24,31 @@ tags:
 <span style="background-color:#F5D7C5">&nbsp;The 2023 Fellowship application is now</span><br><span style="background-color:#F5D7C5">open through midnight PDT on June 30!&nbsp;</span><br>
 
 <style>
-  .bordered {
-    width: 175px;
-    max-width: 100%;
-    text-align: center;
-    border:2px solid darkorange;
-    color: #000;
-    height: 55px;
-    padding: 0px;
-    border-radius: 4px;
-    background-color: #EFC9BF;
-    margin-top: 10px;
+.parent {
+  margin: 20px;
+  padding: 2px 2px;
+  text-align: center;
+}
+.child1 {
+  display: inline-block;
+  padding: 1px 1px;
+  vertical-align: middle;
+}
+.child2 {
+  display: inline-block;
+  max-width: 100%;
+  text-align: center;
+  border:2px solid darkorange;
+  color: #000;
+  height: 55px;
+  padding: 0px;
+  border-radius: 4px;
+  background-color: #EFC9BF;
+  margin-top: 10px;
 }
 </style>
-<div class="bordered"><center><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
+<div class="child1"><span style="background-color:#F5D7C5">&nbsp;The 2023 Fellowship application is now</span><br><span style="background-color:#F5D7C5">open through midnight PDT on June 30!&nbsp;</span><br>
+<div class="child2"><center><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center></div>
 
 <hr>
