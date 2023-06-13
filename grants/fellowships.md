@@ -60,20 +60,6 @@ tags:
 <div class="flex-child button">
 <div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><center><h3>APPLY</h3></a></center></div>
-
-<style>
-.flex-container {
-    display: flex;
-}
-
-.flex-child {
-    flex: 1;
-}  
-
-.flex-child:first-child {
-    margin-left: 20px;
-}
-</style>
 <div class="flex-child dates">
   <TABLE BORDER=”2″ CELLSPACING=”10″ text-align="left">
 <th colspan="2"><h3>Important Dates</h3></th>
