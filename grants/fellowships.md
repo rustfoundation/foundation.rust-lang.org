@@ -37,8 +37,8 @@ tags:
 <br>
 <hr>
 
-<table>
-<table border="”2″"><th colspan="2"><h3>2023 Application Dates</h3></center></th>
+<center><table>
+<table border="”2″"><th colspan="2"><h3>2023 Application Dates</h3></th>
   <tr>
     <td><u>Application window:</u></td>
     <td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td>
@@ -55,7 +55,7 @@ tags:
     <td><u>Fellowship year begins:</u></td>
     <td>Monday, July 24, 2023</td>
   </tr>
-</table>
+</table></center>
 
 
 
