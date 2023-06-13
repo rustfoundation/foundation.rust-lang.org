@@ -58,7 +58,8 @@ tags:
   </tr>
 </table></center>
 
-
+<div><center><h2>Program Details</h2></center>
+<br>
 <div><center><h3>Fellowship Benefits</h3></center>
 
 <style>
@@ -93,9 +94,6 @@ tags:
   </div>
   </div></body>
 <br>
-
-<div><center><h2>Program Details</h2></center>
-
 
 <style>
 .detail1, .detail3, .detail5, .detail7, .detail9 {
