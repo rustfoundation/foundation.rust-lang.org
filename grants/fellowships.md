@@ -117,28 +117,37 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 </style>
 
 </div>
-<h3 style="margin-left: 100px;">Mentored Fellowship Details<h3>
+<h3 style="margin-left: 100px;">Mentored Fellowship Details</h3>
+
 <style>
-.type1, .type2, {
-  display: inline-block;
-  padding: 10px 10px;
-  margin: 20px;
-  vertical-align: middle;
-  background-color: #BAB7C8
-  text:#000000 ;
+.type1 {
+  margin: auto;
+  width: 15%;
+  text-align: center;
+  border:2px solid darkorange;
+  color: #000;
+  height: 55px;
+  padding: 0px;
+  border-radius: 4px;
+  background-color: #EFC9BF;
+  margin-top: 6px;
 }
-.type3, .type4, {
-  display: inline-block;
-  padding: 10px 10px;
-  margin: 20px;
-  vertical-align: middle
-  background-color: #BAB7C8
-  text:#000000 ;
-  }
+  .type2 {
+  margin: auto;
+  width: 15%;
+  text-align: center;
+  border:2px solid darkorange;
+  color: #000;
+  height: 55px;
+  padding: 0px;
+  border-radius: 4px;
+  background-color: #EFC9BF;
+  margin-top: 6px;
+}
 </style>
 
-<div class="type1">
-<p>* Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p></div>
+<div class="type1"><center><h3>Security Fellowship</h3></a></center><p>The Security Fellow will have the opportunity to research and implement detection measures in Ecosystem Scanning, including identifying malicious code that can occur in crates, provenance detection, and code health scans (e.g. miri, audit). The Security Fellow will also have the opportunity to contribute to the Penetration Test of the Rust Project, which may involve assessing the security of various components, from the Project in general to specific projects or infrastructure components. This work could encompass penetration testing of systems and conducting code reviews for critical components like CI/CD, bors, rustwide, playground, and more.</p><p>The Security Fellow will receive mentorship from <a href="https://github.com/walterhpearce">Walter Pearce</a>, Security Engineer at the Rust Foundation.*
+</style>
 
 <div class="type2">
 <p>* Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p></div>
