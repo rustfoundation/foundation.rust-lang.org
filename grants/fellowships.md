@@ -67,6 +67,27 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 <br>
 
 <style>
+.heading1 {
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 20px;
+  vertical-align: middle;
+}
+.heading2 {
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 20px;
+  vertical-align: middle;
+  }
+</style>
+
+<div class="heading1">
+<p>Activities</p></div>
+
+<div class="heading2">
+<p>Expectations</p></div>
+
+<style>
 .detail1, .detail3, .detail5, .detail7, .detail9 {
   display: inline-block;
   padding: 10px 10px;
