@@ -23,8 +23,6 @@ tags:
 </div>
 <hr>
 <br>
-<br>
-<br>
 <style>.
 .float-container {
     border: 3px solid #fff;
