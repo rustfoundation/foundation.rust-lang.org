@@ -264,102 +264,102 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 <details>
   <summary>Does it matter which country I live in or what my citizenship status is?</summary>
-  <p>No, but you have to be able to legally receive funds from the USA to be a Fellow.</p>
+  <h3>No, but you have to be able to legally receive funds from the USA to be a Fellow.</h3>
 </details>
 
 <details>
   <summary>I am 17, can I apply to be a Rust Foundation Fellow?</summary>
-  <p>In order to accommodate and abide by different countries’ child labor laws, we are not able to consider applications from people under the age of 18.</p>
+  <h3>In order to accommodate and abide by different countries’ child labor laws, we are not able to consider applications from people under the age of 18.</h3>
 </details>
 
 <details>
   <summary>I am not currently a member of a Rust Project Team or Working Group, can I apply?</summary>
-  <p>Yes.</p>
+  <h3>Yes.</h3>
 </details>
 
 <details>
   <summary>I don’t have any experience with Rust, can I apply?</summary>
-  <p>We are only able to consider applications from individuals who possess some Rust experience</p>
+  <h3>We are only able to consider applications from individuals who possess some Rust experience</h3>
 </details>
 
 <details>
   <summary>How much time will I have to spend working on Rust for my Fellowship?</summary>
-  <p>While RFFs are expected to dedicate an average of 20 hours per month on program work we acknowledge the time demands on Rust community members. As such, we are flexible in allowing RFFs to map out their own working patterns and encourage RFFs to prioritize work-life balance.</p>
+  <h3>While RFFs are expected to dedicate an average of 20 hours per month on program work we acknowledge the time demands on Rust community members. As such, we are flexible in allowing RFFs to map out their own working patterns and encourage RFFs to prioritize work-life balance.</h3>
 </details>
 
 <details>
   <summary>I can’t commit to dedicating 20 hours of time to Rust every month, is that going to be a problem?</summary>
-  <p>While we expect Fellows to spend an average of 20 hours per month on the program, we understand that schedules vary over the course of a year and the program will accommodate this reality as needed.</p>
+  <h3>While we expect Fellows to spend an average of 20 hours per month on the program, we understand that schedules vary over the course of a year and the program will accommodate this reality as needed.</h3>
 </details>
 
 <details>
   <summary>If I become a Fellow do I have to increase the number of hours I spend working on Rust?</summary>
-  <p>No. If you are already spending 20 or more hours a month working on the Rust project, then no additional hours will be necessary. We encourage Fellows to limit the additional amount of time they spend working on the project to help achieve a healthy work-life balance.</p>
+  <h3>No. If you are already spending 20 or more hours a month working on the Rust project, then no additional hours will be necessary. We encourage Fellows to limit the additional amount of time they spend working on the project to help achieve a healthy work-life balance.</h3>
 </details>
 
 <details>
   <summary>I am interested in building the Rust community, not writing code, can I apply?</summary>
-  <p>Yes, although you will be required to have some experience contributing to the Rust community and be able to communicate a clear idea of how your work would benefit the Rust ecosystem.</p>
+  <h3>Yes, although you will be required to have some experience contributing to the Rust community and be able to communicate a clear idea of how your work would benefit the Rust ecosystem.</h3>
 </details>
 
 <details>
   <summary>I am currently paid to work on the Rust Project, can I apply?</summary>
-  <p>We are only able to consider applications from part-time Rust Project contributors or unpaid contributors.</p>
+  <h3>We are only able to consider applications from part-time Rust Project contributors or unpaid contributors.</h3>
 </details>
 
 <details>
   <summary>Do I have to speak English to be a Rust Foundation Fellow?</summary>
-  <p>Spoken English is not a requirement of the program, but Fellows will need a reasonable understanding of written English in order to be able to interact with members of the Project Teams and Working Groups.</p>
+  <h3>Spoken English is not a requirement of the program, but Fellows will need a reasonable understanding of written English in order to be able to interact with members of the Project Teams and Working Groups.</h3>
 </details>
 
 <details>
   <summary>How does the travel stipend work?</summary>
-  <p>Fellows will be asked to inform the Rust Foundation of the Rust-focused event they want to attend during their Fellowship year. Our team will review this information with the Fellow and, once confirmed, will provide the funds necessary to cover attendance. The travel budget (limited to $2,000 USD per Fellow) is intended to provide economy travel, accommodation and subsistence, plus the cost of event admission.</p>
+  <h3>Fellows will be asked to inform the Rust Foundation of the Rust-focused event they want to attend during their Fellowship year. Our team will review this information with the Fellow and, once confirmed, will provide the funds necessary to cover attendance. The travel budget (limited to $2,000 USD per Fellow) is intended to provide economy travel, accommodation and subsistence, plus the cost of event admission.</h3>
 </details>
 
 <details>
   <summary>How does the training stipend work?</summary>
-  <p>The Rust Foundation team will work with each Fellow to understand the type of training support that would be valuable to them. We require training to be relevant to the Fellowship position. Examples of training categories we support: project planning, organizational management, leadership, document writing, and effective communication.</p>
+  <h3>The Rust Foundation team will work with each Fellow to understand the type of training support that would be valuable to them. We require training to be relevant to the Fellowship position. Examples of training categories we support: project planning, organizational management, leadership, document writing, and effective communication.</h3>
 </details>
 
 <details>
   <summary>How will I report my work as a RFF?</summary>
-  <p>Fellows will be required to write a brief report each quarter, and participate in a catch-up call with a member of the Rust Foundation staff team. At the end of the Fellowship year, RFFs will write a brief blog post about their experience for publication on the Rust Foundation website.</p>
+  <h3>Fellows will be required to write a brief report each quarter, and participate in a catch-up call with a member of the Rust Foundation staff team. At the end of the Fellowship year, RFFs will write a brief blog post about their experience for publication on the Rust Foundation website.</h3>
 </details>
 
 <details>
   <summary>If I become a Fellow, will any information about me be published publicly?</summary>
-  <p>We will publish a brief biography of you on the Rust Foundation website, along with any public social media/other relevant links that you are willing to share. If you would rather we use your online alias in place of your legal name, please let us know. While our preference is to publish a picture of you, we will also accept an avatar as an alternative.</p>
+  <h3>We will publish a brief biography of you on the Rust Foundation website, along with any public social media/other relevant links that you are willing to share. If you would rather we use your online alias in place of your legal name, please let us know. While our preference is to publish a picture of you, we will also accept an avatar as an alternative.</h3>
 </details>
 
 <details>
   <summary>How will I get paid as a Fellow?</summary>
-  <p>RFFs are typically paid via direct bank transfers.</p>
+  <h3>RFFs are typically paid via direct bank transfers.</h3>
 </details>
 
 <details>
   <summary>Who will own the work that I produce as a Fellow?</summary>
-  <p>You will own the IP of any work that you create as a Fellow. However, we will require you to release your work as a RFF under an open source license so it can benefit the community as a whole.</p>
+  <h3>You will own the IP of any work that you create as a Fellow. However, we will require you to release your work as a RFF under an open source license so it can benefit the community as a whole.</h3>
 </details>
 
 <details>
   <summary>Can I drop out of the Fellowship before the year is up if I am not enjoying it?</summary>
-  <p>No. Each Rust Foundation Fellowship is for an individual.</p>
+  <h3>No. Each Rust Foundation Fellowship is for an individual.</h3>
 </details>
 
 <details>
   <summary>How will my work be monitored during the program?</summary>
-  <p>The Rust Foundation trusts our Fellows to honestly report how they have been supporting the Rust Project.</p>
+  <h3>The Rust Foundation trusts our Fellows to honestly report how they have been supporting the Rust Project.</h3>
 </details>
 
 <details>
   <summary>Can you help me understand the tax implications of receiving a Fellowship grant?</summary>
-  <p>Individual Fellows are responsible for ensuring that they are complying with any tax laws that apply to the receipt of this funding in their country/jurisdiction of residence. The Rust Foundation cannot provide advice on the personal tax arrangements or obligations of individual fellows.</p>
+  <h3>Individual Fellows are responsible for ensuring that they are complying with any tax laws that apply to the receipt of this funding in their country/jurisdiction of residence. The Rust Foundation cannot provide advice on the personal tax arrangements or obligations of individual fellows.</h3>
 </details>
 
 <details>
   <summary>I have a question that hasn’t been answered here. How can I get in touch for more information?</summary>
-  <p>Please email <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> and we will do our best to help.</p>
+  <h3>Please email <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> and we will do our best to help.</h3>
 </details></div>
 
 
