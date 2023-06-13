@@ -85,14 +85,12 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 </style>
 
 <div class="detail1">
-<p>* Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p></div>
+<p>* Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p>
 
-</div>
 <div class="detail2">
 <p>* Applicants in 2023 will have the opportunity to either select a self-directed or a mentored role for their Fellowship year.</p>
 </div>
 
-</div>
 <div class="detail3">
 <p>* Fellowships are intended to support work RFFs are already carrying out. They are not intended to add more work to RFFs' plates.</p>
 </div>
@@ -111,15 +109,12 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 
 <div class="detail7">
 <p>* Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p>
-
 </div>
 
 <div class="detail8">
-<p>* All RFFs will be required to adhere to the Rust Foundation’s <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Code of Conduct</a>"https://foundation.rust-lang.org/policies/code-of-conduct/", which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
-
-</style>
-
+<p>* All RFFs will be required to adhere to the Rust Foundation’s <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Code of Conduct</a>"https://foundation.rust-lang.org/policies/code-of-conduct/", which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p>
 </div>
+
 
 <hr>
 
