@@ -26,7 +26,7 @@ tags:
   text-align: center;
   border:2px solid darkorange;
   color: #000;
-  height: 55px;
+  height: auto;
   padding: 0px;
   border-radius: 4px;
   background-color: #EFC9BF;
@@ -359,7 +359,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 <center><h2>More Information</h2></center>
 
-<p><center>Eligibility and exclusion criteria can be found <a href="/grants-eligibility/">here</a>. | General FAQs about the grants program can be found <a href="/grants-faqs/">here</a> | Our privacy & data-handling policy can be found <a href="/policies/privacy-policy/">here</a>
+<p><center>Eligibility and exclusion criteria can be found <a href="/grants-eligibility/">here</a>. | General FAQs about the grants program can be found <a href="/grants-faqs/">here</a>. | Our privacy & data-handling policy can be found <a href="/policies/privacy-policy/">here</a>.
 
 </p></center>
 
