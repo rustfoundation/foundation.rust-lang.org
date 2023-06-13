@@ -26,7 +26,7 @@ tags:
 <br>
 <center><h2>Application Info</h2>
 <br>
-  <br>
+<br>
 <div class="float-container">
 
   <div class="float-child">
