@@ -58,7 +58,7 @@ tags:
     <td>Monday, July 24, 2023</td>
   </tr>
 </table></center>
-<div><center><h3>Fellowship Benefits</h3></center>
+<div><center><h2>Fellowship Benefits</h2></center>
 
 <style>
 * {
@@ -209,7 +209,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 <div>
 <br>
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who Can Join?</h3>
+<center><h2>Who Can Join?</h2></center>
 
 <style>
 .who1, .who3, .who5, .who7, .who9 {
