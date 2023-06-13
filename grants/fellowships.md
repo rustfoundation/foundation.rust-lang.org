@@ -81,7 +81,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
   }
 </style>
 
-<div class="detail1">
+<div class="heading1">
 <p><u>Activities</u></p>
 
 </div>
