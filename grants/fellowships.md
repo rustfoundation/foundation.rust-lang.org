@@ -89,13 +89,13 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 </style>
 
 <style>
-.heading1, .detail1, .detail3, .detail5, .detail7, .detail9 {
+.detail1, .detail3, .detail5, .detail7, .detail9 {
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
   vertical-align: middle;
 }
-.heading2, .detail2, .detail4, .detail6, .detail8 {
+.detail2, .detail4, .detail6, .detail8 {
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
