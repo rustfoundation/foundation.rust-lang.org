@@ -59,8 +59,44 @@ tags:
 </table></center>
 
 
+<div><center><h2>Fellowship Benefits</h2></center>
 
-<div><center><h2>Program Details</h2></center><style>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.box9 {
+  float: left;
+  width: 33.33%;
+  padding: 50px;
+}
+
+.clearfix::benefits {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<div class="benefits">
+  <div class="box9" style="background-color:#F5D7C5">
+  <center><h3> A monthly stipend of $1,000 USD per month for 12 months.</h3>
+  </div>
+  <div class="box9" style="background-color:#EAA681">
+  <center><h3>An allowance of up to $2,000 for the Fellowship year to support travel to relevant and useful industry events</h3>
+  </div>
+  <div class="box9" style="background-color:#F5D7C5">
+  <center><h3>Up to $2,000 towards training and skills development.</h3>
+  </div>
+<br>
+
+<div><center><h2>Program Details</h2></center>
+
+
+<style>
 .detail1, .detail3, .detail5, .detail7, .detail9 {
   display: inline-block;
   padding: 10px 10px;
