@@ -23,8 +23,8 @@ tags:
 <br>
 <style>
 .center {
-  margin left: 25%;
-  margin right: 25%;
+  margin left: 10%;
+  margin right: 10%;
   width: 100%;
   text-align: center;
   border:2px solid darkorange;
