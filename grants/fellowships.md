@@ -35,6 +35,8 @@ tags:
 .flex-child:first-child {
     margin-right: 20px;
 }
+.flex-child:second-child {
+    margin-left: 20px;
 </style>
 
 <div class="flex-container">
@@ -55,9 +57,7 @@ tags:
     margin-top: 10px;
 }
 </style>
-
-<div class="flex-container">
-<div class="flex-child button">
+<div class="first-child">
 <div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><center><h3>APPLY</h3></a></center></div>
 <div class="flex-child dates">
