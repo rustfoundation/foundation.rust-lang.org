@@ -63,7 +63,15 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 </style>
 <br>
 <div>
-<center><h2>Program Details</h2></center>
+<style>
+.section {
+   background-color: #BFC1EF;
+   width: 100%;
+   height: 400px;
+}
+</style>
+
+<section><center><h2>Program Details</h2></center>
 <br>
 
 <style>
@@ -117,6 +125,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 </style>
 
 </div>
+</section>
 
 <hr>
 
