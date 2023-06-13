@@ -1,9 +1,11 @@
 {% for grant in grantslist %}
 <section>
-    <div class="grant">
+    <div>
     	<h3>{{ grant.data.name }}</h3>
+    	<ul class="grant">
     	<p>{{ grant.data.description }}</p>
-        <p><a href="{{ grant.url }}">Find out more.</a></p>
+      <p><a href="{{ grant.url }}">Learn more.</a></p>
+      </ul>
     </div>
 </section>
 {% endfor %}

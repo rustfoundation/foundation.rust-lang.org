@@ -1,72 +1,400 @@
 ---
 layout: layouts/grants.njk
-title: Community Grants Program Rust Foundation Fellowships
-name: Rust Foundation Fellowships
 description: >-
-   Awards made to up to 20 individuals, providing a stipend of $1,000 per month
-   plus a travel and training budget. Applications are now closed, though we intend 
-   to open a new application round later this year. 
-   The Rust Foundation is currently fundraising to continue this program.
+   Stipends of $1,000 per month, plus a travel and training budget, granted to
+   up to 12 individuals who are either already contributing to the Rust
+   community or who have Rust experience and a high potential to benefit the
+   community through their contributions.
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
 ---
-## Applications are currently closed.
+[⏎ Return to Community Grants Program Main](/grants/)
 
-The initial group of Rust Foundation Fellows was announced in June 2022. Details of the awards can be found [here](https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/).
+<br>
+<center><h1>Rust Foundation Fellowship Program</h1>
+<div>
+<br>
+<p>The Rust Foundation Fellowship program exists to support and acknowledge active members of the Rust programming language community who generously contribute their time and expertise on a voluntary basis. These grants reward individuals who have helped make Rust what it is today and are key to its future success.</p>
+<br>
+<p>Rust Foundation Fellows are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the Fellowship year, funding for career development, and access to mentorship opportunities.</p></center>
+<br>
+<style>
+.center {
+  margin: auto;
+  width: 20%;
+  text-align: center;
+  border:2px solid darkorange;
+  color: #000;
+  height: auto;
+  padding: 0px;
+  border-radius: 4px;
+  background-color: #EFC9BF;
+  margin-top: 6px;
+  min-width: 150px;
+}
+</style>
 
-If you are interested in supporting future Fellowship cohorts, then we would love you to [get in touch](https://foundation.rust-lang.org/info/contact/)\!
+<div class="center"><center><h3><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation">APPLY by June 30th</a></h3></center></div>
+<br>
+<hr>
 
-## Summary
+<center><table>
+<table border="”4″"><th colspan="2"><h3>2023 Application Dates</h3></th>
+  <tr>
+    <td><u>Application window:</u></td>
+    <td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td>
+  </tr>
+  <tr>
+    <td><u>Fellow selections:</u</td>
+    <td>Wednesday, July 6th, 2023.</td>
+  </tr>
+  <tr>
+    <td><u>Applicant notifications:</u></td>
+    <td>Friday, July 7th, 2023.</td>
+  </tr>
+  <tr>
+    <td><u>Fellowship year begins:</u></td>
+    <td>Monday, July 24, 2023</td>
+  </tr>
+</table></center>
+<div><center><h2>Fellowship Benefits</h2></center>
 
-**Purpose of award**\:To help support and reward those individuals who, through their voluntary work, have helped make Rust what it is today, and who are key to its future success.
+<style>
+* {
+  box-sizing: border-box;
+}
 
-**Award amount**\: A stipend of $1,000 per month plus a travel and training budget.
+.box9 {
+  display: table-cell;
+  width: 33.33%;
+  padding: 50px;
+}
 
-**Application window**\: 1st April to 30th April 2022.
+.clearfix::benefits {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 
-**Selection decisions**\: By end of May 2022.
+<div class="benefits">
+  <div class="box9" style="background-color:#F5D7C5">
+  <center><p> A monthly stipend of $1,000 USD per month for 12 months.</p>
+  </div>
+  <div class="box9" style="background-color:#EAA681">
+  <center><p>An allowance of up to $2,000 to support travel to relevant Rust events.</p>
+  </div>
+  <div class="box9" style="background-color:#F5D7C5">
+  <center><p>Up to $2,000 towards training and skills development.</p>
+  </div>
+  </div>
+<br>
+&nbsp;
+<br>
+<div><center><h2>Program Details</h2></center>
+<br>
+<br>
 
-**Applicants informed of the outcome**\: 8th June 2022.
+<style>
+.detail1, .detail3, .detail5, .detail7, .detail9 {
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 20px;
+  vertical-align: top;
+}
+.detail2, .detail4, .detail6, .detail8 {
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 20px;
+  vertical-align: top;
+  }
+</style>
 
-**Formal start of the Fellowship program**\: 1st July 2022.
+<div class="detail1"><p>- Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p></div>
 
-## Details
+<div class="detail2"><p>- Applicants in 2023 will have the opportunity to either select a self-directed or a mentored role for their Fellowship year.</p></div>
 
-The Rust Foundation Fellowship is a package of support for current and potential maintainers of the Rust Project. It is designed to financially support individuals to have freedom in directing their own work on the Project over a one-year period, and to provide those individuals with complementary resources such as training, networking and event attendance. The objective of these fellowships is to help support and reward those individuals who, through their voluntary work, have helped make Rust what it is today, and who are key to its future success.
 
-Rust Foundation Fellows (RFFs) will be members of the Rust community to whom the Rust Foundation will award a stipend of $1,000 a month, for 12 months. There will be two different kinds of RFFs:
+<div class="detail3"><p>- Fellowships are intended to support work RFFs are already carrying out. They are not intended to add more work to RFFs' plates.</p></div>
 
-* **Fellows**\: these are experienced and active members of the Rust community, who may already be members of project teams. They will have the skills and experience to work largely independently without additional support from the project teams. It is anticipated that the majority of the first cohort of RFFs will be Fellows.
-* **Associate Fellows**\: these are members of the community who have Rust programming experience, but less (or no) experience with the Rust project. Associate Fellows should be keen to develop their skills with a view to becoming active members of a project team, working group, or other maintainer role in the future. It is anticipated that 4-6 members of the first cohort of RFFs will be Associate Fellows, depending upon the capacity of the project teams to provide mentorship support.
+<div class="detail4"><p>- Mentored roles pair RFFs with an expert in the Rust community to help develop their skills and experience in a chosen focus area.</p></div>
 
-The aim of the RFF grants is (a) to provide support to volunteers who are already contributing to the community, and (b) to enable people who have Rust experience to develop their ability to contribute to the community. We are not expecting RFFs to spend 20 *more* hours a month supporting the community, rather to reward them for the time they are already contributing to help improve their work-life balance and reduce the risk of burnout.
+<div class="detail5"><p>- Fellowships do not come with special Rust Project privilege - RFFs will not automatically become members of Project Teams or Working Groups.</p></div>
 
-In addition to the monthly stipend each RFF will have a travel allowance of up to $2,000 for their fellowship year to enable them to attend RustConf or another similar Rust event. Furthermore, we will spend up to $2,000 on training and skills development for each fellow. We will work with successful applicants to identify their training needs, and fund the courses and coaching that will be most beneficial to them.
+<div class="detail6"><p>- RFFs <i>will not</i> be required to set and meet specific milestones. At the end of the program, RFFs <i>will</i> be asked to write a blog detailing their experience for possible publication on our website.</p></div>
 
-Being awarded a Fellowship will not confer any special privileges on the Fellows - those who are not already will not automatically become members of Project Teams or Working Groups. Prospective Fellows must be able to accomplish their proposed work when applying for it.
+<div class="detail7"><p>- Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p></div>
 
-## What will Fellows do?
+<div class="detail8"><p>- All RFFs will be required to adhere to the Rust Foundation’s <a href="/policies/code-of-conduct/">Code of Conduct</a>, which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
 
-Prospective Fellows are free to choose what they want to work on during the course of their Fellowship year. The focus of their work must, however, be on one or more parts of the Rust Project, in the range of activities carried out by the [Rust Teams and Working Groups](https://www.rust-lang.org/governance). Fellowships won’t be limited to people who want to spend their Fellowship year writing code. Applications are also welcome from people who want to:
+<center><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentored Fellowship Details</h3></center>
+<br>
 
-* Provide organizational support
-* Carry out moderation
-* Write documentation
-* Support the expansion of the Rust community
-* Review code
-* Carry out any other work that is beneficial to the community
+<style>
+  .bordered2 {
+    margin: 10px; 
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    color: #000000;
+    height: auto;
+    padding: 10px;
+    border: 1px solid lightorange;
+    border-radius: 6px;
+    background-color: #bab7c8
+  }
+</style>
 
-Applicants will be asked to describe in their application how they intend to support Rust over the course of the year. We’re not looking for a detailed list of activities – we’re looking for an overview, in broad terms, of the areas of intended focus. Priority will be given to applicants whose proposed activities align with the priorities of Project Teams and Working Groups.
+<div class="bordered2">
+<p><u><h3><center>Security Fellowship</h3></p></u></center>
+The Security Fellow will have the opportunity to research and implement detection measures in Ecosystem Scanning, including identifying malicious code that can occur in crates, provenance detection, and code health scans (e.g. miri, audit). The Security Fellow will also have the opportunity to contribute to the Penetration Test of the Rust Project, which may involve assessing the security of various components, from the Project in general to specific projects or infrastructure components. This work could encompass penetration testing of systems and conducting code reviews for critical components like CI/CD, bors, rustwide, playground, and more.</p><p>Paired Mentor: <a href="https://github.com/walterhpearce">Walter Pearce</a>, Rust Foundation Security Engineer.</p></div>
 
-RFFs *will not* be required to set and meet specific milestones. They will be asked to prepare a brief update each quarter and have a catch-up call with the Foundation staff. At the end of the fellowship year RFFs will be asked to write a blog post detailing their experiences of the program and reviewing their achievements for publication on the Foundation’s website.
+<style>
+  .bordered3 {
+    margin: 10px; 
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    color: #000000;
+    height: auto;
+    padding: 10px;
+    border: 1px solid lightorange;
+    border-radius: 6px;
+    background-color: #D9D9D9
+  }
+</style>
 
-All RFFs will be required to adhere to the [Rust Foundation’s Code of Conduct](https://foundation.rust-lang.org/policies/code-of-conduct/), which is an extension of the [Rust Project Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct). Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.
+<div class="bordered3">
+<p><u><h3><center>Crates.io Fellowship</h3></p></u></center>
+The crates.io Fellow will have the opportunity to develop a comprehensive understanding of crates.io and focus on enhancing its search experience. The crates.io Fellow’s objective will be to explore possible improvements to the crate search experience, such as incorporating additional metrics for crates and leveraging them to prioritize search results. By working on these enhancements, the crates.io Fellow will contribute to optimizing the search functionality on crates.io, thus improving the overall user experience.</p><p>Paired Mentor: <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Rust Foundation Software Engineer.</p></div>
 
-## Who can apply?
+<style>
+  .bordered4 {
+    margin: 10px; 
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    color: #000000;
+    height: auto;
+    padding: 10px;
+    border: 1px solid lightorange;
+    border-radius: 6px;
+    background-color: #bab7c8
+  }
+</style>
 
-The Fellowships are open to applications from anyone who will be over the age of 18 at the time of the grant award. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. Employees of organizations that are Members of the Rust Foundation should contact us at grants@rustfoundation.org prior to completing an application, in order for us to assess whether a Fellowship award to them might represent a conflict of interest for the Foundation. People who are currently paid to work on the Rust Project full-time will not be eligible for Fellowships (part-time is fine).
+<div class="bordered4">
+<p><u><h3><center>Infrastructure Fellowship</h3></p></u></center>
+The Infrastructure Fellow will be responsible for developing a comprehensive understanding of the underlying infrastructure supporting the Rust language. Specific tasks include updating the infrastructure monitoring setup and optimizing the CI (Continuous Integration) process for rust-lang to enhance its efficiency. By actively working on these aspects, the Infrastructure Fellow will play a vital role in ensuring a robust infrastructure and streamlined development workflow for the Rust language.</p><p>Paired Mentor: <a href="https://github.com/jdno">Jan David Nose</a>, Rust Foundation Infrastructure Engineer.</p></div>
 
-You don’t have to speak English to be a Fellow, but you do need a reasonable understanding of written English in order to be able to interact with members of the Project Teams and Working Groups.
+<style>
+  .bordered5 {
+    margin: 10px; 
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    color: #000000;
+    height: auto;
+    padding: 10px;
+    border: 1px solid lightorange;
+    border-radius: 6px;
+    background-color: #D9D9D9;
+  }
+</style>
 
-All Fellowship applicants must ensure that they are able to receive financial transfers from the USA. Details can be found [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) of the restrictions to such transactions.
+<div class="bordered5">
+<p><u><h3><center>Compiler Fellowship</h3></p></u></center>
+The Compiler Fellow will develop a comprehensive understanding of the Rust compiler and develop the skills and experience needed to become an active contributor to the compiler work.</p><p>Paired Mentor: the <a href="https://www.rust-lang.org/governance/teams/compiler/">Rust Compiler Team</a>.</p></div>
+
+<div>
+<br>
+<center><h2>Who Can Join?</h2></center>
+
+<style>
+.who1, .who3, .who5, .who7, .who9 {
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 20px;
+  vertical-align: top;
+}
+.who2, .who4, .who6, .who8 {
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 20px;
+  vertical-align: top;
+  }
+</style><div class="who1"><p>- The Rust Foundation Fellowships application is open to anyone who will be over the age of 18 at the time of the grant award.</p></div>
+
+<div class="who2"><p>- We welcome applications from prospective RFFs with different backgrounds from all over the world.</p></div></div>
+
+<div class="who3"><p>- Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with members of the Project Teams, Rust Project Working Groups, and the Foundation.</p></div>
+
+<div class="who4"><p>- Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.</p></div>
+
+<div class="who5"><p>- Employees of <a href="https://foundation.rust-lang.org/members/">Rust Foundation Member organizations</a> should email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> prior to completing an application to verify that being granted a Fellowship would not represent a conflict of interest.</p></div>
+
+<div class="who6"><p>- While we cannot consider applications from those who are paid to work on Rust full-time, we welcome applications from part-time paid Rust contributors.</p></div>
+
+</div>
+
+<div><center><p><i>All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a>.</i></p></div><center>
+
+
+---
+<center><h2>FAQs</h2></center>
+
+<style>
+.details {
+  text-align: left;
+  margin: 100px;
+  }
+  
+.details p {
+  margin-bottom: 1em;
+  line-height: normal;
+}
+    </style>
+    
+  <div class="details">
+  <details>
+  <summary>How long does the program last?</summary>
+  <h3>12 months.</h3>
+</details>
+
+<details>
+  <summary>Does it matter which country I live in or what my citizenship status is?</summary>
+  <h3>No, but you have to be able to legally receive funds from the USA to be a Fellow.</h3>
+</details>
+
+<details>
+  <summary>I am 17, can I apply to be a Rust Foundation Fellow?</summary>
+  <h3>In order to accommodate and abide by different countries’ child labor laws, we are not able to consider applications from people under the age of 18.</h3>
+</details>
+
+<details>
+  <summary>I am not currently a member of a Rust Project Team or Working Group, can I apply?</summary>
+  <h3>Yes.</h3>
+</details>
+
+<details>
+  <summary>I don’t have any experience with Rust, can I apply?</summary>
+  <h3>We are only able to consider applications from individuals who possess some Rust experience</h3>
+</details>
+
+<details>
+  <summary>How much time will I have to spend working on Rust for my Fellowship?</summary>
+  <h3>While RFFs are expected to dedicate an average of 20 hours per month on program work we acknowledge the time demands on Rust community members. As such, we are flexible in allowing RFFs to map out their own working patterns and encourage RFFs to prioritize work-life balance.</h3>
+</details>
+
+<details>
+  <summary>I can’t commit to dedicating 20 hours of time to Rust every month, is that going to be a problem?</summary>
+  <h3>While we expect Fellows to spend an average of 20 hours per month on the program, we understand that schedules vary over the course of a year and the program will accommodate this reality as needed.</h3>
+</details>
+
+<details>
+  <summary>If I become a Fellow do I have to increase the number of hours I spend working on Rust?</summary>
+  <h3>No. If you are already spending 20 or more hours a month working on the Rust project, then no additional hours will be necessary. We encourage Fellows to limit the additional amount of time they spend working on the project to help achieve a healthy work-life balance.</h3>
+</details>
+
+<details>
+  <summary>I am interested in building the Rust community, not writing code, can I apply?</summary>
+  <h3>Yes, although you will be required to have some experience contributing to the Rust community and be able to communicate a clear idea of how your work would benefit the Rust ecosystem.</h3>
+</details>
+
+<details>
+  <summary>I am currently paid to work on the Rust Project, can I apply?</summary>
+  <h3>We are only able to consider applications from part-time Rust Project contributors or unpaid contributors.</h3>
+</details>
+
+<details>
+  <summary>Do I have to speak English to be a Rust Foundation Fellow?</summary>
+  <h3>Spoken English is not a requirement of the program, but Fellows will need a reasonable understanding of written English in order to be able to interact with members of the Project Teams and Working Groups.</h3>
+</details>
+
+<details>
+  <summary>How does the travel stipend work?</summary>
+  <h3>Fellows will be asked to inform the Rust Foundation of the Rust-focused event they want to attend during their Fellowship year. Our team will review this information with the Fellow and, once confirmed, will provide the funds necessary to cover attendance. The travel budget (limited to $2,000 USD per Fellow) is intended to provide economy travel, accommodation and subsistence, plus the cost of event admission.</h3>
+</details>
+
+<details>
+  <summary>How does the training stipend work?</summary>
+  <h3>The Rust Foundation team will work with each Fellow to understand the type of training support that would be valuable to them. We require training to be relevant to the Fellowship position. Examples of training categories we support: project planning, organizational management, leadership, document writing, and effective communication.</h3>
+</details>
+
+<details>
+  <summary>How will I report my work as a RFF?</summary>
+  <h3>Fellows will be required to write a brief report each quarter, and participate in a catch-up call with a member of the Rust Foundation staff team. At the end of the Fellowship year, RFFs will write a brief blog post about their experience for publication on the Rust Foundation website.</h3>
+</details>
+
+<details>
+  <summary>If I become a Fellow, will any information about me be published publicly?</summary>
+  <h3>We will publish a brief biography of you on the Rust Foundation website, along with any public social media/other relevant links that you are willing to share. If you would rather we use your online alias in place of your legal name, please let us know. While our preference is to publish a picture of you, we will also accept an avatar as an alternative.</h3>
+</details>
+
+<details>
+  <summary>How will I get paid as a Fellow?</summary>
+  <h3>RFFs are typically paid via direct bank transfers.</h3>
+</details>
+
+<details>
+  <summary>Who will own the work that I produce as a Fellow?</summary>
+  <h3>You will own the IP of any work that you create as a Fellow. However, we will require you to release your work as a RFF under an open source license so it can benefit the community as a whole.</h3>
+</details>
+
+<details>
+  <summary>Can I drop out of the Fellowship before the year is up if I am not enjoying it?</summary>
+  <h3>No. Each Rust Foundation Fellowship is for an individual.</h3>
+</details>
+
+<details>
+  <summary>How will my work be monitored during the program?</summary>
+  <h3>The Rust Foundation trusts our Fellows to honestly report how they have been supporting the Rust Project.</h3>
+</details>
+
+<details>
+  <summary>Can you help me understand the tax implications of receiving a Fellowship grant?</summary>
+  <h3>Individual Fellows are responsible for ensuring that they are complying with any tax laws that apply to the receipt of this funding in their country/jurisdiction of residence. The Rust Foundation cannot provide advice on the personal tax arrangements or obligations of individual fellows.</h3>
+</details>
+
+<details>
+  <summary>I have a question that hasn’t been answered here. How can I get in touch for more information?</summary>
+  <h3>Please email <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> and we will do our best to help.</h3>
+</details></div>
+
+
+<center><h2>More Information</h2></center>
+
+<p><center>Eligibility and exclusion criteria can be found <a href="/grants-eligibility/">here</a>. | General FAQs about the grants program can be found <a href="/grants-faqs/">here</a>. | Our privacy & data-handling policy can be found <a href="/policies/privacy-policy/">here</a>.
+
+</p></center>
+
+<style>
+.center {
+  margin: auto;
+  width: 20%;
+  text-align: center;
+  border:2px solid darkorange;
+  color: #000;
+  height: auto;
+  padding: 0px;
+  border-radius: 4px;
+  background-color: #EFC9BF;
+  margin-top: 6px;
+  min-width: 150px;
+}
+</style>
+
+<div class="center"><center><h3><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation">APPLY by June 30th</a></h3></center></div>
+<br>
+<hr>
+
+---
+
+<center><h2>The Community Grants Program is made possible by these generous organizations:</h2></center>
+
+<center><ul class="donorslist"><li><a href="https://www.activision.com/"><img src="/img/grants/activision.png" /></a></li><li><a href="https://aws.amazon.com/"><img src="/img/member/aws.png" /></a></li><li><a href="https://www.cargurus.com/"><img src="/img/grants/cargurus.png" /></a></li><li><a href="https://www.frontendmasters.com/"><img src="/img/grants/frontendmasters.png" /></a></li><li><a href="https://google.com/"><img src="/img/member/google.png" /></a></li><li><a href="https://www.huawei.com/"><img src="/img/member/huawei.png" /></a></li><li><a href="https://replit.com/"><img src="/img/grants/replit.png" /></a></li><li><a href="https://www.tag1consulting.com/"><img src="/img/member/tag1.png" /></a></li><li><a href="https://zama.ai/"><img src="/img/member/zama.png" /></a></li></ul></center>
+
+<center><p>... and by the companies and individuals who contribute through our <a href="https://github.com/sponsors/rustfoundation">GitHub Sponsors</a> page.</p></center>
+
+<center><p><i>If your organization is interested in supporting the future of Rust’s talent and innovation through the Community Grants Program, please email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a>. Donations in any amount are greatly appreciated.</i></p></center>
