@@ -92,15 +92,15 @@ tags:
 ### Mentored Fellowship Details
 <br>
 
-<center><style>
+<style>
   .bordered2 {
     margin: 10px; 
     width: 100%;
     max-width: 100%;
     text-align: left;
     color: #000000;
-    height: 800px;
-    padding: 20px;
+    height: 300px;
+    padding: 10px;
     border: 1px solid lightorange;
     border-radius: 6px;
     background-color: #bab7c8
