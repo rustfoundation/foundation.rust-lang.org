@@ -11,7 +11,7 @@ tags:
 ---
 [⏎ Return to Community Grants Program Main](https://foundation.rust-lang.org/grants)<br>
 
-<center><h1>Rust Foundation Fellowship Program</h1></center>
+<center><h1>Rust Foundation Fellowship Program</h1>
 <div>
 <br>
 <p>The Rust Foundation Fellowship program exists to support and acknowledge active members of the Rust programming language community who generously contribute their time and expertise on a voluntary basis. These grants reward individuals who have helped make Rust what it is today and are key to its future success.</p>
