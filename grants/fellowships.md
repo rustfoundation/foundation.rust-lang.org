@@ -77,17 +77,17 @@ tags:
 
 
 
-<div class="detail3"><p>* Fellowships are intended to support work RFFs are already carrying out. They are not intended to add more work to RFFs' plates.</p></div>
+<div class="detail3"><p>- Fellowships are intended to support work RFFs are already carrying out. They are not intended to add more work to RFFs' plates.</p></div>
 
-<div class="detail4"><p>* Mentored roles pair RFFs with an expert in the Rust community to help develop their skills and experience in a chosen focus area.</p></div>
+<div class="detail4"><p>- Mentored roles pair RFFs with an expert in the Rust community to help develop their skills and experience in a chosen focus area.</p></div>
 
-<div class="detail5"><p>* Fellowships do not come with special Rust Project privilege - RFFs will not automatically become members of Project Teams or Working Groups.</p></div>
+<div class="detail5"><p>- Fellowships do not come with special Rust Project privilege - RFFs will not automatically become members of Project Teams or Working Groups.</p></div>
 
-<div class="detail6"><p>* RFFs <i>will not</i> be required to set and meet specific milestones. At the end of the program, RFFs <i>will</i> be asked to write a blog detailing their experience for possible publication on our website</p></div>
+<div class="detail6"><p>- RFFs <i>will not</i> be required to set and meet specific milestones. At the end of the program, RFFs <i>will</i> be asked to write a blog detailing their experience for possible publication on our website</p></div>
 
-<div class="detail7"><p>* Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p></div>
+<div class="detail7"><p>- Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p></div>
 
-<div class="detail8"><p>* All RFFs will be required to adhere to the Rust Foundation’s <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Code of Conduct</a>, which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
+<div class="detail8"><p>- All RFFs will be required to adhere to the Rust Foundation’s <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Code of Conduct</a>, which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
 
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentored Fellowship Details</h3>
 <br>
@@ -184,21 +184,21 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
   margin: 20px;
   vertical-align: middle;
   }
-</style><div class="who1"><p>* The Rust Foundation Fellowships application is open to anyone who will be over the age of 18 at the time of the grant award.</p></div>
+</style><div class="who1"><p>- The Rust Foundation Fellowships application is open to anyone who will be over the age of 18 at the time of the grant award.</p></div>
 
-<div class="who2"><p>* We welcome applications from prospective RFFs with different backgrounds from all over the world.</p></div></div>
+<div class="who2"><p>- We welcome applications from prospective RFFs with different backgrounds from all over the world.</p></div></div>
 
-<div class="who3"><p>* Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with members of the Project Teams, Rust Project Working Groups, and the Foundation.</p></div>
+<div class="who3"><p>- Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with members of the Project Teams, Rust Project Working Groups, and the Foundation.</p></div>
 
-<div class="who4"><p>* Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.</p></div>
+<div class="who4"><p>- Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.</p></div>
 
-<div class="who5"><p>* Employees of <a href="https://foundation.rust-lang.org/members/">Rust Foundation Member organizations</a> should email us at grants@rustfoundation.org prior to completing an application to verify that being granted a Fellowship would not represent a conflict of interest.</p></div>
+<div class="who5"><p>- Employees of <a href="https://foundation.rust-lang.org/members/">Rust Foundation Member organizations</a> should email us at grants@rustfoundation.org prior to completing an application to verify that being granted a Fellowship would not represent a conflict of interest.</p></div>
 
-<div class="who6"><p>* While we cannot consider applications from those who are paid to work on Rust full-time, we welcome applications from part-time paid Rust contributors.</p></div>
+<div class="who6"><p>- While we cannot consider applications from those who are paid to work on Rust full-time, we welcome applications from part-time paid Rust contributors.</p></div>
 
-<div class="whol7"><p>* Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p></div>
+<div class="whol7"><p>- Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p></div>
 
-<div class="who8"><p>* All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a></p></div>.
+<div class="who8"><p>- All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a></p></div>.
 
 
 ---
