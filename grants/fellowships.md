@@ -42,8 +42,8 @@ tags:
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><center><h3>APPLY</h3></a></center></div>
 
 <TABLE BORDER=”2″ CELLSPACING=”10″>
-<th colspan="2", text-align="center"><h3>Important Dates</h3></th>
-    <tbody text-align="left">
+<th colspan="2"><center><h3>Important Dates</h3></th></center>
+    <tbody>
         <td><u>Application window:</u></td>
     <td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td>
   </tr>
