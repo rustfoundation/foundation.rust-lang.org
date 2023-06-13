@@ -241,7 +241,7 @@ details:not([open]) summary:focus {
 }
 </style>
 
-<details>
+<div><details>
   <summary>How long does the program last?</summary>
   <p>12 months</p>
 </details>
@@ -344,7 +344,7 @@ details:not([open]) summary:focus {
 <details>
   <summary>I have a question that hasn’t been answered here. How can I get in touch for more information?</summary>
   <p>Please email grants@rustfoundation.org and we will do our best to help.</p>
-</details>
+</details></div>
 
 
 <center><h2>More Information</h2></center>
