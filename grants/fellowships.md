@@ -196,7 +196,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 <div class="who6"><p>- While we cannot consider applications from those who are paid to work on Rust full-time, we welcome applications from part-time paid Rust contributors.</p></div>
 
-<div class="who7"><p>- All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a></p></div>.
+<p><i>All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a></i></p></div>.
 
 
 ---
