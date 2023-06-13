@@ -137,7 +137,7 @@ The crates.io Fellow will have the opportunity to develop a comprehensive unders
     max-width: 100%;
     text-align: left;
     color: #000000;
-    height: 3000px;
+    height: 210px;
     padding: 10px;
     border: 1px solid lightorange;
     border-radius: 6px;
@@ -149,7 +149,7 @@ The crates.io Fellow will have the opportunity to develop a comprehensive unders
 <p><u><h3><center>Infrastructure Fellowship</h3></p></u></center>
 The Infrastructure Fellow will be responsible for developing a comprehensive understanding of the underlying infrastructure supporting the Rust language. Specific tasks include updating the infrastructure monitoring setup and optimizing the CI (Continuous Integration) process for rust-lang to enhance its efficiency. By actively working on these aspects, the Infrastructure Fellow will play a vital role in ensuring a robust infrastructure and streamlined development workflow for the Rust language.</p><p>Paired Mentor: <a href="https://github.com/jdno">Jan David Nose</a>, Rust Foundation Infrastructure Engineer.</p></div>
 
-><style>
+<style>
   .bordered5 {
     margin: 10px; 
     width: 100%;
