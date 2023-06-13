@@ -23,7 +23,70 @@ tags:
 </div>
 <hr>
 <br>
-<style>.
+<style>
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid yellow;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+}
+</style>
+
+<div class="flex-container">
+<div class="flex-child c2a"><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span></div>
+<br>
+<style>
+  .bordered {
+    width: 175px;
+    max-width: 100%;
+    text-align: center;
+    border:2px solid darkorange;
+    color: #000;
+    height: 55px;
+    padding: 0px;
+    border-radius: 4px;
+    background-color: #EFC9BF;
+    margin-top: 10px;
+}
+</style>
+}
+</style>
+<br>
+<div class="float-container">
+<center><div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
+applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center></div></center>
+<br>
+  </div>
+  
+  <div class="flex-child green"><TABLE BORDER=”2″ CELLSPACING=”10″ text-align="left">
+<th colspan="2"><h3>Important Dates</h3></th>
+    <tbody>
+        <td><u>Application window:</u></td>
+    <td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td>
+  </tr>
+  <tr>
+    <td><u>Fellow selections:</td></u>
+    <td>Wednesday, July 6th, 2023.</td>
+  </tr>
+  <tr>
+    <td><u>Applicant notifications:</td></u>
+    <td>Friday, July 7th, 2023.</td>
+  </tr>
+  <tr>
+    <td><u>Fellowship year begins:</td></u>
+    <td>Monday, July 24, 2023.</td>
+  </tr>
+</table></div>
+  </div>
+  </div>
+  
+</div>
 .float-container {
     border: 3px solid #fff;
     padding: 20px;
