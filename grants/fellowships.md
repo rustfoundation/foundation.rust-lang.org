@@ -31,6 +31,7 @@ tags:
   border-radius: 4px;
   background-color: #EFC9BF;
   margin-top: 6px;
+  min-width: 150px;
 }
 </style>
 
