@@ -89,7 +89,7 @@ tags:
 
 <div class="detail8"><p>* All RFFs will be required to adhere to the Rust Foundation’s <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Code of Conduct</a>, which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
 
-### Mentored Fellowship Details
+<h3>Mentored Fellowship Details</h3>
 <br>
 
 <style>
