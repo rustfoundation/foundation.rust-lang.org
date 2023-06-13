@@ -67,9 +67,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 <br>
 
 <style>
-}
-
-.detail1, .detail3, .detail5, .detail7, {
+.detail1, .detail3, .detail5, .detail7, .detail9 {
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
