@@ -22,7 +22,7 @@ tags:
 <style>
 .center {
   margin: auto;
-  width: 15%;
+  width: 20%;
   text-align: center;
   border:2px solid darkorange;
   color: #000;
