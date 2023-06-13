@@ -369,6 +369,26 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 </p></center>
 
+<style>
+.center {
+  margin: auto;
+  width: 20%;
+  text-align: center;
+  border:2px solid darkorange;
+  color: #000;
+  height: auto;
+  padding: 0px;
+  border-radius: 4px;
+  background-color: #EFC9BF;
+  margin-top: 6px;
+  min-width: 150px;
+}
+</style>
+
+<div class="center"><center><h3><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation">APPLY by June 30th</a></h3></center></div>
+<br>
+<hr>
+
 ---
 
 <center><h2>The Community Grants Program is made possible by these generous organizations:</h2></center>
