@@ -135,11 +135,11 @@ The Security Fellow will have the opportunity to research and implement detectio
 <center><style>
   .bordered4 {
     margin: 10px; 
-    width: 600px;
+    width: 100%;
     max-width: 100%;
     text-align: left;
     color: #000000;
-    height: 180px;
+    height: 230px;
     padding: 10px;
     border: 1px solid lightorange;
     border-radius: 6px;
@@ -149,18 +149,18 @@ The Security Fellow will have the opportunity to research and implement detectio
 
 <div class="bordered4">
 <p><u>Infrastructure Fellowship</p></u>
-<p>The Infrastructure Fellow will be responsible for developing a comprehensive understanding of the underlying infrastructure supporting the Rust language. Specific tasks include updating the infrastructure monitoring setup and optimizing the CI (Continuous Integration) process for rust-lang to enhance its efficiency. By actively working on these aspects, the Infrastructure Fellow will play a vital role in ensuring a robust infrastructure and streamlined development workflow for the Rust language.</p><p>The Infrastructure Fellow will receive mentorship from <a href="https://github.com/jdno">Jan David Nose</a>, Infrastructure Engineer at the Rust Foundation.</p></div>
+<p>The Infrastructure Fellow will be responsible for developing a comprehensive understanding of the underlying infrastructure supporting the Rust language. Specific tasks include updating the infrastructure monitoring setup and optimizing the CI (Continuous Integration) process for rust-lang to enhance its efficiency. By actively working on these aspects, the Infrastructure Fellow will play a vital role in ensuring a robust infrastructure and streamlined development workflow for the Rust language.</p><p>Paired Mentor: <a href="https://github.com/jdno">Jan David Nose</a>, Rust Foundation Infrastructure Engineer.</p></div>
 
 </div>
 
 <center><style>
   .bordered5 {
-    margin: 10px;
-    width: 600px;
+    margin: 10px; 
+    width: 100%;
     max-width: 100%;
     text-align: left;
     color: #000000;
-    height: 180px;
+    height: 230px;
     padding: 10px;
     border: 1px solid lightorange;
     border-radius: 6px;
@@ -170,7 +170,7 @@ The Security Fellow will have the opportunity to research and implement detectio
 
 <div class="bordered5">
 <p><u>Compiler Fellowship</p></u>
-<p>The Compiler Fellow will The Compiler Fellow will develop a comprehensive understanding of the Rust compiler and develop the skills and experience needed to become an active contributor to the compiler work.</p><p>The Compiler Fellow will receive mentorship from <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Software Engineer at the Rust Foundation.</p></div>
+<p>The Compiler Fellow will The Compiler Fellow will develop a comprehensive understanding of the Rust compiler and develop the skills and experience needed to become an active contributor to the compiler work.</p><p>Paired Mentor: <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Rust Foundation Software Engineer.</p></div>
 ---
 
 <center><h2>More Information</h2></center>
