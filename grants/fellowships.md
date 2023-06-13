@@ -67,14 +67,14 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 <br>
 
 <style>
-.detail1 {
+.detail1, .detail3, .detail5, .detail7, .detail9 {
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
   vertical-align: middle;
   background-color: #D9D9D9
 }
-.detail2 {
+.detail2, .detail4, .detail6, .detail8 {
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
@@ -84,12 +84,42 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 </style>
 
 <div class="detail1">
-<p>Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community</p>
+<p>Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p>
 
 </div>
 <div class="detail2">
 <p>Applicants in 2023 will have the opportunity to either select a self-directed or a mentored role for their Fellowship year.</p>
 </div>
+
+</div>
+<div class="detail3">
+<p>Fellowships are intended to support work RFFs are already carrying out. They are not intended to add more work to their plate.</p>
+</div>
+
+<div class="detail4">
+<p>Mentored roles pair RFFs with an expert in the Rust community to help develop their skills and experience in a chosen focus area.</p>
+</div>
+
+<div class="detail5">
+<p>Fellowships do not come with special Rust Project privilege - RFFs will not automatically become members of Project Teams or Working Groups.</p>
+</div>
+
+<div class="detail6">
+<p>RFFs *will not* be required to set and meet specific milestones.</p>
+</div>
+
+<div class="detail7">
+<p>Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p>
+
+</div>
+
+<div class="detail8">
+<p>At the end of the Fellowship year, RFFs will be asked to write a blogdetailing their experiences and achievements for possible publication on our website.</p>
+
+</div>
+
+<div class="detail9">
+<p>All RFFs will be required to adhere to the Rust Foundation’s [Code of Conduct](/policies/code-of-conduct), which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p>
 
 </style>
 
