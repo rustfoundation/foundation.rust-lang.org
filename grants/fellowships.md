@@ -34,7 +34,7 @@ tags:
 </style>
 
 <div class="center"><center><h3><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation applicationLink1desc: Apply for a Rust Foundation Fellowship">APPLY by June 30th</a></h3></center></div>
-
+<br>
 <hr>
 
 <table>
