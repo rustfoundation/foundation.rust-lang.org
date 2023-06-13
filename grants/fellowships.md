@@ -100,13 +100,13 @@ tags:
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
-  vertical-align: middle;
+  vertical-align: top;
 }
 .detail2, .detail4, .detail6, .detail8 {
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
-  vertical-align: middle;
+  vertical-align: top;
   }
 </style>
 
