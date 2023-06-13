@@ -39,7 +39,11 @@ tags:
 <div class="center"><center><h3><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation applicationLink1desc: Apply for a Rust Foundation Fellowship">APPLY by June 30th</a></h3></center></div>
 
 <hr>
-<table><center><table border="”2″"><tbody><tr><th colspan="2"><center><h3>2023 Application Dates</h3></center></th></tr></tbody><tr><u>Application window:</u> Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</tr><tr><u>Fellow selections:</u> Wednesday, July 6th, 2023.</tr><tr><u>Applicant notifications:</u> Friday, July 7th, 2023.</tr><tr><u>Fellowship year begins:</u> Monday, July 24, 2023.</tr></div></center></table>
+
+<center><table><table border="”2″"><th colspan="2"><h3>2023 Application Dates</h3></center></th>
+
+<center><table><table border="”2″"><th colspan="2"><h3>2023 Application Dates</h3></center></th>
+<tr><u>Application window:</u> Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</tr><tr><u>Fellow selections:</u> Wednesday, July 6th, 2023.</tr><tr><u>Applicant notifications:</u> Friday, July 7th, 2023.</tr><tr><u>Fellowship year begins:</u> Monday, July 24, 2023.</tr></div></center></table>
 
 
 
