@@ -118,7 +118,7 @@ The Security Fellow will have the opportunity to research and implement detectio
     max-width: 100%;
     text-align: left;
     color: #000000;
-    height: 345px;
+    height: 400px;
     padding: 10px;
     border: 1px solid lightorange;
     border-radius: 6px;
