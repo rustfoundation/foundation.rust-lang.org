@@ -71,7 +71,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
   display: inline-block;
   padding: 10px 10px;
   margin: auto;
-  vertical-align: middle;
+  vertical-align: top;
   
 } 
 
@@ -79,7 +79,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
   display: inline-block;
   padding: 10px 10px;
   margin: auto;
-  vertical-align: middle;
+  vertical-align: top;
   
 } 
   
