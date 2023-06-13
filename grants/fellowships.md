@@ -208,7 +208,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 <style>
 .details {
   text-align: left;
-  margin: 20px;
+  margin: 100px;
   }
     </style>
     
