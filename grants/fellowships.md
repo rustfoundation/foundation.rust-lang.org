@@ -86,7 +86,7 @@ tags:
   <center><h3> A monthly stipend of $1,000 USD per month for 12 months.</h3>
   </div>
   <div class="box9" style="background-color:#EAA681">
-  <center><h3>An allowance of up to $2,000 for the Fellowship year to support travel to relevant and useful industry events</h3>
+  <center><h3>An allowance of up to $2,000 for the Fellowship year to support travel to relevant Rust events</h3>
   </div>
   <div class="box9" style="background-color:#F5D7C5">
   <center><h3>Up to $2,000 towards training and skills development.</h3>
