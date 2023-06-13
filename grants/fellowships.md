@@ -67,7 +67,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 <br>
 
 <style>
-.detail1, .detail3, .detail5, .detail7, {
+.detail1, .detail3, .detail5, .detail7, .detail9 {
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
@@ -114,8 +114,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 </div>
 
 <div class="detail8">
-<p>All RFFs will be required to adhere to the Rust Foundation’s <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Code of Conduct</a>, which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p>
-</div>
+<p>All RFFs will be required to adhere to the Rust Foundation’s <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Code of Conduct</a>"https://foundation.rust-lang.org/policies/code-of-conduct/", which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
 
 </style>
 
