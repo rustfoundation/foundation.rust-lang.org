@@ -132,8 +132,6 @@ tags:
 
 </p></center>
 
-<ul class="grant"></ul>
-
 ---
 
 <center><h2>The Community Grants Program is made possible by these generous organizations:</h2></center>
