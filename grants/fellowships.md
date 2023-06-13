@@ -105,7 +105,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 </div>
 
 <div class="detail6">
-<p>RFFs *will not* be required to set and meet specific milestones.</p>
+<p>RFFs *will not* be required to set and meet specific milestones. At the end of the program, RFFs *will* be asked to write a blog detailing their experience for possible publication on our website</p>
 </div>
 
 <div class="detail7">
@@ -113,13 +113,8 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 
 </div>
 
-<div class="detail8">
-<p>At the end of the Fellowship year, RFFs will be asked to write a blogdetailing their experiences and achievements for possible publication on our website.</p>
-
-</div>
-
 <div class="detail9">
-<p>All RFFs will be required to adhere to the Rust Foundation’s [Code of Conduct](/policies/code-of-conduct), which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p>
+<p>All RFFs will be required to adhere to the Rust Foundation’s [Code of Conduct](/policies/code-of-conduct), which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
 
 </style>
 
