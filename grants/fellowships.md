@@ -237,7 +237,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 </div>
 
-<div><center><p><i>All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a></i></p></div><center>.
+<div><center><p><i>All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a>.</i></p></div><center>.
 
 
 ---
