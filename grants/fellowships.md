@@ -28,7 +28,7 @@ tags:
 
 
 
-<div><center><h2>Program Details</h2></center> <style>
+<div><center><h2>Program Details</h2></center><style>
 .detail1, .detail3, .detail5, .detail7, .detail9 {
   display: inline-block;
   padding: 10px 10px;
