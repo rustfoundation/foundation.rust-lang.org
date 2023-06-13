@@ -20,7 +20,6 @@ tags:
 <br>The Rust Foundation Fellowship program exists to support and acknowledge active members of the Rust programming language community who generously contribute their time and expertise on a voluntary basis. These grants reward individuals who have helped make Rust what it is today and are key to its future success.</br>
 <br>Rust Foundation Fellows are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the Fellowship year, funding for career development, and access to mentorship opportunities.</br>
 <br>
-<hr>
 <br>
 <span style="background-color:#F5D7C5">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span><br>
 
@@ -40,6 +39,8 @@ tags:
 </style>
 <div class="bordered"><center><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center></div>
+
+<hr>
 
 <center><TABLE BORDER=”2″ CELLSPACING=”10″>
 <th colspan="2"><center><h3>Important Dates</h3></th></center>
