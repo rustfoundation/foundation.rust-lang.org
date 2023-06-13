@@ -62,7 +62,6 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 
 </style>
 <br>
-<hr>
 <div>
 <center><h2>Grant Categories</h2></center>
 <br>
