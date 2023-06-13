@@ -63,43 +63,32 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 </style>
 <br>
 <div>
-<center><h2>Grant Categories</h2></center>
+<center><h2>Program Details</h2></center>
 <br>
 
-<center><style>
-  .bordered2 {
-    margin: 10px; 
-    width: 600px;
-    max-width: 100%;
-    text-align: left;
-    color: #000000;
-    height: 230px;
-    padding: 10px;
-    border: 1px solid lightorange;
-    border-radius: 6px;
-    background-color: #bab7c8
+<style>
+.parent {
+  margin: 1px;
+  padding: 2px 2px;
+  text-align: center;
+}
+.detail1 {
+  display: inline-block;
+  border: 1px solid orange;
+  border-radius: 6px;
+  padding: 1px 1px;
+  margin: 5px;
+  vertical-align: middle;
+  background-color: #D9D9D9
   }
 </style>
 
-<div class="bordered2">
-<p><u>Rust Foundation Fellowships</p></u>
-<p>Stipends of $1,000 per month, plus a travel and training budget, granted to up to 12 individuals who are either already contributing to the Rust community or who have Rust experience and a high potential to benefit the community through their contributions.</p><a href="/grants/fellowships/" style="color:#000000;">>> Learn More & Apply</a></center>
+<div class="detail1">
+<p>Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to positively impact the Rust language community</p>r>
 
 </div>
 
-<center><style>
-  .bordered3 {
-    margin: 10px; 
-    width: 600px;
-    max-width: 100%;
-    text-align: left;
-    color: #000000;
-    height: 230px;
-    padding: 10px;
-    border: 1px solid lightorange;
-    border-radius: 6px;
-    background-color: #D9D9D9
-  }
+<style>
 </style>
 
 <div class="bordered3">
