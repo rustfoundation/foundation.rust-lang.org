@@ -168,6 +168,39 @@ The Infrastructure Fellow will be responsible for developing a comprehensive und
 <p><u><h3><center>Compiler Fellowship</h3></p></u></center>
 The Compiler Fellow will develop a comprehensive understanding of the Rust compiler and develop the skills and experience needed to become an active contributor to the compiler work.</p><p>Paired Mentor: <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Rust Foundation Software Engineer.</p></div>
 
+<div>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who Can Join?</h3>
+
+<style>
+.who1, .who3, .who5, .who7, .who9 {
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 20px;
+  vertical-align: middle;
+}
+.who2, .who4, .who6, .who8 {
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 20px;
+  vertical-align: middle;
+  }
+</style><div class="who1"><p>* The Rust Foundation Fellowships application is open to anyone who will be over the age of 18 at the time of the grant award.</p></div>
+
+<div class="who2"><p>* We welcome applications from prospective RFFs with different backgrounds from all over the world.</p></div></div>
+
+<div class="who3"><p>* Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with members of the Project Teams, Rust Project Working Groups, and the Foundation.</p></div>
+
+<div class="who4"><p>* Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.</p></div>
+
+<div class="who5"><p>* Employees of <a href="https://foundation.rust-lang.org/members/">Rust Foundation Member organizations</a> should email us at grants@rustfoundation.org prior to completing an application to verify that being granted a Fellowship would not represent a conflict of interest.</p></div>
+
+<div class="who6"><p>* While we cannot consider applications from those who are paid to work on Rust full-time, we welcome applications from part-time paid Rust contributors.</p></div>
+
+<div class="whol7"><p>* Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p></div>
+
+<div class="who8"><p>* All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a></p></div>.
+
+
 ---
 
 <center><h2>More Information</h2></center>
