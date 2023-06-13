@@ -205,6 +205,42 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 ---
 <center><h2>FAQs</h2></center>
 
+<style>
+.details {
+  overflow: hidden;
+  margin-top: 0.125em;
+  border: 1px solid #dddddd;
+  background: #ffffff;
+  color: #333333;
+  border-radius: 3px;
+}
+
+.details summary {
+  display: block;
+  cursor: pointer;
+  padding: .5em .5em .5em .7em;
+  background: #ededed;
+  color: #2b2b2b;
+  border-radius: 3px 3px 0 0;
+}
+
+.details:not([open]) summary:hover,
+details:not([open]) summary:focus {      
+  background: #f6f6f6;
+  color: #454545;
+}
+
+.details[open] summary {
+  border: 1px solid #003eff;
+  background: #007fff;
+  color: #ffffff;
+}
+
+.details main {
+  padding: 1em 2.2em;
+}
+</style>
+
 <details>
   <summary>How long does the program last?</summary>
   <p>12 months</p>
