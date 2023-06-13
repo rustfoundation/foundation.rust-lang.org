@@ -22,7 +22,7 @@ tags:
 <br>
 <hr>
 <br>
-<span style="background-color:#F5D7C5", align="center">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span><br>
+<span style="background-color:#F5D7C5"><center>&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</center></span><br>
 
 <style>
   .bordered {
