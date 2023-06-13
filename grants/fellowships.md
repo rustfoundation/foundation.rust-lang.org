@@ -113,7 +113,7 @@ tags:
 }
 
   .box3, .box4 {
-  margin: 600px;
+  margin-left: auto;
   vertical-align: middle;
   width: 38%;
   text-align: left;
