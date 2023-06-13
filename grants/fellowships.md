@@ -102,7 +102,7 @@ tags:
   margin: 100px;
   vertical-align: middle;
   width: 38%;
-  text-align: left;
+  text-align: center;
   border:2px solid darkorange;
   color: #000;
   height: 430px;
@@ -116,7 +116,7 @@ tags:
   margin-left: auto;
   vertical-align: middle;
   width: 38%;
-  text-align: left;
+  text-align: center;
   border:2px solid darkorange;
   color: #000;
   height: 430px;
