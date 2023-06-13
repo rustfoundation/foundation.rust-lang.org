@@ -83,7 +83,7 @@ tags:
   <center><p> A monthly stipend of $1,000 USD per month for 12 months.</p>
   </div>
   <div class="box9" style="background-color:#EAA681">
-  <center><p>An allowance of up to $2,000 to support travel to relevant Rust events</p>
+  <center><p>An allowance of up to $2,000 to support travel to relevant Rust events.</p>
   </div>
   <div class="box9" style="background-color:#F5D7C5">
   <center><p>Up to $2,000 towards training and skills development.</p>
@@ -122,7 +122,7 @@ tags:
 
 <div class="detail5"><p>- Fellowships do not come with special Rust Project privilege - RFFs will not automatically become members of Project Teams or Working Groups.</p></div>
 
-<div class="detail6"><p>- RFFs <i>will not</i> be required to set and meet specific milestones. At the end of the program, RFFs <i>will</i> be asked to write a blog detailing their experience for possible publication on our website</p></div>
+<div class="detail6"><p>- RFFs <i>will not</i> be required to set and meet specific milestones. At the end of the program, RFFs <i>will</i> be asked to write a blog detailing their experience for possible publication on our website.</p></div>
 
 <div class="detail7"><p>- Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p></div>
 
@@ -205,7 +205,7 @@ The Infrastructure Fellow will be responsible for developing a comprehensive und
 
 <div class="bordered5">
 <p><u><h3><center>Compiler Fellowship</h3></p></u></center>
-The Compiler Fellow will develop a comprehensive understanding of the Rust compiler and develop the skills and experience needed to become an active contributor to the compiler work.</p><p>Mentor: the <a href="https://www.rust-lang.org/governance/teams/compiler/">Rust Compiler Team</a>.</p></div>
+The Compiler Fellow will develop a comprehensive understanding of the Rust compiler and develop the skills and experience needed to become an active contributor to the compiler work.</p><p>Paired Mentor: the <a href="https://www.rust-lang.org/governance/teams/compiler/">Rust Compiler Team</a>.</p></div>
 
 <div>
 <br>
@@ -238,7 +238,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 </div>
 
-<div><center><p><i>All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a>.</i></p></div><center>.
+<div><center><p><i>All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a>.</i></p></div><center>
 
 
 ---
