@@ -251,6 +251,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
   
 .details p {
   margin-bottom: 1em;
+  line-height: normal;
 }
     </style>
     
