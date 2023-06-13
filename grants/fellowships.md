@@ -30,7 +30,6 @@ tags:
 
 .flex-child {
     flex: 1;
-    border: 2px solid yellow;
 }  
 
 .flex-child:first-child {
@@ -40,7 +39,7 @@ tags:
 
 <div class="flex-container">
 
-  <div class="flex-child c2a">
+  <div class="first-child">
   <span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span><br></div>
   <style>
   .bordered {
