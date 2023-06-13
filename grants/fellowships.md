@@ -61,6 +61,7 @@ tags:
 <div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><center><h3>APPLY</h3></a></center></div>
 <div class="flex-child dates">
+<div class="second-child">
   <TABLE BORDER=”2″ CELLSPACING=”10″ text-align="left">
 <th colspan="2"><h3>Important Dates</h3></th>
     <tbody>
