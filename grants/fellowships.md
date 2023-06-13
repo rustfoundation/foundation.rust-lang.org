@@ -67,17 +67,19 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 <br>
 
 <style>
-.parent {
-  margin: 1px;
-  padding: 2px 2px;
-  text-align: center;
-}
 .detail1 {
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
   vertical-align: middle;
   background-color: #D9D9D9
+}
+.detail2 {
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 20px;
+  vertical-align: middle;
+  background-color: #bab7c8
   }
 </style>
 
@@ -85,6 +87,8 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 <p>Rust Foundation Fellowships support current maintainers of the Rust Project and skilled Rust users with the potential to positively impact the Rust language community</p>
 
 </div>
+<div class="detail2">
+<p>Applicants in 2023 will have the opportunity to either select a self-directed or a mentored role for their Fellowship year.</p>
 
 <style>
 </style>
