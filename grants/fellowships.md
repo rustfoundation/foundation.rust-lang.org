@@ -11,12 +11,16 @@ tags:
 ---
 [⏎ Return to Community Grants Program Main](https://foundation.rust-lang.org/grants)<br>
 
-<center><h1>Rust Foundation Fellowship Program</h1><div>
-<br>The Rust Foundation Fellowship program exists to support and acknowledge active members of the Rust programming language community who generously contribute their time and expertise on a voluntary basis. These grants reward individuals who have helped make Rust what it is today and are key to its future success.
+<center><h1>Rust Foundation Fellowship Program</h1>
+<div>
 <br>
-<br>Rust Foundation Fellows are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the Fellowship year, funding for career development, and access to mentorship opportunities.
+<p>The Rust Foundation Fellowship program exists to support and acknowledge active members of the Rust programming language community who generously contribute their time and expertise on a voluntary basis. These grants reward individuals who have helped make Rust what it is today and are key to its future success.</p>
 <br>
 <br>
+<p>Rust Foundation Fellows are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the Fellowship year, funding for career development, and access to mentorship opportunities.</p>
+<br>
+<br>
+
 <style>
 .center {
   margin: auto;
@@ -30,7 +34,12 @@ tags:
   background-color: #EFC9BF;
   margin-top: 6px;
 }
-</style><div class="center"><center><h3><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation applicationLink1desc: Apply for a Rust Foundation Fellowship">APPLY by June 30th</a></h3></center></div><hr /><center><table border="”2″"><tbody><tr><th colspan="2"><center><h3>2023 Application Dates</h3></center></th></tr></tbody></table></center> <u>Application window:</u> Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT). <u>Fellow selections:</u> Wednesday, July 6th, 2023. <u>Applicant notifications:</u> Friday, July 7th, 2023. <u>Fellowship year begins:</u> Monday, July 24, 2023.</div></div></center>
+</style>
+
+<div class="center"><center><h3><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation applicationLink1desc: Apply for a Rust Foundation Fellowship">APPLY by June 30th</a></h3></center></div>
+
+<hr>
+<center><table border="”2″"><tbody><tr><th colspan="2"><center><h3>2023 Application Dates</h3></center></th></tr></tbody></table></center> <u>Application window:</u> Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT). <u>Fellow selections:</u> Wednesday, July 6th, 2023. <u>Applicant notifications:</u> Friday, July 7th, 2023. <u>Fellowship year begins:</u> Monday, July 24, 2023.</div></div></center>
 
 
 
