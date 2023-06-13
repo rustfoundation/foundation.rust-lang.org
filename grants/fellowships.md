@@ -55,7 +55,6 @@ tags:
 }
 </style>
 <br>
-<br>
 <div class="float-container">
 <center><div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center></div></center>
