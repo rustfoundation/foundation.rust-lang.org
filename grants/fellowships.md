@@ -25,7 +25,7 @@ tags:
 .center {
   margin left: auto;
   margin right: auto;
-  width: 150px;
+  width: 175px;
   text-align: center;
   border:2px solid darkorange;
   color: #000;
