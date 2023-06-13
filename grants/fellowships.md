@@ -106,7 +106,7 @@ tags:
   margin-top: 6px;
 }
   .type2 {
-  margin: 900px;
+  margin: 700px;
   vertical-align: middle;
   width: 38%;
   text-align: left;
