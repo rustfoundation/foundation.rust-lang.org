@@ -37,7 +37,7 @@ tags:
 </style>
 <div class="center"><center><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY by June 30th</h3></a></center></div>
-
+<br>
 <hr>
 
 <center><TABLE BORDER=”2″ CELLSPACING=”10″>
@@ -70,7 +70,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 .heading1 {
   display: inline-block;
   padding: 10px 10px;
-  margin: 20px;
+  margin: auto;
   vertical-align: middle;
   
 } 
@@ -78,7 +78,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 .heading2 {
   display: inline-block;
   padding: 10px 10px;
-  margin: 20px;
+  margin: auto;
   vertical-align: middle;
   
 } 
