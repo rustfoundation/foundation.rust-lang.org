@@ -99,7 +99,7 @@ tags:
     max-width: 100%;
     text-align: left;
     color: #000000;
-    height: 230px;
+    height: 300px;
     padding: 10px;
     border: 1px solid lightorange;
     border-radius: 6px;
@@ -137,7 +137,7 @@ The crates.io Fellow will have the opportunity to develop a comprehensive unders
     max-width: 100%;
     text-align: left;
     color: #000000;
-    height: 150px;
+    height: 300px;
     padding: 10px;
     border: 1px solid lightorange;
     border-radius: 6px;
@@ -156,7 +156,7 @@ The Infrastructure Fellow will be responsible for developing a comprehensive und
     max-width: 100%;
     text-align: left;
     color: #000000;
-    height: 215px;
+    height: 300px;
     padding: 10px;
     border: 1px solid lightorange;
     border-radius: 6px;
