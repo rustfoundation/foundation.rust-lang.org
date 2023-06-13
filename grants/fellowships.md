@@ -248,12 +248,16 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
   text-align: left;
   margin: 100px;
   }
+  
+.details p {
+  margin-bottom: 1em;
+}
     </style>
     
   <div class="details">
   <details>
   <summary>How long does the program last?</summary>
-  <p>12 months</p>
+  <p>12 months.</p>
 </details>
 
 <details>
