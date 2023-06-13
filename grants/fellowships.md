@@ -114,7 +114,7 @@ The Security Fellow will have the opportunity to research and implement detectio
 <center><style>
   .bordered3 {
     margin: 10px; 
-    width: 600px;
+    width: 100%;
     max-width: 100%;
     text-align: left;
     color: #000000;
@@ -128,7 +128,7 @@ The Security Fellow will have the opportunity to research and implement detectio
 
 <div class="bordered3">
 <p><u>Crates.io Fellowship</p></u>
-<p>The crates.io Fellow will have the opportunity to develop a comprehensive understanding of crates.io and focus on enhancing its search experience. The crates.io Fellow’s objective will be to explore possible improvements to the crate search experience, such as incorporating additional metrics for crates and leveraging them to prioritize search results. By working on these enhancements, the crates.io Fellow will contribute to optimizing the search functionality on crates.io, thus improving the overall user experience.</p><p>The Crates.io Fellow will receive mentorship from <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Software Engineer at the Rust Foundation.</p></div>
+<p>The crates.io Fellow will have the opportunity to develop a comprehensive understanding of crates.io and focus on enhancing its search experience. The crates.io Fellow’s objective will be to explore possible improvements to the crate search experience, such as incorporating additional metrics for crates and leveraging them to prioritize search results. By working on these enhancements, the crates.io Fellow will contribute to optimizing the search functionality on crates.io, thus improving the overall user experience.</p><p>Paired Mentor: <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Rust Foundation Software Engineer.</p></div>
 
 </div>
 
