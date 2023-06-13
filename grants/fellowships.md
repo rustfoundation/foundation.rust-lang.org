@@ -46,35 +46,8 @@ tags:
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center></div></center>
 
   </div>
-  
-  <div class="flex-child green">
-    Flex Column 2
-  </div>
-  
-</div>
-<div class="flex-child c2a"><br>
-<style>
-  .bordered {
-    width: 175px;
-    max-width: 100%;
-    text-align: center;
-    border:2px solid darkorange;
-    color: #000;
-    height: 55px;
-    padding: 0px;
-    border-radius: 4px;
-    background-color: #EFC9BF;
-    margin-top: 10px;
-}
-</style>
-<br>
-<div class="flex-container">
-<center><div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
-applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center></div></center>
-<br>
-  </div>
-<div class="flex-container">
-<div class="flex-child dates"><TABLE BORDER=”2″ CELLSPACING=”10″ text-align="left">
+  <div class="flex-container">
+  <div class="flex-child dates"><TABLE BORDER=”2″ CELLSPACING=”10″ text-align="left">
 <th colspan="2"><h3>Important Dates</h3></th>
     <tbody>
         <td><u>Application window:</u></td>
@@ -96,6 +69,10 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
   </div>
 <br>
 <hr>
+  </div>
+  
+</div>
+
 <div>
 <center><h2>Grant Categories</h2></center>
 <br>
