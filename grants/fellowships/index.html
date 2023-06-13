@@ -113,29 +113,41 @@
   box-sizing: border-box;
 }
 
-.box9 {
-  display: table-cell;
+/* Create three equal columns that floats next to each other */
+.benefit {
+  float: left;
   width: 33.33%;
-  padding: 50px;
+  padding: 10px;
 }
 
-.clearfix::benefits {
+/* Clear floats after the columns */
+.benefits:after {
   content: "";
-  clear: both;
   display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .benefit {
+    width: 100%;
+  }
 }
 </style>
 <div class="benefits">
-  <div class="box9" style="background-color:#F5D7C5">
-  <center><p> A monthly stipend of $1,000 USD per month for 12 months.</p>
+  <div class="benefit">
+    <h3>Stipend</h3>
+    <p>A monthly stipend of $1,000 USD per month for 12 months.</p>
   </div>
-  <div class="box9" style="background-color:#EAA681">
-  <center><p>An allowance of up to $2,000 to support travel to relevant Rust events.</p>
+  <div class="benefit">
+    <h3>Travel Budget</h3>
+    <p>An allowance of up to $2,000 to support travel to relevant Rust events.</p>
   </div>
-  <div class="box9" style="background-color:#F5D7C5">
-  <center><p>Up to $2,000 towards training and skills development.</p>
+  <div class="benefit">
+    <h3>Training Allowance</h3>
+    <p>Up to $2,000 towards training and skills development.</p>
   </div>
-  </div>
+</div>
 <br>
 &nbsp;
 <br>
@@ -168,7 +180,7 @@
 <br>
 <style>
   .bordered2 {
-    margin: 10px; 
+    margin: 10px;
     width: 100%;
     max-width: 100%;
     text-align: left;
@@ -185,7 +197,7 @@
 The Security Fellow will have the opportunity to research and implement detection measures in Ecosystem Scanning, including identifying malicious code that can occur in crates, provenance detection, and code health scans (e.g. miri, audit). The Security Fellow will also have the opportunity to contribute to the Penetration Test of the Rust Project, which may involve assessing the security of various components, from the Project in general to specific projects or infrastructure components. This work could encompass penetration testing of systems and conducting code reviews for critical components like CI/CD, bors, rustwide, playground, and more.</p><p>Paired Mentor: <a href="https://github.com/walterhpearce">Walter Pearce</a>, Rust Foundation Security Engineer.</p></div>
 <style>
   .bordered3 {
-    margin: 10px; 
+    margin: 10px;
     width: 100%;
     max-width: 100%;
     text-align: left;
@@ -202,7 +214,7 @@ The Security Fellow will have the opportunity to research and implement detectio
 The crates.io Fellow will have the opportunity to develop a comprehensive understanding of crates.io and focus on enhancing its search experience. The crates.io Fellow’s objective will be to explore possible improvements to the crate search experience, such as incorporating additional metrics for crates and leveraging them to prioritize search results. By working on these enhancements, the crates.io Fellow will contribute to optimizing the search functionality on crates.io, thus improving the overall user experience.</p><p>Paired Mentor: <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Rust Foundation Software Engineer.</p></div>
 <style>
   .bordered4 {
-    margin: 10px; 
+    margin: 10px;
     width: 100%;
     max-width: 100%;
     text-align: left;
@@ -219,7 +231,7 @@ The crates.io Fellow will have the opportunity to develop a comprehensive unders
 The Infrastructure Fellow will be responsible for developing a comprehensive understanding of the underlying infrastructure supporting the Rust language. Specific tasks include updating the infrastructure monitoring setup and optimizing the CI (Continuous Integration) process for rust-lang to enhance its efficiency. By actively working on these aspects, the Infrastructure Fellow will play a vital role in ensuring a robust infrastructure and streamlined development workflow for the Rust language.</p><p>Paired Mentor: <a href="https://github.com/jdno">Jan David Nose</a>, Rust Foundation Infrastructure Engineer.</p></div>
 <style>
   .bordered5 {
-    margin: 10px; 
+    margin: 10px;
     width: 100%;
     max-width: 100%;
     text-align: left;
@@ -265,7 +277,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
   text-align: left;
   margin: 100px;
   }
-  
+
 .details p {
   margin-bottom: 1em;
   line-height: normal;
@@ -382,6 +394,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 <center><ul class="donorslist"><li><a href="https://www.activision.com/"><img src="/img/grants/activision.png" /></a></li><li><a href="https://aws.amazon.com/"><img src="/img/member/aws.png" /></a></li><li><a href="https://www.cargurus.com/"><img src="/img/grants/cargurus.png" /></a></li><li><a href="https://www.frontendmasters.com/"><img src="/img/grants/frontendmasters.png" /></a></li><li><a href="https://google.com/"><img src="/img/member/google.png" /></a></li><li><a href="https://www.huawei.com/"><img src="/img/member/huawei.png" /></a></li><li><a href="https://replit.com/"><img src="/img/grants/replit.png" /></a></li><li><a href="https://www.tag1consulting.com/"><img src="/img/member/tag1.png" /></a></li><li><a href="https://zama.ai/"><img src="/img/member/zama.png" /></a></li></ul></center>
 <center><p>... and by the companies and individuals who contribute through our <a href="https://github.com/sponsors/rustfoundation">GitHub Sponsors</a> page.</p></center>
 <center><p><i>If your organization is interested in supporting the future of Rust’s talent and innovation through the Community Grants Program, please email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a>. Donations in any amount are greatly appreciated.</i></p></center>
+
     
     
     
