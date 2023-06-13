@@ -169,6 +169,7 @@ The Infrastructure Fellow will be responsible for developing a comprehensive und
 The Compiler Fellow will develop a comprehensive understanding of the Rust compiler and develop the skills and experience needed to become an active contributor to the compiler work.</p><p>Paired Mentor: <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Rust Foundation Software Engineer.</p></div>
 
 <div>
+<br>
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who Can Join?</h3>
 
 <style>
