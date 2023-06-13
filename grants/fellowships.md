@@ -48,7 +48,6 @@ tags:
 <br>
 <center><div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center></div></center>
-  
   <div class="float-child">
   <div class="blue"><TABLE BORDER=”2″ CELLSPACING=”10″ text-align="left">
 <th colspan="2"><h3>Important Dates</h3></th>
@@ -70,19 +69,6 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
   </tr>
 </table></div>
   </div>
-
-<style>.
-.float-container {
-    border: 3px solid #fff;
-    padding: 20px;
-}
-
-.float-child {
-    width: 50%;
-    float: left;
-    padding: 20px;
-}  
-</style>
 </div class="float-container">
 </div class="float-child">
 <br>
