@@ -109,7 +109,7 @@ tags:
 
 <div class="bordered2">
 <p><u><h3><center>Security Fellowship</h3></p></u></center>
-The Security Fellow will have the opportunity to research and implement detection measures in Ecosystem Scanning, including identifying malicious code that can occur in crates, provenance detection, and code health scans (e.g. miri, audit). The Security Fellow will also have the opportunity to contribute to the Penetration Test of the Rust Project, which may involve assessing the security of various components, from the Project in general to specific projects or infrastructure components. This work could encompass penetration testing of systems and conducting code reviews for critical components like CI/CD, bors, rustwide, playground, and more.</p><p>The Security Fellow will receive mentorship from <a href="https://github.com/walterhpearce">Walter Pearce</a>, Security Engineer at the Rust Foundation.</p></div>
+The Security Fellow will have the opportunity to research and implement detection measures in Ecosystem Scanning, including identifying malicious code that can occur in crates, provenance detection, and code health scans (e.g. miri, audit). The Security Fellow will also have the opportunity to contribute to the Penetration Test of the Rust Project, which may involve assessing the security of various components, from the Project in general to specific projects or infrastructure components. This work could encompass penetration testing of systems and conducting code reviews for critical components like CI/CD, bors, rustwide, playground, and more.</p><p>This Fellow will receive mentorship from <a href="https://github.com/walterhpearce">Walter Pearce</a>, Security Engineer at the Rust Foundation.</p></div>
 
 <center><style>
   .bordered3 {
