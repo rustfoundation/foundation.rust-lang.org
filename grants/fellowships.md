@@ -42,7 +42,7 @@ tags:
   padding: 0px;
   border-radius: 4px;
   background-color: #EFC9BF;
-  margin-top: 10px;
+  margin-top: 6px;
 }
 </style>
 <div class="child1"><span style="background-color:#F5D7C5">&nbsp;The 2023 Fellowship application is now</span><br><span style="background-color:#F5D7C5">open through midnight PDT on June 30!&nbsp;</span><br>
