@@ -93,7 +93,7 @@ tags:
     <p>A monthly stipend of $1,000 USD per month for 12 months.</p>
   </div>
   <div class="benefit">
-    <h3>Travel Allowance</h3>
+    <h3>Travel Budget</h3>
     <p>An allowance of up to $2,000 to support travel to relevant Rust events.</p>
   </div>
   <div class="benefit">
