@@ -64,17 +64,8 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 
   </div>
   
-  <div class="flex-child green">
-    Flex Column 2
-  </div>
-  
-</div>
-<div class="flex-child button"><br>
-
-</style>
-  </div>
-<div class="flex-container">
-<div class="flex-child dates"><TABLE BORDER=”2″ CELLSPACING=”10″ text-align="left">
+  <div class="flex-child dates">
+  <TABLE BORDER=”2″ CELLSPACING=”10″ text-align="left">
 <th colspan="2"><h3>Important Dates</h3></th>
     <tbody>
         <td><u>Application window:</u></td>
@@ -93,7 +84,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
     <td>Monday, July 24, 2023.</td>
   </tr>
 </table></div>
-  </div>
+</style>
 <br>
 <hr>
 <div>
