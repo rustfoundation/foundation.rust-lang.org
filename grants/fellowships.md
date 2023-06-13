@@ -133,13 +133,13 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
   margin-top: 6px;
 }
   .type2 {
-  margin: 20px;
-  width: 50%;
+  margin: 400px;
+  width: 38%;
   text-align: left;
   border:2px solid darkorange;
   color: #000;
-  height: 400px;
-  padding: 50px;
+  height: 430px;
+  padding: 10px;
   border-radius: 4px;
   background-color: #EFC9BF;
   margin-top: 6px;
@@ -149,8 +149,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 <div class="type1"><center><h3>Security Fellowship</h3></a></center><p>The Security Fellow will have the opportunity to research and implement detection measures in Ecosystem Scanning, including identifying malicious code that can occur in crates, provenance detection, and code health scans (e.g. miri, audit). The Security Fellow will also have the opportunity to contribute to the Penetration Test of the Rust Project, which may involve assessing the security of various components, from the Project in general to specific projects or infrastructure components. This work could encompass penetration testing of systems and conducting code reviews for critical components like CI/CD, bors, rustwide, playground, and more.</p><p>The Security Fellow will receive mentorship from <a href="https://github.com/walterhpearce">Walter Pearce</a>, Security Engineer at the Rust Foundation.</p></div>
 </style>
 
-<div class="type2">
-<p>* Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p></div>
+<div class="type2"><center><h3>Crates.io Fellowship</h3></a></center><p>The crates.io Fellow will have the opportunity to develop a comprehensive understanding of crates.io and focus on enhancing its search experience. The crates.io Fellow’s objective will be to explore possible improvements to the crate search experience, such as incorporating additional metrics for crates and leveraging them to prioritize search results. By working on these enhancements, the crates.io Fellow will contribute to optimizing the search functionality on crates.io, thus improving the overall user experience.</p><p>The crates<span>.</span>io Fellow will receive mentorship from <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Software Engineer at the Rust Foundation.</div>
 
 
 
