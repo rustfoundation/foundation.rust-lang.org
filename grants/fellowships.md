@@ -55,15 +55,14 @@ tags:
     margin-top: 10px;
 }
 </style>
-}
-</style>
 <br>
-<div class="float-container">
+<div class="flex-container">
 <center><div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><h3>APPLY</h3></a></center></div></center>
 <br>
   </div>
-<div class="flex-child green"><TABLE BORDER=”2″ CELLSPACING=”10″ text-align="left">
+<div class="flex-container">
+<div class="flex-child dates"><TABLE BORDER=”2″ CELLSPACING=”10″ text-align="left">
 <th colspan="2"><h3>Important Dates</h3></th>
     <tbody>
         <td><u>Application window:</u></td>
