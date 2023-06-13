@@ -9,14 +9,15 @@ date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
 ---
-[⏎ Return to Community Grants Program Main](https://foundation.rust-lang.org/grants)<br>
+[⏎ Return to Community Grants Program Main](https://foundation.rust-lang.org/grants)
 
+<br>
 <center><h1>Rust Foundation Fellowship Program</h1>
 <div>
 <br>
 <p>The Rust Foundation Fellowship program exists to support and acknowledge active members of the Rust programming language community who generously contribute their time and expertise on a voluntary basis. These grants reward individuals who have helped make Rust what it is today and are key to its future success.</p>
 <br>
-<p>Rust Foundation Fellows are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the Fellowship year, funding for career development, and access to mentorship opportunities.</p>
+<p>Rust Foundation Fellows are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the Fellowship year, funding for career development, and access to mentorship opportunities.</p></center>
 <br>
 <style>
 .center {
@@ -59,9 +60,7 @@ tags:
 
 
 
-<div><center><h2>Program Details</h2></center>
-
-<style>
+<div><center><h2>Program Details</h2></center><style>
 .detail1, .detail3, .detail5, .detail7, .detail9 {
   display: inline-block;
   padding: 10px 10px;
