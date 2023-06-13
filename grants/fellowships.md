@@ -23,7 +23,9 @@ tags:
 </div>
 <hr>
 <br>
-<div class="first"><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span><br><style>
+<div class="first"><span style="background-color:#F5D7C5", align="left">&nbsp;The 2023 Fellowship application is now open through midnight PDT on June 30!&nbsp;</span><br>
+
+<style>
   .bordered {
     width: 175px;
     max-width: 100%;
@@ -39,7 +41,8 @@ tags:
 </style>
 <div class="bordered"><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation
 applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#000000;"><center><h3>APPLY</h3></a></center></div>
-<div class="second"><TABLE BORDER=”2″ CELLSPACING=”10″ text-align="left">
+
+<TABLE BORDER=”2″ CELLSPACING=”10″ text-align="left">
 <th colspan="2"><h3>Important Dates</h3></th>
     <tbody>
         <td><u>Application window:</u></td>
@@ -58,22 +61,6 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
     <td>Monday, July 24, 2023.</td>
   </tr>
 </table></div>
-
-<style>{
-    margin: 0;
-    padding: 0;
-}
-.first{
-    width:50vw;
-    height: 100px;
-    float: left;
-    
-}
-
-.second {
-    width: 50vw;
-    height: 100px;
-    float: right;
 
 </style>
 <br>
