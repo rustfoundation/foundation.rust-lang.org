@@ -500,16 +500,28 @@ footer .container {
   width: 10em;
 }
 
-.donor img {
-  width: 9em;
-}
-
 .platinummember img {
   width: 20em;
 }
 
 .goldmember img {
   width: 15em;
+}
+
+.donorslist {
+  text-align: center;
+}
+
+.donorslist li {
+  padding: 1em;
+  display: inline-block;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+}
+
+.donorslist img {
+  width: 9em;
 }
 
 /* Post */

@@ -5,12 +5,54 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2023-06-08T09:30:00Z</updated>
+	<updated>2023-06-13T12:30:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>2023 Rust Foundation Fellowship Application Open Through June 30</title>
+		<link href="https://foundation.rust-lang.org/news/2023-rust-foundation-fellowship-application-open-through-june-30/"/>
+		<updated>2023-06-13T12:30:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/2023-rust-foundation-fellowship-application-open-through-june-30/</id>
+		<content type="html">&lt;img src=&quot;https://foundation.rust-lang.org/img/news/2023-06-13-fellowship-application/fellowship-graphic.png&quot; width=&quot;580&quot; height=&quot;326&quot; alt=&quot;[heading] Our 2023 Fellowship Application is OPEN!  [sub-heading] Rust Foundation Fellowships provide a monthly stipend, events and training funding, and mentorship to experienced Rust contributors and community members.  [call-to-action] Learn more &amp;amp; apply by June 30 @ rustfoundation.org/grants/fellowships&quot; title=&quot;Rust Foundation 2023 Fellowship application is open&quot; /&gt;
+&lt;p&gt;The Rust Foundation is delighted to announce that our Fellowship program is now open to new applicants through June 30 (midnight PDT). We welcome submissions from active contributors to the Rust community and from those who demonstrate the experience and potential to enhance the Rust community.&lt;/p&gt;
+&lt;p&gt;Applicants for our 2023 round will have the opportunity to select a special mentorship opportunity or pursue self-directed work benefitting the Rust Project and ecosystem. Read on for more information about the Community Grants Program, Fellowship experience, and the application. &lt;/p&gt;
+&lt;h3 id=&quot;%3E%3E-apply-for-a-rust-foundation-fellowship-grant&quot;&gt;&lt;a href=&quot;https://app.smarterselect.com/programs/80939-Rust-Foundation&quot;&gt;&lt;strong&gt;&lt;u&gt;&amp;gt;&amp;gt; Apply for a Rust Foundation Fellowship Grant&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/2023-rust-foundation-fellowship-application-open-through-june-30/#%3E%3E-apply-for-a-rust-foundation-fellowship-grant&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;what-are-rust-foundation-fellowships%3F&quot;&gt;&lt;strong&gt;What are Rust Foundation Fellowships?&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/2023-rust-foundation-fellowship-application-open-through-june-30/#what-are-rust-foundation-fellowships%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Rust Foundation Fellowships are a particular type of grant (within our&lt;a href=&quot;https://foundation.rust-lang.org/grants/&quot;&gt;&lt;u&gt;Community Grants Program&lt;/u&gt;&lt;/a&gt;) that provide financial and administrative support and recognition to volunteers who are actively contributing to the Rust community — and to those who demonstrate the experience and potential to enhance the community through their contributions.&lt;/p&gt;
+&lt;p&gt;Our Fellowships span one year and include the following benefits: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A monthly stipend of $1,000 USD per month for 12 months&lt;/li&gt;
+&lt;li&gt;An allowance of up to $2,000 for the Fellowship year to support travel to relevant and useful Rust-focused events.&lt;/li&gt;
+&lt;li&gt;Up to $2,000 towards training and skills development.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;what-happens-during-a-fellowship-year%3F&quot;&gt;&lt;strong&gt;What happens during a Fellowship year? &lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/2023-rust-foundation-fellowship-application-open-through-june-30/#what-happens-during-a-fellowship-year%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The program is designed to financially support individuals to have freedom in directing their own work on the Project over a one-year period and to provide those individuals with complementary resources such as training, networking, and event attendance. Our Fellows are not expected to meet specific milestones, however, they will be asked to provide written updates and meet with members of the Rust Foundation staff team for updates periodically. &lt;/p&gt;
+&lt;h2 id=&quot;what-learning-opportunities-will-be-available-to-rust-foundation-fellows-in-2023%3F&quot;&gt;&lt;strong&gt;What learning opportunities will be available to Rust Foundation Fellows in 2023?&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/2023-rust-foundation-fellowship-application-open-through-june-30/#what-learning-opportunities-will-be-available-to-rust-foundation-fellows-in-2023%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Applicants for our 2023 Fellowship will have the option to select a mentored Fellowship, allowing them to receive expert support from active Rust Project contributors in a specific focus area.  Self-directed work benefitting the Rust ecosystem is also an option. &lt;/p&gt;
+&lt;h3 id=&quot;the-mentored-fellowships-in-2023-are-as-follows%3A&quot;&gt;&lt;strong&gt;The mentored Fellowships in 2023 are as follows:&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/2023-rust-foundation-fellowship-application-open-through-june-30/#the-mentored-fellowships-in-2023-are-as-follows%3A&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Security Fellowship&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://crates.io/&quot;&gt;Crates.io&lt;/a&gt; Fellowship&lt;/li&gt;
+&lt;li&gt;Infrastructure Fellowship&lt;/li&gt;
+&lt;li&gt;Compiler Fellowship&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;where-can-i-learn-more%3F&quot;&gt;&lt;strong&gt;Where can I learn more? &lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/2023-rust-foundation-fellowship-application-open-through-june-30/#where-can-i-learn-more%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Complete information about the Rust Foundation Fellowship program and more application details can be found &lt;a href=&quot;https://foundation.rust-lang.org/grants/fellowships/&quot;&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;You can also read stories from previous members of the Rust Foundation Community Grants Program&lt;a href=&quot;https://foundation.rust-lang.org/tags/grantee%20spotlight/&quot;&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;. &lt;/p&gt;
+&lt;h2 id=&quot;apply-today!&quot;&gt;&lt;strong&gt;Apply today!&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/2023-rust-foundation-fellowship-application-open-through-june-30/#apply-today!&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Click &lt;a href=&quot;https://app.smarterselect.com/programs/80939-Rust-Foundation&quot;&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt; for the Rust Foundation Fellowship grant application, open through midnight PDT on June 30, 2023.  &lt;/p&gt;
+&lt;p&gt;Our team looks forward to reviewing all applications and introducing our latest Fellows soon! &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;the-community-grants-program-is-made-possible-by-these-generous-organizations%3A&quot;&gt;&lt;strong&gt;The Community Grants Program is made possible by these generous organizations:&lt;/strong&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/2023-rust-foundation-fellowship-application-open-through-june-30/#the-community-grants-program-is-made-possible-by-these-generous-organizations%3A&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Rust Foundation Platinum Members: &lt;a href=&quot;https://aws.amazon.com/&quot;&gt;&lt;u&gt;AWS&lt;/u&gt;&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/&quot;&gt;&lt;u&gt;Google&lt;/u&gt;&lt;/a&gt;, and &lt;a href=&quot;https://www.huawei.com/en/?ic_medium=direct&amp;amp;ic_source=surlent&quot;&gt;&lt;u&gt;Huawei&lt;/u&gt;&lt;/a&gt;, Rust Foundation Silver Members &lt;a href=&quot;https://www.tag1consulting.com/&quot;&gt;&lt;u&gt;Tag1&lt;/u&gt;&lt;/a&gt; and &lt;a href=&quot;https://www.zama.ai/&quot;&gt;&lt;u&gt;Zama&lt;/u&gt;&lt;/a&gt; – and finally, &lt;a href=&quot;https://www.activision.com/&quot;&gt;&lt;u&gt;Activision&lt;/u&gt;&lt;/a&gt;, &lt;a href=&quot;https://www.cargurus.com/&quot;&gt;&lt;u&gt;CarGurus&lt;/u&gt;&lt;/a&gt; and &lt;a href=&quot;https://replit.com/&quot;&gt;&lt;u&gt;Replit&lt;/u&gt;&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;If you have a question about the Community Grants Program, or if your organization is interested in supporting this work, feel free to email us at &lt;a href=&quot;mailto:grants@rustfoundation.org&quot;&gt;grants@rustfoundation.org&lt;/a&gt;. &lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Member Spotlight: Traverse Research</title>
