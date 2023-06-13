@@ -81,37 +81,37 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
   }
 </style>
 <div class="detail1">
-<p>Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p>
+<p>* Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p>
 
 </div>
 <div class="detail2">
-<p>Applicants in 2023 will have the opportunity to either select a self-directed or a mentored role for their Fellowship year.</p>
+<p>* Applicants in 2023 will have the opportunity to either select a self-directed or a mentored role for their Fellowship year.</p>
 </div>
 
 </div>
 <div class="detail3">
-<p>Fellowships are intended to support work RFFs are already carrying out. They are not intended to add more work to RFFs' plates.</p>
+<p>* Fellowships are intended to support work RFFs are already carrying out. They are not intended to add more work to RFFs' plates.</p>
 </div>
 
 <div class="detail4">
-<p>Mentored roles pair RFFs with an expert in the Rust community to help develop their skills and experience in a chosen focus area.</p>
+<p>* Mentored roles pair RFFs with an expert in the Rust community to help develop their skills and experience in a chosen focus area.</p>
 </div>
 
 <div class="detail5">
-<p>Fellowships do not come with special Rust Project privilege - RFFs will not automatically become members of Project Teams or Working Groups.</p>
+<p>* Fellowships do not come with special Rust Project privilege - RFFs will not automatically become members of Project Teams or Working Groups.</p>
 </div>
 
 <div class="detail6">
-<p>RFFs *will not* be required to set and meet specific milestones. At the end of the program, RFFs *will* be asked to write a blog detailing their experience for possible publication on our website</p>
+<p>* RFFs *will not* be required to set and meet specific milestones. At the end of the program, RFFs *will* be asked to write a blog detailing their experience for possible publication on our website</p>
 </div>
 
 <div class="detail7">
-<p>Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p>
+<p>* Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p>
 
 </div>
 
 <div class="detail8">
-<p>All RFFs will be required to adhere to the Rust Foundation’s <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Code of Conduct</a>"https://foundation.rust-lang.org/policies/code-of-conduct/", which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
+<p>* All RFFs will be required to adhere to the Rust Foundation’s <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Code of Conduct</a>"https://foundation.rust-lang.org/policies/code-of-conduct/", which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
 
 </style>
 
