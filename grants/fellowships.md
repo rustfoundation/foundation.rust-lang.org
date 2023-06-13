@@ -118,6 +118,31 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 
 </div>
 <h3 style="margin-left: 100px;">Mentored Fellowship Details<h3>
+<style>
+.type1, .type2, {
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 20px;
+  vertical-align: middle;
+  background-color: #BAB7C8
+  text:#000000 ;
+}
+.type3, .type4, {
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 20px;
+  vertical-align: middle
+  background-color: #BAB7C8
+  text:#000000 ;
+  }
+</style>
+
+<div class="type1">
+<p>* Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p></div>
+
+<div class="type2">
+<p>* Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p></div>
+
 
 
 <hr>
