@@ -91,7 +91,7 @@ tags:
   <div class="box9" style="background-color:#F5D7C5">
   <center><h3>Up to $2,000 towards training and skills development.</h3>
   </div>
-  </div>
+  </div></body>
 <br>
 
 <div><center><h2>Program Details</h2></center>
