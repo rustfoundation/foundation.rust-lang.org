@@ -102,6 +102,7 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 
 <div class="heading2">
 <p>Expectations</p></div>
+<br>
 
 <div class="detail1">
 <p>* Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p>
