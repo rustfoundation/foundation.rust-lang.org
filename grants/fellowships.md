@@ -206,8 +206,8 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 <center><h2>FAQs</h2></center>
 
 <details>
-  <summary>Section title</summary>
-  <p>Here is the content!</p>
+  <summary>How long does the program last?</summary>
+  <p>12 months</p>
 </details>
 
 
