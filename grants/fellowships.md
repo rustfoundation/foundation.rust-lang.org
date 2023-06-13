@@ -117,7 +117,8 @@ applicationLink1desc: Apply for a Rust Foundation Fellowship" style="color:#0000
 </style>
 
 </div>
-</section>
+<h3>Mentored Fellowship Details<h3>
+
 
 <hr>
 
