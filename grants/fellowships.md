@@ -128,7 +128,9 @@ tags:
 
 <center><h2>More Information</h2></center>
 
-<p><center>Eligibility and exclusion criteria can be found [here](/grants-eligibility/) | General FAQs about the grants program can be found [here](/grants-faqs/) | Our privacy & data-handling policy can be found [here](/policies/privacy-policy/).</p></center>
+<p><center>Eligibility and exclusion criteria can be found <a href="/grants-eligibility/">here</a>. | General FAQs about the grants program can be found <a href="/grants-faqs/">here</a> | Our privacy & data-handling policy can be found <a href="/policies/privacy-policy/">here</a>
+
+</p></center>
 
 <ul class="grant"></ul>
 
