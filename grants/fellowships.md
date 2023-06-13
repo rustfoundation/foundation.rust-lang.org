@@ -90,6 +90,99 @@ tags:
 <div class="detail8"><p>* All RFFs will be required to adhere to the Rust Foundation’s <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Code of Conduct</a>, which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
 
 ### Mentored Fellowship Details
+<br>
+
+<center><style>
+  .bordered2 {
+    margin: 10px; 
+    width: 600px;
+    max-width: 100%;
+    text-align: left;
+    color: #000000;
+    height: 230px;
+    padding: 10px;
+    border: 1px solid lightorange;
+    border-radius: 6px;
+    background-color: #bab7c8
+  }
+</style>
+
+<div class="bordered2">
+<p><u>Security Fellowship</p></u>
+<p>The Security Fellow will have the opportunity to research and implement detection measures in Ecosystem Scanning, including identifying malicious code that can occur in crates, provenance detection, and code health scans (e.g. miri, audit). The Security Fellow will also have the opportunity to contribute to the Penetration Test of the Rust Project, which may involve assessing the security of various components, from the Project in general to specific projects or infrastructure components. This work could encompass penetration testing of systems and conducting code reviews for critical components like CI/CD, bors, rustwide, playground, and more.</p><p>The Security Fellow will receive mentorship from <a href="https://github.com/walterhpearce">Walter Pearce</a>, Security Engineer at the Rust Foundation.</p></div>
+
+<center><style>
+  .bordered3 {
+    margin: 10px; 
+    width: 600px;
+    max-width: 100%;
+    text-align: left;
+    color: #000000;
+    height: 230px;
+    padding: 10px;
+    border: 1px solid lightorange;
+    border-radius: 6px;
+    background-color: #D9D9D9
+  }
+</style>
+
+<div class="bordered3">
+<p><u>Crates.io Fellowship</p></u>
+<p>The crates.io Fellow will have the opportunity to develop a comprehensive understanding of crates.io and focus on enhancing its search experience. The crates.io Fellow’s objective will be to explore possible improvements to the crate search experience, such as incorporating additional metrics for crates and leveraging them to prioritize search results. By working on these enhancements, the crates.io Fellow will contribute to optimizing the search functionality on crates.io, thus improving the overall user experience.</p><p>The Crates.io Fellow will receive mentorship from <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Software Engineer at the Rust Foundation.</p></div>
+
+</div>
+
+<center><style>
+  .bordered4 {
+    margin: 10px; 
+    width: 600px;
+    max-width: 100%;
+    text-align: left;
+    color: #000000;
+    height: 180px;
+    padding: 10px;
+    border: 1px solid lightorange;
+    border-radius: 6px;
+    background-color: #bab7c8
+  }
+</style>
+
+<div class="bordered4">
+<p><u>Infrastructure Fellowship</p></u>
+<p>The Infrastructure Fellow will be responsible for developing a comprehensive understanding of the underlying infrastructure supporting the Rust language. Specific tasks include updating the infrastructure monitoring setup and optimizing the CI (Continuous Integration) process for rust-lang to enhance its efficiency. By actively working on these aspects, the Infrastructure Fellow will play a vital role in ensuring a robust infrastructure and streamlined development workflow for the Rust language.</p><p>The Infrastructure Fellow will receive mentorship from <a href="https://github.com/jdno">Jan David Nose</a>, Infrastructure Engineer at the Rust Foundation.</p></div>
+
+</div>
+
+<center><style>
+  .bordered5 {
+    margin: 10px;
+    width: 600px;
+    max-width: 100%;
+    text-align: left;
+    color: #000000;
+    height: 180px;
+    padding: 10px;
+    border: 1px solid lightorange;
+    border-radius: 6px;
+    background-color: #D9D9D9;
+  }
+</style>
+
+<div class="bordered5">
+<p><u>Compiler Fellowship</p></u>
+<p>The Compiler Fellow will The Compiler Fellow will develop a comprehensive understanding of the Rust compiler and develop the skills and experience needed to become an active contributor to the compiler work.</p><p>The Compiler Fellow will receive mentorship from <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Software Engineer at the Rust Foundation.</p></div>
+
+
+
+
+
+
+
+
+
+
+
+
 <style>
 .flexparent {
   {
