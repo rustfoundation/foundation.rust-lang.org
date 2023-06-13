@@ -34,7 +34,7 @@ tags:
 }
 .child2 {
   display: inline-block;
-  max-width: 100%;
+  width: 175%;
   text-align: center;
   border:2px solid darkorange;
   color: #000;
