@@ -206,14 +206,10 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 <center><h2>FAQs</h2></center>
 
 <style>
-<div class="content">Hello</div>
-
-.details {
-    margin-top:auto;
-    margin-bottom:auto;
-    text-align:center;
-}
-</style>
+.summary {
+          text-align: left;
+  }
+    </style>
 
 <div><details>
   <summary>How long does the program last?</summary>
