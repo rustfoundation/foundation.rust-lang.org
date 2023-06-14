@@ -1,7 +1,7 @@
 ---
 title: Rust Foundation to Host Inaugural “Rust Global” Event at WasmCon 2023
 byline:
-description: "he Rust Foundation is hosting its inaugural “Rust Global” event on September 6, 2023 – a gathering designed to bring together Rust enterprise users, Rust enthusiasts, and advocates. This first Rust Global event will focus on WebAssembly and will be co-located with WasmCon in the Seattle area.\_"
+description: "The Rust Foundation is hosting its inaugural “Rust Global” event on September 6, 2023 – a gathering designed to bring together Rust enterprise users, Rust enthusiasts, and advocates. \n\nThe first Rust Global event will focus on WebAssembly and will be co-located with WasmCon in the Seattle area.\_"
 date: 2023-06-14T12:30:00Z
 tags:
   - announcement
