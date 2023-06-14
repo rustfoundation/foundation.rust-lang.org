@@ -5,12 +5,35 @@
 	
 	<link href="https://foundation.rust-lang.org/feed/feed.xml" rel="self"/>
 	<link href="https://foundation.rust-lang.org"/>
-	<updated>2023-06-13T12:30:00Z</updated>
+	<updated>2023-06-14T12:30:00Z</updated>
 	<id>https://foundation.rust-lang.org/</id>
 	<author>
 		<name>The Rust Foundation</name>
 		<email>contact@rustfoundation.org</email>
 	</author>
+	
+	<entry>
+		<title>Rust Foundation to Host Inaugural “Rust Global” Event at WasmCon 2023</title>
+		<link href="https://foundation.rust-lang.org/news/rust-foundation-to-host-inaugural-rust-global-event-at-wasmcon-2023/"/>
+		<updated>2023-06-14T12:30:00Z</updated>
+		<id>https://foundation.rust-lang.org/news/rust-foundation-to-host-inaugural-rust-global-event-at-wasmcon-2023/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://foundation.rust-lang.org/&quot;&gt;The Rust Foundation&lt;/a&gt; is pleased to present &lt;a href=&quot;https://events.linuxfoundation.org/rust-global/&quot;&gt;Rust Global&lt;/a&gt; – a new event focused on the future of the Rust programming language. The first instance will taking place as a half-day event within &lt;a target=&quot;_blank&quot; href=&quot;https://events.linuxfoundation.org/wasmcon/&quot;&gt;WasmCon&lt;/a&gt; on September 6, 2023. &lt;/p&gt;
+&lt;p&gt;The first Rust Global will feature a mix of talks (sourced from the &lt;a href=&quot;https://events.linuxfoundation.org/wasmcon/program/cfp/#suggested-topics&quot;&gt;&lt;u&gt;WasmCon CFP&lt;/u&gt;&lt;/a&gt;) and networking opportunities. Content will focus on the intersection of Rust and WebAssembly, Rust case studies for business innovation, and valuable Rust adoption stories. &lt;/p&gt;
+&lt;p&gt;The Rust Foundation believes that a strong relationship between global leaders and the Rust community is essential as we look toward the future of cybersecurity, business, sustainability, and technological innovation where Rust will lend tremendous value. We are excited to help drive collaboration and enterprise in Rust through Rust Global at WasmCon 2023. &lt;/p&gt;
+&lt;p&gt;This event will be the first of many independent and co-located Rust Foundation events around the world to provide opportunities for Rust adopters, advocates, and enthusiasts to learn, share, and network. &lt;/p&gt;
+&lt;h3 id=&quot;&quot;&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rust-foundation-to-host-inaugural-rust-global-event-at-wasmcon-2023/#&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;join-us-at-rust-global!&quot;&gt;Join us at Rust Global! &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rust-foundation-to-host-inaugural-rust-global-event-at-wasmcon-2023/#join-us-at-rust-global!&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Do you have an interest in WASM? Do you have insights to share with our audience? If so, please join us at Rust Global! &lt;/p&gt;
+&lt;p&gt;If you are interested in speaking at Rust Global, please submit to the CFP by June 25, 2023. You only have a short time to submit a talk!&lt;/p&gt;
+&lt;h3 id=&quot;%3E%3E-click-here-to-learn-more-about-rust-global-and-register&quot;&gt;&lt;a href=&quot;https://events.linuxfoundation.org/rust-global/&quot;&gt;&lt;u&gt;&amp;gt;&amp;gt; Click here to learn more about Rust Global and register&lt;/u&gt;&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rust-foundation-to-host-inaugural-rust-global-event-at-wasmcon-2023/#%3E%3E-click-here-to-learn-more-about-rust-global-and-register&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;* WasmCon registration is required to attend Rust Global&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;%3E%3E-click-here-to-submit-a-talk-to-the-rust-global-call-for-proposals-and-find-suggested-topics%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B&quot;&gt;&lt;a href=&quot;https://events.linuxfoundation.org/wasmcon/program/cfp/#suggested-topics&quot;&gt;&lt;u&gt;&amp;gt;&amp;gt; Click here to submit a talk to the Rust Global call-for-proposals and find suggested topics&lt;/u&gt;&lt;/a&gt;​​​​​​ &lt;a class=&quot;direct-link&quot; href=&quot;https://foundation.rust-lang.org/news/rust-foundation-to-host-inaugural-rust-global-event-at-wasmcon-2023/#%3E%3E-click-here-to-submit-a-talk-to-the-rust-global-call-for-proposals-and-find-suggested-topics%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;* Rust Global CFP is located within the WasmCon CFP&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;We hope to see you at &lt;a href=&quot;https://events.linuxfoundation.org/rust-global/&quot;&gt;&lt;u&gt;Rust Global&lt;/u&gt;&lt;/a&gt; and &lt;a href=&quot;https://events.linuxfoundation.org/wasmcon/&quot;&gt;&lt;u&gt;WasmCon&lt;/u&gt;&lt;/a&gt; on September 6, 2023! &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Thank you to the organizers of WasmCon for generously hosting the Rust Foundation and the Rust community this September.&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>2023 Rust Foundation Fellowship Application Open Through June 30</title>
