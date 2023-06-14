@@ -17,8 +17,6 @@ The Rust Foundation believes that a strong relationship between global leaders a
 
 This event will be the first of many independent and co-located Rust Foundation events around the world to provide opportunities for Rust adopters, advocates, and enthusiasts to learn, share, and network.&nbsp;
 
-We hope to see you at [<u>Rust Global</u>](https://events.linuxfoundation.org/rust-global/) and [<u>WasmCon</u>](https://events.linuxfoundation.org/wasmcon/) on September 6, 2023!&nbsp;
-
 ###
 
 ### Join us at Rust Global!
@@ -36,5 +34,7 @@ If you are interested in speaking at Rust Global, please submit to the CFP by Ju
 *\* Rust Global CFP is located within the WasmCon CFP*
 
 ---
+
+We hope to see you at [<u>Rust Global</u>](https://events.linuxfoundation.org/rust-global/) and [<u>WasmCon</u>](https://events.linuxfoundation.org/wasmcon/) on September 6, 2023!&nbsp;
 
 *Thank you to the organizers of WasmCon for generously hosting the Rust Foundation and the Rust community this September.*
