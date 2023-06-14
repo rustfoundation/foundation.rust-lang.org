@@ -19,7 +19,7 @@ This event will be the first of many independent and co-located Rust Foundation 
 
 We hope to see you at [<u>Rust Global</u>](https://events.linuxfoundation.org/rust-global/) and [<u>WasmCon</u>](https://events.linuxfoundation.org/wasmcon/) on September 6, 2023!&nbsp;
 
----
+###
 
 ### Join us at Rust Global!
 
@@ -27,10 +27,14 @@ Do you have an interest in WASM? Do you have insights to share with our audience
 
 If you are interested in speaking at Rust Global, please submit to the CFP by June 25, 2023. You only have a short time to submit a talk!
 
-[<u>&gt;&gt; Click here to learn more about Rust Global and register</u>](https://events.linuxfoundation.org/rust-global/)*\* WasmCon registration is required to attend Rust Global*
+### [<u>&gt;&gt; Click here to learn more about Rust Global and register</u>](https://events.linuxfoundation.org/rust-global/)
 
-[<u>&gt;&gt; Click here to submit a talk to the Rust Global call-for-proposals and find suggested topics</u>](https://events.linuxfoundation.org/wasmcon/program/cfp/#suggested-topics)​​​​​​*\* Rust Global CFP is located within the WasmCon CFP*
+*\* WasmCon registration is required to attend Rust Global*
 
+### [<u>&gt;&gt; Click here to submit a talk to the Rust Global call-for-proposals and find suggested topics</u>](https://events.linuxfoundation.org/wasmcon/program/cfp/#suggested-topics)​​​​​​
 
+*\* Rust Global CFP is located within the WasmCon CFP*
+
+---
 
 *Thank you to the organizers of WasmCon for generously hosting the Rust Foundation and the Rust community this September.*
