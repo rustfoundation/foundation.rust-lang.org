@@ -1,7 +1,7 @@
 ---
 title: Rust Foundation to Host Inaugural “Rust Global” Event at WasmCon 2023
 byline:
-description: "The Rust Foundation is hosting its inaugural “Rust Global” event on September 6, 2023 – a gathering designed to bring together Rust enterprise users, Rust enthusiasts, and advocates. \n\nThe first Rust Global event will focus on WebAssembly and will be co-located with WasmCon in the Seattle area.\_"
+description: "The Rust Foundation is hosting its inaugural “Rust Global” event on September 6, 2023 – a gathering designed to bring together Rust enterprise users, Rust enthusiasts, and advocates. \n\nThe first Rust Global event will have a WebAssembly focus and will be co-located with WasmCon 2023 in the Seattle area.\_"
 date: 2023-06-14T12:30:00Z
 tags:
   - announcement
@@ -11,7 +11,7 @@ layout: layouts/news.njk
 ---
 The Rust Foundation is pleased to present [Rust Global](https://events.linuxfoundation.org/rust-global/) – a new event focused on the future of the Rust programming language with the first instance taking place within <a target="_blank" href="https://events.linuxfoundation.org/wasmcon/">WasmCon</a> on September 6, 2023.&nbsp;
 
-The first Rust Global will be a half-day gathering featuring a mix of talks (via the [<u>WasmCon CFP</u>](https://events.linuxfoundation.org/wasmcon/program/cfp/#suggested-topics)) and networking opportunities. Content will focus on the intersection of Rust and WebAssembly, Rust case studies for business innovation, and valuable Rust adoption stories.&nbsp;
+The first Rust Global will be a half-day gathering featuring a mix of talks (sourced from the [<u>WasmCon CFP</u>](https://events.linuxfoundation.org/wasmcon/program/cfp/#suggested-topics)) and networking opportunities. Content will focus on the intersection of Rust and WebAssembly, Rust case studies for business innovation, and valuable Rust adoption stories.&nbsp;
 
 The Rust Foundation believes that a strong relationship between global leaders and the Rust community is essential as we look toward the future of cybersecurity, business, sustainability, collaboration, and technological innovation where Rust will lend tremendous value. We are excited to help drive collaboration, innovation, and enterprise in Rust through Rust Global at WasmCon 2023.&nbsp;
 
