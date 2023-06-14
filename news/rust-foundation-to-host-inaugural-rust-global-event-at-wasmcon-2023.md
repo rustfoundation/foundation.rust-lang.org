@@ -5,7 +5,6 @@ description: "The Rust Foundation to host inaugural “Rust Global” event on S
 date: 2023-06-14T12:30:00Z
 tags:
   - announcement
-  - events
 index: false
 layout: layouts/news.njk
 ---
