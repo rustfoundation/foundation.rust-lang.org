@@ -19,7 +19,7 @@ This event will be the first of many independent and co-located Rust Foundation 
 
 ###
 
-### Join us at Rust Global!
+## Join us at Rust Global!
 
 Do you have an interest in WASM? Do you have insights to share with our audience? If so, please join us at Rust Global!&nbsp;
 
