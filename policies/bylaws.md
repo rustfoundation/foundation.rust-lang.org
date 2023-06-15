@@ -537,7 +537,7 @@ Except where such power is expressly limited by law, the Certificate of Incorpor
    </td>
    <td>1.3, 2, 4, 5.5, 6, 12.4, 13
    </td>
-   <td>Reflecting recent changes in Rust Project governance, outdated references to the Rust Core Team have been removed, and the authority and decision-making processes within the Foundation have been clarified accordingly. Also, some minor updates to bring the language closer in line with Delaware law.
+   <td>Edited to reflect language more closely in line with Delaware law, capture recent changes in Rust Project governance, remove outdated references to the Rust Core Team, and more clearly describe the authority and decision-making processes within the Foundation.
    </td>
   </tr>
   <tr>
