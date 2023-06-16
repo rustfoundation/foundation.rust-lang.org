@@ -21,4 +21,4 @@ layout: layouts/event.njk
 
 <u>Location:</u> Bellevue, Washington, U.S.A
 
-### <a target="_blank" rel="noopener" href="https://events.linuxfoundation.org/rust-global/">&gt;&gt; More Information &amp; Registration</a>
+### <a target="_blank" href="https://events.linuxfoundation.org/rust-global/">&gt;&gt; More Information &amp; Registration</a>
