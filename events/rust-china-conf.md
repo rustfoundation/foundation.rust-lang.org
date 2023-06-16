@@ -1,5 +1,5 @@
 ---
-title: Rust China Conf
+title: Rust China Conf 2023
 description: >-
   ​Rust China Conf 2023 is initiated and hosted by the Rust Chinese community,
   and co-organized by well-known enterprises and open source organizations. It
@@ -15,4 +15,4 @@ layout: layouts/event.njk
 
 <u>Location:</u> Shanghai, China & Online
 
-### <a target="_blank" rel="noopener" href="https://rustcc.cn/2023rustchinaconf/">&gt;&gt; Learn More &amp; Register Here</a>
+### <a target="_blank" href="https://rustcc.cn/2023rustchinaconf/">&gt;&gt; Learn More &amp; Register Here</a>
