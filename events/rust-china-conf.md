@@ -16,3 +16,7 @@ layout: layouts/event.njk
 <u>Location:</u> Shanghai, China & Online
 
 ### <a target="_blank" href="https://rustcc.cn/2023rustchinaconf/">&gt;&gt; Learn More &amp; Register Here</a>
+
+
+
+*\* The Rust Foundation is an unpaid partner of Rust China Conf. As a supporter of this event, we value the opportunity to promote the event and appreciate the organizing team to build this year's lineup of content and experiences.&nbsp;*
