@@ -10,7 +10,7 @@ description: >-
   opportunities and informative content focused on the future of Rust and its
   value to businesses, educators, governments, and professional software
   developers worldwide.
-date:
+date: 2023-09-06T12:00:00Z
 tags:
   - live
 layout: layouts/event.njk
