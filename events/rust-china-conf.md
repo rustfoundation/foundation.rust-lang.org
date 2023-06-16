@@ -6,7 +6,7 @@ description: >-
   is the largest and only Rust offline large-scale conference in China this
   year, and is deeply loved and respected by Rust Chinese community developers
   and related companies.
-date: 2023-06-17T00:00:00Z
+date: 2023-06-18T00:00:00Z
 tags:
   - sponsoring
 layout: layouts/event.njk
