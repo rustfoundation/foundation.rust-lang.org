@@ -13,6 +13,7 @@ description: >-
 date: 2023-09-06T12:00:00Z
 tags:
   - live
+  - hosting
 layout: layouts/event.njk
 ---
 <img width="580" height="305" alt="Rust Global: September 6, 2023 | Bellevue, WA, U.S.A. (Presented by: Rust Foundation) #rustglobal" title="Rust Global" src="/img/news/rust-global/rust-global.png" />
