@@ -13,4 +13,8 @@ layout: layouts/event.njk
 
 <u>Location:</u> Brussels, Belgium & online
 
-### <a target="_blank" rel="noopener" href="https://eurorust.eu/">&gt;&gt; Register &amp; Learn More Here</a>
+### <a target="_blank" href="https://eurorust.eu/">&gt;&gt; Register &amp; Learn More Here</a>
+
+
+
+*The Rust Foundation is a sponsor of EuroRust. We value the opportunity to support the event and appreciate the efforts of EuroRust's organizing team to build the lineup of content and experiences.&nbsp;*
