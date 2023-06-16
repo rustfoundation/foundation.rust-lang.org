@@ -5,14 +5,17 @@ description: >-
   September 11-15, 2023.
 date: 2023-09-12T00:00:00Z
 tags:
-  - video
-  - live
+  - sponsoring
 layout: layouts/event.njk
 ---
-## <img src="/img/news/2023-03-06-rustconf-cfp/rustconf.jpeg" width="580" height="193" />
+## <img width="580" height="193" src="/img/news/2023-03-06-rustconf-cfp/rustconf.jpeg" />
 
-## Learn more about RustConf 2023, view the program, and register here:&nbsp;<a target="_blank" href="https://rustconf.com">https://rustconf.com</a>.&nbsp;
+<u>Date:</u> September 12-15, 2023
+
+<u>Location:</u> Albuquerque, New Mexico, USA & online
+
+## <a target="_blank" href="https://rustconf.com">&gt;&gt; Learn More &amp; Register&nbsp;</a>
 
 
 
-*The Rust Foundation is a sponsor of RustConf 2023: the largest annual gathering of the Rust language community. As a sponsor, we value the opportunity to contribute financial support to the event and appreciate the efforts of RustConf's organizing team to build this year's lineup of content and experiences.&nbsp;*
+*\*The Rust Foundation is a sponsor of RustConf 2023: the largest annual gathering of the Rust language community. As a sponsor, we value the opportunity to contribute financial support to the event and appreciate the efforts of RustConf's organizing team to build this year's lineup of content and experiences.&nbsp;*
