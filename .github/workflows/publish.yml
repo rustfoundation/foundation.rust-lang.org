@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build_deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -30,11 +30,24 @@ jobs:
       - run: npm run build
       - run: echo foundation.rust-lang.org > _site/CNAME
 
-      - name: deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - uses: actions/upload-pages-artifact@v1.0.9
         with:
-          publish_dir: _site 
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: ${{ github.event.head_commit.message }}
+          path: ./_site
+
+  deploy:
+    if: ${{ github.ref == 'refs/heads/main' }}
+
+    needs: build
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v2.0.2
