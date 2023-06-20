@@ -1,12 +1,13 @@
 ---
 title: A Note on Data Retention & Data Privacy Standards From the crates.io Team
-byline:
+byline: the crates.io team
 description: >-
   This blog post is a guest contribution from the crates.io team, intended to
   update the community on our shared, general approach if either the Rust
   Foundation or crates.io teams ever receive a legally-binding request for data.
 date: 2023-06-15T14:00:00Z
 tags:
+  - crates.io
   - guest blog series
 index: false
 layout: layouts/news.njk
