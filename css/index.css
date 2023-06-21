@@ -287,6 +287,11 @@ main {
   font-size: 1.1875em; /* 19px /16 */
   font-weight: 700;
 }
+.post-byline {
+  font-size: 1.1875em; /* 19px /16 */
+  margin: 1em 0;
+  color: var(--darkgray);
+}
 .post-date {
   font-size: 1.1875em; /* 19px /16 */
   color: var(--darkgray);
