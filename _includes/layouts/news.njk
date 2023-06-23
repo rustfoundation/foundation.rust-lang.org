@@ -6,6 +6,7 @@ templateClass: tmpl-news
   <section class="container post">
       <h1>{{ title }}</h1>
       <h2>{{ description }}</h2>
+      {% if byline %}<div class="post-byline">by {{ byline }}</div>{% endif %}
       <time class="post-date" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
       <div class="content">
           {{ content | safe }}
