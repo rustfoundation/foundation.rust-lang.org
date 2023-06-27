@@ -257,8 +257,10 @@ tags:
 <p><center>Eligibility and exclusion criteria can be found <a href="/grants-eligibility/">here</a>. | Our privacy & data-handling policy can be found <a href="/policies/privacy-policy/">here</a>.
 
 </p></center>
+<br>
 
 ---
+<br>
 
 <center><h2>The Community Grants Program is made possible by these generous organizations:</h2></center>
 
