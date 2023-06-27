@@ -69,7 +69,7 @@ tags:
 
 <div class="detail3"><p>- Project Grants are available for non-coding education/outreach work.</p></div>
 
-<div class="detail4"><p>&nbsp;- Priority will be given to those grants that will clearly deliver a significant benefit to the Rust community.</p></div>
+<div class="detail4"><p>&nbsp;&nbsp;&nbsp;- Priority will be given to those grants that will clearly deliver a significant benefit to the Rust community.</p></div>
 
 <div class="detail5"><p>- Work under the Project Grants program should be carried out within six months.</p></div>
 
