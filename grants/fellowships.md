@@ -28,7 +28,7 @@ tags:
 <table border="”4″"><th colspan="2"><h3>2023 Application Dates</h3></th>
   <tr>
     <td><u>Application window:</u></td>
-    <td>CLOSED onFriday, June 30th, 2023 (midnight PDT).</td>
+    <td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td>
   </tr>
   <tr>
     <td><u>Fellow selections:</u</td>
