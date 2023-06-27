@@ -32,10 +32,10 @@ tags:
   </tr>
   <tr>
     <td><u>Past Project Grantees:</u</td>
-    <td>2022 Project Grantees listed <a href="/news/2022-06-14-community-grants-program-awards-announcement/">here</a> ; 2023 Project Grantees listed <a href="/news/community-grants-program-awards-announcement-introducing-our-latest-project-grantees/">here</a> </td>
+    <td>2022 Project Grantees listed <a href="/news/2022-06-14-community-grants-program-awards-announcement/">here</a>; 2023 Project Grantees listed <a href="/news/community-grants-program-awards-announcement-introducing-our-latest-project-grantees/">here</a> </td>
   </tr>
   <tr>
-    <td><u>Upcoming Applicant Period:</u></td>
+    <td><u>Upcoming Application Period:</u></td>
     <td>To be announced.</td>
   </tr>
  </table></center>
