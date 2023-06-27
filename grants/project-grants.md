@@ -140,7 +140,7 @@ tags:
   }
 </style>
 
-<div class="bordered3">
+<div class="bordered4">
 <p><h3><center>Community</h3></p></center>
 <p><center><u>Work in this category includes:</u> moderation, communication (e.g. writing blog posts, release notes, preparing for meetings or taking minutes), producing education materials, providing educational support, pupporting/mentoring/guiding other contributors, organizing events/meetups, coordination and management activities</p></center></b></div>
 <br>
