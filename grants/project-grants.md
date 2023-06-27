@@ -247,12 +247,14 @@ tags:
   <h3>The Rust Foundation trusts our Project Grantees to honestly report how they have been supporting the Rust Project.</h3>
 </details>
 <br>
+<center><h3>For answers to more more general FAQs about the grants program, click  <a href="/grants-faqs/">here</a>.</center></h3>
+<br>
 <hr>
 <br>
 
 <center><h2>More Information</h2></center>
 
-<p><center>Eligibility and exclusion criteria can be found <a href="/grants-eligibility/">here</a>. | General FAQs about the grants program can be found <a href="/grants-faqs/">here</a>. | Our privacy & data-handling policy can be found <a href="/policies/privacy-policy/">here</a>.
+<p><center>Eligibility and exclusion criteria can be found <a href="/grants-eligibility/">here</a>. | Our privacy & data-handling policy can be found <a href="/policies/privacy-policy/">here</a>.
 
 </p></center>
 
