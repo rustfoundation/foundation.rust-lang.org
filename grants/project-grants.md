@@ -169,15 +169,16 @@ tags:
 </div>
 
 <div><center><p><i>All Project Grantees must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a>.</i></p></div><center>
-
+<br>
 
 ---
+<br>
 <center><h2>Project Grant FAQs</h2></center>
 
 <style>
 .details {
   text-align: left;
-  margin: 100px;
+  margin: 10px;
   }
 
 .details p {
