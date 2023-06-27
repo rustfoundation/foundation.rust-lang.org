@@ -99,14 +99,8 @@ tags:
 </style>
 
 <div class="bordered2">
-<p><u><h3><center>#1. Maintenance and Support</h3></p></u></center>
-<p><center>Work in this category includes…</p></center>
-* Code review
-* Documentation updates
-* Design review
-* Issue triage
-* Issue reporting
-* Bug fixes</div>
+<p><u><h3><center>Maintenance and Support</h3></p></u></center>
+<p><center><u>Work in this category includes:</u> code review, documentation updates, design review, issue triage & reporting, & bug fixes.</p></center></div>
 
 <style>
   .bordered3 {
@@ -124,11 +118,8 @@ tags:
 </style>
 
 <div class="bordered3">
-<p><u><h3><center>#2. Development and Infrastructure</h3></p></u></center>
-<p><center>Work in this category includes…</p></center>
-* New features and documentation
-* Performance enhancements
-* Rollups/CI/releases</div>
+<p><u><h3><center>Development and Infrastructure</h3></p></u></center>
+<p><center><b>Work in this category includes:</b> new features and documentation, performance enhancements, rollups/CI/releases</p></center></div>
 
 
 <style>
@@ -147,16 +138,8 @@ tags:
 </style>
 
 <div class="bordered3">
-<p><u><h3><center>#3. Community</h3></p></u></center>
-<p><center>Work in this category includes…</p></center>
-* Moderation
-* Communication (e.g. writing blog posts, release notes, preparing for meetings or taking minutes)
-* Producing education materials
-* Providing educational support
-* Supporting/mentoring/guiding other contributors
-* Organizing Events / Meetups
-* Coordination and management activities</div>
-<div>
+<p><u><h3><center>Community</h3></p></u></center>
+<p><center><b>Work in this category includes:</b> moderation, communication (e.g. writing blog posts, release notes, preparing for meetings or taking minutes), producing education materials, providing educational support, pupporting/mentoring/guiding other contributors, organizing events/meetups, coordination and management activities</p></center></b></div>
 <br>
 <hr>
 <br>
