@@ -17,7 +17,7 @@ tags:
 <br>
 <p>Any work that benefits the Rust Project is eligible for a Project Grant. Priority will be given to those grants that will clearly deliver a significant benefit to a reasonable proportion of the Rust community. </p></center>
 <br>
-<h3><center><i>The 2023 Rust Foundation Project Grant application is currently closed. Please stay tuned for news of future Project Grant application periods.</i></center></h3>
+<h3><center><i>The 2023 Rust Foundation Project Grant application is currently closed. Please stay tuned for news of future Project Grant application periods.</i></center></h3> 
 
 <br>
 <hr>
