@@ -13,9 +13,9 @@ tags:
 <center><h1>Rust Foundation Hardship Grants</h1>
 <div>
 <br>
-<p>Rust Foundation Project Grants exist to support specific packages of work that benefit Rust. Project Grants will be awarded to both individuals and teams, whether you're a member of a Rust Project Team or Working Group or not. Additionally, Project Grants are available for non-coding education/outreach work.</p>
+<p>The Rust Foundation understands that members of the Rust community may suffer from financial hardship from time to time, which can lead to food and accommodation insecurity. The Hardship Grants program is aimed at providing short-term financial support to those active maintainers of the Rust Project most in need of help.</p>
 <br>
-<p>Any work that benefits the Rust Project is eligible for a Project Grant. Priority will be given to those grants that will clearly deliver a significant benefit to a reasonable proportion of the Rust community. </p></center>
+<p>Hardship Grants are available to applicants in amounts randing from $500 to $1,000 USD. Recipients will be individuals who contribute significantly to the Rust Project and who have urgent financial insecurity.</p></center>
 <br>
 
 <style>
