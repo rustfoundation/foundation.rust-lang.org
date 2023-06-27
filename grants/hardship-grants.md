@@ -27,9 +27,9 @@ Open continuously.
 
 ### Applicant notifications:
 
-Within 5 working days of application submission.
+Within 5 working days of application submission.&nbsp;
 
-- - -
+---
 
 ## Program Details
 
@@ -37,13 +37,13 @@ We understand that members of the Rust community may suffer from financial hards
 
 * Applicants will be able to apply for amounts of between $500 and $1,500 USD.
 * Hardship Grants are available to individuals who contribute significantly to the Rust Project and who have urgent financial insecurity.
-* Out of respect for recipients, we will keep all details of Hardship Grant awards private. 
+* Out of respect for recipients, we will keep all details of Hardship Grant awards private.
 
 If you would like to apply for a Hardship Grant then please email [grants@rustfoundation.org](mailto:grants@rustfoundation.org) with the subject line “Hardship Grant Application” telling us about yourself and your situation, including details of your contributions to the Rust Project.
 
 Please also review our [general eligibility and exclusion criteria](/grants-eligibility/) before applying.
 
-- - -
+---
 
 ## FAQs
 
@@ -59,11 +59,11 @@ You have to be 18 or older. We need to be mindful of different countries’ chil
 
 You can apply for up to two Hardship Grants in each calendar year.
 
-- - -
+---
 
 ## Selection Process
 
-Hardship Grant applications will be reviewed and selected by the Rust Foundation staff team with possible input from Rust Foundation Directors or members of the Project Teams if counsel is needed. As a rule, the Rust Foundation will endeavor to keep details of any Hardship Grant application as private as possible, due to the sensitive circumstances under which someone might apply for a Hardship Grant. 
+Hardship Grant applications will be reviewed and selected by the Rust Foundation staff team with possible input from Rust Foundation Directors or members of the Project Teams if counsel is needed. As a rule, the Rust Foundation will endeavor to keep details of any Hardship Grant application as private as possible, due to the sensitive circumstances under which someone might apply for a Hardship Grant.
 
 The decisions will be made based upon:
 
