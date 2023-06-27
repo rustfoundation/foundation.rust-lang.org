@@ -35,7 +35,7 @@ tags:
 }
 </style>
 
-<div class="center"><center><h3>The 2023 Fellowship Application is Now Closed</h3></center></div>
+<div class="center"><center>The 2023 Fellowship Application is Now Closed</center></div>
 <br>
 <hr>
 
