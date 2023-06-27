@@ -15,7 +15,7 @@ tags:
 <center><h1>Rust Foundation Project Grants</h1>
 <div>
 <br>
-<p>The Rust Foundation Project Grants program exists to support specific packages of work that benefit Rust. Project Grants will be awarded to both individuals and teams, whether you're a member of a Rust Project Team or Working Group or not. Additionally, Project Grants are available for non-coding education/outreach work.</p>
+<p>Rust Foundation Project Grants exist to support specific packages of work that benefit Rust. Project Grants will be awarded to both individuals and teams, whether you're a member of a Rust Project Team or Working Group or not. Additionally, Project Grants are available for non-coding education/outreach work.</p>
 <br>
 <p>Any work that benefits the Rust Project is eligible for a Project Grant. Priority will be given to those grants that will clearly deliver a significant benefit to a reasonable proportion of the Rust community. </p></center>
 <br>
@@ -25,7 +25,7 @@ tags:
 <hr>
 
 <center><table>
-<table border="”4″"><th colspan="2"><h3>Program Details</h3></th>
+<table border="”4″"><th colspan="2"><h3>Key Program Facts</h3></th>
   <tr>
     <td><u>Grant Value:</u></td>
     <td>Between $2,500 and $15,000 USD.</td>
@@ -48,7 +48,7 @@ tags:
 <br>
 
 <style>
-.detail1, .detail3, .detail5, .detail7, .detail9 {
+.detail1, .detail3, .detail5, .detail7, {
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
@@ -69,7 +69,7 @@ tags:
 
 <div class="detail3"><p>- Project Grants are available for non-coding education/outreach work.</p></div>
 
-<div class="detail4"><p>- Priority will be given to those grants that will clearly deliver a significant benefit to the Rust community. </p></div>
+<div class="detail4"><p>- Priority will be given to those grants that will clearly deliver a significant benefit to the Rust community.</p></div>
 
 <div class="detail5"><p>- Work under the Project Grants program should be carried out within six months.</p></div>
 
