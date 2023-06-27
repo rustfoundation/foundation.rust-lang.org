@@ -69,7 +69,7 @@ tags:
 <div class="detail2"><p>- Project Grants are awarded to both individuals and teams, regardless of Rust Project Team/Working Group status or lack thereof.</p></div>
 
 
-<div class="detail3"><p>- Project Grants are available for non-coding education/outreach work.</p></div>
+<div class="detail3"><p>- Project Grants are available for non-coding education/outreach work as well as engineering-focused work.</p></div>
 
 <div class="detail4"><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Priority will be given to those grants that will clearly deliver a significant benefit to the Rust community.</p></div>
 
