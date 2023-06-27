@@ -32,7 +32,7 @@ tags:
   }
 </style>
 
-<div class="bordered">
+<div class="bordered"><center>
 <br><a href = "mailto: grants@rustfoundation.org" style="color:#FFFFFF";>>> Apply for a Rust Foundation Hardship Grant</a></center>
 </div>
 
