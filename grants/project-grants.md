@@ -51,13 +51,13 @@ tags:
 
 <style>
 .detail1, .detail3, .detail5, .detail7, .detail9 {
-  display: inline-block;
+  display: inline-block; center; 
   padding: 10px 10px;
   margin: 20px;
   vertical-align: top;
 }
 .detail2, .detail4, .detail6, .detail8 {
-  display: inline-block;
+  display: inline-block; center; 
   padding: 10px 10px;
   margin: 20px;
   vertical-align: top;
