@@ -35,7 +35,7 @@ tags:
 }
 </style>
 
-<div class="center"><center><h3><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation">APPLY by June 30th</a></h3></center></div>
+<div class="center"><center><h3>The 2023 Fellowship Application is Now Closed</h3></center></div>
 <br>
 <hr>
 
