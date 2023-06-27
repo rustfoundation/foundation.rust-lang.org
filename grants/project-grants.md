@@ -62,16 +62,16 @@ tags:
   }
 </style>
 
-<div class="detail1"><p>- Project grants are financial awards that support specific packages of work that benefit the Rust ecosystem. Any work that benefits the Rust ecosystem as a whole is eligible for a Project Grant.</p></div>
+<div class="detail1"><p>- Project grants are financial awards that support specific packages of work that benefit the Rust ecosystem.</p></div>
 
-<div class="detail2"><p>- Project Grants are awarded to both individuals and teams, whether you're a member of a Rust Project Team or Working Group or not.</p></div>
+<div class="detail2"><p>- Project Grants are awarded to both individuals and teams, regardless of Rust Project Team/Working Group status or lack thereof.</p></div>
 
 
 <div class="detail3"><p>- Project Grants are available for non-coding education/outreach work.</p></div>
 
-<div class="detail4"><p>- Priority will be given to those grants that will clearly deliver a significant benefit to a reasonable proportion of the Rust community. </p></div>
+<div class="detail4"><p>- Priority will be given to those grants that will clearly deliver a significant benefit to the Rust community. </p></div>
 
-<div class="detail5"><p>- Ideally, work under the Project Grants program is carried out within six months of the grant being given.</p></div>
+<div class="detail5"><p>- Work under the Project Grants program should be carried out within six months.</p></div>
 
 <div class="detail6"><p>- Project Grantees <i>will not</i> be required to set and meet specific milestones. At the end of the program, Project Grantees <i>will</i> be asked to write a blog detailing their experience for possible publication on our website.</p></div>
 
