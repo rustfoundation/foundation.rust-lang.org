@@ -19,7 +19,8 @@ tags:
 <br>
 <p>Rust Foundation Fellows are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the Fellowship year, funding for career development, and access to mentorship opportunities.</p></center>
 <br>
-<p><center>The 2023 Fellowship Application is Now Closed</center></p>
+<h3><center>The 2023 Fellowship Application is Now Closed</center></h3>
+<p><center><i>Please stay tuned for news of future Rust Foundation Fellowship application periods.</p></center></i>
 
 <br>
 <hr>
