@@ -99,7 +99,7 @@ tags:
 </style>
 
 <div class="bordered2">
-<p><u><h3><center>Maintenance and Support</h3></p></u></center>
+<p><h3><center>Maintenance and Support</h3></p></center>
 <p><center><u>Work in this category includes:</u> code review, documentation updates, design review, issue triage & reporting, & bug fixes.</p></center></div>
 
 <style>
@@ -118,8 +118,8 @@ tags:
 </style>
 
 <div class="bordered3">
-<p><u><h3><center>Development and Infrastructure</h3></p></u></center>
-<p><center><b>Work in this category includes:</b> new features and documentation, performance enhancements, rollups/CI/releases</p></center></div>
+<p><h3><center>Development and Infrastructure</h3></p>></center>
+<p><center><u>Work in this category includes:</u> new features and documentation, performance enhancements, rollups/CI/releases</p></center></div>
 
 
 <style>
@@ -138,8 +138,8 @@ tags:
 </style>
 
 <div class="bordered3">
-<p><u><h3><center>Community</h3></p></u></center>
-<p><center><b>Work in this category includes:</b> moderation, communication (e.g. writing blog posts, release notes, preparing for meetings or taking minutes), producing education materials, providing educational support, pupporting/mentoring/guiding other contributors, organizing events/meetups, coordination and management activities</p></center></b></div>
+<p><<h3><center>Community</h3></p></center>
+<p><center><u>Work in this category includes:</u> moderation, communication (e.g. writing blog posts, release notes, preparing for meetings or taking minutes), producing education materials, providing educational support, pupporting/mentoring/guiding other contributors, organizing events/meetups, coordination and management activities</p></center></b></div>
 <br>
 <hr>
 <br>
