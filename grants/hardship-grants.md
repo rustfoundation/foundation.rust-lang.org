@@ -45,15 +45,15 @@ tags:
 <table border="”4″"><th colspan="2"><h3>Key Program Facts</h3></th>
   <tr>
     <td><u>Grant Value:</u></td>
-    <td>Between $2,500 and $15,000 USD.</td>
+    <td>Between $500 to $1,000 USD.</td>
   </tr>
   <tr>
     <td><u>Past Project Grantees:</u</td>
     <td>2022 Project Grantees listed <a href="/news/2022-06-14-community-grants-program-awards-announcement/">here</a>; 2023 Project Grantees listed <a href="/news/community-grants-program-awards-announcement-introducing-our-latest-project-grantees/">here</a> </td>
   </tr>
   <tr>
-    <td><u>Upcoming Application Period:</u></td>
-    <td>To be announced.</td>
+    <td><u>Application Period:</u></td>
+    <td>Rolling. Email us at <a href = "mailto: grants@rustfoundation.org">grants@rustfoundation.org</a> to apply.</td> 
   </tr>
  </table></center>
 </div>
