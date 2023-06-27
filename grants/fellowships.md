@@ -28,7 +28,7 @@ tags:
 <table border="”4″"><th colspan="2"><h3>2023 Application Dates</h3></th>
   <tr>
     <td><u>Application window:</u></td>
-    <td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td>
+    <td>CLOSED onFriday, June 30th, 2023 (midnight PDT).</td>
   </tr>
   <tr>
     <td><u>Fellow selections:</u</td>
@@ -366,24 +366,6 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 </p></center>
 
-<style>
-.center {
-  margin: auto;
-  width: 20%;
-  text-align: center;
-  border:2px solid darkorange;
-  color: #000;
-  height: auto;
-  padding: 0px;
-  border-radius: 4px;
-  background-color: #EFC9BF;
-  margin-top: 6px;
-  min-width: 150px;
-}
-</style>
-
-<div class="center"><center><h3><a href="https://app.smarterselect.com/programs/80939-Rust-Foundation">APPLY by June 30th</a></h3></center></div>
-<br>
 <hr>
 
 ---
