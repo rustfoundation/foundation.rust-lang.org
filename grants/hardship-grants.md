@@ -1,10 +1,8 @@
 ---
 layout: layouts/grants.njk
 description: >-
-   Stipends of $1,000 per month, plus a travel and training budget, granted to
-   up to 12 individuals who are either already contributing to the Rust
-   community or who have Rust experience and a high potential to benefit the
-   community through their contributions.
+   Awards ranging from $500 to $1,500 made to active maintainers of the Rust
+   Project facing financial hardship.
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
