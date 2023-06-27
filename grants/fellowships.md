@@ -366,8 +366,6 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 </p></center>
 
-<hr>
-
 ---
 
 <center><h2>The Community Grants Program is made possible by these generous organizations:</h2></center>
