@@ -78,6 +78,9 @@ tags:
 <div class="detail7"><p>- Periodically, Project Grantees will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p></div>
 
 <div class="detail8"><p>- All Project Grantees will be required to adhere to the Rust Foundation’s <a href="/policies/code-of-conduct/">Code of Conduct</a>, which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
+<br>
+<hr>
+<br>
 
 <center><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Grant Categories</h3></center>
 <br>
