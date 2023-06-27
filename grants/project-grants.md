@@ -172,7 +172,7 @@ tags:
 
 
 ---
-<center><h2>FAQs</h2></center>
+<center><h2>Project Grant FAQs</h2></center>
 
 <style>
 .details {
@@ -187,7 +187,6 @@ tags:
     </style>
 
   <div class="details">
- <center><h2>Project Grant FAQs</h2></center>
 
   <details>
   <summary>How long does the program last?</summary>
