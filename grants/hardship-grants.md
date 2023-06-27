@@ -100,7 +100,7 @@ tags:
 <hr>
 <br>
 
-<center><h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Grant Categories</h2></center>
+<center><h2>Project Grant Categories</h2></center>
 <br>
 <center><p>The work carried out by Project Grantees is focused on one of the following three areas of focus:</center></p>
 
