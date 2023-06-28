@@ -87,7 +87,7 @@ tags:
   }
 </style>
 
-<div class="detail1"><p>- Applicants may request support in amounts of between $100 and $500 USD.</p></div>
+<div class="detail1"><p>- Applicants may request support in amounts of between $100 and $500 USD. &nbsp;  &nbsp; </p></div>
 
 <div class="detail2"><p>- Rust Event Support Grants are available to provide financial support for individuals, groups, and organizations to help cover the costs they incur in running Rust community events.</p></div>
 
@@ -95,7 +95,7 @@ tags:
 
 <div class="detail4"><p>- In exceptional circumstance, we may suspend applications if our budget for the quarter ($15,000 USD) has already been spent. </p></div>
 
-<div class="detail5"><p>- Applications can currently be made in English, Chinese, Spanish, and Portuguese, reflecting our ambition to support a global community of events.</p></div>
+<div class="detail5"><p>- Applications can currently be made in English, Chinese, and Portuguese, reflecting our ambition to support a global community.</p></div>
 
 <div class="detail6"><p>- Event Support Grants are intended to cover typical event expenses like space rental fees, travel costs, refreshments, swag, online event platform costs, etc.</p></div>
 
