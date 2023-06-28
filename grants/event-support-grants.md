@@ -97,7 +97,8 @@ tags:
 
 <div class="detail5"><p>- We welcome applications from teams of people and organizations.</p></div>
 
-<div class="detail6"><p>- Recipients will be required to abide by the <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Rust Foundation Code of Conduct</a> and provide a written report of their event for publication on our website.></p></div></center>
+<div class="detail6"><p>- Recipients will be required to abide by the <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Rust Foundation Code of Conduct</a> and provide a written report of their event for publication on our website.</p></div></center>
+<br>
 <br>
 <hr>
 <br>
