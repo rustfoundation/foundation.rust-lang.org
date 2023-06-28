@@ -1,157 +1,180 @@
----
 layout: layouts/grants.njk
-title: Event Support Grants
-name: Event Support Grants
 description: >-
-   Awards ranging from $100 to $500 made to support virtual and in-person events benefitting the Rust ecosystem.
-applicationLink1: https://app.smarterselect.com/programs/80971-Rust-Foundation
-applicationLink1desc: Apply in English
-applicationLink2: https://app.smarterselect.com/programs/81295-Rust-Foundation
-applicationLink2desc: En Français
-applicationLink3: https://app.smarterselect.com/programs/81297-Rust-Foundation
-applicationLink3desc: Em Portugues
-applicationLink4: https://app.smarterselect.com/programs/81296-Rust-Foundation
-applicationLink4desc: 中文
+   Awards ranging from $500 to $1,500 made to active maintainers of the Rust
+   Project facing financial hardship.
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
 ---
+[⏎ Return to Community Grants Program Main](/grants/)
+
+<br>
+<center><h1>Rust Foundation Event Support Grants</h1>
+<div>
+<br>
+<p>Rust Event Support Grants exist to support Rust-related events, both in-person and virtual.</p>
+<br>
+<p>Theses grants help provide financial support for individuals, groups, and organizations to help cover the costs they incur in running events that support the Rust community.</p>
+<br>
+
+<style>
+  .bordered {
+    width: 175px;
+    max-width: 100%;
+    text-align: center;
+    color: #FFFFFF;
+    height: auto;
+    padding: 15px;
+    border: 1px solid darkorange;
+    border-radius: 6px;
+    background-color: #1E2650
+  }
+</style>
+
+<div class="bordered">
+<h3><a href = "https://app.smarterselect.com/programs/80971-Rust-Foundation" style="color:#FFFFFF";>Apply in English</a></h3>
+<br>
+<h3><a href = "https://app.smarterselect.com/programs/81295-Rust-Foundation" style="color:#FFFFFF";>En Français</a></h3>
+<br>
+<h3><a href = "https://app.smarterselect.com/programs/81297-Rust-Foundation" style="color:#FFFFFF";>Em Portugues</a></h3>
+<br>
+<h3><a href = "https://app.smarterselect.com/programs/81296-Rust-Foundation" style="color:#FFFFFF";>中文</a></h3>
+</center>
+</div>
+
+
+<br>
+<hr>
+
+<center><table>
+<table border="”4″"><th colspan="2"><h3>Key Program Facts</h3></th>
+  <tr>
+    <td><u>Grant Value:</u></td>
+    <td>Between $500 to $1,000 USD.</td>
+  </tr>
+  <tr>
+    <td><u>Applicant notifications:</u</td>
+    <td>Within 5 working days of application submission.</td>
+  </tr>
+  <tr>
+    <td><u>Application Period:</u></td>
+    <td>Rolling. Email us at <a href = "mailto: grants@rustfoundation.org">grants@rustfoundation.org</a> to apply.</td> 
+  </tr>
+ </table></center>
+</div>
+<br>
+<hr>
+<br>
+<div><center><h2>Program Details</h2></center>
+<br>
+<br>
+
+<style>
+.detail1, .detail3, .detail5, .detail7, .detail9 {
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 20px;
+  vertical-align: top;
+}
+.detail2, .detail4, .detail6, .detail8 {
+  display: inline-block;  
+  padding: 10px 10px;
+  margin: 20px;
+  vertical-align: top;
+  }
+</style>
+
+<div class="detail1"><p>- Applicants may request support in amounts of between $500 and $1,500 USD.</p></div>
+
+<div class="detail2"><p>- Hardship Grants are available to individuals who contribute significantly to the Rust Project and who have urgent financial insecurity.</p></div>
+
+<div class="detail3"><p>- Out of respect for recipients, we will keep all details of Hardship Grant awards private. </p></div>
+
+<div class="detail4"><p>- If you would like to apply for a Hardship Grant, please tell us about yourself and your situation in your email application, including details of your contributions to the Rust Project.</p></div>
+
+<div class="detail5"><p>- Hardship Grant applications will be reviewed and selected by the Rust Foundation staff team with possible input from Rust Foundation Directors or members of the Project Teams if counsel is needed.</p></div>
+
+<div class="detail6"><p>- The decisions will be made based upon the contributions made by the individual to the Rust Project and the individual’s financial circumstances and need.</p></div>
+
+<div class="detail7"><p>- We will aim to make a decision regarding a Hardship Grant within 5 working days of receiving an application.</p></div>
+
+<div class="detail8"><p>- Individuals may apply for up to two Hardship Grants in each calendar year.
+</p></div>
+<br>
+<hr>
+<br>
+<center><h2>Hardship Grant FAQs</h2></center>
+
+<style>
+.details {
+  text-align: left;
+  margin: 10px;
+  }
 
-## Application Info
+.details p {
+  margin-bottom: 1em;
+  line-height: normal;
+}
+    </style>
 
-### Purpose of award:
+  <div class="details">
 
-To support events (both physical and virtual).
+  <details>
+  <summary>When can I apply for a Hardship Grant?</summary>
+  <h3>The Hardship Grant application is open on an ongoing basis. Please visit <a href="/grants/hardship-grants/">this page</a> for more information and to apply.</h3>
+</details>
 
-### Award amount:
+<details>
+  <summary>Who is eligible to apply for a Hardship Grant?</summary>
+  <h3>Rust community members who contribute significantly to the Rust Project and who have urgent financial insecurity.</h3>
+</details>
 
-$100 to $500.
+<details>
+  <summary>I am 17, can I apply for a Rust Foundation Hardship Grant?</summary>
+  <h3>You have to be 18 or older. We need to be mindful of different countries’ child labor laws, and laws that mean people under the age of 18 can’t enter into legal contracts.</h3>
+</details>
 
-### Application window:
+<details>
+  <summary>Can I apply for more than one Hardship Grant?</summary>
+  <h3>You can apply for up to two Hardship Grants in each calendar year.</h3>
+</details>
 
-Open continuously.
+<details>
+  <summary>Who makes the Hardship Grant recipient decisions?</summary>
+  <h3>Hardship Grant applications will be reviewed and selected by the Rust Foundation staff team with possible input from Rust Foundation Directors or members of the Project Teams if counsel is needed.</h3>
+</details>
 
-### Applicant notifications:
+<details>
+  <summary>What are Hardship Grant decisions based upon?</summary>
+  <h3>The decisions will be made based upon the contributions made by the individual to the Rust Project and community and the individual’s financial circumstances and needs</h3>
+</details>
 
-Within 10 working days of application submission.
+<details>
+  <summary>Will any information about me be shared publicly if I receive a Hardship Grant?</summary>
+  <h3>As a rule, the Rust Foundation will endeavor to keep details of any Hardship Grant application as private as possible, due to the sensitive circumstances under which someone might apply for a Hardship Grant.</h3>
+</details>
+<br>
+<center><h3>For answers to more more general FAQs about the grants program, click  <a href="/grants-faqs/">here</a>.</center></h3>
+<br>
+<hr>
+<br>
 
-- - -
+<center><h2>More Information</h2></center>
 
-## Program Details
+<p><center>Eligibility and exclusion criteria can be found <a href="/grants-eligibility/">here</a>. | Our privacy & data-handling policy can be found <a href="/policies/privacy-policy/">here</a>.
 
-Rust Event Support Grants are available to provide financial support for individuals, groups, and organizations to help cover the costs they incur in running events that support the Rust community. A budget of $15,000 USD per quarter has been allocated for Event Support Grants by the Rust Foundation.
+</p></center>
+<br>
 
-Applications for Event Support Grants can be made at any time, though in exceptional circumstances we may suspend applications if our budget for the quarter has already been spent.
+---
+<br>
 
-Applications can be made for grants from $100 to $500 USD. The types of expenses it is anticipated that the grants will be used to cover include:
+<center><h2>The Community Grants Program is made possible by these generous organizations:</h2></center>
 
-* The renting of event/meeting space
-* Travel costs
-* Refreshments
-* Swag
-* Online event platform costs
+<center><ul class="donorslist"><li><a href="https://www.activision.com/"><img src="/img/grants/activision.png" /></a></li><li><a href="https://aws.amazon.com/"><img src="/img/member/aws.png" /></a></li><li><a href="https://www.cargurus.com/"><img src="/img/grants/cargurus.png" /></a></li><li><a href="https://www.frontendmasters.com/"><img src="/img/grants/frontendmasters.png" /></a></li><li><a href="https://google.com/"><img src="/img/member/google.png" /></a></li><li><a href="https://www.huawei.com/"><img src="/img/member/huawei.png" /></a></li><li><a href="https://replit.com/"><img src="/img/grants/replit.png" /></a></li><li><a href="https://www.tag1consulting.com/"><img src="/img/member/tag1.png" /></a></li><li><a href="https://zama.ai/"><img src="/img/member/zama.png" /></a></li></ul></center>
 
-Applications for Event Grants can currently be made in English, Chinese, Spanish, and Portuguese, reflecting our ambition to support a global community of events.
+<center><p>... and by the companies and individuals who contribute through our <a href="https://github.com/sponsors/rustfoundation">GitHub Sponsors</a> page.</p></center>
 
-- - -
+<center><p><i>If your organization is interested in supporting the future of Rust’s talent and innovation through the Community Grants Program, please email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a>. Donations in any amount are greatly appreciated.</i></p></center>
 
-## FAQs
-
-### Can teams of people apply for an Event Support Grant?
-
-Yes, we welcome applications from teams of people and organizations.
-
-### Does it matter which country I live in or what my citizenship status is?
-
-No, but you (or your organization) must be able to legally receive funds from the USA to receive an Event Support grant.
-
-### I am 17, can I apply for an Event Support Grant?
-
-You have to be 18 or older on the date of your event. We need to be mindful of different countries’ child labor laws, and laws that mean people under the age of 18 can’t enter into legal contracts.
-
-### I am not currently a member of a Rust Project Team or Working Group, can I apply for an Event Support Grant?
-
-Yes.
-
-### I/my organization doesn’t have any experience with Rust, can I apply?
-
-Experience with running events – particularly events for open source communities – is more important than experience with Rust. But in order to demonstrate that your event will be a success, we'll expect you to show us how well you're connected to your local Rust users.
-
-### Do people have to adhere to a Code of Conduct to be awarded an Event Support Grant?
-
-Yes, you have to adhere to the [Rust Foundation Code of Conduct](https://foundation.rust-lang.org/policies/code-of-conduct/).
-
-### Will I have to write a report about my event?
-
-Yes, you will have to provide a brief written report about your event, for publication on the Rust Foundation website.
-
-### Will I need to provide receipts?
-
-Yes, after the event you will need to provide a report showing how the grant was spent, with copies of receipts. If you don’t spend all of the grant money on your event, you will have to return the balance to the Foundation.
-
-### How will I get paid for my event?
-
-We typically pay via direct bank transfers.
-
-### I have got a question that hasn’t been answered here – how can I get in touch for more information?
-
-Please email [grants@rustfoundation.org](mailto:grants@rustfoundation.org) and we will do our best to help.
-
-- - -
-
-## Selection Process
-
-Event Support Grant applications will be reviewed and selected by the Rust Foundation staff team. Event Support Grants will not be subject to a point-based scoring system. Instead, there will be a lighter-touch process, reflecting the relatively low amounts being awarded under this program. The Rust Foundation staff team will make their decision based on:
-
-* The type of event being proposed
-* The number of people likely to benefit from the event
-* The amount of funding being sought 
-* The accessibility of the event
-* The experience of the individual/team running the event
-* The location/languages of the event
-
-We will aim to make a decision regarding an Event Support Grant within 10 working days of receiving an application.
-
-Please also review our [general eligibility and exclusion criteria](/grants-eligibility/) before applying.
-
-- - -
-
-## Application questions and context
-
-To help you better understand if a Rust Event Support Grant might be suitable for you and to help you prepare for the application, the questions asked on the application, and the context for them, are as follows:
-
-### Name, pronouns, email address of applicant; name of group/organization arranging the event (if applicable)
-
-Essential information for us to stay in touch with you.
-
-### Links to personal website/public social media handles/LinkedIn of applicant/organization (as appropriate)
-
-This will enable us to learn a little bit more about you/your team and any public postings you may have made relating to Rust. We understand that some people choose not to have publicly available social media profiles (or social media accounts at all) nor other public sites. If this is true for you, don’t worry, it won’t count against you in the assessment process.
-
-### About the event: location(s) and languages
-
-We are keen to reflect the global diversity of the Rust community in our grant awards, and this information will help us achieve that. We can support events that are online-only.
-
-### Please give us a little bit of background about yourself/your group and your experience of running Rust-related events
-
-If this is your first time running a Rust-related event you can still apply. If you have no experience of running Rust-related events, but have experience of running other events, please include this here.
-
-### Please tell us a little bit about the planned event including expected number of attendees
-
-Please include details such as:
-
-* The type of event (meeting, conference, hackathon, etc)
-* The objective of the event
-* The number of people you hope will attend the event
-
-### Please tell us about the steps you are taking to ensure the accessibility and inclusivity of your event
-
-We are keen for all of the events supported by the Rust Foundation to be as open and inclusive as possible. We would hope that all live events will be taking place in venues that are accessible to people with disabilities, and that your event will have a code of conduct.
-
-### How much money are you applying for?
-
-Please provide an exact figure in the range of $100 - $500 USD.
-
-### What will the money be spent on?
-
-Please provide a brief budget breakdown for the event, indicating what the grant funds will be spent on.
+</section>
