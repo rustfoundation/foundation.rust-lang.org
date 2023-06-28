@@ -73,13 +73,13 @@ tags:
 <br>
 
 <style>
-.detail1, .detail3, .detail5, .detail7, .detail9 {
+.detail1, .detail3, .detail5, .detail7,{
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
   vertical-align: top;
 }
-.detail2, .detail4, .detail6, .detail8 {
+.detail2, .detail4, .detail6, {
   display: inline-block;  
   padding: 10px 10px;
   margin: 20px;
@@ -89,19 +89,15 @@ tags:
 
 <div class="detail1"><p>- Applicants may request support in amounts of between $100 and $500 USD.</p></div>
 
-<div class="detail2"><p>- Rust Event Support Grants are available to provide financial support for individuals and organizations to help cover the costs of running Rust community events.</p></div>
+<div class="detail2"><p>- Applications for Event Support Grants can be made at any time.</p></div>
 
-<div class="detail3"><p>- Applications for Event Support Grants can be made at any time.</p></div>
+<div class="detail3"><p>- In exceptional circumstances, we may pause the program if our budget for the quarter ($15,000 USD) has been spent. </p></div>
 
-<div class="detail4"><p>- In exceptional circumstances, we may pause the program if our budget for the quarter ($15,000 USD) has been spent. </p></div>
+<div class="detail4"><p>- Event Support Grants are intended to cover typical event expenses like space rental fees, travel costs, refreshments, swag, online event platform costs, etc.</p></div>
 
-<div class="detail5"><p>- Applications can currently be made in 4 different languages reflecting our ambition to support a global community.</p></div>
+<div class="detail5"><p>- We welcome applications from teams of people and organizations.</p></div>
 
-<div class="detail6"><p>- Event Support Grants are intended to cover typical event expenses like space rental fees, travel costs, refreshments, swag, online event platform costs, etc.</p></div>
-
-<div class="detail7"><p>- We welcome applications from teams of people and organizations.</p></div>
-
-<div class="detail8"><p>- Recipients will be required to abide by the <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Rust Foundation Code of Conduct</a> and provide a written report of their event for publication on our website.></p></div>
+<div class="detail6"><p>- Recipients will be required to abide by the <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Rust Foundation Code of Conduct</a> and provide a written report of their event for publication on our website.></p></div>
 <br>
 <hr>
 <br>
