@@ -70,7 +70,6 @@ tags:
 <br>
 <div><center><h2>Program Details</h2></center>
 <br>
-<br>
 
 <style>
 .detail1, .detail2, .detail3,{
