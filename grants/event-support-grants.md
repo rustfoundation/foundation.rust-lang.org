@@ -93,7 +93,7 @@ tags:
 
 <div class="detail3"><p>- Applications for Event Support Grants can be made at any time. &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; </p></div>
 
-<div class="detail4"><p>- In exceptional circumstance, we may suspend applications if our budget for the quarter ($15,000 USD) has already been spent. </p></div>
+<div class="detail4"><p> &nbsp; - In exceptional circumstance, we may suspend applications if our budget for the quarter ($15,000 USD) has already been spent. </p></div>
 
 <div class="detail5"><p>- Applications can currently be made in English, Chinese, and Portuguese, reflecting our ambition to support a global community.</p></div>
 
@@ -101,7 +101,7 @@ tags:
 
 <div class="detail7"><p>- We welcome applications from teams of people and organizations. &nbsp;  &nbsp;  &nbsp;  &nbsp; </p></div>
 
-<div class="detail8"><p>- Recipients will be required to abide by the <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Rust Foundation Code of Conduct and provide a written report of their event for publication on our website.</a></p></div>
+<div class="detail8"><p> &nbsp; - Recipients will be required to abide by the <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Rust Foundation Code of Conduct and provide a written report of their event for publication on our website.</a></p></div>
 <br>
 <hr>
 <br>
