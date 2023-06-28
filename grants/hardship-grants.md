@@ -15,7 +15,7 @@ tags:
 <br>
 <p>The Rust Foundation understands that members of the Rust community may suffer from financial hardship from time to time, which can lead to food and accommodation insecurity. The Hardship Grants program is aimed at providing short-term financial support to those active maintainers of the Rust Project most in need of help.</p>
 <br>
-<p>Hardship Grants are available to applicants in amounts randing from $500 to $1,000 USD. Recipients will be individuals who contribute significantly to the Rust Project and who have urgent financial insecurity.</p></center>
+<p>Hardship Grants are available to applicants in amounts randing from $500 to $1,000 USD. Recipients will be individuals who contribute significantly to the Rust Project and who have urgent financial insecurity.</p>
 <br>
 
 <style>
@@ -34,7 +34,8 @@ tags:
 
 <div class="bordered">
 <br>
-<br><a href = "mailto: grants@rustfoundation.org" style="color:#FFFFFF";>>> Apply</a></center>
+<br><a href = "mailto: grants@rustfoundation.org" style="color:#FFFFFF";>>> Apply</a>
+</center>
 </div>
 
 
