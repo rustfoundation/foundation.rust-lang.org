@@ -20,7 +20,7 @@ tags:
 
 <style>
   .bordered {
-    width: 375px;
+    width: 175px;
     max-width: 100%;
     text-align: center;
     color: #FFFFFF;
@@ -33,7 +33,7 @@ tags:
 </style>
 
 <div class="bordered">
-<a href = "mailto: grants@rustfoundation.org" style="color:#FFFFFF";>>> Apply</a>
+<h3><a href = "mailto: grants@rustfoundation.org" style="color:#FFFFFF";>>> Apply</a></h3>
 </center>
 </div>
 
