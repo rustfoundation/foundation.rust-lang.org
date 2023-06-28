@@ -91,7 +91,7 @@ tags:
 
 <div class="detail2"><p>- Rust Event Support Grants are available to provide financial support for individuals, groups, and organizations to help cover the costs they incur in running Rust community events.</p></div>
 
-<div class="detail3"><p>- Applications for Event Support Grants can be made at any time. &nbsp;  &nbsp;  &nbsp; </p></div>
+<div class="detail3"><p>- Applications for Event Support Grants can be made at any time. &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; </p></div>
 
 <div class="detail4"><p>- In exceptional circumstance, we may suspend applications if our budget for the quarter ($15,000 USD) has already been spent. </p></div>
 
@@ -99,7 +99,7 @@ tags:
 
 <div class="detail6"><p>- Event Support Grants are intended to cover typical event expenses like space rental fees, travel costs, refreshments, swag, online event platform costs, etc.</p></div>
 
-<div class="detail7"><p>- We welcome applications from teams of people and organizations. &nbsp;  &nbsp;  &nbsp; </p></div>
+<div class="detail7"><p>- We welcome applications from teams of people and organizations. &nbsp;  &nbsp;  &nbsp;  &nbsp; </p></div>
 
 <div class="detail8"><p>- Recipients will be required to abide by the <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Rust Foundation Code of Conduct and provide a written report of their event for publication on our website.</a></p></div>
 <br>
