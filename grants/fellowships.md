@@ -15,6 +15,7 @@ tags:
 <br>
 <h3><center><i>The 2023 Fellowship Application is Now Closed. Please stay tuned for news of future Rust Foundation Fellowship application periods.</i></center></h3>
 <br>
+
 ---
 
 <center><table></table><table border="”4″"><tbody><tr><th colspan="2"><h3>2023 Application Dates</h3></th></tr><tr><td><u>Application window:</u></td><td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td></tr><tr><td><u>Fellow selections: </u></td><td>Wednesday, July 6th, 2023.</td></tr><tr><td><u>Applicant notifications:</u></td><td>Friday, July 7th, 2023.</td></tr><tr><td><u>Fellowship year begins:</u></td><td>Monday, July 24, 2023</td></tr></tbody></table></center>
