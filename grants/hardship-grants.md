@@ -210,58 +210,38 @@ tags:
   <div class="details">
 
   <details>
-  <summary>How long does the program last?</summary>
-  <h3>Project Grants are typically awarded for packages of work spanning 6 months.</h3>
+  <summary>When can I apply for a Hardship Grant?</summary>
+  <h3>The Hardship Grant application is open on an ongoing basis. Please visit <a href="/grants/hardship-grants/">this page</a> for more information and to apply.</h3>
 </details>
 
 <details>
-  <summary>Does it matter which country I live in or what my citizenship status is?</summary>
-  <h3>No, but you have to be able to legally receive funds from the USA to be a Project Grant recipient.</h3>
+  <summary>Who is eligible to apply for a Hardship Grant?</summary>
+  <h3>Rust community members who contribute significantly to the Rust Project and who have urgent financial insecurity.</h3>
 </details>
 
 <details>
-  <summary>I am 17, can I apply to be a Rust Foundation Grantee?</summary>
-  <h3>In order to accommodate and abide by different countries’ child labor laws, we are not able to consider applications from people under the age of 18.</h3>
+  <summary>I am 17, can I apply for a Rust Foundation Hardship Grant?</summary>
+  <h3>You have to be 18 or older. We need to be mindful of different countries’ child labor laws, and laws that mean people under the age of 18 can’t enter into legal contracts.</h3>
 </details>
 
 <details>
-  <summary>What type of work do Rust Foundation Project Grants support?</summary>
-  <h3>Any work that benefits the Rust ecosystem as a whole is eligible for a Project Grant. Priority will be given to those grants that will clearly deliver a significant benefit to a reasonable proportion of the Rust community.</h3>
+  <summary>Can I apply for more than one Hardship Grant?</summary>
+  <h3>You can apply for up to two Hardship Grants in each calendar year.</h3>
 </details>
 
 <details>
-  <summary>Who can apply for a Project Grant?</summary>
-  <h3>Project Grants are open to applications from anyone who will be over the age of 18 at the time of the grant award. Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. Employees of organizations that are Members of the Rust Foundation should contact us at grants@rustfoundation.org prior to completing an application, in order for us to assess whether an award to them might represent a conflict of interest for the Foundation.</h3>
+  <summary>Who makes the Hardship Grant recipient decisions?</summary>
+  <h3>Hardship Grant applications will be reviewed and selected by the Rust Foundation staff team with possible input from Rust Foundation Directors or members of the Project Teams if counsel is needed.</h3>
 </details>
 
 <details>
-  <summary>I am interested in building the Rust community as the focus of a potential Project Grant, not writing code. Can I apply?</summary>
-  <h3>Yes.</h3>
+  <summary>What are Hardship Grant decisions based upon?</summary>
+  <h3>The decisions will be made based upon the contributions made by the individual to the Rust Project and community and the individual’s financial circumstances and needs</h3>
 </details>
 
 <details>
-  <summary>Do I have to speak English to be a Rust Foundation Grantee?</summary>
-  <h3>Spoken English is not a requirement of the program, but Fellows will need a reasonable understanding of written English in order to be able to interact with the Rust Foundation staff team and the larger Rust community when necessary.</h3>
-</details>
-
-<details>
-  <summary>If I become a Project Grantee, will any information about me be published publicly?</summary>
-  <h3>We will publish a brief biography of you on the Rust Foundation website, along with any public social media/other relevant links that you are willing to share. If you would rather we use your online alias in place of your legal name, please let us know. While our preference is to publish a picture of you, we will also accept an avatar as an alternative.</h3>
-</details>
-
-<details>
-  <summary>How will I get paid as a Project Grantee?</summary>
-  <h3>RFFs are typically paid via direct bank transfers.</h3>
-</details>
-
-<details>
-  <summary>Can I drop out of the program if I am not enjoying it?</summary>
-  <h3>Yes, however we will do everything we can to find ways to make the program more enjoyable for you! Our goal is for all Fellows to feel comfortable telling the Rust Foundation team if they have issues or concerns related to the program so we can work together to find a solution.</h3>
-</details>
-
-<details>
-  <summary>How will my work be monitored during the program?</summary>
-  <h3>The Rust Foundation trusts our Project Grantees to honestly report how they have been supporting the Rust Project.</h3>
+  <summary>Will any information about me be shared publicly if I receive a Hardship Grant?</summary>
+  <h3>As a rule, the Rust Foundation will endeavor to keep details of any Hardship Grant application as private as possible, due to the sensitive circumstances under which someone might apply for a Hardship Grant.</h3>
 </details>
 <br>
 <center><h3>For answers to more more general FAQs about the grants program, click  <a href="/grants-faqs/">here</a>.</center></h3>
