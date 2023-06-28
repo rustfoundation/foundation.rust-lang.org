@@ -33,7 +33,7 @@ tags:
 </style>
 
 <div class="bordered">
-<h3><a href = "mailto: grants@rustfoundation.org" style="color:#FFFFFF";>>> APPLY</a></h3>
+<h3><a href = "mailto: grants@rustfoundation.org" style="color:#FFFFFF";>APPLY</a></h3>
 </center>
 </div>
 
