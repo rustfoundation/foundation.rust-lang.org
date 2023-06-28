@@ -93,7 +93,7 @@ tags:
 
 <div class="detail3"><p>- Applications for Event Support Grants can be made at any time. &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; </p></div>
 
-<div class="detail4"><p> &nbsp;  &nbsp; - In exceptional circumstance, we may suspend applications if our budget for the quarter ($15,000 USD) has already been spent. </p></div>
+<div class="detail4"><p> &nbsp;  &nbsp; - In exceptional circumstances, we may pause the program if our budget for the quarter ($15,000 USD) has been spent. </p></div>
 
 <div class="detail5"><p>- Applications can currently be made in 4 different languages reflecting our ambition to support a global community.</p></div>
 
