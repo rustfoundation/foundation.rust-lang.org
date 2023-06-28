@@ -95,7 +95,7 @@ tags:
 
 <div class="detail4"><p> &nbsp;  &nbsp; - In exceptional circumstance, we may suspend applications if our budget for the quarter ($15,000 USD) has already been spent. </p></div>
 
-<div class="detail5"><p>- Applications can currently be made in several different languages reflecting our ambition to support a global community.</p></div>
+<div class="detail5"><p>- Applications can currently be made in 4 different languages reflecting our ambition to support a global community.</p></div>
 
 <div class="detail6"><p>- Event Support Grants are intended to cover typical event expenses like space rental fees, travel costs, refreshments, swag, online event platform costs, etc.</p></div>
 
