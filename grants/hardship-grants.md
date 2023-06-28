@@ -79,22 +79,22 @@ tags:
   }
 </style>
 
-<div class="detail1"><p>- Project grants are financial awards that support specific packages of work that benefit the Rust ecosystem.</p></div>
+<div class="detail1"><p>- Applicants may request support in amounts of between $500 and $1,500 USD.</p></div>
 
-<div class="detail2"><p>- Project Grants are awarded to both individuals and teams, regardless of Rust Project Team/Working Group status or lack thereof.</p></div>
+<div class="detail2"><p>- Hardship Grants are available to individuals who contribute significantly to the Rust Project and who have urgent financial insecurity.</p></div>
 
+<div class="detail3"><p>- Out of respect for recipients, we will keep all details of Hardship Grant awards private. </p></div>
 
-<div class="detail3"><p>- Project Grants are available for non-coding education/outreach work as well as engineering-focused work.</p></div>
+<div class="detail4"><p>- If you would like to apply for a Hardship Grant, please tell us about yourself and your situation in your email application, including details of your contributions to the Rust Project.</p></div>
 
-<div class="detail4"><p>- Priority will be given to those grants that will clearly deliver a significant benefit to the Rust community.</p></div>
+<div class="detail5"><p>- Hardship Grant applications will be reviewed and selected by the Rust Foundation staff team with possible input from Rust Foundation Directors or members of the Project Teams if counsel is needed.</p></div>
 
-<div class="detail5"><p>- Work under the Project Grants program should be carried out within six months.</p></div>
+<div class="detail6"><p>- The decisions will be made based upon the contributions made by the individual to the Rust Project and the individual’s financial circumstances and need.</p></div>
 
-<div class="detail6"><p>- Project Grantees <i>will not</i> be required to set and meet specific milestones. At the end of the program, Project Grantees <i>will</i> be asked to write a blog detailing their experience for possible publication on our website.</p></div>
+<div class="detail7"><p>- We will aim to make a decision regarding a Hardship Grant within 5 working days of receiving an application.</p></div>
 
-<div class="detail7"><p>- Periodically, Project Grantees will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p></div>
-
-<div class="detail8"><p>- All Project Grantees will be required to adhere to the Rust Foundation’s <a href="/policies/code-of-conduct/">Code of Conduct</a>, which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
+<div class="detail8"><p>- Individuals may apply for up to two Hardship Grants in each calendar year.
+</p></div>
 <br>
 <hr>
 <br>
