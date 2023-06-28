@@ -18,7 +18,7 @@ tags:
 <br>
 
 <style>
-  .bordered {
+  .bordered1, .bordered2, .bordered3, .bordered4 {
     width: 175px;
     max-width: 100%;
     text-align: center;
@@ -31,14 +31,17 @@ tags:
   }
 </style>
 
-<div class="bordered">
-<h3><a href = "https://app.smarterselect.com/programs/80971-Rust-Foundation" style="color:#FFFFFF";>Apply in English</a></h3>
+<div class="bordered1">
+<h3><a href = "https://app.smarterselect.com/programs/80971-Rust-Foundation" style="color:#FFFFFF";>Apply in English</a></h3></div>
 <br>
-<h3><a href = "https://app.smarterselect.com/programs/81295-Rust-Foundation" style="color:#FFFFFF";>En Français</a></h3>
+<div class="bordered2">
+<h3><a href = "https://app.smarterselect.com/programs/81295-Rust-Foundation" style="color:#FFFFFF";>En Français</a></h3></div>
 <br>
-<h3><a href = "https://app.smarterselect.com/programs/81297-Rust-Foundation" style="color:#FFFFFF";>Em Portugues</a></h3>
+<div class="bordered3">
+<h3><a href = "https://app.smarterselect.com/programs/81297-Rust-Foundation" style="color:#FFFFFF";>Em Portugues</a></h3></div>
 <br>
-<h3><a href = "https://app.smarterselect.com/programs/81296-Rust-Foundation" style="color:#FFFFFF";>中文</a></h3>
+<div class="bordered4">
+<h3><a href = "https://app.smarterselect.com/programs/81296-Rust-Foundation" style="color:#FFFFFF";>中文</a></h3></div>
 </center>
 </div>
 
