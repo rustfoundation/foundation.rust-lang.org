@@ -34,7 +34,7 @@ tags:
 
 <div class="bordered">
 <br>
-<br><a href = "mailto: grants@rustfoundation.org" style="color:#FFFFFF";>>> Email us to apply for a Rust Foundation Hardship Grant</a></center>
+<br><a href = "mailto: grants@rustfoundation.org" style="color:#FFFFFF";>>> Apply</a></center>
 </div>
 
 
@@ -48,8 +48,8 @@ tags:
     <td>Between $500 to $1,000 USD.</td>
   </tr>
   <tr>
-    <td><u>Past Project Grantees:</u</td>
-    <td>2022 Project Grantees listed <a href="/news/2022-06-14-community-grants-program-awards-announcement/">here</a>; 2023 Project Grantees listed <a href="/news/community-grants-program-awards-announcement-introducing-our-latest-project-grantees/">here</a> </td>
+    <td><u>Applicant notifications:</u</td>
+    <td>Within 5 working days of application submission.</td>
   </tr>
   <tr>
     <td><u>Application Period:</u></td>
@@ -57,8 +57,6 @@ tags:
   </tr>
  </table></center>
 </div>
-<br>
-&nbsp;
 <br>
 <hr>
 <br>
