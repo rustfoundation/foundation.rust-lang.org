@@ -91,7 +91,7 @@ tags:
 
 <div class="detail2"><p>- Rust Event Support Grants are available to provide financial support for individuals, groups, and organizations to help cover the costs they incur in running Rust community events.</p></div>
 
-<div class="detail3"><p>- Applications for Event Support Grants can be made at any time.</p></div>
+<div class="detail3"><p>- Applications for Event Support Grants can be made at any time. &nbsp;  &nbsp;  &nbsp; </p></div>
 
 <div class="detail4"><p>- In exceptional circumstance, we may suspend applications if our budget for the quarter ($15,000 USD) has already been spent. </p></div>
 
