@@ -1,7 +1,6 @@
 layout: layouts/grants.njk
 description: >-
-   Awards ranging from $500 to $1,500 made to active maintainers of the Rust
-   Project facing financial hardship.
+   Awards ranging from $100 to $500 made to support virtual and in-person events benefitting the Rust ecosystem.
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
@@ -50,15 +49,15 @@ tags:
 <table border="”4″"><th colspan="2"><h3>Key Program Facts</h3></th>
   <tr>
     <td><u>Grant Value:</u></td>
-    <td>Between $500 to $1,000 USD.</td>
+    <td>Between $100 and $500 USD.</td>
   </tr>
   <tr>
     <td><u>Applicant notifications:</u</td>
-    <td>Within 5 working days of application submission.</td>
+    <td>Within 10 working days of application submission.</td>
   </tr>
   <tr>
     <td><u>Application Period:</u></td>
-    <td>Rolling. Email us at <a href = "mailto: grants@rustfoundation.org">grants@rustfoundation.org</a> to apply.</td> 
+    <td>Rolling.</td> 
   </tr>
  </table></center>
 </div>
