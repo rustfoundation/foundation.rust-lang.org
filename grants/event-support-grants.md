@@ -73,7 +73,7 @@ tags:
 <br>
 
 <style>
-.detail1, .detail3, .detail5, .detail7,{
+.detail1, .detail3, .detail5,{
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
