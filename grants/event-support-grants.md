@@ -87,7 +87,7 @@ tags:
   }
 </style>
 
-<div class="detail1"><p>- Applicants may request support in amounts of between $100 and $500 USD.</p></div>
+<center><div class="detail1"><p>- Applicants may request support in amounts of between $100 and $500 USD.</p></div>
 
 <div class="detail2"><p>- Applications for Event Support Grants can be made at any time.</p></div>
 
@@ -97,7 +97,7 @@ tags:
 
 <div class="detail5"><p>- We welcome applications from teams of people and organizations.</p></div>
 
-<div class="detail6"><p>- Recipients will be required to abide by the <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Rust Foundation Code of Conduct</a> and provide a written report of their event for publication on our website.></p></div>
+<div class="detail6"><p>- Recipients will be required to abide by the <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Rust Foundation Code of Conduct</a> and provide a written report of their event for publication on our website.></p></div></center>
 <br>
 <hr>
 <br>
