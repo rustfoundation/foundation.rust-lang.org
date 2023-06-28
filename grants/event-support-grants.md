@@ -73,13 +73,13 @@ tags:
 <br>
 
 <style>
-.detail1, .detail3, .detail5,{
+.detail1, .detail2, .detail3,{
   display: inline-block;
   padding: 10px 10px;
   margin: 20px;
   vertical-align: top;
 }
-.detail2, .detail4, .detail6, {
+.detail4, .detail5, .detail6, {
   display: inline-block;  
   padding: 10px 10px;
   margin: 20px;
