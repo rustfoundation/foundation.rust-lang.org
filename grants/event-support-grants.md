@@ -1,3 +1,4 @@
+---
 layout: layouts/grants.njk
 description: >-
    Awards ranging from $100 to $500 made to support virtual and in-person events benefitting the Rust ecosystem.
