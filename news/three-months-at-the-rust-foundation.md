@@ -1,7 +1,7 @@
 ---
 date: 2023-07-01T12:00:00Z
 title: My first three months at the Rust Foundation
-description: Time flies when you're having fun… at the Rust Foundation
+description: A recap of my work at the Rust Foundation and accomplishments so far
 byline: Tobias Bieniek, crates.io team co-lead and Rust Foundation software engineer
 tags:
   - foundation
@@ -11,6 +11,8 @@ layout: layouts/news.njk
 In May 2022, I received an exciting email from the Rust Foundation:
 
 > […] you have been provisionally selected to be one of our first Rust Foundation Fellows
+
+As a contributor to the Rust project for many years, receiving this grant money allowed me to focus more of my time on the open source volunteer work I enjoy.
 
 Fast-forward one year, and that fellowship grant has transformed into a full-time role at the Rust Foundation. My primary focus now revolves around the maintenance and feature development for [crates.io](https://crates.io), the official Rust package registry.
 
