@@ -1,5 +1,5 @@
 ---
-date: 2023-07-01T12:00:00Z
+date: 2023-07-19T20:03:00Z
 title: My first three months at the Rust Foundation
 description: A recap of my work at the Rust Foundation and accomplishments so far
 byline: Tobias Bieniek, crates.io team co-lead and Rust Foundation software engineer
