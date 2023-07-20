@@ -1,5 +1,5 @@
 ---
 name: Ryan Levick
-title: Project Director, Core Team
+title: Project Director, Leadership Council
 headshot: /img/headshot/ryan.jpg
 ---
