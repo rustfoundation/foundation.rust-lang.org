@@ -6,6 +6,7 @@ date: 2023-07-25T12:00:00Z
 tags:
   - membership
   - member stories
+  - adoption
 index: false
 layout: layouts/news.njk
 ---
