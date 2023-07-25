@@ -9,6 +9,8 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
+<img src="/uploads/lars-bergstrom-graphic.png" width="580" height="326" alt="The Power of Rust Adoption:  Lessons From Google" title="[Heading] The Power of Rust Adoption:  Lessons From Google [Sub-heading] With Lars Bergstrom  Director of Engineering at Google for Android Platform Programming Languages,  Rust Foundation Board of Directors Chair" />
+
 Rust Foundation Platinum Member, Google recently published a [<u>valuable blog</u>](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html) by Lars Bergstrom, Ph.D. (Director of Engineering at Google for Android Platform Programming Languages and Chair of the Rust Foundation Board of Directors) and Kathy Brennan, Ph.D. (Low-Level Operating Systems Sr. User Experience Researcher at Google).&nbsp;
 
 In the post entitled “[*<u>Rust Fact vs. Fiction: 5 Insights from Google's Rust Journey in 2022</u>*](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)”, Lars and Kathy share key insights gleaned from the experiences of over 1,000 Google developers who have used Rust in some part of their work in 2022. They also cite data from the early days of Rust at Google to address some common claims about adopting Rust, including rumors like “Rust takes more than 6 months to learn” (debunked!) and “Rust code is high-quality” (confirmed!).&nbsp;
