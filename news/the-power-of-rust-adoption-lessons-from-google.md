@@ -1,7 +1,7 @@
 ---
-title: 'The Power of Rust Adoption: Lessons From Google'
+title: 'The Power of Rust Adoption: Lessons from Google'
 byline: Rust Foundation Staff
-description: Rust adoption insights from Rust Foundation Platinum Member Google
+description: Rust adoption insights from Google —  a Rust Foundation Platinum Member.
 date: 2023-07-25T12:00:00Z
 tags:
   - membership
