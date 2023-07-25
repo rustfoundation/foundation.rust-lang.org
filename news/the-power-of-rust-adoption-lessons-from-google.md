@@ -10,8 +10,6 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/uploads/lars-bergstrom-graphic.png" width="580" height="326" alt="The Power of Rust Adoption:  Lessons From Google" title="[Heading] The Power of Rust Adoption:  Lessons From Google [Sub-heading] With Lars Bergstrom  Director of Engineering at Google for Android Platform Programming Languages,  Rust Foundation Board of Directors Chair" />
-
 Rust Foundation Platinum Member, Google recently published a [<u>valuable blog</u>](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html) by Lars Bergstrom, Ph.D. (Director of Engineering at Google for Android Platform Programming Languages and Chair of the Rust Foundation Board of Directors) and Kathy Brennan, Ph.D. (Low-Level Operating Systems Sr. User Experience Researcher at Google).&nbsp;
 
 In the post entitled “[*<u>Rust Fact vs. Fiction: 5 Insights from Google's Rust Journey in 2022</u>*](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)”, Lars and Kathy share key insights gleaned from the experiences of over 1,000 Google developers who have used Rust in some part of their work in 2022. They also cite data from the early days of Rust at Google to address some common claims about adopting Rust, including rumors like “Rust takes more than 6 months to learn” (debunked!) and “Rust code is high-quality” (confirmed!).&nbsp;
@@ -25,8 +23,6 @@ This data shared by Google makes a strong case for Rust adoption, despite these 
 > *“Developer satisfaction and productivity are correlated with both code quality and how long it takes to get a code review. If Rust is not only better for writing quality code but also better for getting that code landed, that’s a pretty compelling set of reasons beyond even performance and memory safety for companies to be evaluating and considering adopting it.”&nbsp;*
 
 ## We recently chatted with Lars about [<u>the findings</u>](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html) of this 2022 survey of Rust developers at Google and asked him for some more context around Google’s initial decision to adopt Rust, how Google supported its developers using Rust in the early days, and more. Here’s what he had to say during this mini-interview:&nbsp;
-
-
 
 ### Q: What were some of Google’s questions and concerns about adopting Rust in the early days? How do you feel about those things several years into Google’s Rust adoption?&nbsp;
 
