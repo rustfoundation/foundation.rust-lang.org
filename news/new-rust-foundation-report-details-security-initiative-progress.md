@@ -10,8 +10,6 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/uploads/securityinitiativereport.png" width="580" height="326" title="Security Initiative Report" />
-
 The [<u>Rust Foundation</u>](https://foundation.rust-lang.org/), an independent non-profit dedicated to stewarding the [<u>Rust</u>](https://www.rust-lang.org/) programming language, today released a new report detailing the recent accomplishments of their Security Initiative – an effort to advance the state of security within the Rust programming language ecosystem.&nbsp;
 
 In recent years, the global adoption and popularity of the Rust programming language have grown at a rapid rate. But as software engineers, business leaders, and global governments become more aware of the many advantages of Rust, the need for more scalable security systems and safeguards against bad actors has become more urgent.&nbsp;
