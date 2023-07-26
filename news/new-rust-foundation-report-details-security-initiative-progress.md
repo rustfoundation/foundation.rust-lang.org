@@ -19,7 +19,7 @@ The Rust Foundation [<u>announced its Security Initiative</u>](https://foundatio
 The Rust Foundation Security Initiative works in close collaboration with Rust Project leaders within specific teams and working groups. This collaboration has resulted in impactful achievements between December 2022 and September 2022, including:&nbsp;
 
 * Considerable progress on a complete security audit of the Rust ecosystem
-* Completion of several threat models, enabling the Rust Foundation and Rust Project to better understand the risks identified by the Security Audit
+* Completion of several threat models, enabling the Rust Foundation and Rust Project to better understand the risks identified by the security audit
 * Development of several new tools to enhance Rust maintainers’ security workflows and unlock greater insight into vulnerabilities
 * crates.io technical debt reduction & API token improvements
 
