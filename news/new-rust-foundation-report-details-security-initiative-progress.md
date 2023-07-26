@@ -2,7 +2,7 @@
 title: New Rust Foundation Report Details Security Initiative Progress
 byline: The Rust Foundation
 description: "The Rust Foundation’s Security Initiative was created in 2022 to support security improvements to the Rust programming language ecosystem. In a new report, the Foundation details recent Rust security focus areas, milestones, and upcoming plans.\_"
-date: 2023-07-27T06:00:00Z
+date: 2023-07-27T13:00:00Z
 tags:
   - announcement
   - 'foundation '
@@ -10,6 +10,8 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
+<img src="/uploads/securityinitiativereport.png" width="580" height="326" title="Security Initiative Report" />
+
 The [<u>Rust Foundation</u>](https://foundation.rust-lang.org/), an independent non-profit dedicated to stewarding the [<u>Rust</u>](https://www.rust-lang.org/) programming language, today released a new report detailing the recent accomplishments of their Security Initiative – an effort to advance the state of security within the Rust programming language ecosystem.&nbsp;
 
 In recent years, the global adoption and popularity of the Rust programming language have grown at a rapid rate. But as software engineers, business leaders, and global governments become more aware of the many advantages of Rust, the need for more scalable security systems and safeguards against bad actors has become more urgent.&nbsp;
@@ -18,7 +20,7 @@ The Rust Foundation [<u>announced its Security Initiative</u>](https://foundatio
 
 The Rust Foundation Security Initiative works in close collaboration with Rust Project leaders within specific teams and working groups. This collaboration has resulted in impactful achievements between December 2022 and September 2022, including:&nbsp;
 
-* Considerable progress on a complete Security Audit of the Rust ecosystem
+* Considerable progress on a complete security audit of the Rust ecosystem
 * Completion of several threat models, enabling the Rust Foundation and Rust Project to better understand the risks identified by the Security Audit
 * Development of several new tools to enhance Rust maintainers’ security workflows and unlock greater insight into vulnerabilities
 * crates.io technical debt reduction & API token improvements
@@ -26,8 +28,6 @@ The Rust Foundation Security Initiative works in close collaboration with Rust P
 The Rust Foundation invites you to download its first Security Initiative Report to learn more about the focus areas and achievements of this effort to date.&nbsp;
 
 ### [<u>&gt; &gt; Download the Security Initiative Report&nbsp;</u>](https://foundation.rust-lang.org/static/publications/security-initiative-report-july-2023.pdf)
-
-
 
 Rust Foundation Executive Director & CEO Rebecca Rumbul said the following about the Security Initiative and the new report:
 
@@ -46,9 +46,3 @@ For more about the Rust Foundation and to stay up to date on our latest activiti
 ## About the Rust Foundation&nbsp;
 
 The Rust Foundation is an independent non-profit organization dedicated to stewarding the Rust programming language, nurturing the Rust ecosystem, and supporting the set of maintainers governing and developing the project. Learn more at [<u>rustfoundation.org</u>](http://foundation.rust-lang.org/).
-
-## Contacts&nbsp;
-
-Gracie Gregory, Director of Communications & Marketing
-
-graciegregory@rustfoundation.org
