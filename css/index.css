@@ -190,6 +190,11 @@ main {
 .member a[href]:not(:hover),.nav-item a[href]:not(:hover) {
   text-decoration: none;
 }
+
+.donor  a[href]:not(:hover),.nav-item a[href]:not(:hover) {
+  text-decoration: none;
+}
+
 .nav-item-active {
   font-weight: 900;
   text-decoration: underline;
