@@ -20,7 +20,7 @@ The Rust Foundation Security Initiative works in close collaboration with Rust P
 
 * Considerable progress on a complete security audit of the Rust ecosystem
 * Completion of several threat models, enabling the Rust Foundation and Rust Project to better understand the risks identified by the security audit
-* Development of several new tools to enhance Rust maintainers’ security workflows and unlock greater insight into vulnerabilities
+* Development of several new tools to enhance Rust maintainers’ security workflows and unlock greater insight into vulnerabilities, including <a target="_blank" rel="noopener" href="https://github.com/rustfoundation/painter">Painter</a>.
 * crates.io technical debt reduction & API token improvements
 
 The Rust Foundation invites you to download its first Security Initiative Report to learn more about the focus areas and achievements of this effort to date.&nbsp;
