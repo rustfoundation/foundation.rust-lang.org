@@ -8,6 +8,8 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
+<img src="/uploads/turbofish.png" width="580" height="326" />
+
 *Welcome to another installment of the Rust Foundation Member Spotlight series! These blogs aim to introduce our community to various Rust Foundation Member organizations and their leaders. In this installment, we spoke with Judd Keppel, CTO of* [*<u>Turbofish</u>*](https://www.turbofish.org/) *— the newest Rust Foundation Silver Member organization. Judd chatted with the Rust Foundation team about the work of Turbofish, how they use Rust, and more.&nbsp;*
 
 ## **Tell us about Turbofish. What do you do and who do you serve?**
@@ -58,4 +60,4 @@ For me, the answer is procedural macros – easily. The combination of Rust’s 
 
 ### Welcome to the Rust Foundation, Turbofish!
 
-You can learn more about Turbofish on their [<u>website</u>](https://www.turbofish.org/) and [<u>blog</u>](https://www.turbofish.org/blog).&nbsp;
+You can learn more about Turbofish on their [<u>website</u>](https://www.turbofish.org/) and [<u>blog</u>](https://www.turbofish.org/blog)&nbsp;and connect with their team on [Twitter](https://twitter.com/turbofish_org) and [LinkedIn](https://linkedin.com/company/turbofish).&nbsp;
