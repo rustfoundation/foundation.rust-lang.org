@@ -8,8 +8,6 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-<img src="/uploads/turbofish.png" width="580" height="326" />
-
 *Welcome to another installment of the Rust Foundation Member Spotlight series! These blogs aim to introduce our community to various Rust Foundation Member organizations and their leaders. In this installment, we spoke with Judd Keppel, CTO of* [*<u>Turbofish</u>*](https://www.turbofish.org/) *— the newest Rust Foundation Silver Member organization. Judd chatted with the Rust Foundation team about the work of Turbofish, how they use Rust, and more.&nbsp;*
 
 ## **Tell us about Turbofish. What do you do and who do you serve?**
@@ -53,8 +51,6 @@ The eye-watering valuations of useless coins and streak of shady characters have
 ## **What is your personal favorite thing about Rust?**
 
 For me, the answer is procedural macros – easily. The combination of Rust’s type system with crates like syn, quote, and darling make metaprogramming in Rust so fun. This is a hugely underrated part of the Rust experience.
-
-
 
 *Judd Keppel is the co-founder and CTO of Turbofish. Judd co-founded Turbofish in 2018 after departing from Tendermint where he worked on Cosmos. Turbofish is building Nomic, a Bitcoin bridge for the Cosmos ecosystem. Judd leads the Rust-based engineering team contributing to Nomic and Turbofish’s other projects.*
 
