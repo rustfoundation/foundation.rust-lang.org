@@ -54,6 +54,8 @@ The eye-watering valuations of useless coins and streak of shady characters have
 
 For me, the answer is procedural macros – easily. The combination of Rust’s type system with crates like syn, quote, and darling make metaprogramming in Rust so fun. This is a hugely underrated part of the Rust experience.
 
+
+
 *Judd Keppel is the co-founder and CTO of Turbofish. Judd co-founded Turbofish in 2018 after departing from Tendermint where he worked on Cosmos. Turbofish is building Nomic, a Bitcoin bridge for the Cosmos ecosystem. Judd leads the Rust-based engineering team contributing to Nomic and Turbofish’s other projects.*
 
 ---
