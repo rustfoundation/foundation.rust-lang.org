@@ -32,15 +32,15 @@ We also look forward to presenting a panel from the Rust Foundation's Technology
 
 * Walter Pearce — Security Engineer at the Rust Foundation
 
-### [&gt;&gt; Browse the complete Rust Global program here](https://events.linuxfoundation.org/rust-global/program/schedule-at-a-glance/)
+## [&gt;&gt; Browse the complete Rust Global program here](https://events.linuxfoundation.org/rust-global/program/schedule-at-a-glance/)
 
 
 
-### [&gt;&gt; Register to join us at Rust Global](https://events.linuxfoundation.org/rust-global/register/)
+## [&gt;&gt; Register to join us at Rust Global](https://events.linuxfoundation.org/rust-global/register/)
 
 ---
 
-​​​​​​​​​​​​​​​​​​​​​​
+​​​​​​​​​​​​​​​
 
 ### About Rust Global
 
