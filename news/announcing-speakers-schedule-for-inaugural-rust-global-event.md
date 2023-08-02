@@ -24,7 +24,7 @@ The Rust Foundation is excited to present the complete lineup of speakers and se
 * Hannah Aubry — Senior Community Manager, DevEx, Fastly ("[A Web of Rust: The Future of the Internet Depends on Trust](https://wasmcon2023.sched.com/#)")
 * Michael Yuan — Co-Founder of Second State ("[Wasm and Rust in the World of LLM Applications - Michael Yuan, Second State](https://wasmcon2023.sched.com/event/1PlCy/wasm-and-rust-in-the-world-of-llm-applications-michael-yuan-second-state)")
 
-We also look forward to presenting a panel from the Rust Foundation's Technology Team featuring:&nbsp;
+## We also look forward to presenting a panel from the Rust Foundation's Technology Team featuring:&nbsp;
 
 * Joel Marcey — Director of Technology at the Rust Foundation
 
