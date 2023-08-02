@@ -13,7 +13,7 @@ layout: layouts/news.njk
 ---
 The Rust Foundation is excited to present the complete lineup of speakers and sessions for our inaugural [Rust Global](https://events.linuxfoundation.org/rust-global/) event, which is being held as a half-day event co-located with WasmCon 2023.&nbsp;
 
-*Read the official schedule announcement from WasmCon here.&nbsp;*
+*Read the official WasmCon schedule announcement from the Linux Foundation&nbsp;[here](https://www.prnewswire.com/news-releases/the-linux-foundation-announces-schedule-for-wasmcon-2023-301891925.html).&nbsp;*
 
 ## Please join us in congratulating the following speakers:&nbsp;
 
@@ -22,9 +22,9 @@ The Rust Foundation is excited to present the complete lineup of speakers and se
 * Dan Chiarlone — Software Engineer, Microsoft ("[Rust, Wasm, and Hypervisors Walk Into a Bar: Mixing a Cocktail of Layered Security](https://wasmcon2023.sched.com/#)")
 * Stuart Harris — Founder and Chief Scientist, Red Badger ("[Building iOS, Android and Web Apps that Share a Single Rust Core](https://wasmcon2023.sched.com/#)")
 * Hannah Aubry — Senior Community Manager, DevEx, Fastly ("[A Web of Rust: The Future of the Internet Depends on Trust](https://wasmcon2023.sched.com/#)")
-* Michael Yuan — Co-Founder of Second State&nbsp;("[Wasm and Rust in the World of LLM Applications - Michael Yuan, Second State](https://wasmcon2023.sched.com/event/1PlCy/wasm-and-rust-in-the-world-of-llm-applications-michael-yuan-second-state)")
+* Michael Yuan — Co-Founder of Second State ("[Wasm and Rust in the World of LLM Applications - Michael Yuan, Second State](https://wasmcon2023.sched.com/event/1PlCy/wasm-and-rust-in-the-world-of-llm-applications-michael-yuan-second-state)")
 
-We also look forward to presenting a panel from the Rust Foundation's Technology Team, featuring:&nbsp;
+We also look forward to presenting a panel from the Rust Foundation's Technology Team featuring:&nbsp;
 
 * Joel Marcey — Director of Technology at the Rust Foundation
 
@@ -34,13 +34,13 @@ We also look forward to presenting a panel from the Rust Foundation's Technology
 
 ### [&gt;&gt; Browse the complete Rust Global program here](https://events.linuxfoundation.org/rust-global/program/schedule-at-a-glance/)
 
+
+
 ### [&gt;&gt; Register to join us at Rust Global](https://events.linuxfoundation.org/rust-global/register/)
-
-
 
 ---
 
-​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+​​​​​​​​​​​​​​​​​​​​​​
 
 ### About Rust Global
 
