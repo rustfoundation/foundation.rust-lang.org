@@ -1,5 +1,5 @@
 ---
-title: EuroRust
+title: EuroRust 2023
 description: >-
   A 2-day conference for the Rust community. Taking place in Brussels and
   online. 
