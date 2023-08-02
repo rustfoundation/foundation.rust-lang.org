@@ -32,7 +32,7 @@ The Rust Foundation is excited to present the complete lineup of speakers and se
 
 * Walter Pearce — Security Engineer at the Rust Foundation
 
-## [&gt;&gt; Browse the complete Rust Global program here](https://events.linuxfoundation.org/rust-global/program/schedule-at-a-glance/)
+## [&gt;&gt; Browse the complete Rust Global program here](https://events.linuxfoundation.org/rust-global/program/schedule/)
 
 
 
