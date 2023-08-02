@@ -40,7 +40,7 @@ We also look forward to presenting a panel from the Rust Foundation's Technology
 
 ---
 
-​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 ### About Rust Global
 
