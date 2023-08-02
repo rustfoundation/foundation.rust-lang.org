@@ -44,8 +44,12 @@ We also look forward to presenting a panel from the Rust Foundation's Technology
 
 ### About Rust Global
 
-Rust Global is the Rust Foundation's first event dedicated to fostering learning and discussion among global business leaders and Rust programming language advocates. We are excited to present this opportunity for technology decision makers, business leaders, and Rust advocates to connect with, learn from, and inspire one another. [<u>&gt;&gt;View the full Rust Global schedule &amp; register here</u>](https://events.linuxfoundation.org/rust-global/).
+Rust Global is the Rust Foundation's first event dedicated to fostering learning and discussion among global business leaders and Rust programming language advocates. We are excited to present this opportunity for technology decision makers, business leaders, and Rust advocates to connect with, learn from, and inspire one another.
+
+[<u>&gt;&gt;View the full Rust Global schedule &amp; register here</u>](https://events.linuxfoundation.org/rust-global/).
 
 ### About WasmCon
 
-[<u>WasmCon</u>](https://events.linuxfoundation.org/wasmcon/)&nbsp;is a new event for developers, engineers, architects, and business leaders exploring the vast potential of WebAssembly (Wasm). WasmCon takes place September 6-7, 2023 at the Hyatt Regency in Bellevue, Washington, USA. [<u>&gt;&gt;View the full WasmCon schedule &amp; register here</u>](https://events.linuxfoundation.org/wasmcon/program/schedule/).
+[<u>WasmCon</u>](https://events.linuxfoundation.org/wasmcon/)&nbsp;is a new event for developers, engineers, architects, and business leaders exploring the vast potential of WebAssembly (Wasm). WasmCon takes place September 6-7, 2023 at the Hyatt Regency in Bellevue, Washington, USA.
+
+[<u>&gt;&gt;View the full WasmCon schedule &amp; register here</u>](https://events.linuxfoundation.org/wasmcon/program/schedule/).
