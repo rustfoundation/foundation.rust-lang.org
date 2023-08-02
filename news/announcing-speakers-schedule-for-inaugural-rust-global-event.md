@@ -4,7 +4,7 @@ byline: Rust Foundation Team
 description: >-
   Browse the lineup of speakers for Rust Global 2023 —  taking place on
   September 6 at WasmCon in Bellevue, Washington, USA. 
-date: 2023-08-02T12:00:00Z
+date: 2023-08-02T15:00:00Z
 tags:
   - announcement
   - rust global
