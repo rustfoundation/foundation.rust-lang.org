@@ -1,0 +1,11 @@
+<ul class="donorslist">
+{% for donor in techdonorslist  %}
+    <li>
+        <div class="donor">
+        {% if donor.data.logo %}
+            <a href="{{ donor.data.url }}" rel="nofollow"><img src="{{ donor.data.logo }}" alt="{{ donor.data.name }}"/></a>
+        {% endif %}
+        </div>
+    </li>
+{% endfor %}
+</ul>
