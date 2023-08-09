@@ -102,9 +102,7 @@ Tim McNamara is the author of Rust in Action, one of the world's best-known text
 
 The focus of Tim’s Fellowship year will be supporting learners of Rust and expanding the usage of Rust (with a particular focus on Asia) through the contributing to openly licenced learning resources and running webinars.
 
-### **Congratulations to these well-deserving grant recipients! We look forward to sharing stories of their work through our evolving** [**<u>Community Grantee Spotlight Series</u>**](https://foundation.rust-lang.org/tags/grantee%20spotlight/)**.**
-
-
+## **Congratulations to these well-deserving grant recipients! We look forward to sharing stories of their work through our evolving** [**<u>Community Grantee Spotlight Series</u>**](https://foundation.rust-lang.org/tags/grantee%20spotlight/)**.**
 
 ---
 
@@ -121,5 +119,3 @@ If your organization is interested in providing support to the Rust language com
 You can learn more about the Community Grants Program [<u>here</u>](https://foundation.rust-lang.org/grants/)&nbsp;and find the list of 2022 Fellows [<u>here</u>](https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/).&nbsp;
 
 *If you're interested in reading further information and data about this year’s application process, please see this recent message from our team in the rust-lang Zulip chat.&nbsp;*
-
-Congratulations again to our 2023 Fellows!
