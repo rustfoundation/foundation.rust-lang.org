@@ -42,17 +42,17 @@ Dario Nieuwenhuis is a software and firmware developer focusing on making Rust g
 
 The main focus of Dario’s Fellowship year will be releasing embedded-hal v1.0, maintaining and expanding Embassy, and improving documentation and teaching materials for Embassy and embedded Rust in general.
 
-## YuKang ([<u>@chenyukang</u>](https://github.com/chenyukang))
+## Yukang ([<u>@chenyukang</u>](https://github.com/chenyukang))
 
 Yukang has been engaged in the Rust ecosystem since about 2015. He has been involved in several Rust open-source projects, including the fields of programming language, container, WebAssembly, etc. Over the past year, Yukang has continuously contributed to the Rust compiler, focusing on diagnostics, parser, infra, and bug fixes. He now works remotely as a Rust software engineer.
 
 The focus of Yukang’s Fellowship year will be contributing to the Rust compiler, under the mentorship of the Compiler Team.
 
-## Bastian ([<u>@b-naber</u>](https://github.com/b-naber))
+## [<u>@b-naber</u>](https://github.com/b-naber)
 
-Bastian is a developer from Berlin, Germany and has been involved in the Rust community for three years, contributing primarily to rustc and tokio.
+[<u>@b-naber</u>](https://github.com/b-naber) is a developer from Berlin, Germany and has been involved in the Rust community for three years, contributing primarily to rustc and tokio.
 
-The focus of Bastian’s Fellowship year will to contribute to the Rust compiler via pull requests: fixing bugs (in particular, Bastian will try to make progress on some async-io related outstanding issues), helping with implementation work suggested by compiler team, and working on RFC implementations if available.&nbsp; In addition, Bastian will function as a member of the compiler reviewers team
+The focus of [<u>@b-naber</u>](https://github.com/b-naber)’s Fellowship year will to contribute to the Rust compiler via pull requests: fixing bugs (in particular, [<u>@b-naber</u>](https://github.com/b-naber) will try to make progress on some async-io related outstanding issues), helping with implementation work suggested by compiler team, and working on RFC implementations if available.&nbsp; In addition, [<u>@b-naber</u>](https://github.com/b-naber) will function as a member of the compiler reviewers team
 
 ## Eric Huss ([<u>@ehuss)</u>](https://github.com/ehuss/)
 
