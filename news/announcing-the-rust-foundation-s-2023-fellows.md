@@ -100,7 +100,7 @@ The focus of Jan’s Fellowship year will be continued development of the Rust s
 
 Tim McNamara is the author of Rust in Action, one of the world's best-known textbooks on the Rust programming language. It has been translated into 6 languages and is available in hundreds of libraries worldwide. His book, tutorials, and videos have introduced hundreds of thousands of developers to the language.
 
-The focus of Tim’s Fellowship year will be supporting learners of Rust and expanding the usage of Rust (with a particular focus on Asia) through the contributing to openly licenced learning resources and running webinars.
+The focus of Tim’s Fellowship year will be supporting learners of Rust and expanding the usage of Rust (with a particular focus on Asia) through the contributing to openly licensed learning resources and running webinars.
 
 ## **Congratulations to these well-deserving grant recipients! We look forward to sharing stories of their work through our evolving** [**<u>Community Grantee Spotlight Series</u>**](https://foundation.rust-lang.org/tags/grantee%20spotlight/)**.**
 
