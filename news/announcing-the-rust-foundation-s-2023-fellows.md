@@ -18,8 +18,6 @@ Our [Fellowship award](https://foundation.rust-lang.org/grants/fellowships/) is 
 
 ### Today, the Rust Foundation is thrilled to introduce our 2023 Fellowship cohort! Please join us in welcoming...
 
-
-
 ## Rohit Dandamudi ([<u>@me-diru</u>](https://github.com/me-diru))
 
 Rohit Dandamudi is a software engineer from Hyderabad, India. He has extensive experience working in the open source space, including with the MetaBrainz Foundation and the Tremor (CNCF) project. This upcoming fall, he will attend the University of British Columbia to earn an M.Sc. in Computer Science. His interests include watching anime and the involuntary pursuit of doppelgangers.
@@ -44,7 +42,7 @@ The main focus of Dario’s Fellowship year will be releasing embedded-hal v1.0,
 
 ## Yukang ([<u>@chenyukang</u>](https://github.com/chenyukang))
 
-Yukang has been engaged in the Rust ecosystem since about 2015. He has been involved in several Rust open-source projects, including the fields of programming language, container, WebAssembly, etc. Over the past year, Yukang has continuously contributed to the Rust compiler, focusing on diagnostics, parser, infra, and bug fixes. He now works remotely as a Rust software engineer.
+Yukang has been engaged in the Rust ecosystem since about 2015. He has been involved in several Rust open-source projects, including the fields of programming language, container, WebAssembly, etc. Over the past year, Yukang has continuously contributed to the Rust compiler, focusing on diagnostics, parser, infra, and bug fixes. He now works remotely at Cryptape as a Rust software engineer.
 
 The focus of Yukang’s Fellowship year will be contributing to the Rust compiler, under the mentorship of the Compiler Team.
 
@@ -118,4 +116,4 @@ If your organization is interested in providing support to the Rust language com
 
 You can learn more about the Community Grants Program [<u>here</u>](https://foundation.rust-lang.org/grants/)&nbsp;and find the list of 2022 Fellows [<u>here</u>](https://foundation.rust-lang.org/news/2022-06-14-community-grants-program-awards-announcement/).&nbsp;
 
-*If you're interested in reading further information and data about this year’s application process, please see this recent message from our team in the rust-lang Zulip chat.&nbsp;*
+*If you're interested in reading further information and data about this year’s application process, please see <a target="_blank" rel="noopener" href="https://rust-lang.zulipchat.com/#narrow/stream/335408-foundation/topic/News.20Alerts/near/383657114">this message</a> from our team in the rust-lang Zulip chat.&nbsp;*
