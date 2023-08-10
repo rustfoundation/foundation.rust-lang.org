@@ -62,7 +62,7 @@ The focus of Eric’s Fellowship year will be leading the Cargo team, and contin
 
 Jynn is the maintainer of Bootstrap, the rust compiler's build system, and has been involved in various other parts of the project including infrastructure, docs.rs, and rustdoc. Jynn currently works at Redjack as a Senior Rust Engineer.
 
-The focus of Jynn’s Fellowship year will be to continue their work on redesigning bootstrap stages, which should improve compile times and make it much easier to experiment with new language features in the standard library itself (see [<u>this issue</u>](https://github.com/rust-lang/compiler-team/issues/619)). They also plan to mentor [<u>@nilstrieb</u>](https://github.com/Nilstrieb) with his work on running a debuginfod server which can correlate runtime compiler panics to symbolized backtraces; this should help members of the compiler team more quickly triage and fix bugs.&nbsp;
+The focus of Jynn’s Fellowship year will be to continue their work on redesigning bootstrap stages, which should improve compile times and make it much easier to experiment with new language features in the standard library itself (see [<u>this issue</u>](https://github.com/rust-lang/compiler-team/issues/619)). They also plan to mentor various work within the project, such as creating and running a debuginfod server, which can correlate runtime compiler panics to symbolized backtraces; first-class support for running clippy on the compiler and standard library itself; and changing the bootstrap shell script entrypoints to remove the requirement for Python to be installed.&nbsp;
 
 ## Waffle ([<u>@WaffleLapkin</u>](https://github.com/WaffleLapkin))
 
