@@ -2,7 +2,7 @@
 title: Announcing the Rust Foundation’s 2023 Fellows
 byline: Rust Foundation Staff
 description:
-date: 2023-08-10T12:00:00Z
+date: 2023-08-10T12:30:00Z
 tags:
   - announcement
   - community grants program
