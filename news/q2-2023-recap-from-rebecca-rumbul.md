@@ -86,5 +86,3 @@ We look forward to continuing our pace of work and quality of impact in Q3. You 
 Thank you for reading this recap of the Rust Foundation’s completed activities in Q2 of 2023!
 
 If you have any questions about the contents of this report don’t hesitate to contact us at [<u>contact@rustfoundation.org</u>](mailto:contact@rustfoundation.org). If you are interested in joining the Rust Foundation as a member, please email us at [<u>membership@rustfoundation.org</u>](mailto:membership@rustfoundation.org). &nbsp;
-
-\- Rebecca Rumbul — Executive Director & CEO of the Rust Foundation
