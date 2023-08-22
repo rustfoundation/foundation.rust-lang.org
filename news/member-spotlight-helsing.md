@@ -11,13 +11,13 @@ layout: layouts/news.njk
 ---
 *Welcome to another installment of the Rust Foundation Member Spotlight series! These blogs aim to introduce our community to various Rust Foundation Member organizations and their leaders. In this installment, we spoke with two leaders at* [*<u>Helsing</u>*](https://helsing.ai/) *— the newest Rust Foundation Silver Member. Keep reading to learn about Helsing from Dr. Robert Fink (CTO) and Dr. Jon Gjengset (Principal Software Engineer).&nbsp;*
 
-### **Tell us about Helsing. What do you do and who do you serve?**
+## **Tell us about Helsing. What do you do and who do you serve?**
 
 <u>Robert:</u> Helsing is a new type of defense company. We believe that software, in particular artificial intelligence, will be the key to protecting our democracies. Our teams design technology products that transform the operational capabilities of both new and existing defense platforms, to deliver faster and more accurate decision-making at the tactical, operational, and strategic levels.
 
 Helsing is a pan-European, multi-domestic company with national entities in Germany, the UK, and France. As a result, we can access the widest pool of European talent for technology infrastructure and capabilities. Our domain experience means we are attuned to the most difficult problems faced by our governments. Helsing has had a pretty exciting ride so far, growing from 4 to 200 employees (140 of which are on the engineering team) in the course of two years.
 
-### **How is Helsing using Rust?**
+## **How is Helsing using Rust?**
 
 <u>Robert:</u> We have several different categories of Rust use cases at Helsing.
 
@@ -29,7 +29,7 @@ Finally, we love Rust for cross-language use cases. For example, we cross-compil
 
 The bottom line is that about 50% of our code is Rust-native and the other half (Python, C++, TypeScript) is slowly but surely getting replaced with Rust.
 
-### **Why did Helsing decide to join the Rust Foundation?**
+## **Why did Helsing decide to join the Rust Foundation?**
 
 <u>Jon:</u> Helsing, like most companies that make extensive use of Rust, is able to do so in large part due to the amazing (and often volunteer-based) work of the Rust community. And while we are establishing a culture internally of contributing back to that community whenever possible, we recognize that there is a lot more to community work than technical contributions. Infrastructure costs money to run, communities need stewards to thrive, and maintainers need support so they can dedicate time to their projects. We believe that working with the Rust Foundation is a great way to support all those other aspects of Rust.
 
@@ -39,7 +39,7 @@ We can — and already are — bring Rust into entirely new environments and exp
 
 Beyond supporting Rust and being more plugged into the community going forward, we also believe that we work on super unique, difficult, and important problems that are worth sharing. If our work inspires any of you fellow Rustaceans, please get in touch with us — we'd love to welcome you to the Helsing family!
 
-### **What are your hopes for the future of Rust?**
+## **What are your hopes for the future of Rust?**
 
 <u>Jon:</u> I have many hopes for Rust! In the context of Helsing, there are three priorities that stick out to me.&nbsp;
 
@@ -51,13 +51,13 @@ Second, at Helsing, we are all-in on Rust for cloud-native and embedded applicat
 
 Third, there is still a significant talent gap between Rust and more established languages. While so many of the Rust developers we’ve met and worked with have been excellent, there are few of them overall. This is largely a pipeline problem where the situation will naturally improve over time, though we also believe that further investments in educational materials to soften the learning curve will be key to growing the Rust talent pool.
 
-### **What message would you like to share directly with any members of the Rust community reading this blog?&nbsp;**
+## **What message would you like to share directly with any members of the Rust community reading this blog?&nbsp;**
 
 <u>Jon:</u> First and foremost, to the community: thank you, thank you, thank you. Not only have I personally gotten a lot of value from being part of and contributing to the Rust community, but I have also seen the extensive impact of all you do at scale at AWS and now at Helsing. Without you all, we would all still be writing high-performance, security-critical systems in C++ and Java, and paying the price.
 
 To enterprise leaders: Rust is here to stay. While it is a young language with room to grow and pain points to overcome, it has already proven its value again and again across a wide variety of domains and companies, including some of the most sensitive, security-minded, and high-risk domains on Earth). It maintains the performance characteristics and low-level control of languages like C and C++, but adds correctness guarantees that, in our opinion, are essential to safely maintain innovation and development velocity in high-risk environments. Ultimately, we don't consider Rust a bet — quite to the contrary; we think it is the only reasonable and responsible choice that meets the requirements of our industry.&nbsp;
 
-### **What is your personal favorite thing about Rust?**
+## **What is your personal favorite thing about Rust?**
 
 <u>Robert:</u> I had spent the majority of my pre-Rust programming career in Java. When I first started playing with Rust around 2015/2016, I was obviously hit by the steep learning curve, but I also realized that my particular style of Java was directionally very compatible with the constraints Rust imposes on you “qua language”: strong encapsulation and ownership, immutable data, concurrency via message passing rather than locks over shared mutable data.&nbsp;
 
@@ -71,11 +71,13 @@ Finally, I love that code generation is a first-class experience in Rust, both v
 
 ### **About Dr. Robert Fink**
 
-Dr. Robert Fink is Helsing’s CTO and responsible for all aspects of technology and software development, including recruiting, platform architecture, engineering culture, and education. Prior to joining Helsing, Robert was a distinguished software engineer at Palantir Technologies and the founding engineer and chief architect of Palantir’s Foundry Platform. Robert holds a Ph.D. in database theory (University of Oxford, UK) and degrees in physics and computer science (University of Munich, Germany).
+*Dr. Robert Fink is Helsing’s CTO and responsible for all aspects of technology and software development, including recruiting, platform architecture, engineering culture, and education. Prior to joining Helsing, Robert was a distinguished software engineer at Palantir Technologies and the founding engineer and chief architect of Palantir’s Foundry Platform. Robert holds a Ph.D. in database theory (University of Oxford, UK) and degrees in physics and computer science (University of Munich, Germany).*
 
 ### **About Dr. Jon Gjengset**
 
-Dr. Jon Gjengset is a principal engineer at Helsing who recently joined the company to support, reinforce, and expand the company’s use of Rust. He is also well-known in the Rust community for developing educational resources like the [<u>Crust of Rust</u>](https://www.youtube.com/watch?v=rAl-9HwD858&amp;list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) video series and the [<u>Rust for Rustaceans</u>](https://nostarch.com/rust-rustaceans) book. Prior to Helsing, Jon maintained the Rust internal build tooling at Amazon Web Services. He is originally from, and now based in, Norway, but was awarded his Bachelor's degree, Master's degree, and Ph.D. from Australia (Bond University), England (University College London), and the US (MIT), respectively.
+*Dr. Jon Gjengset is a principal engineer at Helsing who recently joined the company to support, reinforce, and expand the company’s use of Rust. He is also well-known in the Rust community for developing educational resources like the [<u>Crust of Rust</u>](https://www.youtube.com/watch?v=rAl-9HwD858&amp;list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) video series and the [<u>Rust for Rustaceans</u>](https://nostarch.com/rust-rustaceans) book. Prior to Helsing, Jon maintained the Rust internal build tooling at Amazon Web Services. He is originally from, and now based in, Norway, but was awarded his Bachelor's degree, Master's degree, and Ph.D. from Australia (Bond University), England (University College London), and the US (MIT), respectively.*
+
+---
 
 ## Welcome to the Rust Foundation, Helsing!
 
