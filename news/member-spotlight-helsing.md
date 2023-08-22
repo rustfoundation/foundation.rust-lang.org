@@ -69,11 +69,11 @@ I am also deeply impressed by the quality of the ecosystem. Rust has attracted a
 
 Finally, I love that code generation is a first-class experience in Rust, both via macros and build.rs. Code-gen is a powerful feature, but the experience is subpar in many other languages.
 
-### **About Dr. Robert Fink**
+### ***About Dr. Robert Fink***
 
 *Dr. Robert Fink is Helsing’s CTO and responsible for all aspects of technology and software development, including recruiting, platform architecture, engineering culture, and education. Prior to joining Helsing, Robert was a distinguished software engineer at Palantir Technologies and the founding engineer and chief architect of Palantir’s Foundry Platform. Robert holds a Ph.D. in database theory (University of Oxford, UK) and degrees in physics and computer science (University of Munich, Germany).*
 
-### **About Dr. Jon Gjengset**
+### ***About Dr. Jon Gjengset***
 
 *Dr. Jon Gjengset is a principal engineer at Helsing who recently joined the company to support, reinforce, and expand the company’s use of Rust. He is also well-known in the Rust community for developing educational resources like the [<u>Crust of Rust</u>](https://www.youtube.com/watch?v=rAl-9HwD858&amp;list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) video series and the [<u>Rust for Rustaceans</u>](https://nostarch.com/rust-rustaceans) book. Prior to Helsing, Jon maintained the Rust internal build tooling at Amazon Web Services. He is originally from, and now based in, Norway, but was awarded his Bachelor's degree, Master's degree, and Ph.D. from Australia (Bond University), England (University College London), and the US (MIT), respectively.*
 
