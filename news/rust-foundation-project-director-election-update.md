@@ -2,7 +2,7 @@
 title: Rust Foundation Project Director Election Update
 byline: Rust Foundation Team
 description: "The Rust Project’s Leadership Council will soon be electing new individuals to serve on the Rust Foundation Board of Directors.\_"
-date: 2023-08-30T00:00:00Z
+date: 2023-08-30T12:00:00Z
 tags:
   - rust project
 index: false
@@ -24,7 +24,7 @@ Project Directors have equal voting power to our Member Directors (representativ
 
 The Rust Project Leadership Council sets its own eligibility criteria to stand for election as a Project Director and decides its own process of selection. The Rust Foundation is solely responsible for operating the final vote.
 
-If you are interested in becoming a Project Director, more information on how the Rust Project Leadership Council is approaching the nomination and election process can be found in this recent blog post shared on the official Rust language website.&nbsp;
+If you are interested in becoming a Project Director, more information on how the Rust Project Leadership Council is approaching the nomination and election process can be found in [this recent blog post](https://blog.rust-lang.org/2023/08/30/electing-new-project-directors.html) shared on the official Rust language website.&nbsp;
 
 ## What happens next?
 
@@ -32,6 +32,6 @@ After the election meeting, the Rust Leadership Council will announce the result
 
 ---
 
-For more information, please refer to this update from the Rust Project Leadership Council.&nbsp;
+For more information, please refer to <a target="_blank" rel="noopener" href="https://blog.rust-lang.org/2023/08/30/electing-new-project-directors.html">this update</a> from the Rust Project Leadership Council shared on the Inside Rust blog.&nbsp;
 
 The Rust Foundation looks forward to welcoming the newest Project Directors to the board in October!
