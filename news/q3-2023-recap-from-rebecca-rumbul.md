@@ -4,7 +4,7 @@ byline:
 description: >
   A review of the Rust Foundation’s activities in July, August, and September of
   2023.
-date: 2023-10-13T00:00:00Z
+date: 2023-10-17T00:00:00Z
 tags:
   - quarterly updates
   - foundation
