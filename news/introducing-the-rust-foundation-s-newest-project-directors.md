@@ -1,6 +1,6 @@
 ---
 title: Introducing the Rust Foundation's Newest Project Directors
-byline: Rust Foundation Team
+byline: The Rust Foundation Team
 description:
 date: 2023-10-20T12:00:00Z
 tags:
