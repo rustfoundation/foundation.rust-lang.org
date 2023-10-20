@@ -2,5 +2,5 @@
 name: Jakob Degen
 title: Project Director
 ferris: ' '
-headshot: /img/headshot/scott.jpg
+headshot: /img/headshot/jakob.png
 ---
