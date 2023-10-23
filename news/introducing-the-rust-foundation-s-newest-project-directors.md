@@ -16,7 +16,7 @@ The Rust Foundation is pleased to announce the arrival of three new Project Dire
 * <a target="_blank" rel="noopener" href="https://github.com/JakobDegen">Jakob Degen</a>
 * <a target="_blank" rel="noopener" href="https://github.com/spastorino">Santiago Pastorino</a>
 
-Scott, Jakob, and Santiago are joining <a target="_blank" rel="noopener" href="https://github.com/Mark-Simulacrum">Mark Rousskov</a> and <a target="_blank" rel="noopener" href="https://github.com/rylev">Ryan Levick</a> as Project Directors at the Rust Foundation and replacing [<u>Jane Losare-Lusby</u>](https://github.com/yaahc), [<u>Tyler Mandry</u>](https://github.com/tmandry), and [<u>Josh Stone</u>](https://twitter.com/cuviper), whose two-year terms ended recently.&nbsp;
+Scott, Jakob, and Santiago are joining <a target="_blank" rel="noopener" href="https://github.com/Mark-Simulacrum">Mark Rousskov</a> and <a target="_blank" rel="noopener" href="https://github.com/rylev">Ryan Levick</a> as Project Directors at the Rust Foundation and replacing [<u>Jane Losare-Lusby</u>](https://github.com/yaahc), [<u>Tyler Mandry</u>](https://github.com/tmandry), and [<u>Josh Stone</u>](https://github.com/cuviper), whose two-year terms ended recently.&nbsp;
 
 The Rust Foundation is immensely grateful to Jane, Tyler, and Josh for their many contributions to the Foundation since our inception and their tireless advocacy on behalf of the Rust Project.&nbsp;
 
