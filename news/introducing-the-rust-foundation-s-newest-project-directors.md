@@ -30,7 +30,7 @@ Scott first contributed to the Rust project in 2017.&nbsp; He has been a member 
 
 About the Project Director role, Scott said:
 
-> "I'm honoured to have this opportunity to represent the project.&nbsp; The creation of the Foundation has enabled new possibilities that were infeasible back when I first found Rust.&nbsp; I'm particularly excited by what it has done and can do going forward to both reduce pain that drives away experienced contributors by accruing over time and remove hurdles that keep motivated first-timers from managing to become experienced contributors in the first place.&nbsp; I endeavor to remain transparent during my term, and look forward to meeting new people in the process of it."&nbsp;
+> *"I'm honoured to have this opportunity to represent the project.&nbsp; The creation of the Foundation has enabled new possibilities that were infeasible back when I first found Rust.&nbsp; I'm particularly excited by what it has done and can do going forward to both reduce pain that drives away experienced contributors by accruing over time and remove hurdles that keep motivated first-timers from managing to become experienced contributors in the first place.&nbsp; I endeavor to remain transparent during my term, and look forward to meeting new people in the process of it."*&nbsp;
 
 ### Jakob Degen&nbsp;
 
