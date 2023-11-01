@@ -2,7 +2,7 @@
 title: Inside the Rust Foundation’s Associate Membership Tier
 byline: Rust Foundation Team
 description: >
-  The Rust Foundation’s new Associate Member tier is designed for nonprofit
+  The Rust Foundation’s new associate member tier is designed for nonprofit
   organizations and educational institutions.
 date: 2023-11-01T00:00:00Z
 tags:
@@ -11,7 +11,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-Earlier this year, the [<u>Rust Foundation</u>](https://foundation.rust-lang.org/) created the associate membership tier, which allows other nonprofit organizations and educational institutions to receive Rust Foundation benefits at no cost.&nbsp;
+Earlier this year, the [<u>Rust Foundation</u>](https://foundation.rust-lang.org/) created an associate membership tier, which allows other nonprofit organizations and educational institutions to receive Rust Foundation benefits at no cost.&nbsp;
 
 Rust Foundation Associate Members will receive a competitive package of benefits including:&nbsp;
 
