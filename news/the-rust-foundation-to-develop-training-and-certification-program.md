@@ -13,7 +13,7 @@ In 2023, the Rust programming language reached many impressive milestones. From 
 
 At the Rust Foundation, we are committed to facilitating the healthy growth of Rust through funding and resources for the community and the Project. After conducting initial planning and research and getting approval from our board of directors, we are pleased to announce our intention to help fulfill this commitment by developing a Rust Foundation training and certification program.
 
-With an ever-growing demand for commercially provided Rust courses, we see a good reason for the Rust Foundation to enter the training market and use program proceeds to benefit the Rust community. ** ** So, although we’re still in the earlier stages of planning and research for this program, we are excited to share this intention with you today.
+With an ever-growing demand for commercially provided Rust courses, we see a good reason for the Rust Foundation to enter the training market and use program proceeds to benefit the Rust community.&nbsp;**&nbsp;**&nbsp;So, although we’re still in the earlier stages of planning and research for this program, we are excited to share this intention with you today.
 
 ## Why do we believe a Rust Foundation training and certification program would benefit the Rust ecosystem?&nbsp;
 
