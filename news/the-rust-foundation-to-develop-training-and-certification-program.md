@@ -11,7 +11,7 @@ layout: layouts/news.njk
 ---
 In 2023, the Rust programming language reached many impressive milestones. From being named the most-loved programming language for another year in a row by [StackOverflow](https://survey.stackoverflow.co/2023/#section-admired-and-desired-programming-scripting-and-markup-languages) to crates.io downloads reaching 45 billion and counting, there is no sign of Rust’s impressive growth slowing.&nbsp;
 
-> At the Rust Foundation, we are committed to facilitating the healthy growth of Rust through funding and resources for the community and the Project. After conducting initial planning and research and getting approval from our board of directors, we are pleased to announce our intention to help fulfill this commitment by developing a Rust Foundation training and certification program.
+At the Rust Foundation, we are committed to facilitating the healthy growth of Rust through funding and resources for the community and the Project. After conducting initial planning and research and getting approval from our board of directors, we are pleased to announce our intention to help fulfill this commitment by developing a Rust Foundation training and certification program.
 
 With an ever-growing demand for commercially provided Rust courses, we see a good reason for the Rust Foundation to enter the training market and use program proceeds to benefit the Rust community. ** ** So, although we’re still in the earlier stages of planning and research for this program, we are excited to share this intention with you today.
 
@@ -50,6 +50,8 @@ We do not yet have specific details about course/certification pricing as no for
 There is no set launch date for the Rust Foundation training and certification program yet, but we plan to continue laying high-quality groundwork in Q4 of 2023 and the first half of 2024. We look forward to working with Tim McNamara and other advisors in the process!
 
 Our members’ perspectives on this program will be very important to us. When we have more details to share, we will provide opportunities for Rust Foundation members to ask questions and provide suggestions. We will continue working with the board to shape our training and certification offerings – as always, minutes of our meetings are available at the bottom of [<u>this</u>](https://foundation.rust-lang.org/resources/) page.&nbsp;
+
+---
 
 All Rust community members are welcome to contact the Rust Foundation Project Directors with any questions about the program or ideas for us to consider at this early juncture.&nbsp;
 
