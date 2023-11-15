@@ -31,3 +31,5 @@ layout: layouts/news.njk
 > **Today, Alpha-Omega is excited to announce our second year of supporting the Rust Foundation Security Initiative.**&nbsp;
 >
 > We believe that this funding will build on the good work and momentum established by the Rust Foundation in 2023. Through this partnership, we are helping relieve maintainer burdens while paving an important path towards a healthier and more secure future within the Rust ecosystem.&nbsp;
+
+\- Source: <a target="_blank" rel="noopener" href="https://alpha-omega.dev/blog/alpha-omega-to-continue-support-of-rust-foundation-security-initiative-in-2024/">Alpha-Omega blog</a>
