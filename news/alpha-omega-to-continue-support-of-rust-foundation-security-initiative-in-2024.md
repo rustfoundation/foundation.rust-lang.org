@@ -12,11 +12,11 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-#### The following announcement was issued by the Open Source Security Foundation' (<a target="_blank" rel="noopener" href="https://openssf.org/">OpenSSF</a>)&nbsp;<a target="_blank" rel="noopener" href="https://alpha-omega.dev/">Alpha-Omega</a> project on November 15, 2023 at 9am ET. The Rust Foundation is cross-posting it on our blog for visibility within our immediate audience. Alpha-Omega's original announcement can be found <a target="_blank" rel="noopener" href="https://alpha-omega.dev/blog/alpha-omega-to-continue-support-of-rust-foundation-security-initiative-in-2024/">here</a>.&nbsp;
+### The following announcement was issued by the Open Source Security Foundation' (<a target="_blank" rel="noopener" href="https://openssf.org/">OpenSSF</a>)&nbsp;<a target="_blank" rel="noopener" href="https://alpha-omega.dev/">Alpha-Omega</a> project on November 15, 2023 at 9am ET. The Rust Foundation is cross-posting it on our blog for visibility within our immediate audience. Alpha-Omega's original announcement can be found <a target="_blank" rel="noopener" href="https://alpha-omega.dev/blog/alpha-omega-to-continue-support-of-rust-foundation-security-initiative-in-2024/">here</a>.&nbsp;
 
-#### For more information about this program, you can find our original announcement <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/news/2022-09-13-rust-foundation-establishes-security-team/">here</a> and a progress report from July 2023 <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/static/publications/security-initiative-report-july-2023.pdf">here</a>. Our team intends to issue a second Security Initiative report in Q1 of 2024.&nbsp;
+### For more information about this program, you can find our original announcement <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/news/2022-09-13-rust-foundation-establishes-security-team/">here</a> and a progress report from July 2023 <a target="_blank" rel="noopener" href="https://foundation.rust-lang.org/static/publications/security-initiative-report-july-2023.pdf">here</a>. Our team intends to issue a second Security Initiative report in Q1 of 2024.&nbsp;
 
-#### The Rust Foundation is grateful to Alpha-Omega and OpenSSF for their generous, continued support of our Security Initiative.&nbsp;
+### The Rust Foundation is grateful to Alpha-Omega and OpenSSF for their generous, continued support of our Security Initiative.&nbsp;
 
 > *<a target="_blank" rel="noopener" href="https://alpha-omega.dev/">Alpha-Omega</a> was established by <a target="_blank" rel="noopener" href="https://openssf.org/">OpenSSF</a> in 2022 with a mission of improving open source software security and in doing so, bettering our society. Two years later, the impact of our work can be seen in the various programs and priorities we have helped fund.*&nbsp;
 >
