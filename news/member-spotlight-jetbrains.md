@@ -40,6 +40,8 @@ Our own research shows that Rust is steadily growing into a mature industry-acce
 
 Since most of us develop in Kotlin and Java, we rely on automatic memory management and garbage collection – something that is done completely differently in Rust. I believe that Rust’s precise memory control features, along with guaranteed safety, have their own areas of application. These features create unique challenges for us as Rust IDE developers, and we’re happy to tackle those challenges in order to provide a smooth coding experience for RustRover customers.
 
+---
+
 ## Welcome to the Rust Foundation, JetBrains!
 
 You can learn more about JetBrains and their use of Rust [<u>here</u>](http://jetbrains.com/rust) and connect with [<u>RustRover</u>](https://twitter.com/rustrover), [<u>JetBrains</u>](https://twitter.com/jetbrains), and [<u>Kirill</u>](https://twitter.com/wbasrs) personally on X (formerly known as Twitter).&nbsp;
