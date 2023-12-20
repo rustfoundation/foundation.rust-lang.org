@@ -1,7 +1,7 @@
 ---
-title: 'Improving supply chain security for Rust through artifact signing'
+title: 'Improving Supply Chain Security for Rust Through Artifact Signing'
 byline: 'Adam Harvey, Software Developer, Rust Foundation'
-description: 'A high level explanation of a project the Rust Foundation is starting to improve Rust ecosystem supply chain security by implementing signing infrastructure'
+description: 'A high-level explanation of a Rust Foundation initiative to implement signing infrastructure in service of Rust ecosystem supply chain security'
 date: 2023-12-21T17:00:00Z
 tags:
   - foundation
@@ -12,7 +12,7 @@ layout: layouts/news.njk
 ---
 
 
-The Rust Foundation is coordinating a project with the Rust Project and other stakeholders to improve supply chain security in the Rust ecosystem, starting with ensuring that Rust releases and crates can be verified in a secure, low overhead way. We will be implementing this project by working directly with the affected Rust teams through the normal Rust RFC process via a series of RFCs.
+The Rust Foundation is co-ordinating an effort with the Rust Project and other stakeholders to improve supply chain security in the Rust ecosystem. We will start by ensuring that Rust releases and crates can be verified in a secure, low overhead manner and will work directly with affected Rust teams via a series of RFCs.
 
 ## Background
 
@@ -22,7 +22,7 @@ The first reason is that there are places where Rust is difficult to use right n
 
 Another reason for wanting to be able to better support mirrors is to address cost pressures on Rust. Approximately half of Rust release and crate traffic is from CI providers. Being able to securely distribute Rust releases and popular crates from within CI infrastructure would be mutually beneficial, since it would both allow the Rust Foundation to reallocate budget to other uses and would make Rust CI actions faster and more reliable on those platforms.
 
-Finally, supply chain security is an increasing concern, particularly among corporate and government users of Rust. The [Log4j vulnerability][log4j] brought much greater attention to the problems that can occur when a single dependency nested arbitrarily deep in a dependency graph has a critical vulnerability. Many of these users are putting significant resources into better understanding their dependencies, which includes being able to attest that their dependencies came from specific sources like crates.io and rust-lang.org.
+Finally, supply chain security is a growing concern, particularly among corporate and government users of Rust. The [Log4j vulnerability][log4j] brought much greater attention to the problems that can occur when a single dependency nested arbitrarily deep in a dependency graph has a critical vulnerability. Many of these users are putting significant resources into better understanding their dependencies, which includes being able to attest that their dependencies came from specific sources like crates.io and rust-lang.org.
 
 ## The plan
 
@@ -62,7 +62,7 @@ We're starting on this work immediately: we'll be opening an RFC for the foundat
 
 ## Who
 
-The Rust Foundation’s security initiative team are leading this effort in conjunction with the Rust Project, consulting with other domain experts and stakeholders as needed. We're using the [`#tbd-signing` Zulip stream](https://rust-lang.zulipchat.com/#narrow/stream/417663-tbd-signing) to co-ordinate, and welcome feedback and suggestions there.
+The Rust Foundation’s Technology Team are leading this effort in conjunction with the Rust Project, consulting with other domain experts and stakeholders as needed. We're using the [`#tbd-signing` Zulip stream](https://rust-lang.zulipchat.com/#narrow/stream/417663-tbd-signing) to co-ordinate, and welcome feedback and suggestions there.
 
 ## Future possibilities
 
@@ -83,4 +83,3 @@ In the next few months, we intend to start addressing gaps in the Rust supply ch
 We will do so in an open way, both through the normal RFC process and by working directly with the relevant Rust teams to ensure that we develop a secure, maintainable, flexible infrastructure that will serve us for many years to come.
 
 [log4j]: https://www.cisa.gov/news-events/news/apache-log4j-vulnerability-guidance
-
