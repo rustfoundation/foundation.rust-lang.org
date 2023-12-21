@@ -28,7 +28,7 @@ Finally, supply chain security is a growing concern, particularly among corporat
 
 So, what do we want to do about this?
 
-he Rust Foundation's Technology Team will follow the normal Rust Project RFC process by opening a series of RFCs to implement this project. This plan can — and almost certainly will — change as those RFCs are reviewed, feedback is gathered, experiments are conducted, and new features are implemented in conjunction with the relevant Rust teams.
+he Rust Foundation's Technology Team will follow the normal Rust Project RFC process by opening a series of RFCs to implement this project. This plan can — and almost certainly will — change as those RFCs are reviewed, feedback is gathered, experiments are conducted, and new features are implemented in collaboration with the relevant Rust teams.
 
 On a high level, however, this is how we hope things may go from where we are in December 2023.
 
