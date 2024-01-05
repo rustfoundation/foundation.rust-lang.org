@@ -1,6 +1,6 @@
 ---
 title: "Rust Foundation New Member Announcement: xFusion, Lynx, & SpruceID.\_"
-byline: Ashley Williams, Interim Executive Director, Core Team Member
+byline: Rust Foundation Staff
 description: >-
   The Rust Foundation is thrilled to welcome new Silver members: XFusion, Lynx,
   & SpruceID.
