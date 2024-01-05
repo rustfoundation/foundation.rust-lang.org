@@ -2,8 +2,8 @@
 title: "Rust Foundation New Member Announcement: xFusion, Lynx, & SpruceID.\_"
 byline: Rust Foundation Staff
 description: >-
-  The Rust Foundation is thrilled to welcome new Silver members: XFusion, Lynx,
-  & SpruceID.
+  The Rust Foundation is thrilled to welcome three new Silver members: XFusion,
+  Lynx, & SpruceID.
 date: 2024-01-09T00:00:00Z
 tags:
   - announcement
