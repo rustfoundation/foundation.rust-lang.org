@@ -4,7 +4,7 @@ byline: Rust Foundation Staff
 description: >-
   The Rust Foundation is thrilled to welcome three new Silver members: XFusion,
   Lynx, & SpruceID.
-date: 2024-01-09T00:00:00Z
+date: 2024-01-09T12:00:00Z
 tags:
   - announcement
   - membership
@@ -17,13 +17,13 @@ layout: layouts/news.njk
 
 Please join us in welcoming the following new Silver Member organizations to the Rust Foundation:
 
-### [**<u>xFusion</u>**](https://www.xfusionshox.com/)
+### [**<u>xFusion</u>**](https://www.xfusion.com/en)
 
 “Rust is currently one of the most popular languages, and we are honored to join the Rust Foundation. We believe Rust will help us to build software with higher quality, more security, and better performance. This aligns perfectly with the development strategy of xFusion, which is to provide high-quality and trustworthy computing infrastructures and services to our customers.”
 
 \- Ruiqi Fan, President of Strategy & Business Development Department, xFusion
 
-### [**<u>Lynx Software Technologies</u>**](https://www.lynx.com/)&nbsp;**&nbsp;**&nbsp;
+### [**<u>Lynx Software Technologies</u>**](https://www.lynx.com/)&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;
 
 “The military and aerospace industries are challenged with delivering complex, connected, secure updatable platforms faster and more cost-effectively. Lynx is convinced that Rust is an important piece of achieving this and is committed to using its secure foundational software, LYNX MOSA.ic, to galvanize a comprehensive, open ecosystem around it that is focused on mission-critical systems.”
 
@@ -41,8 +41,6 @@ Please join us in welcoming the following new Silver Member organizations to the
 * [<u>Click here</u>](https://foundation.rust-lang.org/info/become-a-member/) to learn more about the benefits of Rust Foundation membership
 * [<u>Visit the Rust Foundation’s blog</u>](https://foundation.rust-lang.org/tags/member%20spotlight/) to read interviews and stories with Rust Foundation members.
 * To inquire about becoming a member of the Rust Foundation, please email the team at [<u>membership@rustfoundation.org</u>](mailto:membership@rustfoundation.org)
-
-
 
 ---
 
