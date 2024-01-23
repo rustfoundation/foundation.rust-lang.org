@@ -1,6 +1,6 @@
 ---
 title: Q4 2023 Recap from Rebecca Rumbul
-byline: Rebecca Rumbul - Executive Director & CEO
+byline: Dr. Rebecca Rumbul - Executive Director & CEO
 description: >-
   A review of the Rust Foundation’s activities in October, November, and
   December of 2023.
@@ -128,7 +128,7 @@ Despite the challenges we faced over the past year, the Community Grants Program
 
 That concludes the final Rust Foundation 2023 quarterly recap blog! Our team is looking forward to continuing the hard work outlined in this post in 2024. We’re also excited to tackle many new areas of focus in the months ahead.&nbsp;
 
-To everyone who has supported the Rust Foundation staff team in 2023, collaborated with us, or shared your perspectives: Thank you.&nbsp;
+To everyone who supported the Rust Foundation staff team in 2023, collaborated with us, or shared your perspectives: Thank you.&nbsp;
 
 If you have any questions about the contents of this report, don’t hesitate to contact us at <u>contact@rustfoundation.org</u>. If you are interested in joining the Rust Foundation as a member, please email us at <u>membership@rustfoundation.org</u>.&nbsp;&nbsp;
 
