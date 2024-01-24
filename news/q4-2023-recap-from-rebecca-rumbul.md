@@ -33,7 +33,7 @@ For a recap of our financial activities over the past year, please refer to page
 
 In Q4, we were pleased to formally announce JetBrains’ membership with the Rust Foundation. We also created and announced a new Associate Membership tier and look forward to welcoming new organisations to this category in 2024.
 
-If you work for or are otherwise connected to organisation that might be interested in becoming a member of the Rust Foundation, do not hesitate to get in touch with me at [<u>rebeccarumbul@rustfoundation.org</u>](mailto:rebeccarumbul@rustfoundation.org). The team would be delighted to walk any prospective member through our benefits which is also summarised in [<u>this</u>](https://foundation.rust-lang.org/static/membership-overview-deck.pdf)&nbsp;deck.
+If you work for or are otherwise connected to organisation that might be interested in becoming a member of the Rust Foundation, do not hesitate to get in touch with me at [<u>rebeccarumbul@rustfoundation.org</u>](mailto:rebeccarumbul@rustfoundation.org). The team would be delighted to walk prospective members through our benefits, also summarised in&nbsp;<a target="_blank" href="https://foundation.rust-lang.org/static/membership-overview-deck.pdf"><u>this</u></a>&nbsp;deck.
 
 ## **Technology & Infrastructure**
 
