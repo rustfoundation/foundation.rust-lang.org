@@ -23,17 +23,19 @@ For organizations with millions of lines of C++ in a flagship product, rewriting
 
 With the support of Google, the Rust Foundation has created its new Interop Initiative to make the decision and process of investing in Rust smoother for organizations across the globe that are invested in C++.&nbsp;
 
-“A central goal of this initiative will be to support seamless interoperability between existing C++ code and Rust code,” said Joel Marcey, Director of Technology at the Rust Foundation. “This Rust code may be brand new, associated with additional functionality added to a product, or rewritten code as organizations slowly migrate current C++ to Rust.”&nbsp;
+"In continuing the spirit of technical collaboration in areas such as the Security Initiative and infrastructure support, the Rust Foundation is excited to work closely with the Rust Project and support the growing investments in Rust interoperability,” said Joel Marcey, Director of Technology at the Rust Foundation. “A central goal of this initiative will be to support seamless interoperability between existing C++ code and Rust code, which may be brand new, associated with additional functionality added to a product, or rewritten code as organizations slowly migrate current C++ to Rust.”&nbsp;
 
 The Rust Foundation’s first Interop Initiative task will be to draft a scope of work proposal for discussion amongst our team members, the Rust Project Leadership Council, Rust Project stakeholders, relevant Rust Foundation member organizations, and its board.&nbsp;
 
-As the Rust Foundation begins to shape its Interop Initiative, they are mindful of the meaningful contributions other organizations have already made toward Rust interoperability, such as Rust Foundation Silver Member, [<u>KDAB</u>](https://www.kdab.com/) and their work on [<u>bidirectional Rust and C++ bindings with Qt</u>](https://github.com/KDAB/cxx-qt). Recommendations will likely include the hiring of one or more Interop Initiative engineers and may include the provision of resources towards expanding on existing interoperability work, build system integration, using AI for C++ to Rust conversion, or some combination of all these. The Foundation will engage the appropriate stakeholders across the Rust Project and its member base to review the proposal and carve the path forward for this important work.
+As the Rust Foundation begins to shape its Interop Initiative, they are mindful of the meaningful contributions that many members of the Rust Project have already made toward Rust interoperability and the work other organizations have down in this area such as Rust Foundation Silver Member, [<u>KDAB</u>](https://www.kdab.com/) with their work on [<u>bidirectional Rust and C++ bindings with Qt</u>](https://github.com/KDAB/cxx-qt). Recommendations will likely include the hiring of one or more Interop Initiative engineers and may include the provision of resources towards expanding on existing interoperability work, build system integration, using AI for C++ to Rust conversion, or some combination of all these. The Foundation will engage the appropriate stakeholders across the Rust Project and its member base to review the proposal and carve the path forward for this important work.
 
-“Quote,” said Dr. Lars Bergstrom, Rust Foundation Board Chair and Member Director for Google. “Quote.”&nbsp;&nbsp;
+“Google believes in the critical role that memory safe languages like Rust play and the urgent need to address memory safety in a variety of domains,” said Lars Bergstrom, Rust Foundation Board Chair and Member Director for Google. “We are supporting the Rust Foundation's Interop Initiative because greater interoperability with C++ will be key to Rust's adoption and allow for more organizations and communities to benefit from memory-safe systems."
 
 The Rust Foundation would like to thank Platinum Member Google for supporting the Interop Initiative. In doing so, they are actively supporting the future of the Rust programming language and its ease of use for engineers and organizations worldwide.&nbsp;
 
 *You can read Google’s donation announcement blog issued by Dr. Lars Bergstrom, here.*&nbsp;
+
+---
 
 ### About the Rust Foundation
 
