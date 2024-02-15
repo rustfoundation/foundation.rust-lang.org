@@ -29,7 +29,7 @@ The Rust Foundation invites you to download its first Security Initiative Report
 
 Rust Foundation Executive Director & CEO Rebecca Rumbul said the following about the Security Initiative and the new report:
 
-> *“I am pleased to share the Rust Foundation’s first Security Initiative Report, detailing the impressive accomplishments of the program between December 2022 and July 2023. The collaboration between our Technology Team and the Rust Project Teams and Working Groups has resulted in many new developments that will contribute to a more safe and secure Rust language and ecosystem.&nbsp;*
+> *“I am pleased to share the Rust Foundation’s first Security Initiative Report, detailing the impressive accomplishments of the program between December 2022 and July 2023. The collaboration between our Technology Team and the Rust Project Teams and Working Groups has resulted in many new developments that will contribute to a more safe and secure Rust language and ecosystem.*&nbsp;
 >
 > *At the Rust Foundation, we are committed to investing responsibly in Rust for the common good. Better security auditing, automation, and tooling means that both seasoned Rust users and new Rust adopters can have confidence that their Rust code is as safe and secure as it can be. At scale, this means better software for everyone.*
 >
