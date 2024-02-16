@@ -34,7 +34,7 @@ TFHE-rs provides various functions for performing homomorphic operations on encr
 
 Largely thanks to Rust, TFHE-rs is the fastest public implementation of the TFHE scheme. As shown below, execution time is vastly improved compared to other schemes. Visit our website for a complete list of [<u>benchmarks</u>](https://docs.zama.ai/tfhe-rs/getting-started/benchmarks) for our Rust implementation of TFHE.
 
-# Doubling down on the Rust community&nbsp;
+# Doubling Down on the Rust Community&nbsp;
 
 Earlier in 2023, we renewed our Rust Foundation Membership. We also supported the [<u>Rust Community Grants Program</u>](https://foundation.rust-lang.org/grants/). We decided to do this because, at Zama, we are invested in what the Rust community will build on top of what we have created: an accessible framework of products to help all developers build applications that are private by default.
 
