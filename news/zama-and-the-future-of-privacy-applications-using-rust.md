@@ -44,11 +44,11 @@ We are happy to see people from the Rust community involved in what we do at Zam
 
 As a forward-thinking, privacy-centric company, we’re very happy with the security and flexibility of Rust. The amount of support available through the community and the Rust Foundation allows us to focus on the privacy built into our products instead of worrying about the underlying functionality. The secure nature of the language, the speed it affords, and the fact that it makes development fun are all reasons we love implementing Rust.
 
-**Dr. Rand Hindi, CEO at** [**<u>Zama</u>**](https://www.zama.ai/)
-
-Dr. Rand Hindi is an entrepreneur and investor in over 50 companies across AI, blockchain, hardware, and biotech. He started coding at the age of 10, founded a social network at 14, and did a Ph.D. at 21. He then created Snips, a privacy-centric AI startup that was acquired by Sonos.
-
-Dr. Hindi frequently speaks and writes about blockchain, AI, privacy, and homomorphic encryption.
+> ### **Dr. Rand Hindi, CEO at** [**<u>Zama</u>**](https://www.zama.ai/)
+>
+> Dr. Rand Hindi is an entrepreneur and investor in over 50 companies across AI, blockchain, hardware, and biotech. He started coding at the age of 10, founded a social network at 14, and did a Ph.D. at 21. He then created Snips, a privacy-centric AI startup that was acquired by Sonos.
+>
+> Dr. Hindi frequently speaks and writes about blockchain, AI, privacy, and homomorphic encryption.
 
 ---
 
