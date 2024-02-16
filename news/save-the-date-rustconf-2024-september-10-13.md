@@ -37,7 +37,7 @@ We are excited to share that RustConf 2024 will be taking place in Montreal, Can
 
 ## Tickets & Registration
 
-Ticket pricing and registration details will be available soon. We plan to feature a variety of options and affordability offers to make it possible for as many Rustaceans as possible to join us at RustConf.&nbsp;
+Ticket pricing and registration details will be available soon. We plan to feature a variety of options and affordability offers to make it possible for as many Rustaceans as possible to join us at RustConf as possible.&nbsp;
 
 ## 2024 Program Committee & CFP
 
