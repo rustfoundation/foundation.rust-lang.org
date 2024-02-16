@@ -46,9 +46,9 @@ As a forward-thinking, privacy-centric company, we’re very happy with the secu
 
 > ### **Dr. Rand Hindi, CEO at** [**<u>Zama</u>**](https://www.zama.ai/)
 >
-> Dr. Rand Hindi is an entrepreneur and investor in over 50 companies across AI, blockchain, hardware, and biotech. He started coding at the age of 10, founded a social network at 14, and did a Ph.D. at 21. He then created Snips, a privacy-centric AI startup that was acquired by Sonos.
+> *Dr. Rand Hindi is an entrepreneur and investor in over 50 companies across AI, blockchain, hardware, and biotech. He started coding at the age of 10, founded a social network at 14, and did a Ph.D. at 21. He then created Snips, a privacy-centric AI startup that was acquired by Sonos.*
 >
-> Dr. Hindi frequently speaks and writes about blockchain, AI, privacy, and homomorphic encryption.
+> *Dr. Hindi frequently speaks and writes about blockchain, AI, privacy, and homomorphic encryption.*
 
 ---
 
