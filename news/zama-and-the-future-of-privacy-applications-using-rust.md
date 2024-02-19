@@ -1,5 +1,5 @@
 ---
-title: Zama and the Future of Privacy Applications Using Rust
+title: 'Guest Blog: Zama and the Future of Privacy Applications Using Rust'
 byline: Rand Hindi, CEO and Co-Founder of Zama
 description: "A Rust Foundation Guest Blog contributed by Silver Member, Zama.\_"
 date: 2024-02-19T12:00:00Z
@@ -8,9 +8,9 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-Welcome to another installment in the Rust Foundation [<u>guest blog series</u>](https://foundation.rust-lang.org/tags/guest%20blog%20series/), written by members of the Rust Foundation and our community. This guest blog was contributed by Rand Hindi, CEO and Co-Founder of [Zama](https://www.zama.ai/) – a Rust Foundation Silver Member organization. Zama is a cryptography company building an open source framework for homomorphic encryption: a new data encryption approach that enables users to compute on encrypted data.&nbsp;
+### Welcome to another installment in the Rust Foundation [<u>guest blog series</u>](https://foundation.rust-lang.org/tags/guest%20blog%20series/), written by members of the Rust Foundation and our community. This guest blog was contributed by Rand Hindi, CEO and Co-Founder of [Zama](https://www.zama.ai/) – a Rust Foundation Silver Member organization. Zama is a cryptography company building an open source framework for homomorphic encryption: a new data encryption approach that enables users to compute on encrypted data.&nbsp;
 
-Read on to learn more about how Zama is involved with the Rust community and specifically about TFHE-rs: Zama’s cryptographic library.&nbsp;
+### Read on to learn more about how Zama is involved with the Rust community and specifically about TFHE-rs: Zama’s cryptographic library.&nbsp;
 
 ---
 
