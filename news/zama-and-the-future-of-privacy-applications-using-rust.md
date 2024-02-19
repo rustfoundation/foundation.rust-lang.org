@@ -52,8 +52,8 @@ As a forward-thinking, privacy-centric company, we’re very happy with the secu
 
 ---
 
-### Our sincere thanks to Zama for their Rust Foundation Silver membership and for their generous support of our Community Grants Program.&nbsp;
+### Thank you for reading this contributed guest blog from Rust Foundation Silver Member and Community Grants Program supporter: Zama!&nbsp;
 
-### If your organization would like more information on Rust Foundation Membership, please visit our [<u>membership page</u>](https://foundation.rust-lang.org/members/) and email us at [<u>membership@rustfoundation.org</u>](mailto:membership@rustfoundation.org) to inquire.&nbsp;
+### If your organization would like more information on Rust Foundation Membership, please visit our <a rel="nofollow" href="https://foundation.rust-lang.org/members/"><u>membership page</u></a>. Email us at [<u>membership@rustfoundation.org</u>](mailto:membership@rustfoundation.org) to inquire about your options.&nbsp;
 
-### Click here to learn more about the Community Grants Program and email us at [<u>grants@rustfoundation.org</u>](mailto:grants@rustfoundation.org) to get involved.&nbsp;
+### Click [here](https://foundation.rust-lang.org/grants/) to learn more about the Community Grants Program and email us at [<u>grants@rustfoundation.org</u>](mailto:grants@rustfoundation.org) to ask a question or support our work.&nbsp;
