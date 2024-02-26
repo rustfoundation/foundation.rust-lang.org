@@ -1,5 +1,5 @@
 ---
-title: 'Rust Foundation New Member Announcement: Trace Machina & {Org name}.'
+title: 'Rust Foundation New Member Announcement: Trace Machina & {test name}.'
 byline: Rust Foundation Team
 description: >-
   The Rust Foundation is thrilled to welcome two new Silver members: Trace
