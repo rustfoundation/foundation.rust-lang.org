@@ -1,9 +1,9 @@
 ---
-title: 'Rust Foundation New Member Announcement: Trace Machina & {Org name}.'
+title: 'Rust Foundation New Member Announcement: Trace Machina & Veecle'
 byline: Rust Foundation Team
 description: >-
   The Rust Foundation is thrilled to welcome two new Silver members: Trace
-  Machina and {Org name}.
+  Machina and Veecle.
 date: 2024-02-29T12:00:00Z
 tags:
   - announcement
@@ -11,7 +11,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-**DOVER, DELAWARE, February 29, 2024** – [The Rust Foundation](https://rustfoundation.org/), an independent, nonprofit organization dedicated to advancing the performance, safety, and sustainability of the Rust programming language, is pleased to welcome two new member organizations at the Silver level. Rust Foundation members play an active role in the organization’s mission to steward the Rust programming language and its global community. These organizations operating in the open source infrastructure and \{category\} industries have demonstrated their commitment to the health of Rust through their membership in the Rust Foundation.&nbsp;
+**DOVER, DELAWARE, February 29, 2024** – [The Rust Foundation](https://rustfoundation.org/), an independent, nonprofit organization dedicated to advancing the performance, safety, and sustainability of the Rust programming language, is pleased to welcome two new member organizations at the Silver level. Rust Foundation members play an active role in the organization’s mission to steward the Rust programming language and its global community. These organizations operating in the open source infrastructure and automotive industries have demonstrated their commitment to the health of Rust through their membership in the Rust Foundation.&nbsp;
 
 Please join us in welcoming the following new Silver Member organizations to the Rust Foundation:
 
@@ -19,15 +19,15 @@ Please join us in welcoming the following new Silver Member organizations to the
 
 “Trace Machina decided to join the Rust Foundation to give back to a non-profit that has already given us so much. Rust is vital to our [NativeLink](https://github.com/TraceMachina/nativelink) and NativeEdge projects, vital to our customers, and vital to society-at-large because Rust will underpin so many new and impactful technologies. We have never seen a low-level programming language as flexible, maintainable and secure.”
 
-* Marcus Eagan & Blaise Bruer – Co-Founders of Trace Machina&nbsp;
+\- Marcus Eagan & Blaise Bruer – Co-Founders of Trace Machina&nbsp;
 
-### **\{Org\}**
+### [**Veecle**](https://www.veecle.io/)
 
-“Quote.”
+“Veecle's commitment to Rust stems from its robust typestate API design, which elevates code safety by catching logical errors during compilation, significantly reducing the risk of critical failures. The async/await paradigms align perfectly with the event-driven nature of automotive systems, facilitating faster setup, more reliable execution, and easier maintenance of automotive software. Our success and the positive feedback from our customers are a testament to Rust's capabilities, motivating us to support the Rust Foundation and promote Veecle's innovative solutions within this community.”
 
-* Name, Title, Org
+\- Stefan Nürnberger, CEO & Co-Founder, Veecle
 
-The Rust Foundation thanks Trace Machina and \{Org Name\} for their Silver Memberships, which will contribute to our stewardship of the Rust programming language ecosystem.
+The Rust Foundation thanks Trace Machina and Veecle for their membership, which will contribute to our continued stewardship of the Rust programming language ecosystem.
 
 ## **Membership Resources**
 
