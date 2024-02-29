@@ -4,7 +4,7 @@ byline: Rust Foundation Team
 description: >-
   The Rust Foundation is thrilled to welcome two new Silver members: Trace
   Machina and Veecle.
-date: 2024-02-29T12:00:00Z
+date: 2024-02-29T09:00:00Z
 tags:
   - announcement
   - membership
