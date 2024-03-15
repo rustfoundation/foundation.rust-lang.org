@@ -4,7 +4,6 @@ title: Event Sponsorship
 templateClass: tmpl-info
 eleventyNavigation:
   key: Event Sponsorship
-  order: 7
 ---
 
 <section class="container event-sponsorship">
