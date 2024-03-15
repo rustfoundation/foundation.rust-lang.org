@@ -30,5 +30,5 @@ eleventyNavigation:
     <hr>
     <h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSf8UfYBuHCWTORuo1bho54YG2D9sEy8a6DJIiLgBQDLUuMGzw/viewform">Submit your request for event sponsorship through this application form</a>>></h3>
     <br>
-    <p><Applications are accepted on a rolling basis. We always aim to respond to application with a sponsorship decision as quickly as possible.</p></div>
+   <p><i>Applications are accepted on a rolling basis. We always aim to respond to application with a sponsorship decision as quickly as possible.</i></p></div>
 </section>
