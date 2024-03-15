@@ -14,7 +14,7 @@ eleventyNavigation:
     <p>If you are interested in receiving financial support for a newer meetup or small event, please consider applying for an Event Support Grant. These financial awards range from $100-$500 USD and are intended to support Rust-related events – both in-person and virtual.</p>
      <p>If our Event Support Grants will not suit your needs and you are instead interested in sponsorship for your event, please review the process below.</p></div></section>
     <section class="container event-sponsorship-details">
-    <div class="section" style="margin-top: 4em;">
+    <div class="section" style="margin-top: 2em;">
     <h2>What We Look For in Event Sponsorship Requests</h2>
     <p>Because the Rust Foundation receives many requests for sponsorship and financial support across a wide range of focus areas, we generally evaluate event sponsorship inquiries using the following considerations:</p>
     <ol>
