@@ -31,6 +31,6 @@ eleventyNavigation:
     <h3>Nonprofit vs. Commercial Model</h3>
     <p>The Rust Foundation is much more likely to sponsor non-commercial, not-for-profit events.</p>
     <br>
-    event/h3>
-    <br>
+  <h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSf8UfYBuHCWTORuo1bho54YG2D9sEy8a6DJIiLgBQDLUuMGzw/viewform">Click here to submit an application to the Rust Foundation for event sponsorship</a></h3>
+  <br>
    <p><i>Applications are accepted on a rolling basis. We always aim to respond to application with a sponsorship decision as quickly as possible.</i></p></div></section>
