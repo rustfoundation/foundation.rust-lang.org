@@ -6,10 +6,14 @@ eleventyNavigation:
   key: Event Sponsorship
   order: 7
 ---
-    <h2>Interested in Rust Foundation Sponsorship For Your Event?</h2>
+
+<section class="container event-sponsorship">
+    <div class="section" style="margin-top: 4em;">
+    <h1>Interested in Rust Foundation Sponsorship For Your Event?</h1>
     <p>The Rust Foundation’s stewardship of the Rust programming language and ecosystem includes promoting, contributing, and championing events hosted by Rust community members. Our goal is to support a variety of Rust-focused events around the world.</p>
     <p>If you are interested in receiving financial support for a newer meetup or small event, please consider applying for an Event Support Grant. These financial awards range from $100-$500 USD and are intended to support Rust-related events – both in-person and virtual.</p>
      <p>If our Event Support Grants will not suit your needs and you are instead interested in sponsorship for your event, please review the process below.</p>
+    
     <h2>What We Look For in Event Sponsorship Requests</h2>
     <p>Because the Rust Foundation receives many requests for sponsorship and financial support across a wide range of focus areas, we generally evaluate event sponsorship inquiries using the following considerations:</p>
     <ol>
@@ -25,4 +29,5 @@ eleventyNavigation:
     <hr>
     <h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSf8UfYBuHCWTORuo1bho54YG2D9sEy8a6DJIiLgBQDLUuMGzw/viewform">Submit your request for event sponsorship through this application form</a>>></h3>
     <br>
-   <p><i>Applications are accepted on a rolling basis. We always aim to respond to application with a sponsorship decision as quickly as possible.</i></p>
+   <p><i>Applications are accepted on a rolling basis. We always aim to respond to application with a sponsorship decision as quickly as possible.</i></p></div>
+</section>
