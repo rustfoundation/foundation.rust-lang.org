@@ -4,8 +4,6 @@ description: >-
    Awards ranging from $500 to $1,500 made to active maintainers of the Rust
    Project facing financial hardship.
 date: 2022-04-01T00:00:00Z
-tags:
-   - community grants program
 ---
 [⏎ Return to Community Grants Program Main](/grants/)
 

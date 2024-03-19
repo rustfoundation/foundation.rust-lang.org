@@ -6,8 +6,6 @@ description: >-
    community or who have Rust experience and a high potential to benefit the
    community through their contributions.
 date: 2022-04-01T00:00:00Z
-tags:
-   - community grants program
 ---
 [⏎ Return to Community Grants Program Main](/grants/)
 
