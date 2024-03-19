@@ -2,5 +2,5 @@
 name: Slint
 level: silver
 logo: /img/member/slint.png
-url: https://slint-ui.com/
+url: https://slint.dev/
 ---
