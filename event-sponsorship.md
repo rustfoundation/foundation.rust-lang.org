@@ -2,8 +2,6 @@
 layout: layouts/base.njk
 title: Event Sponsorship
 templateClass: tmpl-info
-eleventyNavigation:
-  key: Event Sponsorship
 ---
 
 <section class="container event-sponsorship">
