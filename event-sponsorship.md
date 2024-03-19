@@ -8,7 +8,7 @@ templateClass: tmpl-info
     <div class="section" style="margin-top: 4em;">
     <h1>Interested in Rust Foundation Sponsorship For Your Event?</h1>
     <p>The Rust Foundation’s stewardship of the Rust programming language and ecosystem includes promoting, contributing, and championing events hosted by Rust community members. Our goal is to support a variety of Rust-focused events around the world.</p>
-    <p>If you are interested in receiving financial support for a newer meetup or small event, please consider applying for an <a href="https://foundation.rust-lang.org/grants/event-support-grants/">Event Support Grant</a></p>
+    <p>If you are interested in receiving financial support for a newer meetup or small event, please consider applying for an <a href="https://foundation.rust-lang.org/grants/event-support-grants/">Event Support Grant.</a></p>
      <p>If our Event Support Grants will not suit your needs and you are instead interested in sponsorship, please review the process below.</p></div></section>
     <section class="container event-sponsorship-details">
     <div class="section" style="margin-top: 2em;">
