@@ -13,9 +13,9 @@ layout: layouts/news.njk
 ---
 [Rust Nation UK](https://www.rustnationuk.com/) is back for 2024 and the Rust Foundation is thrilled to serve as a sponsor again this year.
 
-From March 26-28, our team will be in London with other Rustaceans for three days of Rust-centric talks, connections, and conversations. We hope to see you there! Click [here](https://www.rustnationuk.com/) to learn more and register.
+From March 26-28, our team will be in London with other Rustaceans for three days of Rust-centric talks and conversations. We hope to see you there! Click [here](https://www.rustnationuk.com/) to learn more and register.
 
-In addition to serving as sponsors and mingling with other Rust language enthusiasts, we are excited to have two of our team members on the program this year. If you’re planning to attend Rust Nation UK, you’ll get the chance to experience the following talks from the Rust Foundation team:
+In addition to serving as sponsors and connecting with other Rust language enthusiasts, we are excited to have two of our team members on the program this year. If you’re planning to attend Rust Nation UK, you’ll get the chance to experience the following talks from the Rust Foundation team:
 
 ## **“Rust Infrastructure: What it Takes to Keep Rust Running” – JD Nose**
 
