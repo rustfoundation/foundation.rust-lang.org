@@ -1,5 +1,5 @@
 ---
-title: 'Rust Foundation to Join CRA Compliance Collaboration '
+title: 'Rust Foundation Joins CRA Compliance Collaboration '
 byline: Rust Foundation Team
 description: >-
   The Rust Foundation, Eclipse Foundation, Apache Software Foundation, Blender
@@ -11,7 +11,9 @@ description: >-
 date: 2024-04-02T03:00:00Z
 tags:
   - announcement
-  - philosophy
+  - foundation
+  - government
+  - security
 index: false
 layout: layouts/news.njk
 ---
@@ -21,15 +23,13 @@ layout: layouts/news.njk
 
 *Below, you'll find the contents of the Eclipse Foundation's announcement of this exciting OSS cybersecurity collaboration, shared on April 2, 2024.*
 
-*View the original Eclipse Foundation announcement here:* <a href="https://eclipse-foundation.blog/2024/04/02/open-source-community-cra-compliance/" target="_blank" rel="noreferrer noopener"><em>https://eclipse-foundation.blog/2024/04/02/open-source-community-cra-compliance/</em></a>  *  *
-
 *The Rust Foundation would like to thank the Eclipse Foundation and our other OSS foundation peers for jointly prioritizing compliance with the Cyber Resilience Act and more secure software development practices.*
+
+*View the original Eclipse Foundation announcement here:* <a href="https://eclipse-foundation.blog/2024/04/02/open-source-community-cra-compliance/" target="_blank" rel="noreferrer noopener"><em>https://eclipse-foundation.blog/2024/04/02/open-source-community-cra-compliance</em></a>
 
 ---
 
 ## **The Open Source Community is Building Cybersecurity Processes for CRA Compliance**
-
-*tl;dr - Apache Software Foundation, Blender Foundation, OpenSSL Software Foundation, PHP Foundation, Python Software Foundation, Rust Foundation, and Eclipse Foundation are jointly announcing our intention to collaborate on the establishment of common specifications for secure software development based on existing open source best practices.*
 
 In an effort to meet the real challenges of cybersecurity in the open source ecosystem, and to demonstrate full cooperation with, and to support the implementation of, the European Union’s Cyber Resilience Act (CRA), <a href="https://www.apache.org/" target="_blank" rel="noreferrer noopener">Apache Software Foundation</a>, <a href="https://www.blender.org/about/foundation/" target="_blank" rel="noreferrer noopener">Blender Foundation</a>, <a href="https://www.openssl.org/" target="_blank" rel="noreferrer noopener">OpenSSL Software Foundation</a>, <a href="https://thephp.foundation/" target="_blank" rel="noreferrer noopener">PHP Foundation</a>, <a href="https://www.python.org/psf-landing/" target="_blank" rel="noreferrer noopener">Python Software Foundation</a>, <a href="https://foundation.rust-lang.org/" target="_blank" rel="noreferrer noopener">Rust Foundation</a>, and <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer noopener">Eclipse Foundation</a> are announcing an initiative to establish common specifications for secure software development based on open source best practices.
 
