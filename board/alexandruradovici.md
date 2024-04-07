@@ -1,6 +1,6 @@
 ---
 name: Alexandru Radovici
-title: alexandruradovici
+title: Silver Member Representative
 headshot: /img/headshot/alexandru.png
 showeleventh: true
 ---
