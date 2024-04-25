@@ -29,7 +29,7 @@ Andrew Wafaa’s two year term as Silver Member Representative came to an end in
 
 In Q1, we accomplished several key financial and legal tasks with oversight from Paul Lenz, Director of Finance & Funding, and Abi Broom, Operations Manager.
 
-In addition to transitioning our financial management and reporting systems from Quickbooks to Xero, completing the IRS reporting for our 2023 form 990 submission, and conducting a review of performance against budget for 2023 (shared with the board), we introduced more granular financial reporting and tracking to better reflect how the resources of the Foundation are spent in support of the Project.
+In addition to transitioning our financial management and reporting systems from Quickbooks to Xero, completing the IRS reporting for our 2023 form 990 submission, and conducting a review of performance against budget for 2023 (summary shared with the board,) we introduced more granular financial reporting and tracking to better reflect how the resources of the Foundation are spent in support of the Project.
 
 In Q1, the Rust Foundation also carried out funding allocation work in response to the generous donations we received in late 2023 from both Google and Microsoft. The Foundation has been in close collaboration over the past three months with our Project Directors to develop a plan for Microsoft’s unrestricted donation of $1M in Q4 of 2023, as $325k has been earmarked to fund Rust Project priorities. We look forward to sharing a blog in the coming weeks with more details.
 
@@ -71,11 +71,11 @@ The second Security Initiative [report](https://foundation.rust-lang.org/news/se
 
 **Publications:**
 
-In Q1, we announced two sets of new members: Lynx, XFusion, and SpruceID in [January](https://foundation.rust-lang.org/news/rust-foundation-new-member-announcement-xfusion-lynx-spruceid/) and Trace Machina and Veecle in [February](https://foundation.rust-lang.org/news/rust-foundation-new-member-announcement-trace-machina-veecle/). We followed a new format for both member announcements, which has made the process more streamlined and efficient overall.
+In Q1, we announced two sets of new members: Lynx, xFusion, and SpruceID in [January](https://foundation.rust-lang.org/news/rust-foundation-new-member-announcement-xfusion-lynx-spruceid/) and Trace Machina and Veecle in [February](https://foundation.rust-lang.org/news/rust-foundation-new-member-announcement-trace-machina-veecle/). We followed a new format for both member announcements, which has made the process more streamlined and efficient overall.
 
 As mentioned above, in February, we had the pleasure of [detailing](https://foundation.rust-lang.org/news/second-security-initiative-report-details-rust-security-advancements/) the many accomplishments realised through our Security Initiative in a second Security Initiative Report, available [here](https://foundation.rust-lang.org/static/publications/security-initiative-report-february-2024.pdf). Thank you to OpenSSF’s Alpha-Omega Project and Platinum Member AWS for their support of this effort to advance the state of security in the Rust language ecosystem. Additional thanks to our many collaborators within the Rust Project.
 
-As described above, we also [announced](https://foundation.rust-lang.org/news/google-contributes-1m-to-rust-foundation-to-support-c-rust-interop-initiative/) Platinum Member Google’s $1M donation in Q1. This funding is underwriting a new Rust-C++ interoperability initiative. Learn more [here](https://foundation.rust-lang.org/news/google-contributes-1m-to-rust-foundation-to-support-c-rust-interop-initiative/). We look forward to sharing a similar announcement of how the $1M donation from Platinum Member Microsoft will be used in Q2.
+As described above, we also announced Platinum Member Google’s $1M donation in Q1. This funding is underwriting a new Rust-C++ interoperability initiative. Learn more [here](https://foundation.rust-lang.org/news/google-contributes-1m-to-rust-foundation-to-support-c-rust-interop-initiative/). We look forward to sharing a similar announcement of how the $1M donation from Platinum Member Microsoft will be used in Q2.
 
 We published [a new guest blog](https://foundation.rust-lang.org/news/zama-and-the-future-of-privacy-applications-using-rust/) by Silver Member, Zama in Q1, which focuses on how Zama is involved with the Rust community and specifically about TFHE-rs: Zama’s cryptographic library. Guest blogs are a benefit of Rust Foundation membership and are an excellent way for our community to get to know our members and their fellow community members better. We are also exploring new ways to offer guest blogging opportunities to members of the community.
 
@@ -95,7 +95,7 @@ In Q1, the Rust Foundation staff team was present at several community events:
 
 * [FOSDEM](https://fosdem.org/2024/)
 * [State of Open Con](https://stateofopencon.com/)
-* [CISA]()'s Open Source Software Security Summit
+* [CISA](https://www.cisa.gov/)'s Open Source Software Security Summit
 * [Rust Nation](https://www.rustnationuk.com/) – The majority of our staff team was present at Rust Nation, where the Foundation acted as a sponsor. Lead Infrastructure Engineer JD presented a talk at Rust Nation on the complex infrastructure behind the Rust programming language and the resources needed to keep the language thriving.
 
 CISA’s Security Summit gave me and Rust Project Leadership Council and crates.io Team Member, Carol Nichols, a better understanding of how we can improve our future response to crates.io security threats. To learn more about the CISA Security Summit from Carol directly, please read her recent [Rust Foundation guest blog](https://foundation.rust-lang.org/news/attending-cisas-open-source-software-security-summit/).
@@ -108,7 +108,7 @@ Special thanks to the community members who accepted our invitation to participa
 
 As a reminder, the Rust Foundation will be hosting RustConf from September 10-13, 2024 in Montreal, Canada and online! Learn more at [rustconf.com](http://rustconf.com) and reserve your spot today. We would love to see you there!
 
-If your organisation is interested in supporting this long-running and beloved Rust community event, we have many different sponsorship opportunities available. Take a look at our [sponsorship hub](https://rustconf.com/become-a-sponsor/) on the website and reach out to us at [rustconfsponsors@rustfoundation.org](mailto:rustconfsponsors@rustfoundation.org) if you are interested or have any questions. Special thanks to [Devolutions]() for coming aboard as our exclusive Diamond Sponsor!
+If your organisation is interested in supporting this long-running and beloved Rust community event, we have many different sponsorship opportunities available. Take a look at the [sponsorship hub](https://rustconf.com/become-a-sponsor/) on the RustConf website and reach out to us at [rustconfsponsors@rustfoundation.org](mailto:rustconfsponsors@rustfoundation.org) if you are interested or have any questions. Special thanks to [Devolutions]() for coming aboard as our exclusive Diamond Sponsor!
 
 RustConf will also feature Rust Global – a Rust Foundation-hosted mini conference on Friday, September 13. Rust Global will feature conversations about the professional use of Rust in global governments and the enterprise. To grab a spot at Rust Global, please claim a RustConf “Industry/Government” ticket at [registration](https://www.eventbrite.com/e/rustconf-2024-tickets-865842106047?aff=oddtdtcreator) and add on the free Rust Global option.
 
