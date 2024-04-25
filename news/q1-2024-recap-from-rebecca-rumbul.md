@@ -1,7 +1,9 @@
 ---
 title: Q1 2024 Recap from Rebecca Rumbul
 byline: Rebecca Rumbul, Rust Foundation Executive Director & CEO
-description: Announcing the Rust Foundation to the World
+description: >-
+  A review of the Rust Foundation’s activities in January, February, and March
+  of 2024.
 date: 2024-04-25T12:00:00Z
 tags:
   - quarterly updates
