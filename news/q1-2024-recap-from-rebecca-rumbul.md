@@ -67,7 +67,7 @@ The second Security Initiative [report](https://foundation.rust-lang.org/news/se
 
 ## Communications, Marketing & Events
 
-**Publications**
+**Publications:**
 
 In Q1, we announced two sets of new members: Lynx, XFusion, and SpruceID in [January](https://foundation.rust-lang.org/news/rust-foundation-new-member-announcement-xfusion-lynx-spruceid/) and Trace Machina and Veecle in [February](https://foundation.rust-lang.org/news/rust-foundation-new-member-announcement-trace-machina-veecle/). We followed a new format for both member announcements, which has made the process more streamlined and efficient overall.
 
@@ -79,11 +79,11 @@ We published [a new guest blog](https://foundation.rust-lang.org/news/zama-and-t
 
 Finally, we had the honor of [amplifying the news](https://foundation.rust-lang.org/news/rust-x-google-summer-of-code-2024/) that the Rust Foundation was selected as a mentoring organisation for Google Summer of Code 2024 (as a representative in this instance of the Rust Project). While the Foundation submitted the application on behalf of the Project and will act as a liaison, the opportunity was surfaced by members of the Project who will be the active party in the mentoring process.
 
-**Training Program Updates**
+**Training Program Updates:**
 
 Our plans for a Rust Foundation training and certification program remain in an early stage, however, in March, we hosted two listening sessions which gave us deeper insight into key Project and Member priorities as we take the next steps towards content development. These sessions were attended by a handful of participants in each group and over the course of each hour, many valuable questions and considerations were raised. Our intention remains to explore all possible ways to offer Rust language course material in a way that benefits the entire ecosystem and does not take business away from our members. To accomplish this, we would like to offer our courses for free and charge for a certification. More details will be released as progress is made. We are very willing to host additional listening sessions in the future!
 
-**Website**
+**Website:**
 
 In January and February, we made significant progress on the new website, however there is currently a progress bottleneck with only one full-time mar-comms team member at the Rust Foundation in Q1. We anticipate completion of this ongoing project in the very near future, as the remaining tasks to launch are primarily rote and content migration-related and a new full-time mar-comms team member is joining in Q2.
 
@@ -98,7 +98,7 @@ In Q1, the Rust Foundation staff team was present at several community events:
 
 CISA’s Security Summit gave me and Rust Project Leadership Council and crates.io Team Member, Carol Nichols, a better understanding of how we can improve our future response to crates.io security threats. To learn more about the CISA Security Summit from Carol directly, please read her recent [Rust Foundation guest blog](https://foundation.rust-lang.org/news/attending-cisas-open-source-software-security-summit/).
 
-**RustConf 2024**
+**RustConf 2024:**
 
 We hit the ground running with RustConf planning in Q1, having updated the conference branding, relaunched the [website](https://rustconf.com) with 2024 information, developed a sponsorship prospectus, began recruiting new sponsors, opened the call for talk proposals (closed as of April 25), and opened registration. We look forward to announcing speakers and releasing the program in Q2.
 
