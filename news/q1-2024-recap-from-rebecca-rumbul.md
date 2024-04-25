@@ -116,7 +116,7 @@ The RustConf “UnConference” will also take place on Friday, September 13. As
 
 ## **Community Grants Program**
 
-As mentioned in our Q4 2023 recap, we conducted a thorough assessment of the Community Grants Program late last year with Fellowship awards emerging as a key priority. In Q1, we initiated discussions with the Leadership Council about our Fellowship awards to hone our plan and offerings. We are looking forward to announcing the 2024 cohort later this year with input from the Leadership Council to be reflected in the overall strategy. Stay tuned for more details!
+As mentioned in my [Q4 2023 recap](https://foundation.rust-lang.org/news/q4-2023-recap-from-rebecca-rumbul/), we conducted a thorough assessment of the Community Grants Program late last year with Fellowship awards emerging as a key priority. In Q1, we initiated discussions with the Leadership Council about our Fellowship awards to hone our plan and offerings. We are looking forward to announcing the 2024 cohort later this year with input from the Leadership Council to be reflected in the overall strategy. Stay tuned for more details!
 
 ---
 
