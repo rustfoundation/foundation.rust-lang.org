@@ -1,6 +1,6 @@
 ---
 name: RustNL
-level: silver
+level: associate
 logo: /img/member/rustnl.png
 url: https://rustnl.org/
 ---
