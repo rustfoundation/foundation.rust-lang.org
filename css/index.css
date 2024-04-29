@@ -462,6 +462,13 @@ footer .container {
   display: inline-block;
 }
 
+.memberslist li.associatemember {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  display: inline-block;
+}
+
 .memberslist li:hover .founding {
   display: inline-block;
 }
@@ -503,6 +510,10 @@ footer .container {
 }
 
 .memberslist-small li img {
+  width: 7em;
+}
+
+.associatemember img {
   width: 7em;
 }
 
