@@ -15,7 +15,7 @@ layout: layouts/news.njk
 
 Please join us in welcoming the following new Rust Foundation member organizations:
 
-### **<u>Devolutions (Silver)</u>**
+### [**<u>Devolutions (Silver)</u>**](https://devolutions.net/?utm_source=rust-conf&amp;utm_medium=website&amp;utm_campaign=events)
 
 “Embracing Rust since 2018, Devolutions is at the forefront of secure software innovation. Our projects like IronRDP, sspi-rs, and Devolutions Gateway exemplify our commitment to leveraging Rust's capabilities for complex network protocols and secure communication. These endeavors highlight why we're excited to join the Rust Foundation, pushing the boundaries of technology to create safer, more efficient solutions.”
 
