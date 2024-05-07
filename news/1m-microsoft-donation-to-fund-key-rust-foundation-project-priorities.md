@@ -2,8 +2,8 @@
 title: '$1M Microsoft Donation to Fund Key Rust Foundation & Project Priorities '
 byline: Rust Foundation Team
 description: >-
-  Announcing the allocation of a recent $1M Microsoft donation to support Rust
-  Foundation and Rust Project priorities . 
+  Announcing the allocation of a recent $1M donation from Platinum Member
+  Microsoft to support Rust Foundation and Rust Project priorities . 
 date: 2024-05-07T12:00:00Z
 tags:
   - announcement
