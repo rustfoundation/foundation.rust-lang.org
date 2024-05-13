@@ -13,7 +13,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-The Rust Foundation is pleased to announce the arrival of our newest addition to the team — **Marketing Program Manager, Christina Gorton**. As a member of the Rust Foundation's growing marketing and communications team led by Director of Communications & Marketing, Gracie Gregory, Christina will help scale the Foundation’s marketing and communication efforts. Her focus areas include expanding our corporate membership program, further developing the Rust Foundation events strategy, editorial review, supporting the creation of a Rust Foundation training program and more!
+The Rust Foundation is pleased to announce the arrival of our newest addition to the team — Marketing Program Manager, Christina Gorton. As a member of the Rust Foundation's growing marketing and communications team led by Director of Communications & Marketing, Gracie Gregory, Christina will help scale the Foundation’s marketing and communication efforts. Her focus areas include expanding our corporate membership program, further developing the Rust Foundation events strategy, editorial review, supporting the creation of a Rust Foundation training program and more!
 
 Christina has had a variety of interesting roles across the tech industry and brings experience in developer education, advocacy, and open-source program management. Christina has also managed open-source communities at various companies, including Forem, AWS, and GitHub.
 
