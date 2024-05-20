@@ -70,7 +70,3 @@ Safety is a shared responsibility – this concept is fundamental to healthy com
 \[7\] <a href="https://crates.io/crates/windows" title="Rust for Windows" target="_blank" rel="noopener">https://crates.io/crates/windows</a>
 
 \[8\] <a href="https://github.com/rust-lang/miri" title="Miri: Undefined Behavior detection tool for Rust" target="_blank" rel="noopener">https://github.com/rust-lang/miri</a>
-
-&nbsp;
-
-&nbsp;
