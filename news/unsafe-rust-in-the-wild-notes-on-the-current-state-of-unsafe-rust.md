@@ -6,7 +6,7 @@ description: >-
   stake, software foundations, technology consortiums, and governments around
   the world are taking notice and advocating for improved programming practices
   and tools. 
-date: 2024-05-07T12:30:00Z
+date: 2024-05-21T12:30:00Z
 tags:
   - rust
   - foundation
