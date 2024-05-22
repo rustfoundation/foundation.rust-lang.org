@@ -55,18 +55,18 @@ As discussed, Rust lives up to its reputation as an excellent and transformative
 
 Safety is a shared responsibility – this concept is fundamental to healthy communities. Between the developers using Unsafe Rust, the groups advocating for the use of security-enhancing tools like Rust, and language stewards like our organization, we all have a part to play in secure programming practices. A collaborative, ongoing focus on safety and security will allow the language to remain as resistant to vulnerabilities as possible well into the future.
 
-[^1]: <a href="https://msrc.microsoft.com/blog/2019/07/a-proactive-approach-to-more-secure-code/" title="A proactive approach to more secure code" target="_blank" rel="noopener">https://msrc.microsoft.com/blog/2019/07/a-proactive-approach-to-more-secure-code/</a>, <a href="https://cwe.mitre.org/top25/archive/2023/2023_stubborn_weaknesses.html" title="Common Weakness Enumeration (CWE)" target="_blank" rel="noopener">https://cwe.mitre.org/top25/archive/2023/2023_stubborn_weaknesses.html </a>
+[^1]: See <a href="https://msrc.microsoft.com/blog/2019/07/a-proactive-approach-to-more-secure-code/" title="A proactive approach to more secure code" target="_blank" rel="noopener">A proactive approach to more secure code</a> from Microsoft and <a href="https://cwe.mitre.org/top25/archive/2023/2023_stubborn_weaknesses.html" title="Common Weakness Enumeration (CWE)" target="_blank" rel="noopener">Stubborn Weaknesses in the CWE Top 25</a>
 
-[^2]: <a href="https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html#unsafe-superpowers" title="Unsafe Rust" target="_blank" rel="noopener">https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html#unsafe-superpowers</a>
+[^2]: See <a href="https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html#unsafe-superpowers" title="Unsafe Rust" target="_blank" rel="noopener">Unsafe Superpowers</a> from The Rust Programming Language book
 
-[^3]: <a href="https://rustsec.org/advisories/RUSTSEC-2019-0012.html" title="RUSTSEC-2019-0012" target="_blank" rel="noopener">https://rustsec.org/advisories/RUSTSEC-2019-0012.html</a>, <a href="https://nvd.nist.gov/vuln/detail/CVE-2019-15554" title=" CVE-2019-15554 Detail" target="_blank" rel="noopener">https://nvd.nist.gov/vuln/detail/CVE-2019-15554 </a>
+[^3]: See <a href="https://rustsec.org/advisories/RUSTSEC-2019-0012.html" title="RUSTSEC-2019-0012" target="_blank" rel="noopener">RUSTSEC-2019-0012: Memory corruption in SmallVec::grow()</a> and <a href="https://nvd.nist.gov/vuln/detail/CVE-2019-15554" title=" CVE-2019-15554 Detail" target="_blank" rel="noopener">its associated NVD entry</a>
 
-[^4]: <a href="https://rustsec.org/advisories/CVE-2018-1000657.html" title="Buffer overflow vulnerability in VecDeque::reserve()" target="_blank" rel="noopener">https://rustsec.org/advisories/CVE-2018-1000657.html</a>
+[^4]: <a href="https://rustsec.org/advisories/CVE-2018-1000657.html" title="Buffer overflow vulnerability in VecDeque::reserve()" target="_blank" rel="noopener">RUSTSEC page for CVE-2018-1000657 Buffer overflow vulnerability in VecDeque::reserve()</a> and <a href="https://nvd.nist.gov/vuln/detail/CVE-2018-1000657">its associated NVD entry</a>
 
-[^5]: <a href="https://crates.io" title="crates.io: Rust Package Manager" target="_blank" rel="noopener">https://crates.io</a>
+[^5]: Many crates are distributed via <a href="https://crates.io" title="crates.io: Rust Package Manager" target="_blank" rel="noopener">https://crates.io</a>, Rust's open source package registry.
 
-[^6]: These numbers were derived from a Rust Foundation project called Painter. <a href="https://github.com/rustfoundation/painter" title="The Rust Foundation Project: Painter" target="_blank" rel="noopener">https://github.com/rustfoundation/painter</a>
+[^6]: These numbers were derived from a Rust Foundation project called <a href="https://github.com/rustfoundation/painter" title="The Rust Foundation Project: Painter" target="_blank" rel="noopener">Painter</a>.
 
-[^7]: <a href="https://crates.io/crates/windows" title="Rust for Windows" target="_blank" rel="noopener">https://crates.io/crates/windows</a>
+[^7]: <a href="https://crates.io/crates/windows" title="Rust for Windows" target="_blank" rel="noopener">The `windows` crate</a>
 
-[^8]: <a href="https://github.com/rust-lang/miri" title="Miri: Undefined Behavior detection tool for Rust" target="_blank" rel="noopener">https://github.com/rust-lang/miri</a>
+[^8]: <a href="https://github.com/rust-lang/miri" title="Miri: Undefined Behavior detection tool for Rust" target="_blank" rel="noopener">Miri: Undefined Behavior detection tool for Rust</a>
