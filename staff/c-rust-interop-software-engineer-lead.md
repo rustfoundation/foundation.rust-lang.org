@@ -1,5 +1,5 @@
 ---
-name: John Bauman
+name: Jon Bauman
 title: C++/Rust Interop Software Engineer Lead
 layout: layouts/home.njk
 ferris: ''
