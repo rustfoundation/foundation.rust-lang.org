@@ -71,7 +71,7 @@ We want the Safety-Critical Rust Consortium to reflect a wide variety of perspec
 
   ### How can I ask another question and/or get involved?
 
-Interested organizations, individuals, and Rust Foundation Members are invited to express interest in joining or submit further questions via email at [contact@rustfoundation.org](contact@rustfoundation.org).
+Interested organizations, individuals, and Rust Foundation Members are invited to get in touch with us via email at [contact@rustfoundation.org](contact@rustfoundation.org).
 
 ---
 
