@@ -2,7 +2,7 @@
 title: Announcing the Safety-Critical Rust Consortium
 byline: Rust Foundation Team
 description: >-
-  The Rust Foundation, AdaCore, Arm, Ferrous Systems, OxidOS, Synopsys, HighTec
+  The Rust Foundation, AdaCore, Arm, Ferrous Systems, OxidOS, HighTec
   EDV-Systeme GmbH, TrustInSoft, Veecle, and Woven by Toyota have formed a new
   group dedicated to the responsible use of Rust in safety-critical software.
 date: 2024-06-12T12:00:00Z
