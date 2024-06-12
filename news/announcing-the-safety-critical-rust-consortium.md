@@ -45,7 +45,7 @@ Without closing this gap, a developer must primarily rely on best practices and 
 
 The gap in safety-critical resources within the Rust programming language ecosystem is also an exciting opportunity. By rapidly incorporating lessons learned from years of careful development and past mistakes in the wider open source ecosystem, Rust can become a valuable component of a safety toolkit adaptable to various safety-critical industries and severity levels.
 
-  ### What does this development mean for Rust?
+## What does this development mean for Rust?
 
 Aspiring to meet safety-critical needs has costs, just as aspiring to security or quality needs does. Some of those costs can be distributed across multiple priorities, such as verification and validation through code review, writing a specification, identifying properties of a “software bill of materials,” etc. The Rust programming language can bear some reasonable costs with the participation of interested parties, but such costs cannot be imposed to Rust the ecosystem thoughtlessly. Indeed, a hobby open source project on crates.io cannot suddenly be made safety-critical, cannot be told that lives depend on the project’s correctness, without serious consideration and buy-in from community members.
 
@@ -69,7 +69,7 @@ In short, your help is needed!
 
 We want the Safety-Critical Rust Consortium to reflect a wide variety of perspectives, including various safety industries, representatives from standards groups guiding these industries, tooling providers who cater to such industries, and Rust community members from the language and library spaces which are interested in collaboration.
 
-  ### How can I ask another question and/or get involved?
+## How can I ask another question and/or get involved?
 
 Interested organizations, individuals, and Rust Foundation Members are invited to get in touch with us via email at [contact@rustfoundation.org](contact@rustfoundation.org).
 
