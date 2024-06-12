@@ -21,7 +21,7 @@ Work under the consortium will begin with the creation of a public charter and g
 
 The group may further shepherd Rust Foundation-funded implementation work, including grants to existing academic teams or FOSS projects. Any Rust Foundation-funded work will be submitted upstream, licensed as FOSS, and any specifications will be freely available. The group will further attempt to coordinate with and expand on existing safety-critical projects and standards including <a href="https://www.sae.org/standards/content/ja1020/" title="SAE JA1020" target="_blank" rel="noopener">SAE JA1020</a>.
 
-*“This is exciting! I am truly pleased to see the Rust Foundation and anyone in the safety-critical space coming together on this topic”* said Graydon Hoare, creator of the Rust programming language.
+*“This is exciting! I am truly pleased to see the Rust Foundation and anyone in the safety-critical space coming together on this topic,”* said Graydon Hoare, creator of the Rust programming language.
 
 *"Safety is our foremost priority in vehicle software development. Traditionally, achieving the highest levels of safety has been a complex and lengthy endeavor, requiring the use of specialized tools and processes beyond the programming language. We are therefore pleased to collaborate with leading experts in the safety industry to integrate new tools such as Rust into our safety-critical systems,"* said JF Bastien, Distinguished Engineer at Woven by Toyota.
 
@@ -45,7 +45,7 @@ Without closing this gap, a developer must primarily rely on best practices and 
 
 The gap in safety-critical resources within the Rust programming language ecosystem is also an exciting opportunity. By rapidly incorporating lessons learned from years of careful development and past mistakes in the wider open source ecosystem, Rust can become a valuable component of a safety toolkit adaptable to various safety-critical industries and severity levels.
 
-### What does this development mean for Rust?
+  ### What does this development mean for Rust?
 
 Aspiring to meet safety-critical needs has costs, just as aspiring to security or quality needs does. Some of those costs can be distributed across multiple priorities, such as verification and validation through code review, writing a specification, identifying properties of a “software bill of materials,” etc. The Rust programming language can bear some reasonable costs with the participation of interested parties, but such costs cannot be imposed to Rust the ecosystem thoughtlessly. Indeed, a hobby open source project on crates.io cannot suddenly be made safety-critical, cannot be told that lives depend on the project’s correctness, without serious consideration and buy-in from community members.
 
@@ -69,7 +69,7 @@ In short, your help is needed!
 
 We want the Safety-Critical Rust Consortium to reflect a wide variety of perspectives, including various safety industries, representatives from standards groups guiding these industries, tooling providers who cater to such industries, and Rust community members from the language and library spaces which are interested in collaboration.
 
-### How can I ask another question and/or get involved?
+  ### How can I ask another question and/or get involved?
 
 Interested organizations, individuals, and Rust Foundation Members are invited to express interest in joining or submit further questions via email at [contact@rustfoundation.org](contact@rustfoundation.org).
 
@@ -80,5 +80,3 @@ Interested organizations, individuals, and Rust Foundation Members are invited t
 <a href="https://rustfoundation.org/" title="The Rust Foundation" target="_blank" rel="noopener">The Rust Foundation</a> is an independent nonprofit dedicated to the safety, security, sustainability, and health of the Rust Programming language and the people who use it. Through close partnerships with organizations passionate about Rust and the growing Rust Project and community, the Rust Foundation is helping forge a better open source future with Rust.
 
 Visit the Rust Foundation <a href="https://rustfoundation.org/" target="_blank" rel="noopener">website</a> to learn more. Follow the Rust Foundation on <a href="https://x.com/rust_foundation" title="Rust Foundation Twitter" target="_blank" rel="noopener">X (formerly known as Twitter)</a> and on <a href="https://www.linkedin.com/company/rust-foundation" title="Rust Foundation LinedIn" target="_blank" rel="noopener">LinkedIn</a>.
-
-&nbsp;
