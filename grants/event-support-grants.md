@@ -3,8 +3,6 @@ layout: layouts/grants.njk
 description: >-
    Awards ranging from $100 to $500 made to support virtual and in-person events benefitting the Rust ecosystem.
 date: 2022-04-01T00:00:00Z
-tags:
-   - community grants program
 ---
 [⏎ Return to Community Grants Program Main](/grants/)
 
