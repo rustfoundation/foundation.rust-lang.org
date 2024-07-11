@@ -134,7 +134,8 @@ width: 100%;
 <div class="detail6"><p>- RFFs <i>will not</i> be required to set and meet specific milestones. At the end of the program, RFFs <i>will</i> be asked to write a blog detailing their experience for possible publication on our website.</p></div>
 <div class="detail7"><p>- Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p></div>
 <div class="detail8"><p>- All RFFs will be required to adhere to the Rust Foundation’s <a href="/policies/code-of-conduct/">Code of Conduct</a>, which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
-<center><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentored Fellowship Details</h3></center>
+<center><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fellowship Types</h3></center>
+<center><p>During the last Fellowship round, we saw in excess of 100 applications. It is likely that the 2024 round would attract even more if the application was unrestricted. To ensure the Fellowships deliver significant positive impacts and applicants do not spend large amounts of time on applications that are likely to be unsuccessful, we have restricted the types of Fellowship in 2024 and applicants must choose from one of these when making their application.</p>
 <br />
 <style>
   .bordered2 {
