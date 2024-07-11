@@ -150,6 +150,23 @@ width: 100%;
     background-color: #bab7c8
   }
 </style>
+<div class="bordered4">
+<p><u></u></p><h3><center><u>Project Fellowships</u></center></h3><p></p>
+These Fellowships are limited to members of Rust Project Teams and Working Groups.Applicants will be asked to provide details about which team/group they are member of, what they will be working on over the course of their Fellowship year, and ow the Fellowship will benefit them.</p></div>
+<style>
+  .bordered5 {
+    margin: 10px;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    color: #000000;
+    height: auto;
+    padding: 10px;
+    border: 1px solid lightorange;
+    border-radius: 6px;
+    background-color: #D9D9D9;
+  }
+</style>
 <div class="bordered2">
 <p><u></u></p><h3><center><u>Project Goal Fellowships</u></center></h3><p></p>
 Project Goal Fellowships are open to people working on the agreed goals (and sub-goals) of the Rust Project.  Applicants do not have to be members of a Rust Project Team or Working Group, but they do need the skills and experience to be able to deliver their chosen package of work.  Project Goal Fellowships will reflect the calendar of the Rust Project goals and will run for a period of six months.</p></div>
@@ -169,7 +186,7 @@ Project Goal Fellowships are open to people working on the agreed goals (and sub
 </style>
 <div class="bordered3">
 <p><u></u></p><h3><center><u>Community Fellowships</u></center></h3><p></p>
-These Fellowships are for people working to build Rust communities outside of North America and Western Europe. We anticipate these will constitute 2-3 out of the total of 15.</p></div>
+These Fellowships are for people working to build Rust communities outside of North America and Western Europe. We anticipate these will constitute 2-3 out of the total of 15. Applicants will be asked to provide details about the work they have already been involved with in terms of Rust community building, what they will be working on over the course of their Fellowship year, and how the Fellowship will benefit them.</p></div>
 <style>
   .bordered4 {
     margin: 10px;
@@ -182,23 +199,6 @@ These Fellowships are for people working to build Rust communities outside of No
     border: 1px solid lightorange;
     border-radius: 6px;
     background-color: #bab7c8
-  }
-</style>
-<div class="bordered4">
-<p><u></u></p><h3><center><u>Project Fellowships</u></center></h3><p></p>
-These Fellowships are limited to members of Rust Project Teams and Working Groups.</p></div>
-<style>
-  .bordered5 {
-    margin: 10px;
-    width: 100%;
-    max-width: 100%;
-    text-align: left;
-    color: #000000;
-    height: auto;
-    padding: 10px;
-    border: 1px solid lightorange;
-    border-radius: 6px;
-    background-color: #D9D9D9;
   }
 </style>
 <br>
