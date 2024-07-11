@@ -15,14 +15,14 @@ tags:
 
 <h1>Rust Foundation Fellowship Program</h1>
 <div>
+<br/>
+<center><p>The Rust Foundation Fellowship program exists to support and acknowledge active members of the Rust programming language community who generously contribute their time and expertise on a voluntary basis. These grants reward individuals who have helped make Rust what it is today and are key to its future success.</p>
 <br />
-<p>The Rust Foundation Fellowship program exists to support and acknowledge active members of the Rust programming language community who generously contribute their time and expertise on a voluntary basis. These grants reward individuals who have helped make Rust what it is today and are key to its future success.</p>
-<br />
-<p>Rust Foundation Fellows are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the Fellowship year, funding for career development, and access to mentorship opportunities.</p></div>
+<p>Rust Foundation Fellows are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the Fellowship year, funding for career development, and access to mentorship opportunities.</p></div></center>
 
  <br>
 
-### Rust Foundation Fellowships will be returning in 2024 for their third year, with a target start date for the new cohort of July 31.
+### Rust Foundation Fellowships will be returning in 2024 for the third year, with a target start date for the new cohort of July 31.
 
 The approach to our Fellowships this year will be similar to the previous years with the following adjustments:
 
