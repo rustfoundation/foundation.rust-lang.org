@@ -1,7 +1,7 @@
 ---
 layout: layouts/grants.njk
 description: >-
-   Stipends of $1,500 per month, plus a travel, training, and equipment budget,
+   Stipends of $1,500 per month, plus a $4,000 travel, training, and equipment budget,
    awarded to individuals who are either already contributing to the Rust
    community or who have Rust experience and a high potential to benefit the
    community through their contributions.
