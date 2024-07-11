@@ -68,73 +68,20 @@ tags:
   </tr>
 </tbody></table></center>
 
-<div><center><h2>Fellowship Benefits</h2></center>
-<style>
-* {
-  box-sizing: border-box;
-}
-<p>/* Create three equal columns that floats next to each other */
-.benefit {
-float: left;
-width: 33.33%;
-padding: 10px;
-}</p>
-<p>/* Clear floats after the columns */
-.benefits:after {
-content: &quot;&quot;;
-display: table;
-clear: both;
-}</p>
-<p>/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-.benefit {
-width: 100%;
-}
-}
-</style><p></p>
-<div class="benefits">
+<div>
+<center><h2>Key Benefits</h2></center>
+
+<h3>Stipend</h3>
+<p>A monthly stipend of $1,500 USD per month for 12 months.</p></div>
+&nbsp;
+<br>
+<h3>Travel, Training, &amp; Hardware Budget</h3>
+<p>An allowance of up to $4,000 to support travel to relevant Rust events, training, and up to $1,500 worth of relevant hardware and software.</p></div>
   <div class="benefit">
-    <h3>Stipend</h3>
-    <p>A monthly stipend of $1,500 USD per month for 12 months.</p>
-  </div>
-  <div class="benefit">
-    <h3>Travel, Training, &amp; Hardware Budget</h3>
-    <p>An allowance of up to $4,000 to support travel to relevant Rust events, training, and up to $1,500 worth of relevant software.</p>
-  </div>
-  <div class="benefit">
-    <h3>Training Allowance</h3>
-    <p>Up to $2,000 towards training and skills development.</p>
-  </div>
-</div>
 <br />
 &nbsp;
 <br />
-<div><center><h2>Program Details</h2></center>
-<br />
-<br />
-<style>
-.detail1, .detail3, .detail5, .detail7, .detail9 {
-  display: inline-block;
-  padding: 10px 10px;
-  margin: 20px;
-  vertical-align: top;
-}
-.detail2, .detail4, .detail6, .detail8 {
-  display: inline-block;
-  padding: 10px 10px;
-  margin: 20px;
-  vertical-align: top;
-  }
-</style>
-<div class="detail1"><p>- Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p></div>
-<div class="detail2"><p>- Applicants in 2023 will have the opportunity to either select a self-directed or a mentored role for their Fellowship year.</p></div>
-<div class="detail3"><p>- Fellowships are intended to support work RFFs are already carrying out. They are not intended to add more work to RFFs' plates.</p></div>
-<div class="detail4"><p>- Mentored roles pair RFFs with an expert in the Rust community to help develop their skills and experience in a chosen focus area.</p></div>
-<div class="detail5"><p>- Fellowships do not come with special Rust Project privilege - RFFs will not automatically become members of Project Teams or Working Groups.</p></div>
-<div class="detail6"><p>- RFFs <i>will not</i> be required to set and meet specific milestones. At the end of the program, RFFs <i>will</i> be asked to write a blog detailing their experience for possible publication on our website.</p></div>
-<div class="detail7"><p>- Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p></div>
-<div class="detail8"><p>- All RFFs will be required to adhere to the Rust Foundation’s <a href="/policies/code-of-conduct/">Code of Conduct</a>, which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
-<center><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fellowship Types</h3></center>
+<center><h2>Fellowship Types</h2></center>
 <center><p>During the last Fellowship round, we saw in excess of 100 applications. It is likely that the 2024 round would attract even more if the application was unrestricted. To ensure the Fellowships deliver significant positive impacts and applicants do not spend large amounts of time on applications that are likely to be unsuccessful, we have restricted the types of Fellowship in 2024 and applicants must choose from one of these when making their application.</p>
 <br />
 <style>
