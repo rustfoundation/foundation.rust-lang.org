@@ -30,6 +30,7 @@ tags:
 <center><h3>Rust Foundation Fellowships will be returning in 2024 for the third year, with a target start date for the new cohort of July 31.</center></h3>
 <br>
 <div>
+<br>
 <p>The approach to our Fellowships this year will be similar to the previous years with the following adjustments:</p>
 <ul>
   <li>The monthly stipend will increase from $1,000 to $1,500.</li>
