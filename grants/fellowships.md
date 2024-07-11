@@ -35,7 +35,9 @@ tags:
     <div style="display: inline-block; text-align: left;">
         The approach to our Fellowships this year will be similar to the previous years with the following adjustments:<br/>
          &nbsp;<br/>
-        1) The monthly stipend will increase from $1,000 to $1,500, 2) Following grantee feedback, the $2,000 training budget and the $2,000 travel budget will be combined into a single $4,000 allowance, 3) Of this combined allowance, up to $1,500 can also be spent on hardware.<br />
+        1) The monthly stipend will increase from $1,000 to $1,500<br/>
+        2) Following grantee feedback, the $2,000 training budget and the $2,000 travel budget will be combined into a single $4,000 allowance<br/> 
+        3) Of this combined allowance, up to $1,500 can also be spent on hardware.<br />
     </div>
 
 &nbsp;<br>
