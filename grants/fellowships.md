@@ -42,7 +42,7 @@ tags:
 
 &nbsp;<br>
 
-The total award for each Fellow will therefore be $22,000 per Fellow for the year. We will make up to 15 Fellowship awards in 2024.
+<center>The total award for each Fellow will therefore be $22,000 per Fellow for the year. We will make up to 15 Fellowship awards in 2024.</center>
 
 <br>
 
