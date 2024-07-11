@@ -181,7 +181,7 @@ Project Goal Fellowships are open to people working on the agreed goals (and sub
     padding: 10px;
     border: 1px solid lightorange;
     border-radius: 6px;
-    background-color: #D9D9D9
+    background-color: #bab7c8
   }
 </style>
 <div class="bordered3">
