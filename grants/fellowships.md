@@ -151,14 +151,10 @@ These Fellowships are for people working to build Rust communities outside of No
   }
 </style>
 <br>
-</style><div class="who1"><p>- The Rust Foundation Fellowships application is open to anyone who will be over the age of 18 at the time of the grant award.</p></div>
-<div class="who2"><p>- We welcome applications from prospective Fellows with different backgrounds from all over the world.</p></div></div>
-<div class="who3"><p>- Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with members of the Project Teams, Rust Project Working Groups, and the Foundation.</p></div>
-<div class="who4"><p>- Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.</p></div>
-<div class="who5"><p>- Employees of <a href="https://foundation.rust-lang.org/members/">Rust Foundation Member organizations</a> should email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> prior to completing an application to verify that being granted a Fellowship would not represent a conflict of interest.</p></div>
-<div class="who6"><p>- While we cannot consider applications from those who are paid to work on Rust full-time, we welcome applications from part-time paid Rust contributors.</p></div>
-</div>
-<div><center><p><i>All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a>.</i></p></center></div><center>
+<hr>
+<h2>Terms & Conditions</h2>
+<div>
+<i><center><pThe Rust Foundation Fellowships application is open to anyone who will be over the age of 18 at the time of the grant award. We welcome applications from prospective Fellows with different backgrounds from all over the world. Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with members of the Project Teams, Rust Project Working Groups, and the Foundation.Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. Employees of <a href="https://foundation.rust-lang.org/members/">Rust Foundation Member organizations</a> should email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> prior to completing an application to verify that being granted a Fellowship would not represent a conflict of interest. While we cannot consider applications from those who are paid to work on Rust full-time, we welcome applications from part-time paid Rust contributors. All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a>.</i></p></center></div><center>
 <hr />
 <center><h2>FAQs</h2></center>
 <style>
