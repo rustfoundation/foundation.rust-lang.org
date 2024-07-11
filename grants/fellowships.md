@@ -56,15 +56,15 @@ tags:
   </tr>
   <tr>
     <td><u>Fellow selections:
-    </u></td><td>Wednesday, July 6th, 2023.</td>
+    </u></td><td>Assessed upon receipt</td>
   </tr>
   <tr>
     <td><u>Applicant notifications:</u></td>
-    <td>Friday, July 7th, 2023.</td>
+    <td>Monday, August 12, 2024.</td>
   </tr>
   <tr>
     <td><u>Fellowship year begins:</u></td>
-    <td>Monday, July 24, 2023</td>
+    <td>Monday, August 26</td>
   </tr>
 </tbody></table></center>
 
