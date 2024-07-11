@@ -24,6 +24,8 @@ tags:
     </div>
 
  <br>
+ 
+ ---
 
 <center><h3>Rust Foundation Fellowships will be returning in 2024 for the third year, with a target start date for the new cohort of July 31.</center></h3>
 <br>
@@ -37,14 +39,12 @@ tags:
 
 The total award for each Fellow will therefore be $22,000 per Fellow for the year. We will make up to 15 Fellowship awards in 2024.
 
----
-
 <br>
 
 ---
 
 <center><table>
-</table><table border="”4″"><tbody><tr><th colspan="2"><h3>2023 Application Dates</h3></th>
+</table><table border="”4″"><tbody><tr><th colspan="2"><h3>2024 Application Dates</h3></th>
   </tr><tr>
     <td><u>Application window:</u></td>
     <td>Monday, July 15th - Monday, August 5th, 2024 (midnight PDT).</td>
