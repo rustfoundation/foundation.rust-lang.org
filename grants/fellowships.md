@@ -151,8 +151,8 @@ width: 100%;
   }
 </style>
 <div class="bordered2">
-<p><u></u></p><h3><center><u>Security Fellowship</u></center></h3><p></p>
-The Security Fellow will have the opportunity to research and implement detection measures in Ecosystem Scanning, including identifying malicious code that can occur in crates, provenance detection, and code health scans (e.g. miri, audit). The Security Fellow will also have the opportunity to contribute to the Penetration Test of the Rust Project, which may involve assessing the security of various components, from the Project in general to specific projects or infrastructure components. This work could encompass penetration testing of systems and conducting code reviews for critical components like CI/CD, bors, rustwide, playground, and more.<p></p><p>Paired Mentor: <a href="https://github.com/walterhpearce">Walter Pearce</a>, Rust Foundation Security Engineer.</p></div>
+<p><u></u></p><h3><center><u>Project Goal Fellowships</u></center></h3><p></p>
+Project Goal Fellowships are open to people working on the agreed goals (and sub-goals) of the Rust Project.  Applicants do not have to be members of a Rust Project Team or Working Group, but they do need the skills and experience to be able to deliver their chosen package of work.  Project Goal Fellowships will reflect the calendar of the Rust Project goals and will run for a period of six months.</p></div>
 <style>
   .bordered3 {
     margin: 10px;
@@ -168,8 +168,8 @@ The Security Fellow will have the opportunity to research and implement detectio
   }
 </style>
 <div class="bordered3">
-<p><u></u></p><h3><center><u>Crates.io Fellowship</u></center></h3><p></p>
-The crates.io Fellow will have the opportunity to develop a comprehensive understanding of crates.io and focus on enhancing its search experience. The crates.io Fellow’s objective will be to explore possible improvements to the crate search experience, such as incorporating additional metrics for crates and leveraging them to prioritize search results. By working on these enhancements, the crates.io Fellow will contribute to optimizing the search functionality on crates.io, thus improving the overall user experience.<p></p><p>Paired Mentor: <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Rust Foundation Software Engineer.</p></div>
+<p><u></u></p><h3><center><u>Community Fellowships</u></center></h3><p></p>
+These Fellowships are for people working to build Rust communities outside of North America and Western Europe. We anticipate these will constitute 2-3 out of the total of 15.</p></div>
 <style>
   .bordered4 {
     margin: 10px;
@@ -185,8 +185,8 @@ The crates.io Fellow will have the opportunity to develop a comprehensive unders
   }
 </style>
 <div class="bordered4">
-<p><u></u></p><h3><center><u>Infrastructure Fellowship</u></center></h3><p></p>
-The Infrastructure Fellow will be responsible for developing a comprehensive understanding of the underlying infrastructure supporting the Rust language. Specific tasks include updating the infrastructure monitoring setup and optimizing the CI (Continuous Integration) process for rust-lang to enhance its efficiency. By actively working on these aspects, the Infrastructure Fellow will play a vital role in ensuring a robust infrastructure and streamlined development workflow for the Rust language.<p></p><p>Paired Mentor: <a href="https://github.com/jdno">Jan David Nose</a>, Rust Foundation Infrastructure Engineer.</p></div>
+<p><u></u></p><h3><center><u>Project Fellowships</u></center></h3><p></p>
+These Fellowships are limited to members of Rust Project Teams and Working Groups.</p></div>
 <style>
   .bordered5 {
     margin: 10px;
@@ -201,27 +201,9 @@ The Infrastructure Fellow will be responsible for developing a comprehensive und
     background-color: #D9D9D9;
   }
 </style>
-<div class="bordered5">
-<p><u></u></p><h3><center><u>Compiler Fellowship</u></center></h3><p></p>
-The Compiler Fellow will develop a comprehensive understanding of the Rust compiler and develop the skills and experience needed to become an active contributor to the compiler work.<p></p><p>Paired Mentor: the <a href="https://www.rust-lang.org/governance/teams/compiler/">Rust Compiler Team</a>.</p></div>
-<div>
-<br />
-<center><h2>Who Can Join?</h2></center>
-<style>
-.who1, .who3, .who5, .who7, .who9 {
-  display: inline-block;
-  padding: 10px 10px;
-  margin: 20px;
-  vertical-align: top;
-}
-.who2, .who4, .who6, .who8 {
-  display: inline-block;
-  padding: 10px 10px;
-  margin: 20px;
-  vertical-align: top;
-  }
+<br>
 </style><div class="who1"><p>- The Rust Foundation Fellowships application is open to anyone who will be over the age of 18 at the time of the grant award.</p></div>
-<div class="who2"><p>- We welcome applications from prospective RFFs with different backgrounds from all over the world.</p></div></div>
+<div class="who2"><p>- We welcome applications from prospective Fellows with different backgrounds from all over the world.</p></div></div>
 <div class="who3"><p>- Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with members of the Project Teams, Rust Project Working Groups, and the Foundation.</p></div>
 <div class="who4"><p>- Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.</p></div>
 <div class="who5"><p>- Employees of <a href="https://foundation.rust-lang.org/members/">Rust Foundation Member organizations</a> should email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> prior to completing an application to verify that being granted a Fellowship would not represent a conflict of interest.</p></div>
