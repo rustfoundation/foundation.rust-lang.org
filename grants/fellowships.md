@@ -22,7 +22,7 @@ tags:
 
  <br>
 
-### Rust Foundation Fellowships will be returning in 2024 for the third year, with a target start date for the new cohort of July 31.
+<center>### Rust Foundation Fellowships will be returning in 2024 for the third year, with a target start date for the new cohort of July 31.</center>
 
 The approach to our Fellowships this year will be similar to the previous years with the following adjustments:
 
