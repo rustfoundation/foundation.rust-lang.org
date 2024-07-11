@@ -1,16 +1,15 @@
 ---
 layout: layouts/grants.njk
 description: >-
-   Stipends of $1,500 per month, plus a $4,000 travel, training, and equipment budget,
-   awarded to individuals who are either already contributing to the Rust
-   community or who have Rust experience and a high potential to benefit the
-   community through their contributions.
+   Stipends of $1,500 per month, plus a $4,000 travel, training, and equipment
+   budget, awarded to individuals who are either already contributing to the
+   Rust community or who have Rust experience and a high potential to benefit
+   the community through their contributions.
 date: 2022-04-01T00:00:00Z
 tags:
    - community grants program
 ---
 [⏎ Return to Community Grants Program Main](/grants/)
-
 
 <br>
 
@@ -21,16 +20,21 @@ tags:
 <br />
 <p>Rust Foundation Fellows are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the Fellowship year, funding for career development, and access to mentorship opportunities.</p></div></center>
 
-
-<br>
-
-<h3>Rust Foundation Fellowships will be returning in 2024 for their third year, with a target start date for the new cohort of July 31. The approach will be similar to the previous years, however the monthly stipend will increase from $1,000 to $1,500. Following grantee feedback, the $2,000 training budget and the $2,000 travel budget will be combined into a single $4,000 allowance. Of this up to $1,500 can also be spent on hardware. The total award for each Fellow will therefore be $22,000 per Fellow for the year with the following breakdown:</h3>
-<br>
-ul>
-  <li>Stipend: $1.5k per month</li>
-  <li>Combined Travel, Training, & up to $1,500 Hardware allowance: $4,000</li>
  <br>
-<p>We will make up to 15 Fellowship awards in 2024.</p> 
+
+### Rust Foundation Fellowships will be returning in 2024 for their third year, with a target start date for the new cohort of July 31.
+
+The approach to our Fellowships this year will be similar to the previous years with the following adjustments:
+
+* The monthly stipend will increase from $1,000 to $1,500.
+* Following grantee feedback, the $2,000 training budget and the $2,000 travel budget will be combined into a single $4,000 allowance.
+* Of this combined allowance, up to $1,500 can also be spent on hardware.
+
+  &nbsp;
+
+The total award for each Fellow will therefore be $22,000 per Fellow for the year. We will make up to 15 Fellowship awards in 2024.
+
+---
 
 <br>
 
@@ -61,35 +65,32 @@ ul>
 * {
   box-sizing: border-box;
 }
-
-/* Create three equal columns that floats next to each other */
+<p>/* Create three equal columns that floats next to each other */
 .benefit {
-  float: left;
-  width: 33.33%;
-  padding: 10px;
-}
-
-/* Clear floats after the columns */
+float: left;
+width: 33.33%;
+padding: 10px;
+}</p>
+<p>/* Clear floats after the columns */
 .benefits:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+content: &quot;&quot;;
+display: table;
+clear: both;
+}</p>
+<p>/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
-  .benefit {
-    width: 100%;
-  }
+.benefit {
+width: 100%;
 }
-</style>
+}
+</style><p></p>
 <div class="benefits">
   <div class="benefit">
     <h3>Stipend</h3>
     <p>A monthly stipend of $1,500 USD per month for 12 months.</p>
   </div>
   <div class="benefit">
-    <h3>Travel, Training, & Hardware Budget</h3>
+    <h3>Travel, Training, &amp; Hardware Budget</h3>
     <p>An allowance of up to $4,000 to support travel to relevant Rust events, training, and up to $1,500 worth of relevant software.</p>
   </div>
   <div class="benefit">
@@ -226,12 +227,11 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
   text-align: left;
   margin: 100px;
   }
-
-.details p {
-  margin-bottom: 1em;
-  line-height: normal;
+<p>.details p {
+margin-bottom: 1em;
+line-height: normal;
 }
-    </style>
+</style><p></p>
   <div class="details">
   <details>
   <summary>How long does the program last?</summary>
@@ -325,5 +325,4 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 <center><ul class="donorslist"><li><a href="https://www.activision.com/"><img src="/img/grants/activision.png" /></a></li><li><a href="https://aws.amazon.com/"><img src="/img/member/aws.png" /></a></li><li><a href="https://www.cargurus.com/"><img src="/img/grants/cargurus.png" /></a></li><li><a href="https://www.frontendmasters.com/"><img src="/img/grants/frontendmasters.png" /></a></li><li><a href="https://google.com/"><img src="/img/member/google.png" /></a></li><li><a href="https://www.huawei.com/"><img src="/img/member/huawei.png" /></a></li><li><a href="https://replit.com/"><img src="/img/grants/replit.png" /></a></li><li><a href="https://www.tag1consulting.com/"><img src="/img/member/tag1.png" /></a></li><li><a href="https://zama.ai/"><img src="/img/member/zama.png" /></a></li></ul></center>
 <center><p>... and by the companies and individuals who contribute through our <a href="https://github.com/sponsors/rustfoundation">GitHub Sponsors</a> page.</p></center>
 <center><p><i>If your organization is interested in supporting the future of Rust’s talent and innovation through the Community Grants Program, please email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a>. Donations in any amount are greatly appreciated.</i></p></center>
-
 </center></div>
