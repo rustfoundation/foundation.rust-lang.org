@@ -46,7 +46,7 @@ tags:
 
 <br>
 
----
+ ---
 
 <center><table>
 </table><table border="”4″"><tbody><tr><th colspan="2"><h3>2024 Application Dates</h3></th>
@@ -80,7 +80,7 @@ tags:
   <div class="benefit">
 <br />
 &nbsp;
----
+ ---
 <br />
 <center><h2>Fellowship Types</h2></center>
 <center><p>During the last Fellowship round, we saw in excess of 100 applications. It is likely that the 2024 round would attract even more if the application was unrestricted. To ensure the Fellowships deliver significant positive impacts and applicants do not spend large amounts of time on applications that are likely to be unsuccessful, we have restricted the types of Fellowship in 2024 and applicants must choose from one of these when making their application.</p>
