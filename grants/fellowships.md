@@ -72,14 +72,15 @@ tags:
 <center><h2>Key Benefits</h2></center>
 
 <h3>Stipend</h3>
-<p>A monthly stipend of $1,500 USD per month for 12 months.</p></div>
+<center><p>A monthly stipend of $1,500 USD per month for 12 months.</p></div></center>
 &nbsp;
 <br>
 <h3>Travel, Training, &amp; Hardware Budget</h3>
-<p>An allowance of up to $4,000 to support travel to relevant Rust events, training, and up to $1,500 worth of relevant hardware and software.</p></div>
+<center><p>An allowance of up to $4,000 to support travel to relevant Rust events, training, and up to $1,500 worth of relevant hardware and software.</p></div></center>
   <div class="benefit">
 <br />
 &nbsp;
+---
 <br />
 <center><h2>Fellowship Types</h2></center>
 <center><p>During the last Fellowship round, we saw in excess of 100 applications. It is likely that the 2024 round would attract even more if the application was unrestricted. To ensure the Fellowships deliver significant positive impacts and applicants do not spend large amounts of time on applications that are likely to be unsuccessful, we have restricted the types of Fellowship in 2024 and applicants must choose from one of these when making their application.</p>
