@@ -21,7 +21,7 @@ tags:
 <p>These Fellowships are open to members of the Rust Project Teams and Working Groups to support contributions that serve the goals of the Rust Project Teams and Working Groups.  These Fellowships will run for a period of 12 months, during which period Fellows will receive:</p>
 <br>
 <p>-A stipend of $1,500 USD per month</p>
-<p>Combined Travel, Hardware & Training allowance - $4,000  (of which up to $1,500 can be spent on hardware).</p>
+<p>- Combined Travel, Hardware & Training allowance - $4,000  (of which up to $1,500 can be spent on hardware).</p>
 <br>
 <p><center><a href="https://forms.gle/hvghNMgLsrcqwPEw5"> >>Link to application form.</a></center>
 <br>
