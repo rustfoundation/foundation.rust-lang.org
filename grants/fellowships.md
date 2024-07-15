@@ -27,7 +27,7 @@ tags:
  
  ---
 
-<center><h3>Rust Foundation Fellowships will be returning in 2024 for the third year, with a target start date for the new cohort of July 31.</center></h3>
+<center><h3>Rust Foundation Fellowships will be returning in 2024 for the third year, with a target start date for the new cohort of August 26.</center></h3>
 <br>
 <div>
 <br/>
@@ -101,7 +101,7 @@ tags:
 </style>
 <div class="bordered4">
 <p><u></u></p><h3><center><u>Project Fellowships</u></center></h3><p></p>
-These Fellowships are limited to members of Rust Project Teams and Working Groups.Applicants will be asked to provide details about which team/group they are member of, what they will be working on over the course of their Fellowship year, and ow the Fellowship will benefit them.</p></div>
+These Fellowships are limited to members of Rust Project Teams and Working Groups. Applicants will be asked to provide details about which team/group they are a member of, what they will be working on over the course of their Fellowship year, and how the Fellowship will benefit them.</p></div>
 <style>
   .bordered5 {
     margin: 10px;
@@ -118,7 +118,7 @@ These Fellowships are limited to members of Rust Project Teams and Working Group
 </style>
 <div class="bordered2">
 <p><u></u></p><h3><center><u>Project Goal Fellowships</u></center></h3><p></p>
-Project Goal Fellowships are open to people working on the agreed goals (and sub-goals) of the Rust Project.  Applicants do not have to be members of a Rust Project Team or Working Group, but they do need the skills and experience to be able to deliver their chosen package of work.  Project Goal Fellowships will reflect the calendar of the Rust Project goals and will run for a period of six months.</p></div>
+Project Goal Fellowships are open to people working on the agreed <a href="https://rust-lang.github.io/rust-project-goals/2024h2/proposed.html">goals</a> (and sub-goals) of the Rust Project.  Applicants do not have to be members of a Rust Project Team or Working Group, but they do need the skills and experience to be able to deliver their chosen package of work. Project Goal Fellowships will reflect the calendar of the Rust Project goals and will run for a period of six months.</p></div>
 <style>
   .bordered3 {
     margin: 10px;
@@ -154,7 +154,7 @@ These Fellowships are for people working to build Rust communities outside of No
 <hr>
 <h2>Terms & Conditions</h2>
 <div>
-<i><center><pThe Rust Foundation Fellowships application is open to anyone who will be over the age of 18 at the time of the grant award. We welcome applications from prospective Fellows with different backgrounds from all over the world. Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with members of the Project Teams, Rust Project Working Groups, and the Foundation.Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. Employees of <a href="https://foundation.rust-lang.org/members/">Rust Foundation Member organizations</a> should email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> prior to completing an application to verify that being granted a Fellowship would not represent a conflict of interest. While we cannot consider applications from those who are paid to work on Rust full-time, we welcome applications from part-time paid Rust contributors. All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a>.</i></p></center></div><center>
+<i><center><p>The Rust Foundation Fellowships application is open to anyone who will be over the age of 18 at the time of the grant award. We welcome applications from prospective Fellows with different backgrounds from all over the world. Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with members of the Project Teams, Rust Project Working Groups, and the Foundation.Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants. Employees of <a href="https://foundation.rust-lang.org/members/">Rust Foundation Member organizations</a> should email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> prior to completing an application to verify that being granted a Fellowship would not represent a conflict of interest. While we cannot consider applications from those who are paid to work on Rust full-time, we welcome applications from part-time paid Rust contributors. All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a>.</i></p></center></div><center>
 <hr />
 <center><h2>FAQs</h2></center>
 <style>
@@ -170,7 +170,7 @@ line-height: normal;
   <div class="details">
   <details>
   <summary>How long does the program last?</summary>
-  <h3>12 months.</h3>
+  <h3>Project Fellowships and Community Fellowships last for 12 months, Project Goal Fellowships last for 6 months.</h3>
 </details>
 <details>
   <summary>Does it matter which country I live in or what my citizenship status is?</summary>
@@ -186,7 +186,7 @@ line-height: normal;
 </details>
 <details>
   <summary>I don’t have any experience with Rust, can I apply?</summary>
-  <h3>We are only able to consider applications from individuals who possess some Rust experience</h3>
+  <h3>We are only able to consider applications from individuals who possess some Rust experience.</h3>
 </details>
 <details>
   <summary>How much time will I have to spend working on Rust for my Fellowship?</summary>
@@ -202,7 +202,7 @@ line-height: normal;
 </details>
 <details>
   <summary>I am interested in building the Rust community, not writing code, can I apply?</summary>
-  <h3>Yes, although you will be required to have some experience contributing to the Rust community and be able to communicate a clear idea of how your work would benefit the Rust ecosystem.</h3>
+  <h3>Yes, you should apply for a Community Fellowship.</h3>
 </details>
 <details>
   <summary>I am currently paid to work on the Rust Project, can I apply?</summary>
@@ -214,7 +214,7 @@ line-height: normal;
 </details>
 <details>
   <summary>How does the travel stipend work?</summary>
-  <h3>Fellows will be asked to inform the Rust Foundation of the Rust-focused event they want to attend during their Fellowship year. Our team will review this information with the Fellow and, once confirmed, will provide the funds necessary to cover attendance. The travel budget (limited to $2,000 USD per Fellow) is intended to provide economy travel, accommodation and subsistence, plus the cost of event admission.</h3>
+  <h3>Fellows will be asked to inform the Rust Foundation of the Rust-focused event they want to attend during their Fellowship year. Our team will review this information with the Fellow and, once confirmed, will provide the funds necessary to cover attendance. The travel budget is intended to provide economy travel, accommodation and subsistence, plus the cost of event admission.</h3>
 </details>
 <details>
   <summary>How does the training stipend work?</summary>
