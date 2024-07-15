@@ -16,7 +16,7 @@ tags:
 <br>
 <p>Theses grants help provide financial support for individuals, groups, and organizations to help cover the costs they incur in running non-profit-making events that support the Rust community.</p>
 <br>
-<h3><a href = "https://app.smarterselect.com/programs/80971-Rust-Foundation" style="color:#FFFFFF";>Apply</a></h3></div>
+<h3><a href="https://app.smarterselect.com/programs/80971-Rust-Foundation" style="color:#FFFFFF";>Apply</a></h3></div>
 <br>
 <hr>
 
