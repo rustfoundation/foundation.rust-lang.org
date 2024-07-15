@@ -25,7 +25,7 @@ tags:
 <br>
 <p><center><a href="https://forms.gle/hvghNMgLsrcqwPEw5"> >>Link to application form.</a></center>
 <br>
-<p><i>If you are a team/working group member who would like to work on Rust Project Goals (that relate to your Team or Working Group) as part of your Fellowship year, you should apply for a Project Fellowship.</i></br>
+<p><i><center>If you are a team/working group member who would like to work on Rust Project Goals (that relate to your Team or Working Group) as part of your Fellowship year, you should apply for a Project Fellowship.</i></br></center>
 <br>
 <h3>Community Fellowships</h3>
 <p>These Fellowships are open to people working to build Rust communities outside of Western Europe and North America to support work such as organising communities and events and creating content and training materials for their communities.</p>
