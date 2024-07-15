@@ -171,11 +171,13 @@ tags:
   <summary>I have a question that hasn’t been answered here. How can I get in touch for more information?</summary>
   <h3>Please email <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> and we will do our best to help.</h3>
 </details></div>
-
+<br>
+<hr>
+<br>
 
 <center><h2>More Information</h2></center>
 
-<p><center>Eligibility and exclusion criteria can be found <a href="/grants-eligibility/">here</a>. | General FAQs about the grants program can be found <a href="/grants-faqs/">here</a>. | Our privacy & data-handling policy can be found <a href="/policies/privacy-policy/">here</a>.
+<p><center>Eligibility and exclusion criteria can be found <a href="/grants-eligibility/">here</a>. | Our privacy & data-handling policy can be found <a href="/policies/privacy-policy/">here</a>.
 
 </p></center>
 
