@@ -149,8 +149,6 @@ tags:
   <h3>As a rule, the Rust Foundation will endeavor to keep details of any Hardship Grant application as private as possible, due to the sensitive circumstances under which someone might apply for a Hardship Grant.</h3>
 </details>
 <br>
-<center><h3>For answers to more more general FAQs about the grants program, click  <a href="/grants-faqs/">here</a>.</center></h3>
-<br>
 <hr>
 <br>
 
