@@ -69,7 +69,7 @@ tags:
   <div class="details">
   <details>
   <summary>How long does the program last?</summary>
-  <h3>12 months.</h3>
+  <h3>For Project Fellowships and Community Fellowships, 12 months.  For Project Goal Fellowships, 6 months.</h3>
 </details>
 
 <details>
@@ -84,12 +84,12 @@ tags:
 
 <details>
   <summary>I am not currently a member of a Rust Project Team or Working Group, can I apply?</summary>
-  <h3>Yes.</h3>
+  <h3>You can’t apply for a Project Fellowship, but you can apply for a Community Fellowship or a Project Goal Fellowship.</h3>
 </details>
 
 <details>
   <summary>I don’t have any experience with Rust, can I apply?</summary>
-  <h3>We are only able to consider applications from individuals who possess some Rust experience</h3>
+  <h3>No.</h3>
 </details>
 
 <details>
@@ -109,7 +109,7 @@ tags:
 
 <details>
   <summary>I am interested in building the Rust community, not writing code, can I apply?</summary>
-  <h3>Yes, although you will be required to have some experience contributing to the Rust community and be able to communicate a clear idea of how your work would benefit the Rust ecosystem.</h3>
+  <h3>Yes, you can apply for a Community Fellowship, but only if your work is outside of Western Europe and North America.</h3>
 </details>
 
 <details>
@@ -124,12 +124,12 @@ tags:
 
 <details>
   <summary>How does the travel stipend work?</summary>
-  <h3>Fellows will be asked to inform the Rust Foundation of the Rust-focused event they want to attend during their Fellowship year. Our team will review this information with the Fellow and, once confirmed, will provide the funds necessary to cover attendance. The travel budget (limited to $2,000 USD per Fellow) is intended to provide economy travel, accommodation and subsistence, plus the cost of event admission.</h3>
+  <h3>Fellows will be asked to inform the Rust Foundation of the Rust-focused event they want to attend during their Fellowship year. Our team will review this information with the Fellow and, once confirmed, will provide the funds necessary to cover attendance. The travel budget (Up to $4,000 USD per Fellow for 12-month Fellowships and $2,000 for 6-month Fellowships) is intended to provide economy travel, accommodation and subsistence, plus the cost of event admission.</h3>
 </details>
 
 <details>
   <summary>How does the training stipend work?</summary>
-  <h3>The Rust Foundation team will work with each Fellow to understand the type of training support that would be valuable to them. We require training to be relevant to the Fellowship position. Examples of training categories we support: project planning, organizational management, leadership, document writing, and effective communication.</h3>
+  <h3>The Rust Foundation team will work with each Fellow to understand the type of training support that would be valuable to them. We require training to be relevant to the Fellowship position. Examples of training categories we support: project planning, organizational management, leadership, language skills, document writing, and effective communication.</h3>
 </details>
 
 <details>
