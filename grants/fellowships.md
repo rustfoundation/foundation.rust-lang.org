@@ -23,7 +23,7 @@ tags:
 <p>-A stipend of $1,500 USD per month</p>
 <p>Combined Travel, Hardware & Training allowance - $4,000  (of which up to $1,500 can be spent on hardware).</p>
 <br>
-<p><a href="https://forms.gle/hvghNMgLsrcqwPEw5"> >>Link to application form.</a>
+<p><center><a href="https://forms.gle/hvghNMgLsrcqwPEw5"> >>Link to application form.</a></center>
 <br>
 <p>If you are a team/working group member who would like to work on Rust Project Goals (that relate to your Team or Working Group) as part of your Fellowship year, you should apply for a Project Fellowship.</br>
 <br>
@@ -32,9 +32,9 @@ tags:
 <br>
 <p>These Fellowships will run for a period of 12 months, during which period Fellows will receive:</p>
 <p>-A stipend of $1,500 USD per month</p>
-<p>Combined Travel, Hardware & Training allowance - $4,000  (up to $1,500 can be spent on hardware).</p>
+<p>- Combined Travel, Hardware & Training allowance - $4,000  (up to $1,500 can be spent on hardware).</p>
 <br>
-<p><a href="https://forms.gle/Sx4bH62Vyw9JRUaT7"> >>Link to application form.</a>
+<p><center><a href="https://forms.gle/Sx4bH62Vyw9JRUaT7"> >>Link to application form.</a></center>
 <br>
 
 <center><table>
