@@ -116,7 +116,7 @@ tags:
 
   <details>
   <summary>When can I apply for a Hardship Grant?</summary>
-  <h3>The Hardship Grant application is open on an ongoing basis. Please visit <a href="/grants/hardship-grants/">this page</a> for more information and to apply.</h3>
+  <h3>The Hardship Grant application is open on an ongoing basis.</h3>
 </details>
 
 <details>
@@ -141,7 +141,7 @@ tags:
 
 <details>
   <summary>What are Hardship Grant decisions based upon?</summary>
-  <h3>The decisions will be made based upon the contributions made by the individual to the Rust Project and community and the individual’s financial circumstances and needs</h3>
+  <h3>The decisions will be made based upon the contributions made by the individual to the Rust Project and community and the individual’s financial circumstances and needs.</h3>
 </details>
 
 <details>
