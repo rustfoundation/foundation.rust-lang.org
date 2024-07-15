@@ -116,7 +116,7 @@ tags:
 
   <details>
   <summary>When can I apply for a Hardship Grant?</summary>
-  <h3>The Hardship Grant application is open on an ongoing basis. Please visit <a href="/grants/hardship-grants/">this page</a> for more information and to apply.</h3>
+  <h3>The Hardship Grant application is open on an ongoing basis.</h3>
 </details>
 
 <details>
@@ -141,15 +141,13 @@ tags:
 
 <details>
   <summary>What are Hardship Grant decisions based upon?</summary>
-  <h3>The decisions will be made based upon the contributions made by the individual to the Rust Project and community and the individual’s financial circumstances and needs</h3>
+  <h3>The decisions will be made based upon the contributions made by the individual to the Rust Project and community and the individual’s financial circumstances and needs.</h3>
 </details>
 
 <details>
   <summary>Will any information about me be shared publicly if I receive a Hardship Grant?</summary>
   <h3>As a rule, the Rust Foundation will endeavor to keep details of any Hardship Grant application as private as possible, due to the sensitive circumstances under which someone might apply for a Hardship Grant.</h3>
 </details>
-<br>
-<center><h3>For answers to more more general FAQs about the grants program, click  <a href="/grants-faqs/">here</a>.</center></h3>
 <br>
 <hr>
 <br>

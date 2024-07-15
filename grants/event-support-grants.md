@@ -14,38 +14,9 @@ tags:
 <br>
 <p>Rust Event Support Grants exist to support Rust-related events, both in-person and virtual.</p>
 <br>
-<p>Theses grants help provide financial support for individuals, groups, and organizations to help cover the costs they incur in running events that support the Rust community.</p>
+<p>These grants help provide financial support for individuals, groups, and organizations to help cover the costs they incur in running non-profit-making events that support the Rust community.</p>
+<h3><center><a href="https://app.smarterselect.com/programs/80971-Rust-Foundation">>>Apply</a>
 <br>
-
-<style>
-  .bordered1, .bordered2, .bordered3, .bordered4 {
-    width: 175px;
-    max-width: 100%;
-    text-align: center;
-    color: #FFFFFF;
-    height: auto;
-    padding: 15px;
-    border: 1px solid darkorange;
-    border-radius: 6px;
-    background-color: #1E2650
-  }
-</style>
-
-<div class="bordered1">
-<h3><a href = "https://app.smarterselect.com/programs/80971-Rust-Foundation" style="color:#FFFFFF";>Apply in English</a></h3></div>
-<br>
-<div class="bordered2">
-<h3><a href = "https://app.smarterselect.com/programs/81295-Rust-Foundation" style="color:#FFFFFF";>En Français</a></h3></div>
-<br>
-<div class="bordered3">
-<h3><a href = "https://app.smarterselect.com/programs/81297-Rust-Foundation" style="color:#FFFFFF";>Em Portugues</a></h3></div>
-<br>
-<div class="bordered4">
-<h3><a href = "https://app.smarterselect.com/programs/81296-Rust-Foundation" style="color:#FFFFFF";>中文</a></h3></div>
-</center>
-</div>
-
-
 <br>
 <hr>
 
@@ -96,7 +67,7 @@ tags:
 
 <div class="detail5"><p>- We welcome applications from teams of people and organizations.</p></div>
 
-<div class="detail6"><p>- Recipients will be required to abide by the <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Rust Foundation Code of Conduct</a> and provide a written report of their event for publication on our website.</p></div></center>
+<div class="detail6"><p>- Recipients will be required to abide by the <a href="https://foundation.rust-lang.org/policies/code-of-conduct/">Rust Foundation Code of Conduct</a> and provide a written report of their event for publication on our website.</p></center></div>
 <br>
 <br>
 <hr>
@@ -119,7 +90,7 @@ tags:
 
   <details>
     <summary>When can I apply for an Event Support Grant?</summary>
-  <h3>The application is open on an ongoing basis. Please visit <a href="/grants/event-support-grants/">this page</a> for more information and to apply.</h3>
+  <h3>The application is open on an ongoing basis.</h3>
 </details>
 
 <details>
@@ -170,8 +141,6 @@ tags:
   <summary>How will I get paid for my event?</summary>
   <h3>We typically pay via direct bank transfers.</h3>
 </details>
-<br>
-<center><h3>For answers to more more general FAQs about the grants program, click  <a href="/grants-faqs/">here</a>.</center></h3>
 <br>
 <hr>
 <br>

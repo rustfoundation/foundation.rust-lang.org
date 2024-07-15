@@ -15,230 +15,43 @@ tags:
 <center><h1>Rust Foundation Fellowship Program</h1>
 <div>
 <br>
-<p>The Rust Foundation Fellowship program exists to support and acknowledge active members of the Rust programming language community who generously contribute their time and expertise on a voluntary basis. These grants reward individuals who have helped make Rust what it is today and are key to its future success.</p>
+<p>The Rust Foundation Fellowship program will be returning for 2024. Applications will open on July 15th and close on August 5th with the aim that all of the 2024 Fellows will be chosen and on-boarded by the end of August. This year there will be three different types of Fellowships:</p></center>
 <br>
-<p>Rust Foundation Fellows are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the Fellowship year, funding for career development, and access to mentorship opportunities.</p></center>
+<h3>Project Fellowships</h3>
+<p>These Fellowships are open to members of the Rust Project Teams and Working Groups to support contributions that serve the goals of the Rust Project Teams and Working Groups. These Fellowships will run for a period of 12 months, during which period Fellows will receive:</p>
 <br>
-<h3><center><i>The 2023 Fellowship Application is Now Closed. Please stay tuned for news of future Rust Foundation Fellowship application periods.</i></center></h3>
-
+<p>- A stipend of $1,500 USD per month</p>
+<p>- Combined travel, hardware & training allowance - $4,000  (of which up to $1,500 can be spent on hardware).</p>
+<br>
+<h3><center><a href="https://forms.gle/hvghNMgLsrcqwPEw5"> >>Link to application form.</a></center></h3>
+<br>
+<p><i><center>If you are a team/working group member who would like to work on Rust Project Goals (that relate to your Team or Working Group) as part of your Fellowship year, you should apply for a Project Fellowship.</i></br></center>
 <br>
 <hr>
-
-<center><table>
-<table border="”4″"><th colspan="2"><h3>2023 Application Dates</h3></th>
-  <tr>
-    <td><u>Application window:</u></td>
-    <td>Tuesday, June 13th- Friday, June 30th, 2023 (midnight PDT).</td>
-  </tr>
-  <tr>
-    <td><u>Fellow selections:</u</td>
-    <td>Wednesday, July 6th, 2023.</td>
-  </tr>
-  <tr>
-    <td><u>Applicant notifications:</u></td>
-    <td>Friday, July 7th, 2023.</td>
-  </tr>
-  <tr>
-    <td><u>Fellowship year begins:</u></td>
-    <td>Monday, July 24, 2023</td>
-  </tr>
-</table></center>
-<div><center><h2>Fellowship Benefits</h2></center>
-
-<style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create three equal columns that floats next to each other */
-.benefit {
-  float: left;
-  width: 33.33%;
-  padding: 10px;
-}
-
-/* Clear floats after the columns */
-.benefits:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .benefit {
-    width: 100%;
-  }
-}
-</style>
-
-<div class="benefits">
-  <div class="benefit">
-    <h3>Stipend</h3>
-    <p>A monthly stipend of $1,000 USD per month for 12 months.</p>
-  </div>
-  <div class="benefit">
-    <h3>Travel Budget</h3>
-    <p>An allowance of up to $2,000 to support travel to relevant Rust events.</p>
-  </div>
-  <div class="benefit">
-    <h3>Training Allowance</h3>
-    <p>Up to $2,000 towards training and skills development.</p>
-  </div>
-</div>
 <br>
-&nbsp;
+<h3>Community Fellowships</h3>
+<p>These Fellowships are open to people working to build Rust communities outside of Western Europe and North America to support work such as organizing communities and events and creating content and training materials for their communities.</p>
 <br>
-<div><center><h2>Program Details</h2></center>
+<p>These Fellowships will run for a period of 12 months, during which period Fellows will receive:</p>
+<p>- A stipend of $1,500 USD per month</p>
+<p>- Combined travel, hardware & training allowance - $4,000  (up to $1,500 can be spent on hardware).</p>
 <br>
+<h3><center><a href="https://forms.gle/Sx4bH62Vyw9JRUaT7"> >>Link to application form.</h3></a></center>
 <br>
-
-<style>
-.detail1, .detail3, .detail5, .detail7, .detail9 {
-  display: inline-block;
-  padding: 10px 10px;
-  margin: 20px;
-  vertical-align: top;
-}
-.detail2, .detail4, .detail6, .detail8 {
-  display: inline-block;
-  padding: 10px 10px;
-  margin: 20px;
-  vertical-align: top;
-  }
-</style>
-
-<div class="detail1"><p>- Rust Foundation Fellowships support current Rust maintainers and skilled users with the potential to positively impact the Rust language community.</p></div>
-
-<div class="detail2"><p>- Applicants in 2023 will have the opportunity to either select a self-directed or a mentored role for their Fellowship year.</p></div>
-
-
-<div class="detail3"><p>- Fellowships are intended to support work RFFs are already carrying out. They are not intended to add more work to RFFs' plates.</p></div>
-
-<div class="detail4"><p>- Mentored roles pair RFFs with an expert in the Rust community to help develop their skills and experience in a chosen focus area.</p></div>
-
-<div class="detail5"><p>- Fellowships do not come with special Rust Project privilege - RFFs will not automatically become members of Project Teams or Working Groups.</p></div>
-
-<div class="detail6"><p>- RFFs <i>will not</i> be required to set and meet specific milestones. At the end of the program, RFFs <i>will</i> be asked to write a blog detailing their experience for possible publication on our website.</p></div>
-
-<div class="detail7"><p>- Each quarter, RFFs will be asked to share a brief, written update with the Rust Foundation team and participate in a check-in call.</p></div>
-
-<div class="detail8"><p>- All RFFs will be required to adhere to the Rust Foundation’s <a href="/policies/code-of-conduct/">Code of Conduct</a>, which is an extension of the Rust Project Code of Conduct. Failure to adhere to the Code of Conduct may result in the Fellowship being terminated.</p></div>
-
-<center><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentored Fellowship Details</h3></center>
+<hr>
 <br>
-
-<style>
-  .bordered2 {
-    margin: 10px;
-    width: 100%;
-    max-width: 100%;
-    text-align: left;
-    color: #000000;
-    height: auto;
-    padding: 10px;
-    border: 1px solid lightorange;
-    border-radius: 6px;
-    background-color: #bab7c8
-  }
-</style>
-
-<div class="bordered2">
-<p><u><h3><center>Security Fellowship</h3></p></u></center>
-The Security Fellow will have the opportunity to research and implement detection measures in Ecosystem Scanning, including identifying malicious code that can occur in crates, provenance detection, and code health scans (e.g. miri, audit). The Security Fellow will also have the opportunity to contribute to the Penetration Test of the Rust Project, which may involve assessing the security of various components, from the Project in general to specific projects or infrastructure components. This work could encompass penetration testing of systems and conducting code reviews for critical components like CI/CD, bors, rustwide, playground, and more.</p><p>Paired Mentor: <a href="https://github.com/walterhpearce">Walter Pearce</a>, Rust Foundation Security Engineer.</p></div>
-
-<style>
-  .bordered3 {
-    margin: 10px;
-    width: 100%;
-    max-width: 100%;
-    text-align: left;
-    color: #000000;
-    height: auto;
-    padding: 10px;
-    border: 1px solid lightorange;
-    border-radius: 6px;
-    background-color: #D9D9D9
-  }
-</style>
-
-<div class="bordered3">
-<p><u><h3><center>Crates.io Fellowship</h3></p></u></center>
-The crates.io Fellow will have the opportunity to develop a comprehensive understanding of crates.io and focus on enhancing its search experience. The crates.io Fellow’s objective will be to explore possible improvements to the crate search experience, such as incorporating additional metrics for crates and leveraging them to prioritize search results. By working on these enhancements, the crates.io Fellow will contribute to optimizing the search functionality on crates.io, thus improving the overall user experience.</p><p>Paired Mentor: <a href="https://github.com/turbo87/">Tobias Bieniek</a>, Rust Foundation Software Engineer.</p></div>
-
-<style>
-  .bordered4 {
-    margin: 10px;
-    width: 100%;
-    max-width: 100%;
-    text-align: left;
-    color: #000000;
-    height: auto;
-    padding: 10px;
-    border: 1px solid lightorange;
-    border-radius: 6px;
-    background-color: #bab7c8
-  }
-</style>
-
-<div class="bordered4">
-<p><u><h3><center>Infrastructure Fellowship</h3></p></u></center>
-The Infrastructure Fellow will be responsible for developing a comprehensive understanding of the underlying infrastructure supporting the Rust language. Specific tasks include updating the infrastructure monitoring setup and optimizing the CI (Continuous Integration) process for rust-lang to enhance its efficiency. By actively working on these aspects, the Infrastructure Fellow will play a vital role in ensuring a robust infrastructure and streamlined development workflow for the Rust language.</p><p>Paired Mentor: <a href="https://github.com/jdno">Jan David Nose</a>, Rust Foundation Infrastructure Engineer.</p></div>
-
-<style>
-  .bordered5 {
-    margin: 10px;
-    width: 100%;
-    max-width: 100%;
-    text-align: left;
-    color: #000000;
-    height: auto;
-    padding: 10px;
-    border: 1px solid lightorange;
-    border-radius: 6px;
-    background-color: #D9D9D9;
-  }
-</style>
-
-<div class="bordered5">
-<p><u><h3><center>Compiler Fellowship</h3></p></u></center>
-The Compiler Fellow will develop a comprehensive understanding of the Rust compiler and develop the skills and experience needed to become an active contributor to the compiler work.</p><p>Paired Mentor: the <a href="https://www.rust-lang.org/governance/teams/compiler/">Rust Compiler Team</a>.</p></div>
-
+<h3>Project Goal Fellowships</h3>
+<p>Project Goal Fellowships are open to people working on the agreed <a href="https://rust-lang.github.io/rust-project-goals/2024h2/proposed.html">goals</a> (and sub-goals) of the Rust Project. Applicants do not have to be members of a Rust Project Team or Working Group, but they do need the skills and experience to be able to deliver their chosen package of work.</p>
+<br>
+<p>Project Goal Fellowships will reflect the calendar of the Rust Project goals and will run for a period of six months. Fellows will receive:</p>
+<p>- A stipend of $1,500 USD per month</p>
+<p>- Combined travel, hardware & training allowance - $2,000  (up to $750 can be spent on hardware).</p>
+<br>
+<h3><center><a href="https://forms.gle/v68A9CunttghpHr77 "> >>Link to application form.</a></h3></center>
+<p><i><center>Project Goal Fellowships can be extended beyond six months if it takes longer than six months to complete the goal, or if the Fellow selects a goal from the 2025H1 list of goals to work on for another six months. Applicants need not complete an entire goal or sub-goal as part of their Fellowship, but must be contributing to its completion. Applicants should read the <a href="https://rust-lang.github.io/rust-project-goals/2024h2/proposed.html">list of goals</a> before applying as they will need to select a goal as part of their application.</i></p></center>
 <div>
 <br>
-<center><h2>Who Can Join?</h2></center>
-
-<style>
-.who1, .who3, .who5, .who7, .who9 {
-  display: inline-block;
-  padding: 10px 10px;
-  margin: 20px;
-  vertical-align: top;
-}
-.who2, .who4, .who6, .who8 {
-  display: inline-block;
-  padding: 10px 10px;
-  margin: 20px;
-  vertical-align: top;
-  }
-</style><div class="who1"><p>- The Rust Foundation Fellowships application is open to anyone who will be over the age of 18 at the time of the grant award.</p></div>
-
-<div class="who2"><p>- We welcome applications from prospective RFFs with different backgrounds from all over the world.</p></div></div>
-
-<div class="who3"><p>- Rust Foundation Fellows do not have to speak English, but they will need to be able to understand enough written English to be able to interact with members of the Project Teams, Rust Project Working Groups, and the Foundation.</p></div>
-
-<div class="who4"><p>- Rust Foundation staff, officers, and directors are not eligible to apply for any Rust Foundation grants.</p></div>
-
-<div class="who5"><p>- Employees of <a href="https://foundation.rust-lang.org/members/">Rust Foundation Member organizations</a> should email us at <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> prior to completing an application to verify that being granted a Fellowship would not represent a conflict of interest.</p></div>
-
-<div class="who6"><p>- While we cannot consider applications from those who are paid to work on Rust full-time, we welcome applications from part-time paid Rust contributors.</p></div>
-
-</div>
-
-<div><center><p><i>All RFF applicants must ensure that they are able to receive financial transfers from the USA. Details of the restrictions of such transactions can be found <a href="https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information">here</a>.</i></p></div><center>
-
-
----
+<hr>
 <center><h2>FAQs</h2></center>
 
 <style>
@@ -256,7 +69,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
   <div class="details">
   <details>
   <summary>How long does the program last?</summary>
-  <h3>12 months.</h3>
+  <h3>For Project Fellowships and Community Fellowships, 12 months.  For Project Goal Fellowships, 6 months.</h3>
 </details>
 
 <details>
@@ -271,12 +84,12 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 <details>
   <summary>I am not currently a member of a Rust Project Team or Working Group, can I apply?</summary>
-  <h3>Yes.</h3>
+  <h3>You can’t apply for a Project Fellowship, but you can apply for a Community Fellowship or a Project Goal Fellowship.</h3>
 </details>
 
 <details>
   <summary>I don’t have any experience with Rust, can I apply?</summary>
-  <h3>We are only able to consider applications from individuals who possess some Rust experience</h3>
+  <h3>No.</h3>
 </details>
 
 <details>
@@ -296,7 +109,7 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 <details>
   <summary>I am interested in building the Rust community, not writing code, can I apply?</summary>
-  <h3>Yes, although you will be required to have some experience contributing to the Rust community and be able to communicate a clear idea of how your work would benefit the Rust ecosystem.</h3>
+  <h3>Yes, you can apply for a Community Fellowship, but only if your work is outside of Western Europe and North America.</h3>
 </details>
 
 <details>
@@ -311,12 +124,12 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
 
 <details>
   <summary>How does the travel stipend work?</summary>
-  <h3>Fellows will be asked to inform the Rust Foundation of the Rust-focused event they want to attend during their Fellowship year. Our team will review this information with the Fellow and, once confirmed, will provide the funds necessary to cover attendance. The travel budget (limited to $2,000 USD per Fellow) is intended to provide economy travel, accommodation and subsistence, plus the cost of event admission.</h3>
+  <h3>Fellows will be asked to inform the Rust Foundation of the Rust-focused event they want to attend during their Fellowship year. Our team will review this information with the Fellow and, once confirmed, will provide the funds necessary to cover attendance. The travel budget is intended to provide economy travel, accommodation and subsistence, plus the cost of event admission.</h3>
 </details>
 
 <details>
   <summary>How does the training stipend work?</summary>
-  <h3>The Rust Foundation team will work with each Fellow to understand the type of training support that would be valuable to them. We require training to be relevant to the Fellowship position. Examples of training categories we support: project planning, organizational management, leadership, document writing, and effective communication.</h3>
+  <h3>The Rust Foundation team will work with each Fellow to understand the type of training support that would be valuable to them. We require training to be relevant to the Fellowship position. Examples of training categories we support: project planning, organizational management, leadership, language skills, document writing, and effective communication.</h3>
 </details>
 
 <details>
@@ -358,11 +171,13 @@ The Compiler Fellow will develop a comprehensive understanding of the Rust compi
   <summary>I have a question that hasn’t been answered here. How can I get in touch for more information?</summary>
   <h3>Please email <a href="mailto:grants@rustfoundation.org">grants@rustfoundation.org</a> and we will do our best to help.</h3>
 </details></div>
-
+<br>
+<hr>
+<br>
 
 <center><h2>More Information</h2></center>
 
-<p><center>Eligibility and exclusion criteria can be found <a href="/grants-eligibility/">here</a>. | General FAQs about the grants program can be found <a href="/grants-faqs/">here</a>. | Our privacy & data-handling policy can be found <a href="/policies/privacy-policy/">here</a>.
+<p><center>Eligibility and exclusion criteria can be found <a href="/grants-eligibility/">here</a>. | Our privacy & data-handling policy can be found <a href="/policies/privacy-policy/">here</a>.
 
 </p></center>
 
