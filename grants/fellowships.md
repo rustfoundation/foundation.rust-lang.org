@@ -48,7 +48,7 @@ tags:
 <p>- Combined Travel, Hardware & Training allowance - $2,000  (up to $750 can be spent on hardware).</p>
 <br>
 <h3><center><a href="https://forms.gle/v68A9CunttghpHr77 "> >>Link to application form.</a></h3></center>
-<p><i>Project Goal Fellowships can be extended beyond six months if it takes longer than six months to complete the goal, or if the Fellow selects a goal from the H125 list of goals to work on for another six months.>Applicants need not complete an entire goal or sub-goal as part of their Fellowship, but must be contributing to its completion. Applicants should read the list of goals before applying as they will need to select a goal as part of their application.</i></p>
+<p><i><center>Project Goal Fellowships can be extended beyond six months if it takes longer than six months to complete the goal, or if the Fellow selects a goal from the H125 list of goals to work on for another six months.>Applicants need not complete an entire goal or sub-goal as part of their Fellowship, but must be contributing to its completion. Applicants should read the list of goals before applying as they will need to select a goal as part of their application.</i></p></center>
 <div>
 <center><h2>FAQs</h2></center>
 
