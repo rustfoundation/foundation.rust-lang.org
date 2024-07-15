@@ -15,12 +15,15 @@ tags:
 <center><h1>Rust Foundation Fellowship Program</h1>
 <div>
 <br>
-<p>The Rust Foundation Fellowship program exists to support and acknowledge active members of the Rust programming language community who generously contribute their time and expertise on a voluntary basis. These grants reward individuals who have helped make Rust what it is today and are key to its future success.</p>
+<p>The Rust Foundation Fellowship program will be returning for 2024. Applications will open on July 15th and close on August 5th with the aim that all of the 2024 Fellows will be chosen and on-boarded by the end of August. This year there will be three different types of Fellowships:</p>
 <br>
-<p>Rust Foundation Fellows are selected for their Rust experience and potential to enhance the community. Benefits include a monthly stipend during the Fellowship year, funding for career development, and access to mentorship opportunities.</p></center>
+<h3>Project Fellowships</h3>
+<p>These Fellowships are open to members of the Rust Project Teams and Working Groups to support contributions that serve the goals of the Rust Project Teams and Working Groups.  These Fellowships will run for a period of 12 months, during which period Fellows will receive:</p>
 <br>
-<h3><center><i>The 2023 Fellowship Application is Now Closed. Please stay tuned for news of future Rust Foundation Fellowship application periods.</i></center></h3>
-
+<p>-A stipend of $1,500 USD per month</p>
+<p>Combined Travel, Hardware & Training allowance - $4,000  (of which up to $1,500 can be spent on hardware).</p>
+<br>
+<p>Link to application form: <a href="https://forms.gle/hvghNMgLsrcqwPEw5"> >>Link to application form.</a>
 <br>
 <hr>
 
