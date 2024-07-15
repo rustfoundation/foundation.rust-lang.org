@@ -142,8 +142,6 @@ tags:
   <h3>We typically pay via direct bank transfers.</h3>
 </details>
 <br>
-<center><h3>For answers to more general FAQs about the grants program, click  <a href="/grants-faqs/">here</a>.</center></h3>
-<br>
 <hr>
 <br>
 
