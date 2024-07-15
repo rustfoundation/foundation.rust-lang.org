@@ -15,7 +15,7 @@ tags:
 <center><h1>Rust Foundation Fellowship Program</h1>
 <div>
 <br>
-<p>The Rust Foundation Fellowship program will be returning for 2024. Applications will open on July 15th and close on August 5th with the aim that all of the 2024 Fellows will be chosen and on-boarded by the end of August. This year there will be three different types of Fellowships:</p>
+<p>The Rust Foundation Fellowship program will be returning for 2024. Applications will open on July 15th and close on August 5th with the aim that all of the 2024 Fellows will be chosen and on-boarded by the end of August. This year there will be three different types of Fellowships:</p></center>
 <br>
 <h3>Project Fellowships</h3>
 <p>These Fellowships are open to members of the Rust Project Teams and Working Groups to support contributions that serve the goals of the Rust Project Teams and Working Groups.  These Fellowships will run for a period of 12 months, during which period Fellows will receive:</p>
@@ -23,7 +23,7 @@ tags:
 <p>-A stipend of $1,500 USD per month</p>
 <p>Combined Travel, Hardware & Training allowance - $4,000  (of which up to $1,500 can be spent on hardware).</p>
 <br>
-<p>Link to application form: <a href="https://forms.gle/hvghNMgLsrcqwPEw5"> >>Link to application form.</a>
+<p><a href="https://forms.gle/hvghNMgLsrcqwPEw5"> >>Link to application form.</a>
 <br>
 <p>If you are a team/working group member who would like to work on Rust Project Goals (that relate to your Team or Working Group) as part of your Fellowship year, you should apply for a Project Fellowship.</br>
 <hr>
@@ -35,7 +35,7 @@ tags:
 <p>-A stipend of $1,500 USD per month</p>
 <p>Combined Travel, Hardware & Training allowance - $4,000  (up to $1,500 can be spent on hardware).</p>
 <br>
-<p>Link to application form: <a href="https://forms.gle/Sx4bH62Vyw9JRUaT7"> >>Link to application form.</a>
+<p><a href="https://forms.gle/Sx4bH62Vyw9JRUaT7"> >>Link to application form.</a>
 <br>
 <hr>
 
