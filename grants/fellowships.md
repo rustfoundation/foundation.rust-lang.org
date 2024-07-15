@@ -26,7 +26,6 @@ tags:
 <p><a href="https://forms.gle/hvghNMgLsrcqwPEw5"> >>Link to application form.</a>
 <br>
 <p>If you are a team/working group member who would like to work on Rust Project Goals (that relate to your Team or Working Group) as part of your Fellowship year, you should apply for a Project Fellowship.</br>
-<hr>
 <br>
 <h3>Community Fellowships</h3>
 <p>These Fellowships are open to people working to build Rust communities outside of Western Europe and North America to support work such as organising communities and events and creating content and training materials for their communities.</p>
@@ -37,7 +36,6 @@ tags:
 <br>
 <p><a href="https://forms.gle/Sx4bH62Vyw9JRUaT7"> >>Link to application form.</a>
 <br>
-<hr>
 
 <center><table>
 <table border="”4″"><th colspan="2"><h3>2023 Application Dates</h3></th>
