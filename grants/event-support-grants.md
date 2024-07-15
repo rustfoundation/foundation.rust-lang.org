@@ -90,7 +90,7 @@ tags:
 
   <details>
     <summary>When can I apply for an Event Support Grant?</summary>
-  <h3>The application is open on an ongoing basis. Please visit <a href="/grants/event-support-grants/">this page</a> for more information and to apply.</h3>
+  <h3>The application is open on an ongoing basis.</h3>
 </details>
 
 <details>
@@ -142,7 +142,7 @@ tags:
   <h3>We typically pay via direct bank transfers.</h3>
 </details>
 <br>
-<center><h3>For answers to more more general FAQs about the grants program, click  <a href="/grants-faqs/">here</a>.</center></h3>
+<center><h3>For answers to more general FAQs about the grants program, click  <a href="/grants-faqs/">here</a>.</center></h3>
 <br>
 <hr>
 <br>
