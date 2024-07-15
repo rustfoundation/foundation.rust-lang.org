@@ -23,7 +23,7 @@ tags:
 <p>- A stipend of $1,500 USD per month</p>
 <p>- Combined Travel, Hardware & Training allowance - $4,000  (of which up to $1,500 can be spent on hardware).</p>
 <br>
-<p><center><a href="https://forms.gle/hvghNMgLsrcqwPEw5"> >>Link to application form.</a></center>
+<h3><center><a href="https://forms.gle/hvghNMgLsrcqwPEw5"> >>Link to application form.</a></center></h3>
 <br>
 <p><i><center>If you are a team/working group member who would like to work on Rust Project Goals (that relate to your Team or Working Group) as part of your Fellowship year, you should apply for a Project Fellowship.</i></br></center>
 <br>
@@ -34,7 +34,7 @@ tags:
 <p>- A stipend of $1,500 USD per month</p>
 <p>- Combined Travel, Hardware & Training allowance - $4,000  (up to $1,500 can be spent on hardware).</p>
 <br>
-<p><center><a href="https://forms.gle/Sx4bH62Vyw9JRUaT7"> >>Link to application form.</a></center>
+<h3><center><a href="https://forms.gle/Sx4bH62Vyw9JRUaT7"> >>Link to application form.</h3></a></center>
 <br>
 <h3>Project Goal Fellowships</h3>
 <p>Project Goal Fellowships are open to people working on the agreed goals (and sub-goals) of the Rust Project.  Applicants do not have to be members of a Rust Project Team or Working Group, but they do need the skills and experience to be able to deliver their chosen package of work.</p>
@@ -43,7 +43,7 @@ tags:
 <p>- A stipend of $1,500 USD per month</p>
 <p>- Combined Travel, Hardware & Training allowance - $2,000  (up to $750 can be spent on hardware).</p>
 <br>
-<p><center><a href="https://forms.gle/v68A9CunttghpHr77 "> >>Link to application form.</a></center>
+<h3><center><a href="https://forms.gle/v68A9CunttghpHr77 "> >>Link to application form.</a></h3></center>
 <p><i>Project Goal Fellowships can be extended beyond six months if:
 <p>- It takes longer than six months to complete the goal, or
 <p>- The Fellow selects a goal from the H125 list of goals to work on for another six months.</p>
