@@ -14,7 +14,7 @@ tags:
 <br>
 <p>Rust Event Support Grants exist to support Rust-related events, both in-person and virtual.</p>
 <br>
-<p>Theses grants help provide financial support for individuals, groups, and organizations to help cover the costs they incur in running events that support the Rust community.</p>
+<p>Theses grants help provide financial support for individuals, groups, and organizations to help cover the costs they incur in running non-profit-making events that support the Rust community.</p>
 <br>
 
 <style>
@@ -32,20 +32,7 @@ tags:
 </style>
 
 <div class="bordered1">
-<h3><a href = "https://app.smarterselect.com/programs/80971-Rust-Foundation" style="color:#FFFFFF";>Apply in English</a></h3></div>
-<br>
-<div class="bordered2">
-<h3><a href = "https://app.smarterselect.com/programs/81295-Rust-Foundation" style="color:#FFFFFF";>En Français</a></h3></div>
-<br>
-<div class="bordered3">
-<h3><a href = "https://app.smarterselect.com/programs/81297-Rust-Foundation" style="color:#FFFFFF";>Em Portugues</a></h3></div>
-<br>
-<div class="bordered4">
-<h3><a href = "https://app.smarterselect.com/programs/81296-Rust-Foundation" style="color:#FFFFFF";>中文</a></h3></div>
-</center>
-</div>
-
-
+<h3><a href = "https://app.smarterselect.com/programs/80971-Rust-Foundation" style="color:#FFFFFF";>Apply</a></h3></div>
 <br>
 <hr>
 
