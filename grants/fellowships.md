@@ -41,14 +41,14 @@ tags:
 <hr>
 <br>
 <h3>Project Goal Fellowships</h3>
-<p>Project Goal Fellowships are open to people working on the agreed goals (and sub-goals) of the Rust Project. Applicants do not have to be members of a Rust Project Team or Working Group, but they do need the skills and experience to be able to deliver their chosen package of work.</p>
+<p>Project Goal Fellowships are open to people working on the agreed <a href="https://rust-lang.github.io/rust-project-goals/2024h2/proposed.html">goals</a> (and sub-goals) of the Rust Project. Applicants do not have to be members of a Rust Project Team or Working Group, but they do need the skills and experience to be able to deliver their chosen package of work.</p>
 <br>
 <p>Project Goal Fellowships will reflect the calendar of the Rust Project goals and will run for a period of six months. Fellows will receive:</p>
 <p>- A stipend of $1,500 USD per month</p>
 <p>- Combined travel, hardware & training allowance - $2,000  (up to $750 can be spent on hardware).</p>
 <br>
 <h3><center><a href="https://forms.gle/v68A9CunttghpHr77 "> >>Link to application form.</a></h3></center>
-<p><i><center>Project Goal Fellowships can be extended beyond six months if it takes longer than six months to complete the goal, or if the Fellow selects a goal from the H125 list of goals to work on for another six months. Applicants need not complete an entire goal or sub-goal as part of their Fellowship, but must be contributing to its completion. Applicants should read the list of goals before applying as they will need to select a goal as part of their application.</i></p></center>
+<p><i><center>Project Goal Fellowships can be extended beyond six months if it takes longer than six months to complete the goal, or if the Fellow selects a goal from the 2025H1 list of goals to work on for another six months. Applicants need not complete an entire goal or sub-goal as part of their Fellowship, but must be contributing to its completion. Applicants should read the <a href="https://rust-lang.github.io/rust-project-goals/2024h2/proposed.html">list of goals</a> before applying as they will need to select a goal as part of their application.</i></p></center>
 <div>
 <br>
 <hr>
@@ -124,7 +124,7 @@ tags:
 
 <details>
   <summary>How does the travel stipend work?</summary>
-  <h3>Fellows will be asked to inform the Rust Foundation of the Rust-focused event they want to attend during their Fellowship year. Our team will review this information with the Fellow and, once confirmed, will provide the funds necessary to cover attendance. The travel budget (Up to $4,000 USD per Fellow for 12-month Fellowships and $2,000 for 6-month Fellowships) is intended to provide economy travel, accommodation and subsistence, plus the cost of event admission.</h3>
+  <h3>Fellows will be asked to inform the Rust Foundation of the Rust-focused event they want to attend during their Fellowship year. Our team will review this information with the Fellow and, once confirmed, will provide the funds necessary to cover attendance. The travel budget is intended to provide economy travel, accommodation and subsistence, plus the cost of event admission.</h3>
 </details>
 
 <details>
