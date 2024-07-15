@@ -21,7 +21,7 @@ tags:
 <p>These Fellowships are open to members of the Rust Project Teams and Working Groups to support contributions that serve the goals of the Rust Project Teams and Working Groups.  These Fellowships will run for a period of 12 months, during which period Fellows will receive:</p>
 <br>
 <p>- A stipend of $1,500 USD per month</p>
-<p>- Combined Travel, Hardware & Training allowance - $4,000  (of which up to $1,500 can be spent on hardware).</p>
+<p>- Combined travel, hardware & training allowance - $4,000  (of which up to $1,500 can be spent on hardware).</p>
 <br>
 <h3><center><a href="https://forms.gle/hvghNMgLsrcqwPEw5"> >>Link to application form.</a></center></h3>
 <br>
@@ -34,7 +34,7 @@ tags:
 <br>
 <p>These Fellowships will run for a period of 12 months, during which period Fellows will receive:</p>
 <p>- A stipend of $1,500 USD per month</p>
-<p>- Combined Travel, Hardware & Training allowance - $4,000  (up to $1,500 can be spent on hardware).</p>
+<p>- Combined travel, hardware & training allowance - $4,000  (up to $1,500 can be spent on hardware).</p>
 <br>
 <h3><center><a href="https://forms.gle/Sx4bH62Vyw9JRUaT7"> >>Link to application form.</h3></a></center>
 <br>
@@ -45,7 +45,7 @@ tags:
 <br>
 <p>Project Goal Fellowships will reflect the calendar of the Rust Project goals and will run for a period of six months. Fellows will receive:</p>
 <p>- A stipend of $1,500 USD per month</p>
-<p>- Combined Travel, Hardware & Training allowance - $2,000  (up to $750 can be spent on hardware).</p>
+<p>- Combined travel, hardware & training allowance - $2,000  (up to $750 can be spent on hardware).</p>
 <br>
 <h3><center><a href="https://forms.gle/v68A9CunttghpHr77 "> >>Link to application form.</a></h3></center>
 <p><i><center>Project Goal Fellowships can be extended beyond six months if it takes longer than six months to complete the goal, or if the Fellow selects a goal from the H125 list of goals to work on for another six months.>Applicants need not complete an entire goal or sub-goal as part of their Fellowship, but must be contributing to its completion. Applicants should read the list of goals before applying as they will need to select a goal as part of their application.</i></p></center>
