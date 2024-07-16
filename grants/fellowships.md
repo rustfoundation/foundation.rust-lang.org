@@ -25,7 +25,7 @@ tags:
 <br>
 <h3><center><a href="https://forms.gle/hvghNMgLsrcqwPEw5"> >>Link to application form.</a></center></h3>
 <br>
-<p><i><center>If you are a team/working group member who would like to work on Rust Project Goals (that relate to your Team or Working Group) as part of your Fellowship year, you should apply for a Project Fellowship.</i></br></center>
+<p><i><center>If you are a team/working group member who would like to work purely on Rust Project Goals (that relate to your Team or Working Group), you should apply for a Project Goal Fellowship. If you would like to work on multiple work items (that can include Project Goals), you should apply for a Project Fellowship.</i></br></center>
 <br>
 <hr>
 <br>
