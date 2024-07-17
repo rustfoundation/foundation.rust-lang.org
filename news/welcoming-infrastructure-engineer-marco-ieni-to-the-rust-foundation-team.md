@@ -2,7 +2,7 @@
 title: Welcoming Infrastructure Engineer, Marco Ieni to the Rust Foundation Team
 byline: Rust Foundation Team
 description: >-
-  We are pleased to announce that Jon Bauman has joined the Rust Foundation as
+  We are pleased to announce that Marco Ieni has joined the Rust Foundation as
   the newest member of our engineering team!
 date: 2024-07-17T12:00:00Z
 tags:
