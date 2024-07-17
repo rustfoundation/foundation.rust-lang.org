@@ -1,8 +1,8 @@
 ---
 layout: layouts/grants.njk
 description: >-
-   Stipends of $1,000 per month, plus a travel and training budget, granted to
-   up to 12 individuals who are either already contributing to the Rust
+   Stipends of $1,500 per month, plus a travel, training and hardware budget,
+   granted to individuals who are either already contributing to the Rust
    community or who have Rust experience and a high potential to benefit the
    community through their contributions.
 date: 2022-04-01T00:00:00Z
@@ -15,7 +15,7 @@ tags:
 <center><h1>Rust Foundation Fellowship Program</h1>
 <div>
 <br>
-<p>The Rust Foundation Fellowship program will be returning for 2024. Applications will open on July 15th and close on August 5th with the aim that all of the 2024 Fellows will be chosen and on-boarded by the end of August. This year there will be three different types of Fellowships:</p></center>
+<p>The Rust Foundation Fellowship program will be returning for 2024. Applications will open on July 15th and close on August 5th with the aim that up to 15 Fellows will be chosen and on-boarded by the end of August. This year there will be three different types of Fellowships:</p></center>
 <br>
 <h3>Project Fellowships</h3>
 <p>These Fellowships are open to members of the Rust Project Teams and Working Groups to support contributions that serve the goals of the Rust Project Teams and Working Groups. These Fellowships will run for a period of 12 months, during which period Fellows will receive:</p>
@@ -45,7 +45,7 @@ tags:
 <br>
 <p>Project Goal Fellowships will reflect the calendar of the Rust Project goals and will run for a period of six months. Fellows will receive:</p>
 <p>- A stipend of $1,500 USD per month</p>
-<p>- Combined travel, hardware & training allowance - $2,000  (up to $750 can be spent on hardware).</p>
+<p>- Combined travel, hardware & training allowance - $2,000  (up to $750 can be spent on hardware). (The lower values reflect the shorter duration of the Fellowships.)</p>
 <br>
 <h3><center><a href="https://forms.gle/v68A9CunttghpHr77 "> >>Link to application form.</a></h3></center>
 <p><i><center>Project Goal Fellowships can be extended beyond six months if it takes longer than six months to complete the goal, or if the Fellow selects a goal from the 2025H1 list of goals to work on for another six months. Applicants need not complete an entire goal or sub-goal as part of their Fellowship, but must be contributing to its completion. Applicants should read the <a href="https://rust-lang.github.io/rust-project-goals/2024h2/proposed.html">list of goals</a> before applying as they will need to select a goal as part of their application.</i></p></center>
