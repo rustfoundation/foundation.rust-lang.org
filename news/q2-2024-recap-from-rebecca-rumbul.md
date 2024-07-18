@@ -37,7 +37,7 @@ The Foundation transitioned its financial management and reporting systems from 
 
 ## Membership
 
-In Q2, we were pleased to welcome several new members to the Rust Foundation. Wyeworks LLC, Accelerant Limited, and Zed Industries joined as new Silver Members and new Associate Members: Stichting Rust Nederland (RustNL) and the Brazilian Pontifícia Universidade Católica do Paraná.
+In Q2, we were pleased to welcome several new members to the Rust Foundation. Wyeworks LLC, Accelerant Limited, and Zed Industries joined as new Silver Members and new Associate Members: Stichting Rust Nederland (RustNL) and the Brazilian Pontifícia Universidade Católica do Paraná. An Announcement of Wyeworks, Accelerant, and Zed is currently in the works.
 
 If you work for or are otherwise connected to organisation that might be interested in becoming a member of the Rust Foundation, do not hesitate to get in touch with us at [membership@rustfoundation.org](https://foundation.rust-lang.org/news/q1-2024-recap-from-rebecca-rumbul/). The team would be delighted to walk any prospective member through our benefits, which are also summarised in [this](https://foundation.rust-lang.org/static/membership-overview-deck.pdf) deck.
 
