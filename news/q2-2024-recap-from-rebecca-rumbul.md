@@ -2,7 +2,7 @@
 title: Q2 2024 Recap from Rebecca Rumbul
 byline: Rebecca Rumbul
 description: A review of the Rust Foundation’s activities in April, May, and June of 2024.
-date: 2024-05-07T12:00:00Z
+date: 2024-07-18T17:00:00Z
 tags:
   - quarterly updates
   - foundation
@@ -77,4 +77,3 @@ For more information and to register, visit the [RustConf website](https://rustc
 
 As always, I hope that this information gives our community insight into where the Foundation’s resources and efforts were channeled over the past several months. If you have any questions about the contents of this report, don’t hesitate to contact us at contact@rustfoundation.org. If you are interested in joining the Rust Foundation as a member, please email us at [membership@rustfoundation.org](mailto:membership@rustfoundation.org). You can find past Rust Foundation Quarterly Updates [here](https://foundation.rust-lang.org/tags/quarterly%20updates/).
 
-&nbsp;
