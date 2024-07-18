@@ -9,7 +9,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-I’m pleased to have a number of exciting achievements from the Foundation and staff team to reflect on in this quarterly recap for April, May, and June of 2024.
+The Rust Foundation staff worked hard in Q2 of 2024 on a number of exciting packages of work. I'm pleased to share this recap of our team's areas of focus over the past three months.
 
 ## Summary
 
