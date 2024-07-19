@@ -43,7 +43,7 @@ If you work for or are otherwise connected to organisation that might be interes
 
 ## Technology & Infrastructure
 
-The Rust Foundation's Technology team made significant progress in the second quarter. [Jon Bauman](https://foundation.rust-lang.org/news/welcoming-rust-c-interoperability-engineer-jon-bauman-to-the-rust-foundation-team/), the new software engineer lead, has started planning a proposed Rust/C++ interop strategy after meeting with stakeholders. The team also hired a new infrastructure engineer to support the growing needs of the Foundation and the Rust Project, with the name of the engineer to be announced in July.
+The Rust Foundation's Technology team made significant progress in the second quarter. [Jon Bauman](https://foundation.rust-lang.org/news/welcoming-rust-c-interoperability-engineer-jon-bauman-to-the-rust-foundation-team/), the new software engineer lead, has started planning a proposed Rust/C++ interop strategy after meeting with stakeholders.
 
 A major highlight was the launch of the [Rust Safety Critical Consortium](https://foundation.rust-lang.org/news/announcing-the-safety-critical-rust-consortium/), which attracted nine founding members and substantial interest from over twenty more organizations eager to join or collaborate. At [RustConf](https://rustconf.com/), the consortium aims to define its charter and goals, and establish a mechanism to efficiently add new members.
 
