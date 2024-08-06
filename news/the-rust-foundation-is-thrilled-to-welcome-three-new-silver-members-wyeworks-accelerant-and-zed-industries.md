@@ -33,7 +33,7 @@ Please join us in welcoming the following new Silver Member organizations to the
 
 “Zed Industries has one goal: to create the best possible experience for writing software. One that brings together the collective intelligence of humans and machines to help you and your team ship faster.”
 
-\- David Marino, Head of Operations, Zed Industries
+\- Nathan Sobo, CEO/Founder, Zed Industries
 
 The Rust Foundation thanks WyeWorks, Accelerant, and Zed Industries for their membership, which will contribute to our continued stewardship of the Rust programming language ecosystem.
 
