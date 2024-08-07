@@ -1,11 +1,10 @@
 ---
 title: >-
-  The Rust Foundation is thrilled to welcome three new Silver members: WyeWorks,
-  Accelerant, and Zed Industries.
+  The Rust Foundation is thrilled to welcome three new Silver members: Accelerant, WyeWorks,
+  and Zed Industries.
 byline: Rust Foundation Team
 description: >-
-  Introducing new Rust Foundation Silver Members, WyeWorks, Accelerant, and Zed
-  Industries.
+  Introducing new Rust Foundation Silver Members, Accelerant, WyeWorks,and Zed Industries.
 date: 2024-05-09T12:00:00Z
 tags:
   - announcement
@@ -17,17 +16,17 @@ layout: layouts/news.njk
 
 Please join us in welcoming the following new Silver Member organizations to the Rust Foundation:
 
-### [WyeWorks](http://www.wyeworks.com)
-
-“WyeWorks empowers businesses with Elite Software Development Talent. It’s composed by a team of expert software developers who build software using Ruby, Rust, Elixir, and Javascript, with vast experience in Agile methodologies and leadership coaching.”
-
-\- Alvaro Muhlethaler, Expansion Strategist, WyeWorks\]
-
 ### [Accelerant](https://accelerant.dev/)
 
 “Accelerant speeds up your Rust adoption. We're a service provider known for our accessible, informative and supportive approach and have partnered with many teams, from stealth startups to the world's largest tech companies. We're in business to benefit billions of people by accelerating the move to stable, secure and energy efficient software.”
 
 \- Tim McNamara, Managing Director, Accelerant and author of Rust in Action
+
+### [WyeWorks](http://www.wyeworks.com)
+
+“WyeWorks empowers businesses with Elite Software Development Talent. It’s composed by a team of expert software developers who build software using Ruby, Rust, Elixir, and Javascript, with vast experience in Agile methodologies and leadership coaching.”
+
+\- Alvaro Muhlethaler, Expansion Strategist, WyeWorks\]
 
 ### <a href="https://zed.dev/" target="_blank" rel="noopener"><strong>Zed Industries</strong></a>
 
@@ -35,7 +34,7 @@ Please join us in welcoming the following new Silver Member organizations to the
 
 \- Nathan Sobo, CEO/Founder, Zed Industries
 
-The Rust Foundation thanks WyeWorks, Accelerant, and Zed Industries for their membership, which will contribute to our continued stewardship of the Rust programming language ecosystem.
+The Rust Foundation thanks Accelerant, WyeWorks, and Zed Industries for their membership, which will contribute to our continued stewardship of the Rust programming language ecosystem.
 
 ## **Membership Resources**
 
