@@ -1,5 +1,5 @@
 ---
-title: Rust Foundation Welcomes Silver Members Accelerant, WyeWorks, & Zed Industries
+title: 'Rust Foundation Member Announcement: Accelerant, WyeWorks, & Zed Industries'
 byline: Rust Foundation Team
 description: >-
   Introducing new Rust Foundation Silver Members, Accelerant, WyeWorks,and Zed
