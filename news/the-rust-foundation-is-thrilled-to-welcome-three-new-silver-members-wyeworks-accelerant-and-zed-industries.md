@@ -5,14 +5,14 @@ title: >-
 byline: Rust Foundation Team
 description: >-
   Introducing new Rust Foundation Silver Members, Accelerant, WyeWorks,and Zed Industries.
-date: 2024-05-09T12:00:00Z
+date: 2024-08-08T12:00:00Z
 tags:
   - announcement
   - membership
 index: false
 layout: layouts/news.njk
 ---
-**DOVER, DELAWARE, February 29, 2024** – [The Rust Foundation](https://rustfoundation.org/), an independent, nonprofit organization dedicated to advancing the performance, safety, and sustainability of the Rust programming language, is pleased to welcome three new member organizations at the Silver level. Rust Foundation members play an active role in the organization’s mission to steward the Rust programming language and its global community. These organizations operating in the open source infrastructure and automotive industries have demonstrated their commitment to the health of Rust through their membership in the Rust Foundation.
+**DOVER, DELAWARE, August 8, 2024** – [The Rust Foundation](https://rustfoundation.org/), an independent, nonprofit organization dedicated to advancing the performance, safety, and sustainability of the Rust programming language, is pleased to welcome three new member organizations at the Silver level. Rust Foundation members play an active role in the organization’s mission to steward the Rust programming language and its global community. These organizations operating in the open source infrastructure and automotive industries have demonstrated their commitment to the health of Rust through their membership in the Rust Foundation.
 
 Please join us in welcoming the following new Silver Member organizations to the Rust Foundation:
 
