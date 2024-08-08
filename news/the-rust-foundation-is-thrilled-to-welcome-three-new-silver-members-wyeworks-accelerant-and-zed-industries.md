@@ -1,10 +1,11 @@
 ---
 title: >-
-  The Rust Foundation is thrilled to welcome three new Silver members: Accelerant, WyeWorks,
-  and Zed Industries.
+  The Rust Foundation is thrilled to welcome three new Silver members:
+  Accelerant, WyeWorks, and Zed Industries.
 byline: Rust Foundation Team
 description: >-
-  Introducing new Rust Foundation Silver Members, Accelerant, WyeWorks,and Zed Industries.
+  Introducing new Rust Foundation Silver Members, Accelerant, WyeWorks,and Zed
+  Industries.
 date: 2024-08-08T12:00:00Z
 tags:
   - announcement
@@ -26,7 +27,7 @@ Please join us in welcoming the following new Silver Member organizations to the
 
 “WyeWorks empowers businesses with Elite Software Development Talent. It’s composed by a team of expert software developers who build software using Ruby, Rust, Elixir, and Javascript, with vast experience in Agile methodologies and leadership coaching.”
 
-\- Alvaro Muhlethaler, Expansion Strategist, WyeWorks\]
+\- Alvaro Muhlethaler, Expansion Strategist, WyeWorks
 
 ### <a href="https://zed.dev/" target="_blank" rel="noopener"><strong>Zed Industries</strong></a>
 
