@@ -18,8 +18,6 @@ This year, the Rust Foundation is excited to host[<u>RustConf</u>](https://rustc
 
 RustConf 2024 will feature talks covering various topics within open source and Rust.
 
-<div class="cms-embed"></div>
-
 Some key themes include:
 
 * **Security:** Rust’s role in enhancing security, covering topics such as making open source secure by design, memory safety across foreign function boundaries, and “X-safety” in unsafe environments.
