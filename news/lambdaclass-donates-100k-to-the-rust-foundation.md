@@ -2,7 +2,7 @@
 title: LambdaClass Donates $100k to the Rust Foundation
 byline: Rust Foundation Team
 description: The Rust Foundation received a $100K USD donation from LambdaClass (“Lambda”).
-date: 2024-05-09T12:00:00Z
+date: 2024-08-22T12:00:00Z
 tags:
   - announcement
   - foundation
