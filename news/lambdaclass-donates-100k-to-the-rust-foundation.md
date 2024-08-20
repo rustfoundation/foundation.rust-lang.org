@@ -29,6 +29,6 @@ You can read LambdaClass’ public statement regarding the donation here: [Givin
 
 Thank you to LambdaClass for this generous donation!
 
-*You can find LambdaClass on* [X](https://x.com/class_lambda)*,* [LinkedIn](https://www.linkedin.com/company/lambdaclass)*, and* [blog.lambdaclass.com](http://blog.lambdaclass.com) \* \* [https://www.lambdaclass.com](https://www.lambdaclass.com/)*.*
+*You can find LambdaClass on* [X](https://x.com/class_lambda)*,* [LinkedIn](https://www.linkedin.com/company/lambdaclass)*, and* [blog.lambdaclass.com](http://blog.lambdaclass.com) / [https://www.lambdaclass.com](https://www.lambdaclass.com/)*.*
 
 &nbsp;
