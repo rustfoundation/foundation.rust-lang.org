@@ -50,7 +50,8 @@ This workshop is for anyone seeking practical experience testing realistic appli
 
 The workshop aims to show the value of Rust despite its complexity. Participants will learn to efficiently distribute workloads, communicate asynchronously, and utilize their computer’s capabilities using Rust’s safety features. The session will also explain Rust’s unique system safety and error prevention approach.
 
-Interested in registering for a workshop? You can add one to your existing order or register for the first time with a workshop [here](https://www.eventbrite.com/e/rustconf-2024-tickets-865842106047). Just select “Get tickets”. Workshops cost $250.
+Interested in registering for a workshop? There are only a few slots left, so sign up for a workshop while you can!
+You can add one to your existing order or register for the first time with a workshop [here](https://www.eventbrite.com/e/rustconf-2024-tickets-865842106047). Just select “Get tickets”. Workshops cost $250.
 
 ### Virtual Experience
 
