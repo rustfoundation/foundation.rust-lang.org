@@ -18,7 +18,7 @@ RustConf 2024 will feature talks covering various topics within open source and 
 
 Some key themes include:
 
-* **Security:** Rust’s role in enhancing security, covering topics such as making open source secure by design, memory safety across foreign function boundaries, and “X-safety” in unsafe environments.
+* **Security:** Rust’s role in enhancing security, including making open source secure by design, memory-safety across foreign function boundaries, and “X-safety” in unsafe environments.
 * **Performance and Optimization:** Rust’s compiler performance, low-overhead observability, and profile-guided optimization.
 * **Rust in New and Exciting Places:** Rust’s growing impact in industries like game development, robotics, space missions, and 3D design.
 
