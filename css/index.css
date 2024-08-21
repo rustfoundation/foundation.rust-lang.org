@@ -369,9 +369,14 @@ footer .container {
 /* Contact */
 .contact .social_icon {
   width: 100px;
+  height: 88px;  
   margin-top: 3em;
   margin-right: 2em;
-}
+} 
+
+
+
+
 
 /* Board */
 .peoplelist, .memberslist {
