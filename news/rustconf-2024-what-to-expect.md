@@ -2,10 +2,11 @@
 title: 'RustConf 2024: What to Expect'
 byline: Rust Foundation Team
 description: 'RustConf 2024 is less than a month away. Here is what to expect. '
-date: 2024-05-07T12:00:00Z
+date: 2024-08-21T12:00:00Z
 tags:
   - announcement
   - foundation
+  - rustconf
 index: false
 layout: layouts/news.njk
 ---
