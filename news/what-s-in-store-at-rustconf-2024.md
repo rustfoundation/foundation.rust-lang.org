@@ -10,7 +10,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-This year, the Rust Foundation is excited to host<a href="https://rustconf.com/" rel="nofollow">RustConf</a> for the first time in Montreal, Canada, and online from September 10-13, 2024. Just a few weeks remain!
+This year, the Rust Foundation is excited to host <a href="https://rustconf.com/" rel="nofollow">RustConf</a> for the first time in Montreal, Canada, and online from September 10-13, 2024. Just a few weeks remain!
 
 ## What to Expect
 
@@ -54,11 +54,11 @@ Interested in registering for a workshop? There are only a few slots left, so si
 
 ### Virtual Experience
 
-If you can’t attend in person this year, you can still join for the free virtual RustConf. Once you<a href="https://rustconf.com/register/" rel="nofollow">register</a> for RustConf, we’ll send you a link to join our dedicated Discord server a week before the event. On Discord, you’ll find information about livestreams, opportunities for Q&A, and the chance to interact with other attendees and speakers. The virtual platform will not only be an essential tool for those joining us remotely, but also for those onsite interested in asking our speakers questions, capturing their experience, and making lasting connections with other attendees and sponsors.
+If you can’t attend in person this year, you can still join for the free virtual RustConf. Once you <a href="https://rustconf.com/register/" rel="nofollow">register</a> for RustConf, we’ll send you a link to join our dedicated Discord server a week before the event. On Discord, you’ll find information about livestreams, opportunities for Q&A, and the chance to interact with other attendees and speakers. The virtual platform will not only be an essential tool for those joining us remotely, but also for those onsite interested in asking our speakers questions, capturing their experience, and making lasting connections with other attendees and sponsors.
 
 ### Rust Global:
 
-Rust Global is a Rust Foundation-hosted half-day event taking place on Friday, September 13th. The event will feature talks and discussions about the use of Rust in enterprise, government, and global leadership settings. It will be free for anyone with a Nonprofit or Industry/Government ticket (while capacity remains). Learn more on the<a href="https://www.eventbrite.com/e/rustconf-2024-tickets-865842106047?aff=oddtdtcreator" rel="nofollow">registration page</a>.
+Rust Global is a Rust Foundation-hosted half-day event taking place on Friday, September 13th. The event will feature talks and discussions about the use of Rust in enterprise, government, and global leadership settings. It will be free for anyone with a Nonprofit or Industry/Government ticket (while capacity remains). Learn more on the <a href="https://www.eventbrite.com/e/rustconf-2024-tickets-865842106047?aff=oddtdtcreator" rel="nofollow">registration page</a>.
 
 We are thrilled to share that Rust Foundation security Engineer Walter Pearce has just been announced as the final Rust Global speaker! Learn more about Walter’s talk and the complete lineup of Rust Global sessions here: <a href="https://rustconf.com/programs/#rust_global" rel="nofollow">https://rustconf.com/programs/#rust_global</a>
 
