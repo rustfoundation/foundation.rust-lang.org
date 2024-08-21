@@ -70,7 +70,10 @@ On Friday, September 13th, from 9am to 3pm, RustConf will feature the much-loved
 Full Schedule:[<u>https://rustconf.com/schedule/</u>](https://rustconf.com/schedule/)
 
 Register:[<u>https://rustconf.com/register/</u>](https://rustconf.com/register/)
+---
 
+### Low Ticket Warning
+RustConf tickets are going fast! If you plan to join us in Montreal, be sure to grab your spot before they're gone!. Register [here.](https://rustconf.com/register/)
 ---
 
 ### See You in September!
@@ -79,8 +82,4 @@ Whether you are attending RustConf in Montreal or remotely from wherever you liv
 
 [https://rustconf.com](https://rustconf.com)
 
-&nbsp;
 
-&nbsp;
-
-&nbsp;
