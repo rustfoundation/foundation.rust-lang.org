@@ -73,7 +73,9 @@ Register:[<u>https://rustconf.com/register/</u>](https://rustconf.com/register/)
 ---
 
 ### Low Ticket Warning
+
 RustConf tickets are going fast! If you plan to join us in Montreal, be sure to grab your spot before they're gone!. Register [here.](https://rustconf.com/register/)
+
 ---
 
 ### See You in September!
