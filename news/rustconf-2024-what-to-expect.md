@@ -1,5 +1,5 @@
 ---
-title: 'RustConf 2024: What to Expect'
+title: 'What's in Store at RustConf 2024'
 byline: Rust Foundation Team
 description: 'RustConf 2024 is less than a month away. Here is what to expect. '
 date: 2024-08-21T12:00:00Z
