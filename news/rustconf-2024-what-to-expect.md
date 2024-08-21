@@ -10,7 +10,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-This year, the Rust Foundation is excited to host[<u>RustConf</u>](https://rustconf.com/) for the first time in Montreal, Canada, and online from September 10-13, 2024. Less than one month remains!
+This year, the Rust Foundation is excited to host[<u>RustConf</u>](https://rustconf.com/) for the first time in Montreal, Canada, and online from September 10-13, 2024. Just a few weeks remain!
 
 ## What to Expect
 
