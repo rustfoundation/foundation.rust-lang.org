@@ -15,11 +15,11 @@ This donation was made by Lambda to “support the ongoing development and maint
 
 In a statement of intent about their donation, Lambda said the following:
 
-LambdaClass is dedicated to advancing the technological frontier by applying cutting-edge technologies to generate and disseminate scientific knowledge with practical applications. Rust has been an integral part of our work since 2014, delivering great results, and we believe our contribution will further strengthen the language's impact on the global tech community.
+*"LambdaClass is dedicated to advancing the technological frontier by applying cutting-edge technologies to generate and disseminate scientific knowledge with practical applications. Rust has been an integral part of our work since 2014, delivering great results, and we believe our contribution will further strengthen the language's impact on the global tech community."*
 
-We are committed to making a positive difference and look forward to seeing the outcomes of this sponsorship.
+*"We are committed to making a positive difference and look forward to seeing the outcomes of this sponsorship."*
 
-We appreciate the opportunity to support the Rust Foundation and are excited about the positive change this donation will bring.
+*"We appreciate the opportunity to support the Rust Foundation and are excited about the positive change this donation will bring."*
 
 LambdaClass Founder, Federico Carrone, said the following about the donation:
 
