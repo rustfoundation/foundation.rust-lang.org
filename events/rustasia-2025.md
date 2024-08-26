@@ -5,9 +5,7 @@ description: >-
   connections, and community spirit throughout Asia.
 date: 2025-03-28T00:00:00Z
 tags:
-  - video
-  - live
-  - core team
+  - in-person
 layout: layouts/event.njk
 ---
 28 March 2025
