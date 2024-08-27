@@ -34,7 +34,7 @@ The report has been published one day prior to the official start of[RustConf](h
 
 *“Since the formation of the Rust Foundation in 2021, it has been thrilling to watch the Rust ecosystem continue to expand and evolve thanks to wide-ranging interest in the many benefits Rust has to offer – and the hard work of key maintainers.”* said Rust Foundation Director of Technology Joel Marcey. *“In recent months, the Rust Foundation has made impressive technical strides and developed new strategies to reinforce the safety, security, and longevity of the Rust programming language to meet this growing demand. The contents of our latest report paints a clear picture of the impact of our technical projects like the Security Initiative, Safety-Critical Rust Consortium, infrastructure and crates.io support, Interop Initiative, and much more. We are grateful to the many leaders in the Rust Project and our members and donors for their collaboration and support in these areas over the last six months.”*
 
-Further reflections from both Dr. Rebecca Rumbul and Joel Marcey can be found in [the report](https://foundation.rust-lang.org/static/publications/technology-report-2024.pdf).
+Further reflections from both Dr. Rebecca Rumbul and Joel Marcey can be found in [the report](https://foundation.rust-lang.org/static/publications/technology-report-2024.pdf "the report").
 
 &nbsp;
 
