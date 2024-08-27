@@ -42,7 +42,7 @@ Further reflections from both Dr. Rebecca Rumbul and Joel Marcey can be found in
 
 &nbsp;
 
-The Rust Foundation’s technical efforts are made stronger and more sustainable through diverse streams of funding, sponsorship, and support. The Foundation is actively seeking contributions from organizations to enable its vital work to continue into 2024 and beyond. Please contact the Rust Foundation to learn how you can support the efforts outlined in this latest report at [contact@rustfoundation.org](mailto:contact@rustfoundation.org).
+The Rust Foundation’s technical efforts are made stronger and more sustainable through diverse streams of funding, sponsorship, and support. The Foundation is actively seeking contributions from organizations to enable its vital work to continue into 2025 and beyond. Please contact the Rust Foundation to learn how you can support the efforts outlined in this latest report at [contact@rustfoundation.org](mailto:contact@rustfoundation.org).
 
 &nbsp;
 
