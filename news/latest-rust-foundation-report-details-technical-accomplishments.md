@@ -30,21 +30,15 @@ The Rust Foundation invites you to download its first comprehensive Technology R
 
 &nbsp;
 
-The report has been published one day prior to the official start of[RustConf](https://rustconf.com) – an annual conference dedicated to the Rust programming language community that is being hosted by the Rust Foundation for the first time in 2024. Rust Foundation Executive Director & CEO Rebecca Rumbul will deliver opening remarks at RustConf 2024 on Wednesday, September 11 and is expected to comment on the foundation’s latest publication onstage.<br>
+The report has been published one day prior to the official start of [RustConf](https://rustconf.com) – an annual conference dedicated to the Rust programming language community that is being hosted by the Rust Foundation for the first time in 2024. Rust Foundation Executive Director & CEO, Dr. Rebecca Rumbul will deliver opening remarks at RustConf 2024 on Wednesday, September 11 and is expected to comment on the foundation’s latest publication onstage.
 
 *“Since the formation of the Rust Foundation in 2021, it has been thrilling to watch the Rust ecosystem continue to expand and evolve thanks to wide-ranging interest in the many benefits Rust has to offer – and the hard work of key maintainers.”* said Rust Foundation Director of Technology Joel Marcey. *“In recent months, the Rust Foundation has made impressive technical strides and developed new strategies to reinforce the safety, security, and longevity of the Rust programming language to meet this growing demand. The contents of our latest report paints a clear picture of the impact of our technical projects like the Security Initiative, Safety-Critical Rust Consortium, infrastructure and crates.io support, Interop Initiative, and much more. We are grateful to the many leaders in the Rust Project and our members and donors for their collaboration and support in these areas over the last six months.”*
 
 Further reflections from both Dr. Rebecca Rumbul and Joel Marcey can be found in [the report](https://foundation.rust-lang.org/static/publications/technology-report-2024.pdf "the report").
 
-&nbsp;
-
 ### Supporting the Rust Foundation
 
-&nbsp;
-
 The Rust Foundation’s technical efforts are made stronger and more sustainable through diverse streams of funding, sponsorship, and support. The Foundation is actively seeking contributions from organizations to enable its vital work to continue into 2025 and beyond. Please contact the Rust Foundation to learn how you can support the efforts outlined in this latest report at [contact@rustfoundation.org](mailto:contact@rustfoundation.org).
-
-&nbsp;
 
 For more about the Rust Foundation and to stay up to date on our latest activities, visit our [website](https://foundation.rust-lang.org/) and follow us on [Twitter](https://twitter.com/rust_foundation) and [LinkedIn](https://www.linkedin.com/company/rust-foundation/).
 
@@ -54,6 +48,6 @@ The Rust Foundation is an independent non-profit organization dedicated to stewa
 
 ## Contacts
 
-Gracie Gregory, Director of Communications & Marketing graciegregory@rustfoundation.org
+Gracie Gregory, Director of Communications & Marketing graciegregory@rustfoundation.org.
 
 <br>
