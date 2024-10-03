@@ -50,7 +50,7 @@ These Fellowships will run for a period of 12 months, during which period Fellow
 <style>
 .details {
   text-align: left;
-  margin: 100px;
+  margin: min(100px, 10vw);
   }
 
 .details p {
