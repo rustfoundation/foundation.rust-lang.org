@@ -1,8 +1,10 @@
 ---
 title: Announcing the Rust Foundation’s 2024 Fellows
 byline: Rust Foundation Team
-description: The Rust Foundation is thrilled to introduce our 2024 Fellowship cohort
-date: 2024-10-14T12:00:00Z
+description: >-
+  The Rust Foundation is thrilled to introduce our 2024 Community Grants
+  Fellowship cohort.
+date: 2024-10-14T14:00:00Z
 tags:
   - announcement
   - foundation
