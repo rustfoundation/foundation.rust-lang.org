@@ -36,7 +36,7 @@ With a decade of experience in software engineering, I'm a Rust developer who lo
 
 As part of my Fellowship with the Rust Foundation, I will focus on organizing Rust boot camps and events in Ukraine to foster community engagement and education. Additionally, I will explore opportunities to integrate Rust into higher education curricula, aiming to broaden its adoption and usage among students and educators.
 
-### Mordecai (<a href="https://github.com/martcpp" target="_blank" rel="noopener">@martcpp</a>)
+### Mordecai Etukudo (<a href="https://github.com/martcpp" target="_blank" rel="noopener">@martcpp</a>)
 
 Mordecai, also known as Mart, is a software developer from Nigeria who has contributed to several open-source projects, including AI (MetaGPT) and others. He is a student at the University of Benin, studying Marine Engineering, focusing on autopilot systems and zero-knowledge proofs (ZKP) in the maritime sector.
 
@@ -68,15 +68,15 @@ Manuel Drehwald cares about High-Performance Computing, Scientific Computing, an
 
 During the first half of his Fellowship, Manuel will focus on enabling rustc to automatically differentiate Rust code (in the calculus sense). In the second half of his Fellowship, he will work on running Rust functions on GPUs. New LLVM features enable both projects and should support almost arbitrary Rust code, including std and no-std code, basic Rust types, user-defined types, and most dependencies from <a href="http://crates.io/" target="_blank" rel="noopener">crates.io</a>.
 
-### **Benno Lossin** <a href="https://github.com/y86-dev" target="_blank" rel="noopener">(@y86-dev</a>**)**
+### **Benno Lossin** ([@y86-dev](https://github.com/y86-dev)**)**
 
-I learned Rust in a university project in 2021; the expressive type system instantly hooked me. At the start of 2022, I noticed the Rust for Linux effort. After viewing the code, I was shocked to see that Mutexes and other kinds of locks needed to be initialized via \`unsafe\`. I then solved \[<a href="https://rust-for-linux.com/the-safe-pinned-initialization-problem" target="_blank" rel="noopener">The Safe Pinned Initialization Problem</a>\] by creating the \`pinned-init\` crate we still use today. Afterward, I continued reviewing code and contributing to various other areas. In 2023, I joined the core team of Rust for Linux, working on making Rust a first citizen language in the Linux kernel.
+I learned Rust in a university project in 2021; the expressive type system instantly hooked me. At the start of 2022, I noticed the Rust for Linux effort. After viewing the code, I was shocked to see that Mutexes and other kinds of locks needed to be initialized via *unsafe.* I then solved <a href="https://rust-for-linux.com/the-safe-pinned-initialization-problem" target="_blank" rel="noopener">The Safe Pinned Initialization Problem</a> by creating the [*pinned-init*](https://crates.io/crates/pinned-init) crate we still use today. Afterward, I continued reviewing code and contributing to various other areas. In 2023, I joined the core team of Rust for Linux, working on making Rust a first citizen language in the Linux kernel.
 
-I am primarily working on making Rust more ergonomic in the Linux kernel. I see great potential in adding \[Field Projections\] to the Rust language; they come up very often in Rust for Linux. In addition, they allow us to turn currently \`unsafe\` APIs into safe ones. I will be working on creating and implementing the RFC.
+I am primarily working on making Rust more ergonomic in the Linux kernel. I see great potential in adding [Field Projections](https://github.com/rust-lang/rfcs/pull/3318) to the Rust language; they come up very often in Rust for Linux. In addition, they allow us to turn currently *unsafe* APIs into safe ones. I will be working on creating and implementing the RFC.
 
 ### **binarycat (**<a href="https://github.com/lolbinarycat/" target="_blank" rel="noopener">@lolbinarycat</a>**)**
 
-I'm a self-taught programmer with experience in many high- and low-level languages. Most of my previous open source contributions have been to \`nixpkgs\`. I am working on improving the accessibility, discoverability, and ergonomics of rustdoc search.
+I'm a self-taught programmer with experience in many high- and low-level languages. Most of my previous open source contributions have been to *nixpkgs*. I am working on improving the accessibility, discoverability, and ergonomics of rustdoc search.
 
 ## Project Fellowships
 
@@ -108,13 +108,13 @@ During his Fellowship, Noah Lev is excited to continue his contributions to Rust
 
 Boxy is a compiler engineer who has been working on the Rust compiler since early 2021. Their work has largely focused on the type system, particularly const generics.
 
-As part of Boxy's fellowship, they will primarily work on stabilizing the \`adt\_const\_params\` feature and reworking the \`generic\_const\_exprs\` feature so that it can be stabilized at some point in the future. They will also help release new versions of Rust as part of the release team and introduce better documentation for how the type system is implemented in the compiler.
+As part of Boxy's fellowship, they will primarily work on stabilizing the *adt\_const\_params* feature and reworking the *generic\_const\_exprs* feature so that it can be stabilized at some point in the future. They will also help release new versions of Rust as part of the release team and introduce better documentation for how the type system is implemented in the compiler.
 
-### **Chen (**<a href="https://github.com/eth3lbert" target="_blank" rel="noopener">@eth3lbert</a>**)**
+### <a href="https://github.com/eth3lbert" target="_blank" rel="noopener">@eth3lbert</a>
 
-I'm the latest <a href="http://crates.io/" target="_blank" rel="noopener">crates.io</a> team member. My contributions have primarily focused on enhancing performance and the user experience on <a href="http://crates.io/" target="_blank" rel="noopener">crates.io</a>. Specifically, I've been working on optimizing the database queries that power <a href="http://crates.io/" target="_blank" rel="noopener">crates.io</a> and improving rendering times on the front end, which aims to reduce the load on the database and make the website faster for everyone.
+@eth3lbert is the newest member of the <a href="http://crates.io/" target="_blank" rel="noreferrer noopener">crates.io</a> team. His work primarily focuses on improving both performance and user experience for <a href="http://crates.io/" target="_blank" rel="noreferrer noopener">crates.io</a>. This includes optimizing database queries and improving rendering times, which makes the website faster for all users.
 
-The focus of my Fellowship year will be to support the implementation of pagination for the crate versions page. This will hopefully resolve the long loading issue caused by rendering for those crates with too many versions. Additionally, I will strive to optimize the search functionality and explore possible improvements to the search experience on <a href="http://crates.io/" target="_blank" rel="noopener">crates.io</a>. This could include incorporating additional metrics for crates and leveraging them to prioritize search results. Finally, I will continue assisting with other Rust-lang projects and contributing to other Rust-related projects whenever possible. Ref blog link: <a href="https://blog.rust-lang.org/2024/07/29/crates-io-development-update.html#database-performance-optimizations" target="_blank" rel="noopener">https://blog.rust-lang.org/2024/07/29/crates-io-development-update.html#database-performance-optimizations</a>
+The focus of @eth3lbert’s fellowship year will be implementing pagination for the crate versions page to address the long loading issue for crates with numerous versions; optimizing the search functionality and exploring possibilities to enhance the overall search experience on <a href="http://crates.io/" target="_blank" rel="noreferrer noopener">crates.io</a>; continuing to assist with other Rust-lang projects while contributing to other Rust-related projects whenever possible.
 
 ### **Rémy Rakic (**<a href="https://github.com/lqd" target="_blank" rel="noopener">@lqd</a>**)**
 
