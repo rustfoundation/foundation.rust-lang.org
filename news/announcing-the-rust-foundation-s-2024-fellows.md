@@ -34,9 +34,9 @@ His focus during the Fellowship year will be promoting Rust adoption in Nigeria 
 
 ### Kostiantyn Mysnyk (<a href="https://github.com/Wandalen" target="_blank" rel="noopener"><u>@Wandalen</u></a>)
 
-With a decade of experience in software engineering, I'm a Rust developer who loves to hammer out solutions with precision and efficiency. Known for my no-nonsense approach, I tackle challenges head-on and deliver rock-solid software. Whether coding or organizing community events, I bring a straightforward and impactful style to everything I do. I find great fulfillment in contributing to the global Rust community. By sharing knowledge and collaborating on innovative projects, I aim to enhance my skills while supporting the community's growth. My work is guided by a passion for creating value and building connections that make a meaningful impact. I'm an engineer at heart, passionate about crafting precise solutions in Rust. I also enjoy organizing community events that bring people together. By combining my technical skills with my organizational abilities, I aim to foster collaboration and advance the Rust community.
+Kostiantyn is a Rust developer who loves to hammer out solutions with precision and efficiency. Whether tackling code, educational systems, or organizing events, he focuses on creating value, sharing knowledge, and fostering collaboration to support the growth of the community. Passionate about both technical solutions and bringing people together, he aims to make a meaningful impact through his work and leadership in the Rust ecosystem.
 
-As part of my Fellowship with the Rust Foundation, I will focus on organizing Rust boot camps and events in Ukraine to foster community engagement and education. Additionally, I will explore opportunities to integrate Rust into higher education curricula, aiming to broaden its adoption and usage among students and educators.
+As part of his Fellowship with the Rust Foundation, he will focus on organizing Rust boot camps and events in Ukraine to promote community engagement and education. Additionally, he will explore opportunities to integrate Rust into higher education curricula, aiming to broaden its adoption and usage among students and educators.
 
 ### Mordecai Etukudo (<a href="https://github.com/martcpp" target="_blank" rel="noopener">@martcpp</a>)
 
