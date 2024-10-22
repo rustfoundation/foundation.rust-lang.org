@@ -1,8 +1,8 @@
 ---
 title: RustConf 2025
 description: >-
-  The Rust Foundation is thrilled to host RustConf 2025! Location to be
-  announced soon. 
+  The Rust Foundation is thrilled to host RustConf 2025 from September 2-5!
+  Location to be announced soon. 
 date: 2025-09-02T00:00:00Z
 tags:
   - live
