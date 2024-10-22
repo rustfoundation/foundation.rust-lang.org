@@ -9,3 +9,7 @@ tags:
 layout: layouts/event.njk
 ---
 The Rust Foundation is a proud Gold sponsor of RUSTAsia 2025.
+
+&nbsp;
+
+[https://rustasiaconf.com](https://rustasiaconf.com/)
