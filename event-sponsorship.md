@@ -31,6 +31,8 @@ templateClass: tmpl-info
   <br>
   <p><i>Applications are accepted on a rolling basis. We always aim to respond to application with a sponsorship decision as quickly as possible.</i></p></div></section>
   <br>
+   <section class="container event-sponsorship-details">
+    <div class="section" style="margin-top: 2em;">
   <h2>About Event Support Grants </h2>
-  <p> Rust Event Support Grants exist to support Rust-related events, both in-person and virtual, through awards ranging from $100-$500. These grants help provide financial support for individuals, groups, and organizations to help cover the costs they incur in running non-profit-making events that support the Rust community. Event Support Grants are intended to cover typical event expenses like space rental fees, travel costs, refreshments, swag, online event platform costs, etc.</p>
+  <p> Rust Event Support Grants exist to support Rust-related events, both in-person and virtual, through awards ranging from $100-$500. These grants help provide financial support for individuals, groups, and organizations to help cover the costs they incur in running non-profit-making events that support the Rust community. Event Support Grants are intended to cover typical event expenses like space rental fees, travel costs, refreshments, swag, online event platform costs, etc.</p></div></section>
   <br>
