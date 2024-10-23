@@ -15,7 +15,7 @@ tags:
 <p>Rust Event Support Grants exist to support Rust-related events, both in-person and virtual.</p>
 <br>
 <p>These grants help provide financial support for individuals, groups, and organizations to help cover the costs they incur in running non-profit-making events that support the Rust community.</p>
-<h3><center><a href="https://app.smarterselect.com/programs/80971-Rust-Foundation">>>Apply</a>
+<h3><center><a href="https://docs.google.com/forms/d/e/1FAIpQLSf8UfYBuHCWTORuo1bho54YG2D9sEy8a6DJIiLgBQDLUuMGzw/viewform">>>Apply</a>
 <br>
 <br>
 <hr>
