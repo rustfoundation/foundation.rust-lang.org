@@ -17,17 +17,15 @@ layout: layouts/news.njk
 
 Please join us in welcoming the following new Associate Member organizations to the Rust Foundation:
 
-### **CodeDay**
+### **[CodeDay](https://www.codeday.org/)**
 
-“CodeDay is a nonprofit which helps under-served students become contributors to open-source. We're excited to join the Rust Foundation and continue our work getting more students writing Rust and contributing to Rust projects!”
+“CodeDay is a nonprofit which helps under-served students become contributors to open-source. We're excited to join the Rust Foundation and continue our work getting more students writing Rust and contributing to Rust projects!” - Tyler Menezes, Executive Director, CodeDay
 
-\- Tyler Menezes, Executive Director, CodeDay
-
-### **OS-Sci**
+### **[OS-Sci](https://os-sci.com/)**
 
 “OpenSource Science wants to tie-up with the Rust Foundation, because we believe in everything free and open source. We are building a network to improve sustainability of FOSS technologies and the freedom of humanity. Software is having more and more impact on our daily lives and for that reason we need all FOSS communities to join in our global efforts.” - Erik Mols CEO/ Chancellor OpenSource Science B.V.
 
-### **PROMOTIC**
+### **[PROMOTIC](https://promotic-edu.org/en/)**
 
 “Joining the Rust Foundation is a significant step for PROMOTIC as we believe in the transformative potential of Rust to empower developers and industries across Africa. Our mission aligns with Rust’s principles of safety, performance, and concurrency, and we are excited to contribute to its growth in our region." - Evans Malick YEMEY, President, PROMOTIC
 
