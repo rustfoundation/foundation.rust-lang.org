@@ -25,7 +25,7 @@ Notable achievements included:
 * Awarding 19 new fellowships for 2024-25, and
 * The continued progression of the Rust Specification work.
 
-### Q3 Goals
+## Q3 Goals
 
 During the July 2024 Board Meeting, we set several ambitious goals for the third quarter. These included awarding and onboarding 2024 Fellows, organizing RustConf and associated events, including Rust Global, holding an in-person board meeting, defining the C++/Rust interop strategy, and implementing Foundation-driven malicious crate detection tooling in GCP. Substantial staff time was devoted to RustConf 2024 organization and Community Grants Fellowship Awards.
 
