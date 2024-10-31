@@ -17,7 +17,7 @@ I’m pleased to have a number of exciting achievements from the Foundation and 
 
 During the third quarter of 2024, the Rust Foundation achieved several significant milestones. The Foundation convened the first meeting of the [<u>Safety Critical Consortium</u>](https://foundation.rust-lang.org/news/announcing-the-safety-critical-rust-consortium/), establishing the scope and interest areas for this important initiative. Four new members joined the Foundation, and substantial progress was made in software supply chain engineering, including advancements in crate provenance tracking and agreement on using The Update Framework (TUF) for crate signing and mirroring.
 
-The Foundation's growing influence was reflected in 15 organic media mentions across global industry outlets. Staff actively engaged with the community through speaking engagements at significant events, including [RustConf](https://rustconf.com/),[<u>Rust Global</u>](https://rustconf.com/programs/#rust_global), [<u>Open Source Congress Beijing</u>](https://www.opensourcecongress.org/), and [<u>Open Source Summit Vienna</u>](https://osseu2024.sched.com/).
+The Foundation's growing influence was reflected in 15 organic media mentions across global industry outlets. Staff actively engaged with the community through speaking engagements at significant events, including [RustConf](https://rustconf.com/), [<u>Rust Global</u>](https://rustconf.com/programs/#rust_global), [<u>Open Source Congress Beijing</u>](https://www.opensourcecongress.org/), and [<u>Open Source Summit Vienna</u>](https://osseu2024.sched.com/).
 
 Notable achievements included:
 
