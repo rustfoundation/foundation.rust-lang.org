@@ -27,7 +27,7 @@ Please join us in welcoming the following new Associate Member organizations to 
 
 ### **[PROMOTIC](https://promotic-edu.org/en/)**
 
-“Joining the Rust Foundation is a significant step for PROMOTIC as we believe in the transformative potential of Rust to empower developers and industries across Africa. Our mission aligns with Rust’s principles of safety, performance, and concurrency, and we are excited to contribute to its growth in our region." - Evans Malick YEMEY, President, PROMOTIC
+“Joining the Rust Foundation is a significant step for PROMOTIC as we believe in the transformative potential of Rust to empower developers and industries across Africa. Our mission aligns with Rust’s principles of safety, performance, and concurrency, and we are excited to contribute to its growth in our region." - Yves Komlan YEME-KPONSOU _(Alias Malick Evans YEMEY)_, President, PROMOTIC
 
 The Rust Foundation thanks CodeDay, OS-Sci, and PROMOTIC for their membership, which will contribute to our continued stewardship of the Rust programming language ecosystem.
 
