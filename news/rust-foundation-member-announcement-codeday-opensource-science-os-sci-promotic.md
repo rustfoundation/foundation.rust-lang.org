@@ -6,28 +6,28 @@ byline: Rust Foundation Team
 description: >-
   Introducing new Rust Foundation Associate Members, CodeDay, OpenSource
   Science(OS-Sci), & PROMOTIC
-date: 2024-10-31T12:00:00Z
+date: 2024-11-04T12:00:00Z
 tags:
   - announcement
   - membership
 index: false
 layout: layouts/news.njk
 ---
-**DOVER, DELAWARE, October 31st, 2024**– [The Rust Foundation](https://rustfoundation.org/), an independent, nonprofit organization dedicated to advancing the performance, safety, and sustainability of the Rust programming language, is pleased to welcome three new member organizations at the Associate level. Rust Foundation members play an active role in the organization’s mission to steward the Rust programming language and its global community. These organizations have demonstrated their commitment to the health of Rust through their membership in the Rust Foundation.
+**DOVER, DELAWARE, November 4th, 2024**– [The Rust Foundation](https://rustfoundation.org/), an independent, nonprofit organization dedicated to advancing the performance, safety, and sustainability of the Rust programming language, is pleased to welcome three new member organizations at the Associate level. Rust Foundation members play an active role in the organization’s mission to steward the Rust programming language and its global community. These organizations have demonstrated their commitment to the health of Rust through their membership in the Rust Foundation.
 
 Please join us in welcoming the following new Associate Member organizations to the Rust Foundation:
 
-### **[CodeDay](https://www.codeday.org/)**
+### [**CodeDay**](https://www.codeday.org/)
 
 “CodeDay is a nonprofit which helps under-served students become contributors to open-source. We're excited to join the Rust Foundation and continue our work getting more students writing Rust and contributing to Rust projects!” - Tyler Menezes, Executive Director, CodeDay
 
-### **[OS-Sci](https://os-sci.com/)**
+### [**OS-Sci**](https://os-sci.com/)
 
 “OpenSource Science wants to tie-up with the Rust Foundation, because we believe in everything free and open source. We are building a network to improve sustainability of FOSS technologies and the freedom of humanity. Software is having more and more impact on our daily lives and for that reason we need all FOSS communities to join in our global efforts.” - Erik Mols CEO/ Chancellor OpenSource Science B.V.
 
-### **[PROMOTIC](https://promotic-edu.org/en/)**
+### [**PROMOTIC**](https://promotic-edu.org/en/)
 
-“Joining the Rust Foundation is a significant step for PROMOTIC as we believe in the transformative potential of Rust to empower developers and industries across Africa. Our mission aligns with Rust’s principles of safety, performance, and concurrency, and we are excited to contribute to its growth in our region." - Yves Komlan YEME-KPONSOU _(Alias Malick Evans YEMEY)_, President, PROMOTIC
+“Joining the Rust Foundation is a significant step for PROMOTIC as we believe in the transformative potential of Rust to empower developers and industries across Africa. Our mission aligns with Rust’s principles of safety, performance, and concurrency, and we are excited to contribute to its growth in our region." - Yves Komlan YEME-KPONSOU *(Alias Malick Evans YEMEY)*, President, PROMOTIC
 
 The Rust Foundation thanks CodeDay, OS-Sci, and PROMOTIC for their membership, which will contribute to our continued stewardship of the Rust programming language ecosystem.
 
