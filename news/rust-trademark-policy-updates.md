@@ -97,7 +97,7 @@ Although not everyone will align with the notion of trademarks in general, we ho
 
 In short, the central purpose of these updates is to empower all Rustaceans to engage with the Rust language ecosystem more confidently.
 
-## **<u>Final Step</u>**
+## **<u>Next Steps</u>**
 
 As a final step in this process, we invite you to review the updated policy and share any critical concerns you might have via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeU1Ocopa0v9UZn_ZSTkKQM7gqZIrt63lCFz-xtogcFHMtkAg/viewform?usp=sf_link). We will review any comments received through this form until 11:59pm PST November 20, 2024 and post the updated policy to the website after any changes have been made.
 
