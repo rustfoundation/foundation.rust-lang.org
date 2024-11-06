@@ -1,9 +1,7 @@
 ---
 title: Rust Trademark Policy Updates
 byline: Rust Foundation Team
-description: >-
-  Announcing the allocation of a recent $1M donation from Platinum Member
-  Microsoft to support Rust Foundation and Rust Project priorities . 
+description:
 date: 2024-11-06T12:00:00Z
 tags:
   - announcement
