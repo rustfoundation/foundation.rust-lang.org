@@ -11,7 +11,7 @@ layout: layouts/news.njk
 ---
 The Rust Foundation is pleased to announce that the Rust trademark policy has been updated and a [new draft](https://drive.google.com/file/d/1hjTx11Fb-4W7RQLmp3R8BLDACc7zxIpG/view?usp=sharing) is available to view.
 
-Since the open trademark policy draft consultation period in 2023, we have incorporated a number of suggestions from the Rust community into the policy. In light of the comments we received during this time, we wanted to take a moment to share some insights into the process of updating the policy in recent months, summarize the feedback trends we observed, emphasize a few key points, and invite you to share any blocking concerns about the newest version via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeU1Ocopa0v9UZn_ZSTkKQM7gqZIrt63lCFz-xtogcFHMtkAg/viewform?usp=sf_link).
+Since the open trademark policy draft consultation period in 2023, we have incorporated a number of suggestions from the Rust community into the policy. In light of the comments we received during this time, we wanted to take a moment to share some insights into the process of updating the policy in recent months, summarize the feedback trends we observed, emphasize a few key points, and invite you to share any blocking concerns about the newest version.
 
 We also encourage you to read the Leadership Council's comments on this development via Inside Rust: <a href="https://blog.rust-lang.org/2024/11/06/trademark-update.html" title="https://blog.rust-lang.org/2024/11/06/trademark-update.html" target="_blank" rel="noreferrer noopener">https://blog.rust-lang.org/2024/11/06/trademark-update.html</a>
 
