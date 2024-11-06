@@ -13,7 +13,7 @@ The Rust Foundation is pleased to announce that the Rust trademark policy has be
 
 Since the open trademark policy draft consultation period in 2023, we have incorporated a number of suggestions from the Rust community into the policy. In light of the comments we received during this time, we wanted to take a moment to share some insights into the process of updating the policy in recent months, summarize the feedback trends we observed, emphasize a few key points, and invite you to share any blocking concerns about the newest version.
 
-We also encourage you to read the Leadership Council's comments on this development via Inside Rust: <a href="https://blog.rust-lang.org/2024/11/06/trademark-update.html" title="https://blog.rust-lang.org/2024/11/06/trademark-update.html" target="_blank" rel="noreferrer noopener">https://blog.rust-lang.org/2024/11/06/trademark-update.html</a>
+We also encourage you to read the Leadership Council's comments on this development via the Rust blog: <a href="https://blog.rust-lang.org/2024/11/06/trademark-update.html" title="https://blog.rust-lang.org/2024/11/06/trademark-update.html" target="_blank" rel="noreferrer noopener">https://blog.rust-lang.org/2024/11/06/trademark-update.html</a>
 
 ## <u>Feedback Report</u>
 
@@ -103,7 +103,7 @@ As a final step in this process, we invite you to review the updated policy and 
 
 Thank you to everyone who weighed in with helpful suggestions on the initial trademark policy draft we shared. The level of engagement and passion within the Rust community is inspiring to all of us at the Rust Foundation.
 
-Inside Rust Blog: <a href="https://blog.rust-lang.org/2024/11/06/trademark-update.html" title="https://blog.rust-lang.org/2024/11/06/trademark-update.html" target="_blank" rel="noreferrer noopener">https://blog.rust-lang.org/2024/11/06/trademark-update.html</a>
+Rust Blog Post: <a href="https://blog.rust-lang.org/2024/11/06/trademark-update.html" title="https://blog.rust-lang.org/2024/11/06/trademark-update.html" target="_blank" rel="noreferrer noopener">https://blog.rust-lang.org/2024/11/06/trademark-update.html</a>
 
 New Draft: <u>https://drive.google.com/file/d/1hjTx11Fb-4W7RQLmp3R8BLDACc7zxIpG/view?usp=sharing</u>
 
