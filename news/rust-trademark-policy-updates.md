@@ -59,7 +59,7 @@ We recognize that because many months have passed since our last blog post on th
 
 Since then, we have consulted with our legal counsel and different groups within the Rust Project community. When we released the initial policy draft in 2023, the Leadership Council was not in place. It has been very helpful to consult with elected representatives of the diverse interests and perspectives of the Rust Project.
 
-In recent months, we have been consulting with the Rust Project representatives: the Leadership Council, our Project Directors, and other members of the Project who receive emails through [all@rust-lang.org](mailto:all@rust-lang.org). This mailing list is one of our main tools to reach the Rust Project. We appreciate the active participation of all the groups we consulted as well as the feedback shared by the wider community through our form.
+In recent months, we have been consulting with the Rust Project representatives: the Leadership Council, our Project Directors, and other individuals on the Rust Project email list. This mailing list is one of our main tools to reach the Rust Project. We appreciate the active participation of all the groups we consulted as well as the feedback shared by the wider community through our form.
 
 The Rust Foundation is committed to ensuring that the updated policy reflects the community’s values while providing guidance that helps foster an environment of collaboration and creativity. We appreciate your patience as we have worked diligently to craft a policy that addresses the valid critiques raised about the draft and our approach to disseminating it in the past.
 
