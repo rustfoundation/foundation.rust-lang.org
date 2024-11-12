@@ -25,7 +25,7 @@ This “Interop Initiative” was launched in February 2024 with a generous [$1M
 
 Under the guidance of [Jon Bauman](https://foundation.rust-lang.org/news/welcoming-rust-c-interoperability-engineer-jon-bauman-to-the-rust-foundation-team/), who joined as Rust-C++ Interoperability Engineer in June 2024, the Initiative proposes a collaborative, problem-space approach engaging key stakeholders from both language communities. Rather than prescribing specific solutions, this problem statement serves as a foundation for community input and participation in shaping both the strategic direction and tactical implementation of improved C++/Rust interoperability.
 
-[Read the Full C++/Rust Interoperability Problem Statement](https://github.com/rustfoundation/interop-initiative)
+[Read the Full C++/Rust Interoperability Problem Statement](https://github.com/rustfoundation/interop-initiative/blob/main/problem-statement.md)
 
 ## Get Involved
 
