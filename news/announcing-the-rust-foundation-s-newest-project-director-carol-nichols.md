@@ -11,7 +11,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-The Rust Foundation is thrilled to announce that [Carol Nichols](https://github.com/carols10cents) has been elected as the newest Rust Foundation Project Director. In this position, she will join incumbent Project Directors Ryan Levick, Scott McMurray, Jakub Degan, and Santiago Pastorino to serve on the Rust Foundation Board of Directors. Project Directors are elected by the entity they represent, which in the case of the Rust Project means they are elected by the Rust Leadership Council.
+The Rust Foundation is thrilled to announce that [Carol Nichols](https://github.com/carols10cents) has been elected as the newest Rust Foundation Project Director. In this position, she will join incumbent Project Directors Ryan Levick, Scott McMurray, Jakob Degan, and Santiago Pastorino to serve on the Rust Foundation Board of Directors. Project Directors are elected by the entity they represent, which in the case of the Rust Project means they are elected by the Rust Leadership Council.
 
 Carol is replacing Mark Rousskov who is stepping down after three years of committed work as a Project Director and Company Secretary. Mark has been a valued colleague on the board, and we are grateful to him for helping us advance the Foundation to where it is today.
 
