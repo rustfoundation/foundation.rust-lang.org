@@ -33,7 +33,7 @@ We welcome feedback on this problem statement and participation from the communi
 
 * Join the discussion in the [t-lang/interop](https://rust-lang.zulipchat.com/#narrow/stream/427678-t-lang.2Finterop) Zulip channel
 * Email your suggestions to [interop@rustfoundation.org]()
-* Follow the Rust Foundation blog for regular updates
+* Follow the [Rust Foundation blog](https://foundation.rust-lang.org/news/) for regular updates
 * Review and comment on the [full problem statement](https://github.com/rustfoundation/interop-initiative/blob/main/problem-statement.md)
 
 Progress updates will be shared through these channels and presented to the Rust Foundation board, which includes members of the Rust Project.
