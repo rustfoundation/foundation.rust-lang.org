@@ -6,13 +6,13 @@ byline: Rust Foundation Team
 description: >-
   The Rust Foundation is excited to support a new contest from AWS that
   endeavors to crowd-source the verification of the Rust standard libraries.
-date: 2024-11-14T15:00:00Z
+date: 2024-11-20T15:00:00Z
 tags:
   - foundation
 index: false
 layout: layouts/news.njk
 ---
-Today, Amazon Web Services (AWS) \[announced\](link) a collaborative initiative aimed at verifying the safety of the Rust standard libraries. The Rust Foundation has reviewed the plans behind this effort and is excited to serve as host!
+Today, Amazon Web Services (AWS) announced a collaborative initiative aimed at verifying the safety of the Rust standard libraries. The Rust Foundation has reviewed the plans behind this effort and is excited to serve as host!
 
 Although the Rust Programming language is designed to be both safe and efficient, these assurances do not apply to unsafe constructs. Currently, the Rust standard library contains approximately 35,000 functions, including 7,500 marked as unsafe, necessitating a focused effort to ensure their reliability and security.
 
@@ -36,7 +36,7 @@ The challenge rewards committee is responsible for reviewing activity and dispen
 
 AWS invites you to participate by solving challenges, introducing *new* challenges or tools, and/or helping review and refine the current processes.
 
-Challenge announcement from AWS: \{link\}
+Challenge announcement from AWS
 
 Associated GitHub Repository: [https://github.com/model-checking/verify-rust-std](https://github.com/model-checking/verify-rust-std)
 
