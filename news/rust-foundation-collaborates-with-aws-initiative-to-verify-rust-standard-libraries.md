@@ -12,7 +12,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-Today, Amazon Web Services (AWS) announced a collaborative initiative aimed at verifying the safety of the Rust standard libraries. The Rust Foundation has reviewed the plans behind this effort and is excited to serve as host!
+Today, Amazon Web Services (AWS) announced [a collaborative initiative](https://aws.amazon.com/blogs/opensource/verify-the-safety-of-the-rust-standard-library/) aimed at verifying the safety of the Rust standard libraries. The Rust Foundation has reviewed the plans behind this effort and is excited to serve as host!
 
 Although the Rust Programming language is designed to be both safe and efficient, these assurances do not apply to unsafe constructs. Currently, the Rust standard library contains approximately 35,000 functions, including 7,500 marked as unsafe, necessitating a focused effort to ensure their reliability and security.
 
@@ -36,7 +36,7 @@ The challenge rewards committee is responsible for reviewing activity and dispen
 
 AWS invites you to participate by solving challenges, introducing *new* challenges or tools, and/or helping review and refine the current processes.
 
-Challenge announcement from AWS
+Challenge announcement from AWS: [https://aws.amazon.com/blogs/opensource/verify-the-safety-of-the-rust-standard-library/](https://aws.amazon.com/blogs/opensource/verify-the-safety-of-the-rust-standard-library/)
 
 Associated GitHub Repository: [https://github.com/model-checking/verify-rust-std](https://github.com/model-checking/verify-rust-std)
 
