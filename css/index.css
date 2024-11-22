@@ -451,13 +451,6 @@ footer .container {
   width: 20em;
   display: inline-block;
   margin: 0.5em;
-}
-
-.memberslist li.goldmember {
-  position: relative;
-  background-size: cover;
-  background-position: center;
-  display: inline-block;
 } 
 
 .memberslist li.silvermember {
@@ -524,6 +517,10 @@ footer .container {
 
 .silvermember img {
   width: 10em;
+}
+  
+.goldmember img {
+  width: 15em;
 }
 
 .platinummember img {
