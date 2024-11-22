@@ -1,72 +1,80 @@
 <h2>Platinum</h2>
-<ul class="memberslist">
-    {% for member in memberslist %}
-        {% if member.data.level == "platinum" and member.data.status != "suspended" %}
-            {% if member.data.founder == "yes" %}
-                <li class="platinummember">
+{% if (memberslist | hasMembersAtLevel("platinum")) %}
+    <ul class="memberslist">
+        {% for member in memberslist %}
+            {% if member.data.level == "platinum" and member.data.status != "suspended" %}
+                {% if member.data.founder == "yes" %}
+                    <li class="platinummember">
+                        {% if member.data.logo %}
+                            <img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/>
+                            <a href="{{ member.data.url }}" rel="nofollow"><div style="background-image: url('/img/founding-member.png'" alt="Founding Member" class="founding"></div></a>
+                        {% endif %}
+                    </li>
+              {% else %}
+                    <li class="platinummember">
+                        {% if member.data.logo %}
+                            <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
+                        {% endif %}
+                    </li>
+              {% endif %}
+            {% endif %}
+        {% endfor %}
+    </ul>
+{% endif %}
+{% if (memberslist | hasMembersAtLevel("gold")) %}
+    <h2>Gold</h2>
+    <ul class="memberslist">
+        {% for member in memberslist %}
+            {% if member.data.level == "gold" and member.data.status != "suspended" %}
+                <li class="goldmember">
                     {% if member.data.logo %}
-                        <img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/>
-                        <a href="{{ member.data.url }}" rel="nofollow"><div style="background-image: url('/img/founding-member.png'" alt="Founding Member" class="founding"></div></a>
+                        <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
+                        {% if member.data.founder == "yes" %}
+                              <a href="{{ member.data.url }}" rel="nofollow">
+                                  <div style="background-image: url('/img/founding-member.png'" alt="Founding Member" class="founding">
+                                  </div>
+                              </a>
+                        {% endif %}
                     {% endif %}
                 </li>
-           {% else %}
-                <li class="platinummember">
+            {% endif %}
+        {% endfor %}
+    </ul>
+{% endif %}
+{% if (memberslist | hasMembersAtLevel("silver")) %}
+    <h2>Silver</h2>
+    <ul class="memberslist">
+        {% for member in memberslist %}
+            {% if member.data.level == "silver" and member.data.status != "suspended" %}
+                {% if member.data.founder == "yes" %}
+                    <li class="silvermember">
+                        {% if member.data.logo %}
+                            <img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/>
+                            <a href="{{ member.data.url }}" rel="nofollow"><div style="background-image: url('/img/founding-member.png'" alt="Founding Member" class="founding"></div></a>
+                        {% endif %}
+                    </li>
+              {% else %}
+                    <li class="silvermember">
+                        {% if member.data.logo %}
+                            <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
+                        {% endif %}
+                    </li>
+              {% endif %}
+            {% endif %}
+        {% endfor %}
+    </ul>
+{% endif %}
+{% if (memberslist | hasMembersAtLevel("associate")) %}
+    <h2>Associate</h2>
+    <ul class="memberslist">
+        {% for member in memberslist %}
+            {% if member.data.level == "associate" and member.data.status != "suspended" %}
+                <li class="associatemember">
                     {% if member.data.logo %}
                         <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
                     {% endif %}
                 </li>
-           {% endif %}
-        {% endif %}
-    {% endfor %}
-</ul>
-<h2>Gold</h2>
-<ul class="memberslist">
-    {% for member in memberslist %}
-        {% if member.data.level == "gold" and member.data.status != "suspended" %}
-            <li class="goldmember">
-                {% if member.data.logo %}
-                     <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
-                     {% if member.data.founder == "yes" %}
-                          <a href="{{ member.data.url }}" rel="nofollow">
-                              <div style="background-image: url('/img/founding-member.png'" alt="Founding Member" class="founding">
-                              </div>
-                          </a>
-                     {% endif %}
-                {% endif %}
-            </li>
-        {% endif %}
-    {% endfor %}
-</ul>
-<h2>Silver</h2>
-<ul class="memberslist">
-    {% for member in memberslist %}
-        {% if member.data.level == "silver" and member.data.status != "suspended" %}
-            {% if member.data.founder == "yes" %}
-                <li class="silvermember">
-                    {% if member.data.logo %}
-                        <img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/>
-                        <a href="{{ member.data.url }}" rel="nofollow"><div style="background-image: url('/img/founding-member.png'" alt="Founding Member" class="founding"></div></a>
-                    {% endif %}
-                </li>
-           {% else %}
-                <li class="silvermember">
-                    {% if member.data.logo %}
-                        <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
-                    {% endif %}
-                </li>
-           {% endif %}
-        {% endif %}
-    {% endfor %}
-</ul>
-<h2>Associate</h2>
-<ul class="memberslist">
-    {% for member in memberslist %}
-        {% if member.data.level == "associate" and member.data.status != "suspended" %}
-            <li class="associatemember">
-                {% if member.data.logo %}
-                    <a href="{{ member.data.url }}" rel="nofollow"><img src="{{ member.data.logo }}" alt="{{ member.data.name }}"/></a>
-                {% endif %}
-            </li>
-        {% endif %}
-    {% endfor %}
-</ul>
+            {% endif %}
+        {% endfor %}
+    </ul>
+{% endif %}
