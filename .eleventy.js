@@ -49,6 +49,15 @@ module.exports = function(eleventyConfig) {
     return new Date();
   });
 
+  eleventyConfig.addFilter("hasMembersAtLevel", function (memberslist, level) {
+    for (const member of memberslist) {
+      if (member.data.status !== "suspended" && member.data.level === level) {
+        return true;
+      }
+    }
+
+    return false;
+  });
 
   eleventyConfig.addCollection("tagList", function(collection) {
     let tagSet = new Set();

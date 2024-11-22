@@ -451,7 +451,7 @@ footer .container {
   width: 20em;
   display: inline-block;
   margin: 0.5em;
-}
+} 
 
 .memberslist li.goldmember {
   position: relative;
@@ -525,13 +525,13 @@ footer .container {
 .silvermember img {
   width: 10em;
 }
+  
+.goldmember img {
+  width: 15em;
+}
 
 .platinummember img {
   width: 20em;
-}
-
-.goldmember img {
-  width: 15em;
 }
 
 .donorslist {
