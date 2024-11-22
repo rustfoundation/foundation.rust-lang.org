@@ -1,5 +1,5 @@
 ---
-title: RustTechX Summit 2024 BOSCH
+title: 'RustTechX Summit 2024 BOSCH '
 description: >-
   RustTechX, is being organized by BOSCH, on November 28th at 3:30 PM IST (11:00
   AM CET). This summit is an incredible opportunity for presenters to showcase
