@@ -453,13 +453,6 @@ footer .container {
   margin: 0.5em;
 }
 
-.memberslist li.goldmember {
-  position: relative;
-  background-size: cover;
-  background-position: center;
-  display: inline-block;
-}
-
 .memberslist li.silvermember {
   position: relative;
   background-size: cover;
