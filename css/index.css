@@ -490,18 +490,6 @@ footer .container {
   width: 20em;
 }
 
-.memberslist .goldmember .founding {
-  position: absolute;
-  top: 0;
-  left: 0;
-  display: none;
-  background: white;
-  background-size: cover;
-  background-position: center;
-  height: 12em;
-  width: 15em;
-}
-
 .memberslist .silvermember .founding {
   position: absolute;
   top: 0;
