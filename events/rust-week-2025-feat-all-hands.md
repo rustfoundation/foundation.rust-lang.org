@@ -6,8 +6,8 @@ tags:
   - live
 layout: layouts/event.njk
 ---
-Rust Week 2025 is organized by Stichting Rust Nederland, [RustNL]() for short, and a team of organizers and volunteers.
+Rust Week 2025 is organized by Stichting Rust Nederland, <a href="https://rustnl.org/" target="_blank" rel="noopener">RustNL</a> for short, and a team of organizers and volunteers.
 
 The first two editions of the event RustNL 2023 (275 attendees) and RustNL 2024 (450) provided a stepping stone towards this year’s event: a full week of exciting Rust content and the first Rust project All Hands since 2019!
 
-Learn more here: [https://rustweek.org/]()
+Learn more here: <a href="https://rustweek.org/" target="_blank" rel="noopener">https://rustweek.org/</a>
