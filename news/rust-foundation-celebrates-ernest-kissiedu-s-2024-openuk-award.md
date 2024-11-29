@@ -8,7 +8,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-The Rust Foundation is thrilled to congratulate Ernest Kissiedu for receiving an [OpenUK Award](https://openuk.uk/awards/) this year. This award is a testament to his unwavering commitment not only to the Rust community, but also to global access to open source.
+### The Rust Foundation is thrilled to congratulate Ernest Kissiedu for receiving an [OpenUK Award](https://openuk.uk/awards/) this year — a testament to his unwavering commitment not only to the Rust community, but also to global access to open source.
 
 In addition to hosting various events and meetups for Rustaceans in London and working with fellow Rust event organizers all over the world, Ernest contributes to the Rust Foundation as our Global Rust Organizer.
 
@@ -26,4 +26,4 @@ Congratulations, Ernest!
 
 [*OpenUK*](https://openuk.uk/) *is the unique open tech industry body for the business of open technology in the UK. It spans the opens – software, hardware, data, standards and AI and is the convening point for the UK’s business, academic and contributing communities across open tech. Its work supports the UK’s journey to become “The State of Open”. The organization is run with the support of its volunteer community and their leadership in the tradition of open source delivering on three pillars: community, legal and policy and learning.*
 
-The "OpenUK Awards and Honours Lists" are part of a UK-focused open tech recognition program that spans software, hardware, data, and AI as well as the intersection of technology and business. [Learn more](https://openuk.uk/awards/).
+*The "OpenUK Awards and Honours Lists" are part of a UK-focused open tech recognition program that spans software, hardware, data, and AI as well as the intersection of technology and business.* [*Learn more*](https://openuk.uk/awards/)*.*
