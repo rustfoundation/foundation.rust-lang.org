@@ -2,8 +2,7 @@
 title: 'Supporting the Future of Rust: Spotlight on Teaching Initiatives'
 byline: Rust Foundation Team
 description: >-
-  Learn how Rust-Edu, teach-rs, and other educational initiatives are shaping
-  Rust's future in the classroom.
+  Learn how various educational initiatives are shaping the future of learning Rust.
 date: 2024-12-05T12:00:00Z
 tags:
   - announcement
@@ -19,7 +18,7 @@ Since the first stable version of Rust was released in 2015, the language has ex
 
 Rust learning resources come in many forms. Paid courses and bootcamps offer structured learning experiences, while free and open-source materials provide options for self-directed learners. Alongside these established channels, several teaching initiatives have emerged to help bring Rust into academic settings.
 
-In this post, the Rust Foundation is excited to highlight organizations and projects addressing the critical need for Rust training in academic settings. While these initiatives are just a few examples, they represent important steps in making Rust more accessible to students and educators.
+In this post, the Rust Foundation is excited to highlight several organizations and projects addressing the critical need for Rust training in academic settings. While these initiatives are just a few examples, they represent important steps in making Rust more accessible to students and educators.
 
 ## Spotlight on Educational Initiatives
 
@@ -55,11 +54,11 @@ Under the guidance of The Rust Foundation's Global Rust Coordinator and [<u>Rust
 
 The guide addresses key phases of Rust adoption, including curriculum assessment, course content design, teaching resource development, faculty training, and community integration.
 
-Designed to complement existing resources like Rust-Edu and teach-rs, it is a living document that welcomes [<u>contributions and improvements</u>](https://www.notion.so/Step-By-Step-Guide-To-Help-You-Implement-Rust-Effectively-In-Your-University-ab5cfd8df94a4ae0ac9d8bea9d38d2fe?pvs=4) from the broader Rust community.
+Designed to complement existing resources like Rust-Edu and teach-rs, this guide is a living document that welcomes [<u>contributions and improvements</u>](https://www.notion.so/Step-By-Step-Guide-To-Help-You-Implement-Rust-Effectively-In-Your-University-ab5cfd8df94a4ae0ac9d8bea9d38d2fe?pvs=4) from the broader Rust community.
 
 ## Growing the Rust Talent Pool Together
 
-The Rust Foundation's mission includes ensuring a healthy Rust ecosystem, which requires a growing pool of well-trained developers. The initiatives highlighted here show how our community is working to meet this need, creating new pathways for learning Rust.
+The Rust Foundation is dedicated to ensuring a healthy Rust ecosystem, which depends on a growing pool of well-trained developers to thrive. The initiatives highlighted here show how our community is working to meet this need, creating new pathways for learning Rust.
 
 As the Rust Foundation explores future training offerings, we look forward to following the evolution of projects like teach-rs, Rust-Edu, and Mordecai's Implementation Guide and their contributions to the ecosystem of Rust learning resources.
 
