@@ -1,6 +1,6 @@
 ---
 name: Eric Garcia
-title: Member Director, Meta
+title: Secretary, Member Director, Meta
 headshot: /img/headshot/eric.jpg
 showfourth: true
 ---
