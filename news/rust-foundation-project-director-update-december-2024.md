@@ -4,6 +4,7 @@ byline: Carol Nichols
 description: >-
   A new blog series initiated by Carol Nichols, one of our Project Directors
   representing the Rust Project on the Rust Foundation board. 
+
 date: 2024-12-17T12:00:00Z
 tags:
   - project directors
