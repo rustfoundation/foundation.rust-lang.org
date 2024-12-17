@@ -35,5 +35,3 @@ Ryan Levick gave the Project Director update, which included discussion of the P
 The main item of business in the meeting was discussion of [DARPA’s Translating All C To Rust (aka TRACTOR) program](https://www.darpa.mil/research/programs/translating-all-c-to-rust) and the Rust Foundation’s possible involvement in the evaluation portion of the contest. Us Project Directors have some questions and thoughts surrounding this contest, and we’re continuing these discussions with the rest of the board and the DARPA representative. No final decisions have been made; more details will be presented for the board’s approval in early 2025.
 
 That’s it for this month’s update! If you have any comments, questions, or suggestions, please email all of the project directors via project-directors at rust-lang.org or join us in [the \#foundation channel on the Rust Zulip](https://rust-lang.zulipchat.com/#narrow/channel/335408-foundation). Have a great holiday season; I’ll post again in 2025!
-
-&nbsp;
