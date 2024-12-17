@@ -4,11 +4,12 @@ byline: Carol Nichols
 description: >-
   A new blog series initiated by Carol Nichols, one of our Project Directors
   representing the Rust Project on the Rust Foundation board. 
-date: 2024-05-07T12:00:00Z
+
+date: 2024-12-17T12:00:00Z
 tags:
-  - announcement
+  - project directors
   - foundation
-index: false
+index: true
 layout: layouts/news.njk
 ---
 We're excited to share a new blog series initiated by [Carol Nichols](https://foundation.rust-lang.org/news/announcing-the-rust-foundation-s-newest-project-director-carol-nichols/), one of our Project Directors representing the Rust Project on the Rust Foundation board. This series aims to provide greater transparency and insight into the work of Project Directors and the Rust Foundation's activities. This inaugural post was originally published on the [Inside Rust Blog](https://blog.rust-lang.org/inside-rust/2024/12/17/project-director-update.html) and is being shared here to ensure broader reach across our community.
