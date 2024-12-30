@@ -13,7 +13,7 @@ layout: layouts/news.njk
 ---
 As 2024 comes to a close, the Rust Foundation is looking back on our significant progress over the past year in collaboration with our members and collaborators in the Rust community. From expanding our technology initiatives to welcoming new staff, project directors, and members and beyond, 2024 has been a year of significant growth and achievement.
 
-This blog serves as a brief reflection on the milestones we’ve reached and our many focus areas in 2024, offering a glimpse into the full details that will be available in our Annual Report, to be published in January 2025.
+This blog serves as a brief reflection on the milestones we’ve reached and our many focus areas in 2024 and gives our community a glimpse into our Annual Report, which will be published in January 2025.
 
 We are excited to share the impact we’ve made in fostering a secure, efficient, and collaborative Rust ecosystem with all of you.
 
@@ -60,7 +60,9 @@ Thank you to all our members for their support over the past year! We would part
 * PROMOTIC
 * OpenSource ScienceGlobal Community Spotlight
 
-The Rust Foundation views the global Rust community as the compass for everything we do. This year, we worked closely with Ernest Kissiedu, Global Rust Community Coordinator, to connect with underrepresented regions and build new leadership within the ecosystem. Initiatives like the Rust Foundation Community Grants Program and support for local events in regions such as Nigeria, India, and Latin America have been crucial in expanding Rust’s global presence.
+### Community Focus in 2024
+
+The Rust Foundation views the global Rust community as the compass for everything we do. This year, we worked closely with Ernest Kissiedu, Global Rust Community Coordinator, to connect with underrepresented regions and build new leadership within the ecosystem. Initiatives like the Rust Foundation Community Grants Program and support for local events in regions such as Nigeria, India, and Latin America have been crucial in expanding Rust’s global presence. We are not alone in recognizing the impact of Ernest's work in this area — learn all about his recent award from OpenUK [here](https://foundation.rust-lang.org/news/rust-foundation-celebrates-ernest-kissiedu-s-2024-openuk-award/)!
 
 We look forward to sharing vignettes from several such communities in the annual report and through a new community highlights blog series in 2025.
 
