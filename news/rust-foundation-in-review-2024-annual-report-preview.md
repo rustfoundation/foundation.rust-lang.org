@@ -7,7 +7,6 @@ description: >-
   collaborators in the Rust community.
 date: 2024-12-30T12:30:00Z
 tags:
-  - announcement
   - foundation
 index: false
 layout: layouts/news.njk
