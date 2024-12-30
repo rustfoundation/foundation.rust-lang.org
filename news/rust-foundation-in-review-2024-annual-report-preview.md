@@ -8,7 +8,7 @@ tags:
 index: false
 layout: layouts/news.njk
 ---
-As 2024 comes to a close, the Rust Foundation is looking back on our significant progress over the past year in collaboration with our members and collaborators in the Rust community. From expanding our technology initiatives to welcoming new staff, project directors, and members and beyond, 2024 has been a year of significant growth and achievement.
+As 2024 comes to a close, the Rust Foundation is looking back on our significant progress over the past year in collaboration with our members and collaborators in the Rust community. From expanding our technology initiatives to welcoming new staff, project directors, members and beyond, 2024 has been a year of significant growth and achievement.
 
 This blog serves as a brief reflection on the milestones we’ve reached and our many focus areas in 2024 and gives our community a glimpse into our Annual Report, which will be published in January 2025.
 
@@ -22,9 +22,9 @@ We are excited to share the impact we’ve made in fostering a secure, efficient
 
 In 2024, we celebrated numerous achievements, including:
 
-* Welcoming 15 new members.
+* Welcoming fifteen new members.
 * Raising significant funds in support of the Rust ecosystem.
-* Dispensing over $400k in grants for community growth.
+* Dispensing over $400K in grants for community growth.
 * Hosting 650 Rustaceans at RustConf 2024.
 * Launching new engineering initiatives focused on improving Rust’s performance and security.
 
@@ -61,7 +61,7 @@ Thank you to all our members for their support over the past year! We would part
 
 The Rust Foundation views the global Rust community as the compass for everything we do. This year, we worked closely with Ernest Kissiedu, Global Rust Community Coordinator, to connect with underrepresented regions and build new leadership within the ecosystem. Initiatives like the Rust Foundation Community Grants Program and support for local events in regions such as Nigeria, India, and Latin America have been crucial in expanding Rust’s global presence. We are not alone in recognizing the impact of Ernest's work in this area — learn all about his recent award from OpenUK [here](https://foundation.rust-lang.org/news/rust-foundation-celebrates-ernest-kissiedu-s-2024-openuk-award/)!
 
-We look forward to sharing vignettes from several such communities in the annual report and through a new community highlights blog series in 2025.
+We look forward to sharing vignettes from several such communities in the annual report and through a new Community Highlights blog series in 2025.
 
 ## 2024 Program Highlights
 
@@ -84,7 +84,7 @@ Special thanks to our sponsors, including Devolutions and Google, for making Rus
 
 As we look back on the achievements of 2024, we remain inspired by the hard work of Rust’s contributors, the support of our members, and the growing global community. From the Rust-C++ Interoperability Initiative to the Safety-Critical Rust Consortium, we are investing in Rust’s future—ensuring it remains a language of choice for secure, high-performance systems programming.
 
-The Rust Foundation is proud to have achieved so much in 2024 and look forward to continuing this journey with all of you in 2025, strengthening Rust’s place in the future of technology. In 2025, Rust will be celebrating its 10th anniversary – the Rust Foundation looks forward to commemorating this milestone by supporting [Rust Week and the Rust All-Hands](https://2025.rustweek.org/) where organizers of RustNL have anniversary celebrations planned. Stay tuned in 2025 for our own celebrations of Rust’s 10th birthday as well!
+The Rust Foundation is proud to have achieved so much in 2024 and look forward to continuing this journey with all of you in 2025, strengthening Rust’s place in the future of technology. In 2025, Rust will be celebrating its 10th anniversary – the Rust Foundation looks forward to commemorating this milestone by supporting [Rust Week and the Rust All-Hands](https://2025.rustweek.org/), where organizers of RustNL have anniversary celebrations planned. Stay tuned in 2025 for our own celebrations of Rust’s 10th birthday as well!
 
 If your organization is invested in the success and growth of the Rust programming language, we invite you to email us at [membership@rustfoundation.org](mailto:membership@rustfoundation.org) to discuss opportunities.
 
