@@ -1,5 +1,5 @@
 ---
-title: 'Rust Foundation in Review: 2024 Annual Report Preview'
+title: '2024 in Review: Rust Foundation Annual Report Preview'
 byline: Rebecca Rumbul, Executive Director & CEO of the Rust Foundation
 description: >-
   As 2024 comes to a close, the Rust Foundation is looking back on our
@@ -38,9 +38,28 @@ The past year has been a testament to the collective efforts of our global commu
 
 In 2024, we were proud to be supported by a diverse group of organizations, from our Platinum members (AWS, Google, Meta, Microsoft, and Huawei) to our wide and growing base of Silver members. Their commitment ensures that we can continue to invest in Rust’s future, from developing new tools and infrastructure to fostering a vibrant global community.
 
-Thank you to all our members, especially the 15 new members who joined the Foundation in 2024, for their support!
+Thank you to all our members for their support over the past year! We would particularly like to thank the following members who joined the Rust Foundation in 2024:
 
-## Global Community Spotlight
+### Silver:
+
+* Accelerant
+* Adorysys
+* Astral
+* Devolutions
+* Filecoin Foundation
+* Trace Machina
+* Veecle GmbH
+* Wyeworks
+* Zed
+
+### Associate:
+
+* OpenUK
+* ISCAS
+* RustNL
+* PUCPR
+* PROMOTIC
+* OpenSource ScienceGlobal Community Spotlight
 
 The Rust Foundation views the global Rust community as the compass for everything we do. This year, we worked closely with Ernest Kissiedu, Global Rust Community Coordinator, to connect with underrepresented regions and build new leadership within the ecosystem. Initiatives like the Rust Foundation Community Grants Program and support for local events in regions such as Nigeria, India, and Latin America have been crucial in expanding Rust’s global presence.
 
@@ -50,12 +69,12 @@ We look forward to sharing vignettes from several such communities in the annual
 
 In 2024, we launched and advanced several high-impact initiatives, including:
 
-* **Security Initiative & crates.io Support**: With funding from OpenSSF and AWS, the Rust Foundation bolstered Rust’s security with tools like **Typomania** and **Painter**, and conducted extensive crates security scanning, among many other crates.io-focused projects. We received a generous $430k in continued funding from Alpha-Omega for 2025 to continue our Security Initiative work.
-* **Community Grants Program**: We provided crucial funding and mentorship to contributors, ensuring the next generation of Rust maintainers and community leaders thrive.
-* **Safety-Critical Rust Consortium**: We brought together industry leaders to promote Rust’s role in safety-critical software applications.
-* **Rust-C++ Interoperability Initiative**: This two-year $1M initiative, supported by Platinum Member Google, is helping bridge the gap between Rust and C++, making it easier for developers to integrate Rust into existing codebases.
+* **Security Initiative & crates.io Support**: With funding from OpenSSF and AWS, the Rust Foundation bolstered Rust’s security with tools like [**Typomania**](https://github.com/rustfoundation/typomania) and [**Painter**](https://github.com/rustfoundation/painter), and conducted extensive crates security scanning, among many other crates.io-focused projects. We received a generous $430k in continued funding from Alpha-Omega for 2025 to continue our Security Initiative work this upcoming year.
+* **Community Grants Program**: We provided crucial funding and mentorship to contributors, ensuring the next generation of Rust maintainers and community leaders thrive. In October, we [announced](https://foundation.rust-lang.org/news/announcing-the-rust-foundation-s-2024-fellows/) the latest cohort of Rust Foundation Fellows: a talented group of maintainers who are receiving funding for their contributions to Rust.
+* [**Safety-Critical Rust Consortium**](https://foundation.rust-lang.org/news/announcing-the-safety-critical-rust-consortium/): We brought together industry leaders to promote Rust’s role in safety-critical software applications.
+* [**Rust-C++ Interoperability Initiative**](https://foundation.rust-lang.org/news/google-contributes-1m-to-rust-foundation-to-support-c-rust-interop-initiative/): This two-year $1M initiative, supported by Platinum Member Google, is helping bridge the gap between Rust and C++, making it easier for developers to integrate Rust into existing codebases.
 
-These initiatives directly support Rust’s sustainable growth and adoption across the world and many different applications in technology. We are thrilled to build on this work in the year ahead.
+These initiatives directly support Rust’s sustainable growth and adoption across the world and many different applications in technology. We are thrilled to build on this work in the year ahead!
 
 ## RustConf 2024: A Landmark Event
 
@@ -67,10 +86,10 @@ Special thanks to our sponsors, including Devolutions and Google, for making Rus
 
 As we look back on the achievements of 2024, we remain inspired by the hard work of Rust’s contributors, the support of our members, and the growing global community. From the Rust-C++ Interoperability Initiative to the Safety-Critical Rust Consortium, we are investing in Rust’s future—ensuring it remains a language of choice for secure, high-performance systems programming.
 
-The Rust Foundation is proud to have achieved so much in 2024 and look forward to continuing this journey with all of you in 2025, strengthening Rust’s place in the future of technology. In 2025, Rust will be celebrating its 10th anniversary – the Rust Foundation looks forward to commemorating this milestone by supporting Rust Week and the Rust All-Hands where organizers of RustNL have anniversary celebrations planned. Stay tuned in 2025 for our own celebrations of Rust’s 10th birthday as well!
+The Rust Foundation is proud to have achieved so much in 2024 and look forward to continuing this journey with all of you in 2025, strengthening Rust’s place in the future of technology. In 2025, Rust will be celebrating its 10th anniversary – the Rust Foundation looks forward to commemorating this milestone by supporting [Rust Week and the Rust All-Hands](https://2025.rustweek.org/) where organizers of RustNL have anniversary celebrations planned. Stay tuned in 2025 for our own celebrations of Rust’s 10th birthday as well!
 
 If your organization is invested in the success and growth of the Rust programming language, we invite you to email us at [membership@rustfoundation.org](mailto:membership@rustfoundation.org) to discuss opportunities.
 
-Please stay tuned to find our Q4 2024 recap blog with specific updates on our team’s focus areas between October and December and our detailed Annual Report in January 2025. The Annual Report will include detailed financial figures, including income and expenditure, and much more.
+Please stay tuned to find our Q4 2024 recap blog with specific updates on our team’s focus areas between October and December and our detailed Annual Report in January 2025. The Annual Report will include financial figures, including income and expenditure, and much more.
 
 &nbsp;
