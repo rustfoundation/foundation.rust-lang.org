@@ -1,10 +1,7 @@
 ---
 title: '2024 in Review: Rust Foundation Annual Report Preview'
 byline: Rebecca Rumbul, Executive Director & CEO of the Rust Foundation
-description: >-
-  As 2024 comes to a close, the Rust Foundation is looking back on our
-  significant progress over the past year in collaboration with our members and
-  collaborators in the Rust community.
+description:
 date: 2024-12-30T12:30:00Z
 tags:
   - foundation
