@@ -39,7 +39,7 @@ Thank you to all our members for their support over the past year! We would part
 ### Silver:
 
 * Accelerant
-* Adorysys
+* Adorsys
 * Astral
 * Devolutions
 * Filecoin Foundation
