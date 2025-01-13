@@ -17,7 +17,7 @@ Interested in hearing real-world stories about the successful use of Rust in pro
 
 &nbsp;
 
-Join us for a full day of content and new connections at the [TrueLayer](https://truelayer.com/) office where you’ll hear from a fantastic lineup of speakers including:
+Join us for a full day of new content and connections at the [TrueLayer](https://truelayer.com/) office where you’ll hear from a fantastic lineup of speakers including:
 
 * Chris Whealy: “Using Rust to interact with an SAP system using OData V2”
 * Alex Ene (Principal Engineer at Prime Video): “Rebuilding Prime Video UI with Rust and WebAssembly”
@@ -27,9 +27,9 @@ More speakers to be announced in the coming weeks.
 
 We have just 100 tickets ($20) available for Rust Global 2025: London – click [here](https://www.eventbrite.com/e/rust-global-2025-london-tickets-1106701787839) to claim a spot while you can!
 
-Rust Global is a new series of events from the Rust Foundation centered around discussing the use of the Rust programming language in global leadership and government settings. We held our most recent edition of Rust Global in Montreal, Canada alongside RustConf 2025. Rust Global where we welcomed 200 people.
+Rust Global is a new series of events from the Rust Foundation centered around discussing the use of the Rust programming language in global leadership and government settings. We held our most recent edition of Rust Global in Montreal, Canada alongside RustConf 2025, where we welcomed 200 people.
 
-To get a sense of the content to expect at Rust Global, you can watch recordings of our talks from the most recent Rust Global in Montreal here: [https://www.youtube.com/watch?v=1jGOoinjde4&list=PL2b0df3jKKiTUGpC0NPErQQbimjSMeDp6](https://www.youtube.com/watch?v=1jGOoinjde4&amp;list=PL2b0df3jKKiTUGpC0NPErQQbimjSMeDp6)
+To preview the type of content featured at Rust Global, check out the recordings from our recent event in Montreal here: [https://www.youtube.com/watch?v=1jGOoinjde4&list=PL2b0df3jKKiTUGpC0NPErQQbimjSMeDp6](https://www.youtube.com/watch?v=1jGOoinjde4&amp;list=PL2b0df3jKKiTUGpC0NPErQQbimjSMeDp6)
 
 We hope to see you this upcoming February!<br>
 
